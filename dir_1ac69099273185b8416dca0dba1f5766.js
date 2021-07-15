@@ -1,0 +1,35 @@
+var dir_1ac69099273185b8416dca0dba1f5766 =
+[
+    [ "attach.c", "email_2attach_8c.html", "email_2attach_8c" ],
+    [ "attach.h", "attach_8h.html", "attach_8h" ],
+    [ "body.c", "email_2body_8c.html", "email_2body_8c" ],
+    [ "body.h", "email_2body_8h.html", "email_2body_8h" ],
+    [ "content.h", "content_8h.html", [
+      [ "Content", "structContent.html", "structContent" ]
+    ] ],
+    [ "email.c", "email_2email_8c.html", "email_2email_8c" ],
+    [ "email.h", "email_8h.html", "email_8h" ],
+    [ "envelope.c", "email_2envelope_8c.html", "email_2envelope_8c" ],
+    [ "envelope.h", "envelope_8h.html", "envelope_8h" ],
+    [ "from.c", "from_8c.html", "from_8c" ],
+    [ "from.h", "from_8h.html", "from_8h" ],
+    [ "globals.c", "globals_8c.html", "globals_8c" ],
+    [ "globals.h", "globals_8h.html", "globals_8h" ],
+    [ "lib.h", "email_2lib_8h.html", null ],
+    [ "mime.c", "mime_8c.html", "mime_8c" ],
+    [ "mime.h", "mime_8h.html", "mime_8h" ],
+    [ "parameter.c", "parameter_8c.html", "parameter_8c" ],
+    [ "parameter.h", "parameter_8h.html", "parameter_8h" ],
+    [ "parse.c", "parse_8c.html", "parse_8c" ],
+    [ "parse.h", "parse_8h.html", "parse_8h" ],
+    [ "rfc2047.c", "rfc2047_8c.html", "rfc2047_8c" ],
+    [ "rfc2047.h", "rfc2047_8h.html", "rfc2047_8h" ],
+    [ "rfc2231.c", "rfc2231_8c.html", "rfc2231_8c" ],
+    [ "rfc2231.h", "rfc2231_8h.html", "rfc2231_8h" ],
+    [ "tags.c", "tags_8c.html", "tags_8c" ],
+    [ "tags.h", "tags_8h.html", "tags_8h" ],
+    [ "thread.c", "thread_8c.html", "thread_8c" ],
+    [ "thread.h", "thread_8h.html", "thread_8h" ],
+    [ "url.c", "url_8c.html", "url_8c" ],
+    [ "url.h", "url_8h.html", "url_8h" ]
+];

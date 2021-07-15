@@ -1,0 +1,28 @@
+var init_8c =
+[
+    [ "matches_ensure_morespace", "init_8c.html#a2f66c7c3b7477ce4c0654fa3bbf0ed90", null ],
+    [ "candidate", "init_8c.html#a0276a7834461e2059b10a3eacf693432", null ],
+    [ "complete_all_nm_tags", "init_8c.html#a60382d35e2f0edeb0b736323d76894fd", null ],
+    [ "execute_commands", "init_8c.html#a5c6987a6a83075ae55893a5dda1f9256", null ],
+    [ "find_cfg", "init_8c.html#af874e486033a00a683c182f0debd8c04", null ],
+    [ "getmailname", "init_8c.html#a0e6cd2649ac70cb4443c9d2c84452beb", null ],
+    [ "get_hostname", "init_8c.html#accd8fc806fe125319f45c8cde5b898db", null ],
+    [ "mutt_extract_token", "init_8c.html#a0c8965a76cc79c02268a42a859968bcb", null ],
+    [ "mutt_opts_free", "init_8c.html#aa49c5a3aa046da11a3df8924443c1732", null ],
+    [ "mutt_get_hook_type", "init_8c.html#a2b5a9a2f2f93e047f07ee4d095e39b3e", null ],
+    [ "mutt_init", "init_8c.html#aadc99134446d4162844e0a8d103df18b", null ],
+    [ "mutt_parse_rc_buffer", "init_8c.html#a2a463ed3c7fe921eb96c06d32c4ba0bc", null ],
+    [ "mutt_parse_rc_line", "init_8c.html#a136d8ba552e1a6f982e8349e0629ee8d", null ],
+    [ "mutt_query_variables", "init_8c.html#a77ec94a99800475c38871a7b67a43ecb", null ],
+    [ "mutt_command_complete", "init_8c.html#ad41f1b6fbd5aeeee1bfc56f620ff0f44", null ],
+    [ "mutt_label_complete", "init_8c.html#a5a8b0c83a6dcb7d57edae458041869ad", null ],
+    [ "mutt_nm_query_complete", "init_8c.html#a17d5ac51e166d61b729ebdd66cd25c88", null ],
+    [ "mutt_nm_tag_complete", "init_8c.html#a8f739fa0c68ded6e209f2ceccd9bcfdf", null ],
+    [ "mutt_var_value_complete", "init_8c.html#a173ae67a86a1c7bfc88e98a0edbe514f", null ],
+    [ "UserTyped", "init_8c.html#ab3ee96d7e971ed297da156ede55e8fc8", null ],
+    [ "NumMatched", "init_8c.html#af0b2139f9bc786e19a5df18e0f237496", null ],
+    [ "Completed", "init_8c.html#a09cd068e97f67161093c82dc09739727", null ],
+    [ "Matches", "init_8c.html#af0afb15323b78fadbc9b78ad59276997", null ],
+    [ "MatchesListsize", "init_8c.html#a0561fe78f1df9b54ad60ea0efb41d469", null ],
+    [ "nm_tags", "init_8c.html#a2a3ca0f0605ccecd37624b28ae01db16", null ]
+];

@@ -1,0 +1,25 @@
+var crypt_8c =
+[
+    [ "crypt_current_time", "crypt_8c.html#a05b285778a6dec28cc2fa123fd622a27", null ],
+    [ "crypt_forget_passphrase", "crypt_8c.html#a8a09719065d14c27701c998b48883ac4", null ],
+    [ "crypt_valid_passphrase", "crypt_8c.html#a4ee7f1419a7e39b0e9f1f9d550f4de43", null ],
+    [ "mutt_protect", "crypt_8c.html#afb7fbdc0157b9f7fd68b378232d554fc", null ],
+    [ "mutt_is_multipart_signed", "crypt_8c.html#a345fb1ff241b3fc778632947c2b08d37", null ],
+    [ "mutt_is_multipart_encrypted", "crypt_8c.html#a832e4b9f5a0e463876a3d8cfe852f12d", null ],
+    [ "mutt_is_valid_multipart_pgp_encrypted", "crypt_8c.html#a51806f872069460bb7f4fa16d1d92710", null ],
+    [ "mutt_is_malformed_multipart_pgp_encrypted", "crypt_8c.html#a9edb0262eaed7c522977a75b76c15770", null ],
+    [ "mutt_is_application_pgp", "crypt_8c.html#a159d0d34a10b662acb2cc80099e5ecc7", null ],
+    [ "mutt_is_application_smime", "crypt_8c.html#a4073ce5b5fcec6e245dbfa9369016b8e", null ],
+    [ "crypt_query", "crypt_8c.html#af4ab2e337a2477fba687b1f710aa7a61", null ],
+    [ "crypt_write_signed", "crypt_8c.html#a32cadd5ce0071d7f003dde3d80f52d5d", null ],
+    [ "crypt_convert_to_7bit", "crypt_8c.html#a7321a72cf7c00a3a126fdba74a648191", null ],
+    [ "crypt_extract_keys_from_messages", "crypt_8c.html#adffb5a3014f93e3f82de3964911041d0", null ],
+    [ "crypt_get_keys", "crypt_8c.html#a35eba8f2cd36c286f2226ff748ee63e6", null ],
+    [ "crypt_opportunistic_encrypt", "crypt_8c.html#a8ebc13a33b0dd650151d5b1b37cb99e4", null ],
+    [ "crypt_fetch_signatures", "crypt_8c.html#a3f891994e68f268a2b82c0e2e60bf079", null ],
+    [ "mutt_should_hide_protected_subject", "crypt_8c.html#a52c65477f5b80ad3dc8028663653771d", null ],
+    [ "mutt_protected_headers_handler", "crypt_8c.html#aced59da2579d14e9b136b372ce683bc5", null ],
+    [ "mutt_signed_handler", "crypt_8c.html#a3e7ec2b5bc58891704d4c49159cbef9a", null ],
+    [ "crypt_get_fingerprint_or_id", "crypt_8c.html#a0a1a629e56fca1dc19c84c5577cdbb9f", null ],
+    [ "crypt_is_numerical_keyid", "crypt_8c.html#a3230991ab72820135b5ba8fe94a5f43d", null ]
+];

@@ -1,0 +1,27 @@
+var buffer_8h =
+[
+    [ "Buffer", "structBuffer.html", "structBuffer" ],
+    [ "MoreArgs", "buffer_8h.html#a7d49d6e1f1a75e5c1ee281a8f8c242fa", null ],
+    [ "mutt_buffer_alloc", "buffer_8h.html#aeb44bf37d6efc639ddfa124637f61d84", null ],
+    [ "mutt_buffer_dealloc", "buffer_8h.html#a59b13bca38b1b314e2bc5ad142d2df49", null ],
+    [ "mutt_buffer_fix_dptr", "buffer_8h.html#aaf527dc112bbf3be87b21dd10d1b5b53", null ],
+    [ "mutt_buffer_init", "buffer_8h.html#ab807be90af362e2c91aa45993fda0d5d", null ],
+    [ "mutt_buffer_is_empty", "buffer_8h.html#a2d7c4a32422377609be66b0f620c4971", null ],
+    [ "mutt_buffer_len", "buffer_8h.html#a6929443fb5515bb2ab749f84769d9cc7", null ],
+    [ "mutt_buffer_make", "buffer_8h.html#a0242aaa9a400d0722a99828776c0403b", null ],
+    [ "mutt_buffer_reset", "buffer_8h.html#adb26acff5f6b9bb7c322669bcb7c48e3", null ],
+    [ "mutt_buffer_strdup", "buffer_8h.html#aa43f3cb9584746ca0cf6720ac1fc38e7", null ],
+    [ "mutt_buffer_seek", "buffer_8h.html#acc8e734c720c7ec2644d693702ec58e2", null ],
+    [ "mutt_buffer_addch", "buffer_8h.html#a819a9cb669c1a7e8e2218c672b794492", null ],
+    [ "mutt_buffer_addstr", "buffer_8h.html#a958e87c1ae9de976eb76f759dbaaa601", null ],
+    [ "mutt_buffer_addstr_n", "buffer_8h.html#a5e5f044f387e591627acfa6854416b71", null ],
+    [ "mutt_buffer_add_printf", "buffer_8h.html#ac151bca8b7bc6724124073e7b4a6a09f", null ],
+    [ "mutt_buffer_concat_path", "buffer_8h.html#affd1462724f24d56e9c928550fd903f6", null ],
+    [ "mutt_buffer_concatn_path", "buffer_8h.html#ab42fa4460631422ece5b13f2437e4ec0", null ],
+    [ "mutt_buffer_copy", "buffer_8h.html#ad070cb0d30bde9c0069f8c8e27ed89a8", null ],
+    [ "mutt_buffer_printf", "buffer_8h.html#ad057ee239ae5bcfd72cab3749036ab02", null ],
+    [ "mutt_buffer_strcpy", "buffer_8h.html#a4bcc481586ae3af02645b4e23e48e0d7", null ],
+    [ "mutt_buffer_strcpy_n", "buffer_8h.html#ae4b0e0b8586b9bde1186ff6c16acde86", null ],
+    [ "mutt_buffer_substrcpy", "buffer_8h.html#a8356dd9cbd5bf2e404ae50ff01d61300", null ],
+    [ "mutt_buffer_string", "buffer_8h.html#a4aca040fb75bc1dfc086cbfbf14ac8cd", null ]
+];

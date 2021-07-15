@@ -1,0 +1,27 @@
+var structMxOps =
+[
+    [ "type", "structMxOps.html#a7426508d3737f8021c01df861f58a997", null ],
+    [ "name", "structMxOps.html#add03949683c170dc70e02f24f201356d", null ],
+    [ "is_local", "structMxOps.html#a15a6d1b3b3a214b6e23a36e4b82e1353", null ],
+    [ "ac_owns_path", "structMxOps.html#a8036f191d1b0ace220c5a5ff52f609b4", null ],
+    [ "ac_add", "structMxOps.html#ac432a4900b0ca5a5ca2dc98319dbf737", null ],
+    [ "mbox_open", "structMxOps.html#ac504b1095f3ce15cae85466ab6c7bd45", null ],
+    [ "mbox_open_append", "structMxOps.html#af201c2c2f87a1253cbaf8ae24f062ef3", null ],
+    [ "mbox_check", "structMxOps.html#af72b7c6ef064d1ca86b71ac9aff3e875", null ],
+    [ "mbox_check_stats", "structMxOps.html#af807cc5fe2889a304182e99ec91f7e0c", null ],
+    [ "mbox_sync", "structMxOps.html#aebbfeec5651637ec053cc47b95c124af", null ],
+    [ "mbox_close", "structMxOps.html#ae97b81d5371def5f6f2e64544cdec5fc", null ],
+    [ "msg_open", "structMxOps.html#afae8d734bf2f05baf8b45eb69f23a2a8", null ],
+    [ "msg_open_new", "structMxOps.html#ada910d49b8f3d007c32aa8a4adc15637", null ],
+    [ "msg_commit", "structMxOps.html#ab59dadf81aec5575a1c690caa4822e37", null ],
+    [ "msg_close", "structMxOps.html#ad53e3df1ff124eea52bc0488915e9ae4", null ],
+    [ "msg_padding_size", "structMxOps.html#a784ae2e2b98208080a641974ce4df834", null ],
+    [ "msg_save_hcache", "structMxOps.html#a4c0ce9432905dfb3f6849c97ae504f84", null ],
+    [ "tags_edit", "structMxOps.html#a0e3f825e2d93106795c85d5df78874ea", null ],
+    [ "tags_commit", "structMxOps.html#a9e996b21c0a4d701020aa632ecc5ae82", null ],
+    [ "path_probe", "structMxOps.html#a625a6ea0abfdb6620542e26acc499177", null ],
+    [ "path_canon", "structMxOps.html#ad7d938f02ba15c08d45128bc2ca00e28", null ],
+    [ "path_pretty", "structMxOps.html#a3a85067a3d76652ec0014ce520c565db", null ],
+    [ "path_parent", "structMxOps.html#a0816dd26eb79c12783e9ac9e7b67ecd9", null ],
+    [ "path_is_empty", "structMxOps.html#a6ef058630b8418ae080d17762c26a75d", null ]
+];

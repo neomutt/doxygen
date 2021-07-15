@@ -1,0 +1,27 @@
+var structImapAccountData =
+[
+    [ "conn", "structImapAccountData.html#af7d73598916e5b0b789c78c904ff47a4", null ],
+    [ "recovering", "structImapAccountData.html#aed4131604e365b20fbfa5cc7e0cf88d8", null ],
+    [ "closing", "structImapAccountData.html#a7ed31d012f389db2e60adfe46c7b1622", null ],
+    [ "state", "structImapAccountData.html#aafe97c07683cbc20007c8dd315b2d19e", null ],
+    [ "status", "structImapAccountData.html#ac6488a600297eee1e5d203872e93f9d2", null ],
+    [ "capstr", "structImapAccountData.html#ac0c66b610779cc9411060acf5f2ce68d", null ],
+    [ "capabilities", "structImapAccountData.html#aa1ba7fde388cdd8e1133c1784e5ed4ea", null ],
+    [ "seqid", "structImapAccountData.html#a91de1ca6b20913cfe9ee5cc12ba56cb2", null ],
+    [ "seqno", "structImapAccountData.html#ae2c49c7d375308b199a53ec7a82a8cb3", null ],
+    [ "lastread", "structImapAccountData.html#a89ff311b312a9d0bc216d689161bf1a7", null ],
+    [ "buf", "structImapAccountData.html#ae2a1c679abb95b27819897b57ee436fd", null ],
+    [ "blen", "structImapAccountData.html#aaed384a49fa308902250d28b91b70c46", null ],
+    [ "unicode", "structImapAccountData.html#a9ce6191c36074e9613d78e22851119d0", null ],
+    [ "qresync", "structImapAccountData.html#a65af7d98fa8ec32e0ce94505f11c1802", null ],
+    [ "cmdresult", "structImapAccountData.html#a697298f1ba714ecf1915e9a28e6ce2ad", null ],
+    [ "cmds", "structImapAccountData.html#ac31a4b10e692f8fe76683195086b35b9", null ],
+    [ "cmdslots", "structImapAccountData.html#ae125c1635cc0a1106429a674225f8da6", null ],
+    [ "nextcmd", "structImapAccountData.html#aaf69f482c87523eb832135c2c23d3d3f", null ],
+    [ "lastcmd", "structImapAccountData.html#a70666035b6ee38f52c65c066080fe39d", null ],
+    [ "cmdbuf", "structImapAccountData.html#afd638dd8300b5defc46c07392d91b3b3", null ],
+    [ "delim", "structImapAccountData.html#a02bf8e48eeec528eadf8bd63a2cbb6b4", null ],
+    [ "mailbox", "structImapAccountData.html#ab08af69f675be131e1431c11bf6cf4f0", null ],
+    [ "prev_mailbox", "structImapAccountData.html#a1d1842d28b0455afee7ddd7f829f6c02", null ],
+    [ "account", "structImapAccountData.html#aad188b30be1c81436ca0e13d21e807d7", null ]
+];
