@@ -223,4 +223,4 @@ var menudata={children:[
 {text:"w",url:"globals_defs_w.html#index_w"}]}]}]},
 {text:"Libraries",url:"pages.html",children:[
 {text:"Libraries",url:"pages.html"}]},
-{text:"Modules",url:"modules.html"}]}
+{text:"APIs",url:"modules.html"}]}

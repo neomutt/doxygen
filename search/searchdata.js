@@ -39,7 +39,7 @@ var indexSectionLabels =
   6: "Enumerations",
   7: "Enumerator",
   8: "Macros",
-  9: "Modules",
+  9: "APIs",
   10: "Pages"
 };
 

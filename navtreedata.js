@@ -59,7 +59,7 @@ var NAVTREE =
       [ "SIDEBAR: Display the mailboxes in a side panel", "lib_sidebar.html", "lib_sidebar" ],
       [ "STORE: Key value store", "lib_store.html", "lib_store" ]
     ] ],
-    [ "Modules", "modules.html", "modules" ]
+    [ "APIs", "modules.html", "modules" ]
   ] ]
 ];
 
