@@ -9,15 +9,15 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 237.5)">
 <title>current_attachment</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-237.5 657,-237.5 657,4 -4,4"/>
-<!-- Node2737 -->
+<!-- Node2623 -->
 <g id="node1" class="node">
-<title>Node2737</title>
+<title>Node2623</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-98.5 0,-117.5 113,-117.5 113,-98.5 0,-98.5"/>
 <text text-anchor="middle" x="56.5" y="-105.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">current_attachment</text>
 </g>
-<!-- Node2738 -->
+<!-- Node2624 -->
 <g id="node2" class="node">
-<title>Node2738</title>
+<title>Node2624</title>
 <g id="a_node2"><a xlink:href="recvattach_8c.html#ad9fd4e0f66cfaae456b12604583b51de" target="_top" xlink:title="Extract PGP keys from attachments. ">
 <polygon fill="#ffffff" stroke="#000000" points="363.5,-203 363.5,-233 471.5,-233 471.5,-203 363.5,-203"/>
 <text text-anchor="start" x="371.5" y="-221" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">recvattach_extract</text>
@@ -25,30 +25,30 @@
 </a>
 </g>
 </g>
-<!-- Node2737&#45;&gt;Node2738 -->
+<!-- Node2623&#45;&gt;Node2624 -->
 <g id="edge1" class="edge">
-<title>Node2737&#45;&gt;Node2738</title>
+<title>Node2623&#45;&gt;Node2624</title>
 <path fill="none" stroke="#191970" d="M70.6718,-125.346C87.2664,-144.3004 116.6329,-173.8488 149,-188 218.5147,-218.3924 307.3753,-222.3553 363.3835,-221.1537"/>
 <polygon fill="#191970" stroke="#191970" points="73.3216,-123.0592 64.1754,-117.7115 67.9904,-127.5956 73.3216,-123.0592"/>
 </g>
-<!-- Node2739 -->
+<!-- Node2625 -->
 <g id="node3" class="node">
-<title>Node2739</title>
+<title>Node2625</title>
 <g id="a_node3"><a xlink:href="recvattach_8h.html#a5edc94d310a83795c8b872b724bc3e27" target="_top" xlink:title="Show the attachments in a Menu. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="525,-98.5 525,-117.5 653,-117.5 653,-98.5 525,-98.5"/>
 <text text-anchor="middle" x="589" y="-105.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">dlg_select_attachment</text>
 </a>
 </g>
 </g>
-<!-- Node2737&#45;&gt;Node2739 -->
+<!-- Node2623&#45;&gt;Node2625 -->
 <g id="edge12" class="edge">
-<title>Node2737&#45;&gt;Node2739</title>
+<title>Node2623&#45;&gt;Node2625</title>
 <path fill="none" stroke="#191970" d="M94.8269,-120.4555C170.8568,-143.3508 345.791,-186.9763 489,-155 521.2019,-147.8098 555.2741,-129.0649 574.1669,-117.5377"/>
 <polygon fill="#191970" stroke="#191970" points="95.7827,-117.0878 85.1961,-117.5057 93.7327,-123.7809 95.7827,-117.0878"/>
 </g>
-<!-- Node3304 -->
+<!-- Node3244 -->
 <g id="node4" class="node">
-<title>Node3304</title>
+<title>Node3244</title>
 <g id="a_node4"><a xlink:href="recvattach_8c.html#a60d9fc9257f39e8ba116b6e683e16fae" target="_top" xlink:title="Is the Attachment inline PGP? ">
 <polygon fill="#ffffff" stroke="#000000" points="355,-115 355,-145 480,-145 480,-115 355,-115"/>
 <text text-anchor="start" x="363" y="-133" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">recvattach_pgp_check</text>
@@ -56,90 +56,90 @@
 </a>
 </g>
 </g>
-<!-- Node2737&#45;&gt;Node3304 -->
+<!-- Node2623&#45;&gt;Node3244 -->
 <g id="edge3" class="edge">
-<title>Node2737&#45;&gt;Node3304</title>
+<title>Node2623&#45;&gt;Node3244</title>
 <path fill="none" stroke="#191970" d="M123.6313,-112.0911C189.8807,-116.1285 290.3646,-122.2521 354.9704,-126.1893"/>
 <polygon fill="#191970" stroke="#191970" points="123.4978,-108.5766 113.3034,-111.4617 123.0719,-115.5636 123.4978,-108.5766"/>
 </g>
-<!-- Node3024 -->
+<!-- Node2958 -->
 <g id="node5" class="node">
-<title>Node3024</title>
+<title>Node2958</title>
 <g id="a_node5"><a xlink:href="recvattach_8c.html#aaf526e8ee68249faedfcba0c417a0adc" target="_top" xlink:title="Edit the content type of an attachment. ">
 <polygon fill="#ffffff" stroke="#000000" points="149,-76.5 149,-95.5 310,-95.5 310,-76.5 149,-76.5"/>
 <text text-anchor="middle" x="229.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">recvattach_edit_content_type</text>
 </a>
 </g>
 </g>
-<!-- Node2737&#45;&gt;Node3024 -->
+<!-- Node2623&#45;&gt;Node2958 -->
 <g id="edge5" class="edge">
-<title>Node2737&#45;&gt;Node3024</title>
+<title>Node2623&#45;&gt;Node2958</title>
 <path fill="none" stroke="#191970" d="M123.3022,-99.5049C133.6125,-98.1938 144.3171,-96.8325 154.7869,-95.5011"/>
 <polygon fill="#191970" stroke="#191970" points="122.6252,-96.0627 113.1467,-100.7964 123.5083,-103.0068 122.6252,-96.0627"/>
 </g>
-<!-- Node2805 -->
+<!-- Node2727 -->
 <g id="node6" class="node">
-<title>Node2805</title>
+<title>Node2727</title>
 <g id="a_node6"><a xlink:href="recvattach_8c.html#a72c9e19b893d8d4afc5593d9d2b399ff" target="_top" xlink:title="Event loop for the Attachment menu. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="346,-38.5 346,-57.5 489,-57.5 489,-38.5 346,-38.5"/>
 <text text-anchor="middle" x="417.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_attach_display_loop</text>
 </a>
 </g>
 </g>
-<!-- Node2737&#45;&gt;Node2805 -->
+<!-- Node2623&#45;&gt;Node2727 -->
 <g id="edge9" class="edge">
-<title>Node2737&#45;&gt;Node2805</title>
+<title>Node2623&#45;&gt;Node2727</title>
 <path fill="none" stroke="#191970" d="M82.5322,-93.5342C100.6052,-84.2336 125.5567,-72.8348 149,-67 214.3007,-50.7473 291.0932,-46.7672 345.7876,-46.3954"/>
 <polygon fill="#191970" stroke="#191970" points="80.4596,-90.6706 73.2525,-98.4366 83.7294,-96.86 80.4596,-90.6706"/>
 </g>
-<!-- Node3305 -->
+<!-- Node3245 -->
 <g id="node7" class="node">
-<title>Node3305</title>
+<title>Node3245</title>
 <g id="a_node7"><a xlink:href="recvattach_8c.html#a5cf096fe71b24be736511d0f6291fe9b" target="_top" xlink:title="Close the tree of the current attachment. ">
 <polygon fill="#ffffff" stroke="#000000" points="183,-.5 183,-19.5 276,-19.5 276,-.5 183,-.5"/>
 <text text-anchor="middle" x="229.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">attach_collapse</text>
 </a>
 </g>
 </g>
-<!-- Node2737&#45;&gt;Node3305 -->
+<!-- Node2623&#45;&gt;Node3245 -->
 <g id="edge10" class="edge">
-<title>Node2737&#45;&gt;Node3305</title>
+<title>Node2623&#45;&gt;Node3245</title>
 <path fill="none" stroke="#191970" d="M73.0448,-91.4276C90.5353,-74.7588 119.6114,-49.384 149,-34 160.6284,-27.9129 174.0301,-23.1395 186.5209,-19.5085"/>
 <polygon fill="#191970" stroke="#191970" points="70.596,-88.9269 65.8643,-98.4064 75.4748,-93.9466 70.596,-88.9269"/>
 </g>
-<!-- Node2738&#45;&gt;Node2739 -->
+<!-- Node2624&#45;&gt;Node2625 -->
 <g id="edge2" class="edge">
-<title>Node2738&#45;&gt;Node2739</title>
+<title>Node2624&#45;&gt;Node2625</title>
 <path fill="none" stroke="#191970" d="M468.4838,-198.6732C475.5305,-195.4109 482.5549,-191.8285 489,-188 524.745,-166.767 561.6273,-133.8673 578.9123,-117.6748"/>
 <polygon fill="#191970" stroke="#191970" points="466.6364,-195.6636 458.9131,-202.9163 469.4736,-202.0629 466.6364,-195.6636"/>
 </g>
-<!-- Node3304&#45;&gt;Node2739 -->
+<!-- Node3244&#45;&gt;Node2625 -->
 <g id="edge4" class="edge">
-<title>Node3304&#45;&gt;Node2739</title>
+<title>Node3244&#45;&gt;Node2625</title>
 <path fill="none" stroke="#191970" d="M490.387,-120.6501C501.8837,-119.1753 513.6961,-117.66 524.9721,-116.2135"/>
 <polygon fill="#191970" stroke="#191970" points="489.8598,-117.1889 480.3864,-121.9329 490.7505,-124.132 489.8598,-117.1889"/>
 </g>
-<!-- Node3024&#45;&gt;Node2739 -->
+<!-- Node2958&#45;&gt;Node2625 -->
 <g id="edge8" class="edge">
-<title>Node3024&#45;&gt;Node2739</title>
+<title>Node2958&#45;&gt;Node2625</title>
 <path fill="none" stroke="#191970" d="M320.2362,-91.5527C384.016,-95.4558 467.7961,-100.5828 524.7464,-104.0679"/>
 <polygon fill="#191970" stroke="#191970" points="320.374,-88.0547 310.1788,-90.9372 319.9463,-95.0416 320.374,-88.0547"/>
 </g>
-<!-- Node3024&#45;&gt;Node2805 -->
+<!-- Node2958&#45;&gt;Node2727 -->
 <g id="edge6" class="edge">
-<title>Node3024&#45;&gt;Node2805</title>
+<title>Node2958&#45;&gt;Node2727</title>
 <path fill="none" stroke="#191970" d="M286.9365,-74.3905C313.6744,-68.986 345.0879,-62.6365 370.4008,-57.5201"/>
 <polygon fill="#191970" stroke="#191970" points="286.0487,-70.9991 276.9403,-76.411 287.4356,-77.8603 286.0487,-70.9991"/>
 </g>
-<!-- Node2805&#45;&gt;Node2739 -->
+<!-- Node2727&#45;&gt;Node2625 -->
 <g id="edge7" class="edge">
-<title>Node2805&#45;&gt;Node2739</title>
+<title>Node2727&#45;&gt;Node2625</title>
 <path fill="none" stroke="#191970" d="M455.952,-60.7364C466.6666,-64.3317 478.3004,-68.2788 489,-72 514.0962,-80.7281 542.5998,-91.0277 562.7369,-98.3693"/>
 <polygon fill="#191970" stroke="#191970" points="457.0175,-57.4023 446.4237,-57.5501 454.7974,-64.0409 457.0175,-57.4023"/>
 </g>
-<!-- Node3305&#45;&gt;Node2739 -->
+<!-- Node3245&#45;&gt;Node2625 -->
 <g id="edge11" class="edge">
-<title>Node3305&#45;&gt;Node2739</title>
+<title>Node3245&#45;&gt;Node2625</title>
 <path fill="none" stroke="#191970" d="M286.3687,-4.7892C340.3915,-1.9765 422.947,-3.3158 489,-29 528.386,-44.3149 564.6663,-80.7529 580.5507,-98.2693"/>
 <polygon fill="#191970" stroke="#191970" points="286.0694,-1.3007 276.2912,-5.3794 286.4787,-8.2887 286.0694,-1.3007"/>
 </g>

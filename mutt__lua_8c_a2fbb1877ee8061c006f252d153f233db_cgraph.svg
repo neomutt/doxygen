@@ -9,90 +9,90 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 194)">
 <title>mutt_lua_source_file</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-194 271,-194 271,4 -4,4"/>
-<!-- Node2356 -->
+<!-- Node2188 -->
 <g id="node1" class="node">
-<title>Node2356</title>
+<title>Node2188</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-76.5 0,-95.5 118,-95.5 118,-76.5 0,-76.5"/>
 <text text-anchor="middle" x="59" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_lua_source_file</text>
 </g>
-<!-- Node2357 -->
+<!-- Node2189 -->
 <g id="node2" class="node">
-<title>Node2357</title>
+<title>Node2189</title>
 <g id="a_node2"><a xlink:href="mutt__lua_8c.html#a5383cb18959ca91373948507ba24e7f4" target="_top" xlink:title="Initialise a Lua State. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="184,-170.5 184,-189.5 237,-189.5 237,-170.5 184,-170.5"/>
 <text text-anchor="middle" x="210.5" y="-177.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">lua_init</text>
 </a>
 </g>
 </g>
-<!-- Node2356&#45;&gt;Node2357 -->
+<!-- Node2188&#45;&gt;Node2189 -->
 <g id="edge1" class="edge">
-<title>Node2356&#45;&gt;Node2357</title>
+<title>Node2188&#45;&gt;Node2189</title>
 <path fill="none" stroke="#191970" d="M68.7155,-95.5812C85.0549,-111.2291 119.6315,-142.3871 154,-161 160.2363,-164.3774 167.1827,-167.3081 174.0121,-169.7893"/>
 <polygon fill="#191970" stroke="#191970" points="173.2437,-173.2238 183.8378,-173.1026 175.4804,-166.5907 173.2437,-173.2238"/>
 </g>
-<!-- Node2364 -->
+<!-- Node2196 -->
 <g id="node3" class="node">
-<title>Node2364</title>
+<title>Node2196</title>
 <g id="a_node3"><a xlink:href="init_8c.html#a0c8965a76cc79c02268a42a859968bcb" target="_top" xlink:title="Extract one token from a string. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="154,-114.5 154,-133.5 267,-133.5 267,-114.5 154,-114.5"/>
 <text text-anchor="middle" x="210.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_extract_token</text>
 </a>
 </g>
 </g>
-<!-- Node2356&#45;&gt;Node2364 -->
+<!-- Node2188&#45;&gt;Node2196 -->
 <g id="edge2" class="edge">
-<title>Node2356&#45;&gt;Node2364</title>
+<title>Node2188&#45;&gt;Node2196</title>
 <path fill="none" stroke="#191970" d="M97.2298,-95.589C117.1319,-100.5809 141.6567,-106.7324 162.7909,-112.0334"/>
 <polygon fill="#191970" stroke="#191970" points="161.994,-115.4418 172.5451,-114.4799 163.6971,-108.6521 161.994,-115.4418"/>
 </g>
-<!-- Node2416 -->
+<!-- Node2248 -->
 <g id="node4" class="node">
-<title>Node2416</title>
+<title>Node2248</title>
 <g id="a_node4"><a xlink:href="buffer_8c.html#ad057ee239ae5bcfd72cab3749036ab02" target="_top" xlink:title="Format a string overwriting a Buffer. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="158,-76.5 158,-95.5 263,-95.5 263,-76.5 158,-76.5"/>
 <text text-anchor="middle" x="210.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_buffer_printf</text>
 </a>
 </g>
 </g>
-<!-- Node2356&#45;&gt;Node2416 -->
+<!-- Node2188&#45;&gt;Node2248 -->
 <g id="edge4" class="edge">
-<title>Node2356&#45;&gt;Node2416</title>
+<title>Node2188&#45;&gt;Node2248</title>
 <path fill="none" stroke="#191970" d="M118.0077,-86C127.7505,-86 137.8823,-86 147.7138,-86"/>
 <polygon fill="#191970" stroke="#191970" points="147.8217,-89.5001 157.8216,-86 147.8216,-82.5001 147.8217,-89.5001"/>
 </g>
-<!-- Node2400 -->
+<!-- Node2232 -->
 <g id="node5" class="node">
-<title>Node2400</title>
+<title>Node2232</title>
 <g id="a_node5"><a xlink:href="mutt_2string_8c.html#ad20e00309de897a1e882fc7400335b83" target="_top" xlink:title="Copy a string into a buffer (guaranteeing NUL&#45;termination) ">
 <polygon fill="#ffffff" stroke="#000000" points="167.5,-38.5 167.5,-57.5 253.5,-57.5 253.5,-38.5 167.5,-38.5"/>
 <text text-anchor="middle" x="210.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_str_copy</text>
 </a>
 </g>
 </g>
-<!-- Node2356&#45;&gt;Node2400 -->
+<!-- Node2188&#45;&gt;Node2232 -->
 <g id="edge5" class="edge">
-<title>Node2356&#45;&gt;Node2400</title>
+<title>Node2188&#45;&gt;Node2232</title>
 <path fill="none" stroke="#191970" d="M97.2298,-76.411C117.1319,-71.4191 141.6567,-65.2676 162.7909,-59.9666"/>
 <polygon fill="#191970" stroke="#191970" points="163.6971,-63.3479 172.5451,-57.5201 161.994,-56.5582 163.6971,-63.3479"/>
 </g>
-<!-- Node2418 -->
+<!-- Node2250 -->
 <g id="node6" class="node">
-<title>Node2418</title>
+<title>Node2250</title>
 <g id="a_node6"><a xlink:href="muttlib_8c.html#a483f037de523c624d449b4296a3ddfb2" target="_top" xlink:title="Create the canonical path. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="156.5,-.5 156.5,-19.5 264.5,-19.5 264.5,-.5 156.5,-.5"/>
 <text text-anchor="middle" x="210.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_expand_path</text>
 </a>
 </g>
 </g>
-<!-- Node2356&#45;&gt;Node2418 -->
+<!-- Node2188&#45;&gt;Node2250 -->
 <g id="edge6" class="edge">
-<title>Node2356&#45;&gt;Node2418</title>
+<title>Node2188&#45;&gt;Node2250</title>
 <path fill="none" stroke="#191970" d="M72.9556,-76.3075C91.0246,-64.0727 123.7878,-42.9442 154,-29 158.6379,-26.8594 163.5878,-24.8379 168.557,-22.9692"/>
 <polygon fill="#191970" stroke="#191970" points="169.821,-26.2343 178.0596,-19.5727 167.465,-19.6427 169.821,-26.2343"/>
 </g>
-<!-- Node2364&#45;&gt;Node2364 -->
+<!-- Node2196&#45;&gt;Node2196 -->
 <g id="edge3" class="edge">
-<title>Node2364&#45;&gt;Node2364</title>
+<title>Node2196&#45;&gt;Node2196</title>
 <path fill="none" stroke="#191970" d="M187.3806,-133.7571C176.1334,-142.5653 183.8398,-152 210.5,-152 227.9957,-152 237.3288,-147.9368 238.4991,-142.6539"/>
 <polygon fill="#191970" stroke="#191970" points="241.4971,-140.8417 233.6194,-133.7571 235.3597,-144.208 241.4971,-140.8417"/>
 </g>

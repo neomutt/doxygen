@@ -9,54 +9,54 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 100)">
 <title>imap_path_status</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-100 267,-100 267,4 -4,4"/>
-<!-- Node46377 -->
+<!-- Node41920 -->
 <g id="node1" class="node">
-<title>Node46377</title>
+<title>Node41920</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-38.5 0,-57.5 104,-57.5 104,-38.5 0,-38.5"/>
 <text text-anchor="middle" x="52" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">imap_path_status</text>
 </g>
-<!-- Node46378 -->
+<!-- Node41921 -->
 <g id="node2" class="node">
-<title>Node46378</title>
+<title>Node41921</title>
 <g id="a_node2"><a xlink:href="imap_2lib_8h.html#ac9f5086daa8615bc5f01884b51053392" target="_top" xlink:title="Check permissions on an IMAP mailbox with a new connection. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="161.5,-76.5 161.5,-95.5 241.5,-95.5 241.5,-76.5 161.5,-76.5"/>
 <text text-anchor="middle" x="201.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">imap_access</text>
 </a>
 </g>
 </g>
-<!-- Node46377&#45;&gt;Node46378 -->
+<!-- Node41920&#45;&gt;Node41921 -->
 <g id="edge1" class="edge">
-<title>Node46377&#45;&gt;Node46378</title>
+<title>Node41920&#45;&gt;Node41921</title>
 <path fill="none" stroke="#191970" d="M99.6516,-60.1121C120.4726,-65.4044 144.5377,-71.5213 164.0461,-76.4799"/>
 <polygon fill="#191970" stroke="#191970" points="100.2792,-56.6604 89.7252,-57.589 98.5547,-63.4447 100.2792,-56.6604"/>
 </g>
-<!-- Node46589 -->
+<!-- Node42154 -->
 <g id="node3" class="node">
-<title>Node46589</title>
-<g id="a_node3"><a xlink:href="imap_8c.html#a49ced05770a208997c1580376dc4e380" target="_top" xlink:title="Is the mailbox empty &#45; Implements MxOps::path_is_empty() ">
+<title>Node42154</title>
+<g id="a_node3"><a xlink:href="group__mx__path__is__empty.html#ga49ced05770a208997c1580376dc4e380" target="_top" xlink:title="Is the mailbox empty &#45; Implements MxOps::path_is_empty() &#45;. ">
 <polygon fill="#ffffff" stroke="#000000" points="142,-38.5 142,-57.5 261,-57.5 261,-38.5 142,-38.5"/>
 <text text-anchor="middle" x="201.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">imap_path_is_empty</text>
 </a>
 </g>
 </g>
-<!-- Node46377&#45;&gt;Node46589 -->
+<!-- Node41920&#45;&gt;Node42154 -->
 <g id="edge2" class="edge">
-<title>Node46377&#45;&gt;Node46589</title>
+<title>Node41920&#45;&gt;Node42154</title>
 <path fill="none" stroke="#191970" d="M114.3996,-48C123.476,-48 132.8022,-48 141.8229,-48"/>
 <polygon fill="#191970" stroke="#191970" points="114.2879,-44.5001 104.2878,-48 114.2878,-51.5001 114.2879,-44.5001"/>
 </g>
-<!-- Node46590 -->
+<!-- Node42155 -->
 <g id="node4" class="node">
-<title>Node46590</title>
+<title>Node42155</title>
 <g id="a_node4"><a xlink:href="protos_8h.html#a42853d2d4da10271644dc7083ae1c453" target="_top" xlink:title="Return the number of postponed messages. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="140,-.5 140,-19.5 263,-19.5 263,-.5 140,-.5"/>
 <text text-anchor="middle" x="201.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_num_postponed</text>
 </a>
 </g>
 </g>
-<!-- Node46377&#45;&gt;Node46590 -->
+<!-- Node41920&#45;&gt;Node42155 -->
 <g id="edge3" class="edge">
-<title>Node46377&#45;&gt;Node46590</title>
+<title>Node41920&#45;&gt;Node42155</title>
 <path fill="none" stroke="#191970" d="M99.6516,-35.8879C120.4726,-30.5956 144.5377,-24.4787 164.0461,-19.5201"/>
 <polygon fill="#191970" stroke="#191970" points="98.5547,-32.5553 89.7252,-38.411 100.2792,-39.3396 98.5547,-32.5553"/>
 </g>

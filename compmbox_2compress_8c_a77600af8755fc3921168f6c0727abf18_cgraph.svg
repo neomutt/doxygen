@@ -9,84 +9,84 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 176)">
 <title>execute_command</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-176 299,-176 299,4 -4,4"/>
-<!-- Node758 -->
+<!-- Node785 -->
 <g id="node1" class="node">
-<title>Node758</title>
+<title>Node785</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-76.5 0,-95.5 110,-95.5 110,-76.5 0,-76.5"/>
 <text text-anchor="middle" x="55" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">execute_command</text>
 </g>
-<!-- Node759 -->
+<!-- Node786 -->
 <g id="node2" class="node">
-<title>Node759</title>
+<title>Node786</title>
 <g id="a_node2"><a xlink:href="signal_8c.html#aa6c49e5535cdffeffd2cd4eee28bc96b" target="_top" xlink:title="Block signals during critical operations. ">
 <polygon fill="#ffffff" stroke="#000000" points="175,-152.5 175,-171.5 266,-171.5 266,-152.5 175,-152.5"/>
 <text text-anchor="middle" x="220.5" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_sig_block</text>
 </a>
 </g>
 </g>
-<!-- Node758&#45;&gt;Node759 -->
+<!-- Node785&#45;&gt;Node786 -->
 <g id="edge1" class="edge">
-<title>Node758&#45;&gt;Node759</title>
+<title>Node785&#45;&gt;Node786</title>
 <path fill="none" stroke="#191970" d="M67.5589,-95.6507C84.4984,-108.2362 116.0112,-130.1563 146,-143 152.1005,-145.6128 158.6415,-147.9273 165.2217,-149.9609"/>
 <polygon fill="#191970" stroke="#191970" points="164.2653,-153.3277 174.8439,-152.7414 166.2086,-146.6028 164.2653,-153.3277"/>
 </g>
-<!-- Node760 -->
+<!-- Node787 -->
 <g id="node3" class="node">
-<title>Node760</title>
+<title>Node787</title>
 <g id="a_node3"><a xlink:href="compmbox_2compress_8c.html#abec93f40f46e453d46cb9d7181ae39f9" target="_top" xlink:title="Expand placeholders in command string. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="158,-114.5 158,-133.5 283,-133.5 283,-114.5 158,-114.5"/>
 <text text-anchor="middle" x="220.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">expand_command_str</text>
 </a>
 </g>
 </g>
-<!-- Node758&#45;&gt;Node760 -->
+<!-- Node785&#45;&gt;Node787 -->
 <g id="edge2" class="edge">
-<title>Node758&#45;&gt;Node760</title>
+<title>Node785&#45;&gt;Node787</title>
 <path fill="none" stroke="#191970" d="M96.7626,-95.589C118.7005,-100.6261 145.7803,-106.8438 169.008,-112.1771"/>
 <polygon fill="#191970" stroke="#191970" points="168.508,-115.6533 179.0377,-114.4799 170.0746,-108.8308 168.508,-115.6533"/>
 </g>
-<!-- Node830 -->
+<!-- Node857 -->
 <g id="node4" class="node">
-<title>Node830</title>
+<title>Node857</title>
 <g id="a_node4"><a xlink:href="protos_8h.html#aa1d4ad04b000036513ca3f741059942c" target="_top" xlink:title="Run an external command. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="180,-76.5 180,-95.5 261,-95.5 261,-76.5 180,-76.5"/>
 <text text-anchor="middle" x="220.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_system</text>
 </a>
 </g>
 </g>
-<!-- Node758&#45;&gt;Node830 -->
+<!-- Node785&#45;&gt;Node857 -->
 <g id="edge3" class="edge">
-<title>Node758&#45;&gt;Node830</title>
+<title>Node785&#45;&gt;Node857</title>
 <path fill="none" stroke="#191970" d="M110.1091,-86C129.3091,-86 150.7521,-86 169.5954,-86"/>
 <polygon fill="#191970" stroke="#191970" points="169.7657,-89.5001 179.7657,-86 169.7657,-82.5001 169.7657,-89.5001"/>
 </g>
-<!-- Node1653 -->
+<!-- Node1687 -->
 <g id="node5" class="node">
-<title>Node1653</title>
+<title>Node1687</title>
 <g id="a_node5"><a xlink:href="curs__lib_8c.html#ab6a61cdfcf8c2c73ee59381c79c79774" target="_top" xlink:title="Prompt the user to &#39;press any key&#39; and wait. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="146,-38.5 146,-57.5 295,-57.5 295,-38.5 146,-38.5"/>
 <text text-anchor="middle" x="220.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_any_key_to_continue</text>
 </a>
 </g>
 </g>
-<!-- Node758&#45;&gt;Node1653 -->
+<!-- Node785&#45;&gt;Node1687 -->
 <g id="edge4" class="edge">
-<title>Node758&#45;&gt;Node1653</title>
+<title>Node785&#45;&gt;Node1687</title>
 <path fill="none" stroke="#191970" d="M96.7626,-76.411C118.7005,-71.3739 145.7803,-65.1562 169.008,-59.8229"/>
 <polygon fill="#191970" stroke="#191970" points="170.0746,-63.1692 179.0377,-57.5201 168.508,-56.3467 170.0746,-63.1692"/>
 </g>
-<!-- Node2932 -->
+<!-- Node2791 -->
 <g id="node6" class="node">
-<title>Node2932</title>
+<title>Node2791</title>
 <g id="a_node6"><a xlink:href="signal_8c.html#aa9356c41baa1b35d3a7719f90570e6b7" target="_top" xlink:title="Restore previously blocked signals. ">
 <polygon fill="#ffffff" stroke="#000000" points="169,-.5 169,-19.5 272,-19.5 272,-.5 169,-.5"/>
 <text text-anchor="middle" x="220.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_sig_unblock</text>
 </a>
 </g>
 </g>
-<!-- Node758&#45;&gt;Node2932 -->
+<!-- Node785&#45;&gt;Node2791 -->
 <g id="edge5" class="edge">
-<title>Node758&#45;&gt;Node2932</title>
+<title>Node785&#45;&gt;Node2791</title>
 <path fill="none" stroke="#191970" d="M67.5589,-76.3493C84.4984,-63.7638 116.0112,-41.8437 146,-29 151.7171,-26.5515 157.821,-24.3648 163.9815,-22.4259"/>
 <polygon fill="#191970" stroke="#191970" points="165.0543,-25.7587 173.6615,-19.5808 163.0804,-19.0428 165.0543,-25.7587"/>
 </g>

@@ -9,54 +9,54 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 100)">
 <title>create_recipient_set</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-100 284,-100 284,4 -4,4"/>
-<!-- Node13117 -->
+<!-- Node13975 -->
 <g id="node1" class="node">
-<title>Node13117</title>
+<title>Node13975</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-38.5 0,-57.5 116,-57.5 116,-38.5 0,-38.5"/>
 <text text-anchor="middle" x="58" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">create_recipient_set</text>
 </g>
-<!-- Node13118 -->
+<!-- Node13976 -->
 <g id="node2" class="node">
-<title>Node13118</title>
+<title>Node13976</title>
 <g id="a_node2"><a xlink:href="crypt__gpgme_8c.html#a54ca8638b13c6da904a48009a8bba358" target="_top" xlink:title="Create a new GPGME context. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="152,-76.5 152,-95.5 280,-95.5 280,-76.5 152,-76.5"/>
 <text text-anchor="middle" x="216" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">create_gpgme_context</text>
 </a>
 </g>
 </g>
-<!-- Node13117&#45;&gt;Node13118 -->
+<!-- Node13975&#45;&gt;Node13976 -->
 <g id="edge1" class="edge">
-<title>Node13117&#45;&gt;Node13118</title>
+<title>Node13975&#45;&gt;Node13976</title>
 <path fill="none" stroke="#191970" d="M97.8701,-57.589C118.7199,-62.6035 144.4346,-68.7881 166.5429,-74.1053"/>
 <polygon fill="#191970" stroke="#191970" points="165.8754,-77.5445 176.4166,-76.4799 167.5123,-70.7385 165.8754,-77.5445"/>
 </g>
-<!-- Node13141 -->
+<!-- Node13999 -->
 <g id="node3" class="node">
-<title>Node13141</title>
+<title>Node13999</title>
 <g id="a_node3"><a xlink:href="memory_8c.html#af778eb8166966fc0666c64849f6c7c5b" target="_top" xlink:title="Resize a block of memory on the heap. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="161.5,-38.5 161.5,-57.5 270.5,-57.5 270.5,-38.5 161.5,-38.5"/>
 <text text-anchor="middle" x="216" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_mem_realloc</text>
 </a>
 </g>
 </g>
-<!-- Node13117&#45;&gt;Node13141 -->
+<!-- Node13975&#45;&gt;Node13999 -->
 <g id="edge2" class="edge">
-<title>Node13117&#45;&gt;Node13141</title>
+<title>Node13975&#45;&gt;Node13999</title>
 <path fill="none" stroke="#191970" d="M116.3845,-48C127.7389,-48 139.7042,-48 151.2495,-48"/>
 <polygon fill="#191970" stroke="#191970" points="151.2615,-51.5001 161.2614,-48 151.2614,-44.5001 151.2615,-51.5001"/>
 </g>
-<!-- Node13142 -->
+<!-- Node14000 -->
 <g id="node4" class="node">
-<title>Node13142</title>
+<title>Node14000</title>
 <g id="a_node4"><a xlink:href="crypt__gpgme_8c.html#ae29b7beb9bd3db9cd61fae682a2a4bf9" target="_top" xlink:title="Free a set of recipients. ">
 <polygon fill="#ffffff" stroke="#000000" points="164,-.5 164,-19.5 268,-19.5 268,-.5 164,-.5"/>
 <text text-anchor="middle" x="216" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">recipient_set_free</text>
 </a>
 </g>
 </g>
-<!-- Node13117&#45;&gt;Node13142 -->
+<!-- Node13975&#45;&gt;Node14000 -->
 <g id="edge3" class="edge">
-<title>Node13117&#45;&gt;Node13142</title>
+<title>Node13975&#45;&gt;Node14000</title>
 <path fill="none" stroke="#191970" d="M97.8701,-38.411C118.7199,-33.3965 144.4346,-27.2119 166.5429,-21.8947"/>
 <polygon fill="#191970" stroke="#191970" points="167.5123,-25.2615 176.4166,-19.5201 165.8754,-18.4555 167.5123,-25.2615"/>
 </g>

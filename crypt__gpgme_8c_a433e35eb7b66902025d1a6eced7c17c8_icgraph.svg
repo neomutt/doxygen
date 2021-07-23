@@ -9,75 +9,75 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 236.5)">
 <title>create_gpgme_data</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-236.5 408,-236.5 408,4 -4,4"/>
-<!-- Node7503 -->
+<!-- Node8205 -->
 <g id="node1" class="node">
-<title>Node7503</title>
+<title>Node8205</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-118 0,-137 113,-137 113,-118 0,-118"/>
 <text text-anchor="middle" x="56.5" y="-125" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">create_gpgme_data</text>
 </g>
-<!-- Node7504 -->
+<!-- Node8206 -->
 <g id="node2" class="node">
-<title>Node7504</title>
+<title>Node8206</title>
 <g id="a_node2"><a xlink:href="crypt__gpgme_8c.html#a5f88576e041b52a5e0196a77d808ad74" target="_top" xlink:title="Create GPGME object from the mail body. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="156.5,-213 156.5,-232 274.5,-232 274.5,-213 156.5,-213"/>
 <text text-anchor="middle" x="215.5" y="-220" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">body_to_data_object</text>
 </a>
 </g>
 </g>
-<!-- Node7503&#45;&gt;Node7504 -->
+<!-- Node8205&#45;&gt;Node8206 -->
 <g id="edge1" class="edge">
-<title>Node7503&#45;&gt;Node7504</title>
+<title>Node8205&#45;&gt;Node8206</title>
 <path fill="none" stroke="#191970" d="M74.6999,-144.2195C92.5458,-159.9209 121.0678,-183.2223 149,-198.5 159.5531,-204.2721 171.7718,-209.142 182.8343,-212.9546"/>
 <polygon fill="#191970" stroke="#191970" points="76.6319,-141.2516 66.8462,-137.1906 71.9636,-146.4676 76.6319,-141.2516"/>
 </g>
-<!-- Node7505 -->
+<!-- Node8207 -->
 <g id="node3" class="node">
-<title>Node7505</title>
+<title>Node8207</title>
 <g id="a_node3"><a xlink:href="crypt__gpgme_8c.html#a93c5f228bb32a579b45887c66df5b8dd" target="_top" xlink:title="Sign a message. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="318,-194 318,-213 404,-213 404,-194 318,-194"/>
 <text text-anchor="middle" x="361" y="-201" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">sign_message</text>
 </a>
 </g>
 </g>
-<!-- Node7503&#45;&gt;Node7505 -->
+<!-- Node8205&#45;&gt;Node8207 -->
 <g id="edge4" class="edge">
-<title>Node7503&#45;&gt;Node7505</title>
+<title>Node8205&#45;&gt;Node8207</title>
 <path fill="none" stroke="#191970" d="M85.5967,-141.3211C103.5343,-149.368 127.2015,-159.1472 149,-165.5 206.2585,-182.1869 274.4633,-192.8315 317.7472,-198.4854"/>
 <polygon fill="#191970" stroke="#191970" points="86.8194,-138.0318 76.2691,-137.0616 83.9116,-144.3993 86.8194,-138.0318"/>
 </g>
-<!-- Node8069 -->
+<!-- Node8825 -->
 <g id="node4" class="node">
-<title>Node8069</title>
+<title>Node8825</title>
 <g id="a_node4"><a xlink:href="crypt__gpgme_8c.html#ae42a1cf42ee414b6492aab77874a842c" target="_top" xlink:title="Encrypt the GPGPME data object. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="151.5,-137 151.5,-156 279.5,-156 279.5,-137 151.5,-137"/>
 <text text-anchor="middle" x="215.5" y="-144" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">encrypt_gpgme_object</text>
 </a>
 </g>
 </g>
-<!-- Node7503&#45;&gt;Node8069 -->
+<!-- Node8205&#45;&gt;Node8825 -->
 <g id="edge3" class="edge">
-<title>Node7503&#45;&gt;Node8069</title>
+<title>Node8205&#45;&gt;Node8825</title>
 <path fill="none" stroke="#191970" d="M123.0397,-135.4513C132.3998,-136.5698 142.0062,-137.7177 151.3209,-138.8308"/>
 <polygon fill="#191970" stroke="#191970" points="123.3498,-131.9635 113.0051,-134.2522 122.5192,-138.9141 123.3498,-131.9635"/>
 </g>
-<!-- Node7802 -->
+<!-- Node8548 -->
 <g id="node5" class="node">
-<title>Node7802</title>
+<title>Node8548</title>
 <g id="a_node5"><a xlink:href="crypt__gpgme_8c.html#a06057059d161b58e6b17c6b00fe54ab6" target="_top" xlink:title="Decrypt a PGP or SMIME message. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="176.5,-99 176.5,-118 254.5,-118 254.5,-99 176.5,-99"/>
 <text text-anchor="middle" x="215.5" y="-106" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">decrypt_part</text>
 </a>
 </g>
 </g>
-<!-- Node7503&#45;&gt;Node7802 -->
+<!-- Node8205&#45;&gt;Node8548 -->
 <g id="edge5" class="edge">
-<title>Node7503&#45;&gt;Node7802</title>
+<title>Node8205&#45;&gt;Node8548</title>
 <path fill="none" stroke="#191970" d="M122.9408,-119.5605C141.0416,-117.3976 160.0709,-115.1236 176.136,-113.2039"/>
 <polygon fill="#191970" stroke="#191970" points="122.5192,-116.0859 113.0051,-120.7478 123.3498,-123.0365 122.5192,-116.0859"/>
 </g>
-<!-- Node8070 -->
+<!-- Node8826 -->
 <g id="node6" class="node">
-<title>Node8070</title>
+<title>Node8826</title>
 <g id="a_node6"><a xlink:href="crypt__gpgme_8h.html#af9f3a30e035954c5624c3d673819a597" target="_top" xlink:title="Implements CryptModuleSpecs::application_handler() ">
 <polygon fill="#ffffff" stroke="#000000" points="149,-49.5 149,-79.5 282,-79.5 282,-49.5 149,-49.5"/>
 <text text-anchor="start" x="157" y="-67.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pgp_gpgme_application</text>
@@ -85,15 +85,15 @@
 </a>
 </g>
 </g>
-<!-- Node7503&#45;&gt;Node8070 -->
+<!-- Node8205&#45;&gt;Node8826 -->
 <g id="edge6" class="edge">
-<title>Node7503&#45;&gt;Node8070</title>
+<title>Node8205&#45;&gt;Node8826</title>
 <path fill="none" stroke="#191970" d="M88.5637,-114.0494C106.322,-106.6701 128.8242,-97.4346 149,-89.5 157.3792,-86.2047 166.387,-82.7559 174.9835,-79.5091"/>
 <polygon fill="#191970" stroke="#191970" points="87.1155,-110.861 79.2309,-117.938 89.8078,-117.3226 87.1155,-110.861"/>
 </g>
-<!-- Node7821 -->
+<!-- Node8567 -->
 <g id="node7" class="node">
-<title>Node7821</title>
+<title>Node8567</title>
 <g id="a_node7"><a xlink:href="crypt__gpgme_8h.html#ab3031c1c6cd431efc8fc3b90607c042d" target="_top" xlink:title="Implements CryptModuleSpecs::pgp_make_key_attachment() ">
 <polygon fill="#ffffff" stroke="#000000" points="150.5,-.5 150.5,-30.5 280.5,-30.5 280.5,-.5 150.5,-.5"/>
 <text text-anchor="start" x="158.5" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pgp_gpgme_make_key</text>
@@ -101,15 +101,15 @@
 </a>
 </g>
 </g>
-<!-- Node7503&#45;&gt;Node7821 -->
+<!-- Node8205&#45;&gt;Node8567 -->
 <g id="edge7" class="edge">
-<title>Node7503&#45;&gt;Node7821</title>
+<title>Node8205&#45;&gt;Node8567</title>
 <path fill="none" stroke="#191970" d="M71.1258,-110.1094C88.1311,-90.8287 117.8679,-59.8962 149,-40.5 154.967,-36.7824 161.5737,-33.4808 168.2393,-30.5944"/>
 <polygon fill="#191970" stroke="#191970" points="68.3441,-107.9753 64.4496,-117.8284 73.6386,-112.5545 68.3441,-107.9753"/>
 </g>
-<!-- Node7504&#45;&gt;Node7505 -->
+<!-- Node8206&#45;&gt;Node8207 -->
 <g id="edge2" class="edge">
-<title>Node7504&#45;&gt;Node7505</title>
+<title>Node8206&#45;&gt;Node8207</title>
 <path fill="none" stroke="#191970" d="M284.6064,-213.4758C295.9681,-211.9921 307.4486,-210.493 317.9358,-209.1235"/>
 <polygon fill="#191970" stroke="#191970" points="284.143,-210.0065 274.6804,-214.772 285.0495,-216.9476 284.143,-210.0065"/>
 </g>

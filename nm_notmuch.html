@@ -32,7 +32,7 @@
   <td id="projectalign" style="padding-left: 0.5em;">
    <a style="color: black; text-decoration: none;" href="https://neomutt.org">
    <div id="projectname">NeoMutt
-   &#160;<span id="projectnumber">2021-02-05-584-gb5c7a7</span>
+   &#160;<span id="projectnumber">2021-02-05-647-g5d4e00</span>
    </div>
    <div id="projectbrief">Teaching an old dog new tricks</div>
    </a>
@@ -95,29 +95,15 @@ $(document).ready(function(){initNavTree('nm_notmuch.html','');});
 <tr>
 <th align="left">Data </th><th align="left">Description  </th></tr>
 <tr>
-<td align="left"><a class="el" href="notmuch_8c.html#aeb8eaded43f46d1709e8174fccbe5004" title="Notmuch Mailbox - Implements MxOps. ">MxNotmuchOps</a> - Notmuch <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> </td><td align="left">Implements <a class="el" href="structMxOps.html" title="The Mailbox API. ">MxOps</a> </td></tr>
-</table>
-<p>Notmuch virtual mailbox type</p>
-<h2>Notes</h2>
-<ul>
-<li>notmuch uses private Mailbox-&gt;data and private Email-&gt;data</li>
-<li>all exported functions are usable within notmuch context only</li>
-<li>all functions have to be covered by "mailbox-&gt;type == MUTT_NOTMUCH" check (it's implemented in <a class="el" href="notmuch_2mdata_8c.html#a819fc59593f985a02abe21f26037bc74" title="Get the Notmuch Mailbox data. ">nm_mdata_get()</a> and <a class="el" href="mbox_8c.html#a49be0897f8fb6c33c74a838b83f4ed46" title="Add Mbox data to the Mailbox. ">init_mailbox()</a> functions).</li>
-<li>exception are nm_nonctx_* functions &ndash; these functions use nm_default_url (or parse URL from another resource)</li>
-</ul>
-<table class="doxtable">
-<tr>
-<th align="left">Data </th><th align="left">Description  </th></tr>
-<tr>
-<td align="left"><a class="el" href="notmuch_8c.html#aeb8eaded43f46d1709e8174fccbe5004" title="Notmuch Mailbox - Implements MxOps. ">MxNotmuchOps</a> - Notmuch <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> </td><td align="left">Implements <a class="el" href="structMxOps.html" title="The Mailbox API. ">MxOps</a> </td></tr>
+<td align="left"><a class="el" href="group__mx__api.html#gaeb8eaded43f46d1709e8174fccbe5004" title="Notmuch Mailbox - Implements MxOps -. ">MxNotmuchOps</a> - Notmuch <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> - Implements <a class="el" href="structMxOps.html">MxOps</a> </td><td align="left"></td></tr>
 </table>
 <table class="doxtable">
 <tr>
 <th align="left">Function </th><th align="left">Description  </th></tr>
 <tr>
-<td align="left"><a class="el" href="notmuch_8c.html#aa3f6916994e009888cbd2616eb02efc9" title="Add a Mailbox to an Account - Implements MxOps::ac_add() ">nm_ac_add()</a> </td><td align="left">Add a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> to an <a class="el" href="structAccount.html" title="A group of associated Mailboxes. ">Account</a> - Implements <a class="el" href="structMxOps.html#ac432a4900b0ca5a5ca2dc98319dbf737" title="Add a Mailbox to an Account. ">MxOps::ac_add()</a> </td></tr>
+<td align="left">nm_ac_add - Add a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> to an <a class="el" href="structAccount.html" title="A group of associated Mailboxes. ">Account()</a> </td><td align="left">Implements <a class="el" href="structMxOps.html#ac432a4900b0ca5a5ca2dc98319dbf737">MxOps::ac_add()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="notmuch_8c.html#af3fe12af353c56758b08fe105737fc72" title="Check whether an Account owns a Mailbox path - Implements MxOps::ac_owns_path() ">nm_ac_owns_path()</a> </td><td align="left">Check whether an <a class="el" href="structAccount.html" title="A group of associated Mailboxes. ">Account</a> owns a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> path - Implements <a class="el" href="structMxOps.html#a8036f191d1b0ace220c5a5ff52f609b4" title="Check whether an Account owns a Mailbox path. ">MxOps::ac_owns_path()</a> </td></tr>
+<td align="left">nm_ac_owns_path - Check whether an <a class="el" href="structAccount.html" title="A group of associated Mailboxes. ">Account</a> owns a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> path() </td><td align="left">Implements <a class="el" href="structMxOps.html#a8036f191d1b0ace220c5a5ff52f609b4">MxOps::ac_owns_path()</a> - </td></tr>
 <tr>
 <td align="left"><a class="el" href="notmuch_2lib_8h.html#a7f54a204c0b9fb005283ee778d177085" title="Get the folder for a Email. ">nm_email_get_folder()</a> </td><td align="left">Get the folder for a <a class="el" href="structEmail.html" title="The envelope/body of an email. ">Email</a> </td></tr>
 <tr>
@@ -135,33 +121,33 @@ $(document).ready(function(){initNavTree('nm_notmuch.html','');});
 <tr>
 <td align="left"><a class="el" href="notmuch_2lib_8h.html#ac14b20cce8965804b7da03772f8d6f0b" title="Setup feature commands. ">nm_init()</a> </td><td align="left">Setup feature commands </td></tr>
 <tr>
-<td align="left"><a class="el" href="notmuch_8c.html#afd9ac1fea250b07e3ea64493021aaa06" title="Check for new mail - Implements MxOps::mbox_check() ">nm_mbox_check()</a> </td><td align="left">Check for new mail - Implements <a class="el" href="structMxOps.html#af72b7c6ef064d1ca86b71ac9aff3e875" title="Check for new mail. ">MxOps::mbox_check()</a> </td></tr>
+<td align="left">nm_mbox_check - Check for new mail() </td><td align="left">Implements <a class="el" href="structMxOps.html#af72b7c6ef064d1ca86b71ac9aff3e875">MxOps::mbox_check()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="notmuch_8c.html#af0ba56fedbc28eeaa260e75dae131b3a" title="Check the Mailbox statistics - Implements MxOps::mbox_check_stats() ">nm_mbox_check_stats()</a> </td><td align="left">Check the <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> statistics - Implements <a class="el" href="structMxOps.html#af807cc5fe2889a304182e99ec91f7e0c" title="Check the Mailbox statistics. ">MxOps::mbox_check_stats()</a> </td></tr>
+<td align="left">nm_mbox_check_stats - Check the <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> statistics() </td><td align="left">Implements <a class="el" href="structMxOps.html#af807cc5fe2889a304182e99ec91f7e0c">MxOps::mbox_check_stats()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="notmuch_8c.html#abd457684e3ed3e4af41087f806a30520" title="Close a Mailbox - Implements MxOps::mbox_close() ">nm_mbox_close()</a> </td><td align="left">Close a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> - Implements <a class="el" href="structMxOps.html#ae97b81d5371def5f6f2e64544cdec5fc" title="Close a Mailbox. ">MxOps::mbox_close()</a> </td></tr>
+<td align="left">nm_mbox_close - Close a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox()</a> </td><td align="left">Implements <a class="el" href="structMxOps.html#ae97b81d5371def5f6f2e64544cdec5fc">MxOps::mbox_close()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="notmuch_8c.html#aad12c3265a631efb7b39b28fae19121c" title="Open a Mailbox - Implements MxOps::mbox_open() ">nm_mbox_open()</a> </td><td align="left">Open a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> - Implements <a class="el" href="structMxOps.html#ac504b1095f3ce15cae85466ab6c7bd45" title="Open a Mailbox. ">MxOps::mbox_open()</a> </td></tr>
+<td align="left">nm_mbox_open - Open a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox()</a> </td><td align="left">Implements <a class="el" href="structMxOps.html#ac504b1095f3ce15cae85466ab6c7bd45">MxOps::mbox_open()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="notmuch_8c.html#af34af0a876b8063034f021754bf66886" title="Save changes to the Mailbox - Implements MxOps::mbox_sync() ">nm_mbox_sync()</a> </td><td align="left">Save changes to the <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> - Implements <a class="el" href="structMxOps.html#aebbfeec5651637ec053cc47b95c124af" title="Save changes to the Mailbox. ">MxOps::mbox_sync()</a> </td></tr>
+<td align="left">nm_mbox_sync - Save changes to the <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox()</a> </td><td align="left">Implements <a class="el" href="structMxOps.html#aebbfeec5651637ec053cc47b95c124af">MxOps::mbox_sync()</a> - </td></tr>
 <tr>
 <td align="left"><a class="el" href="notmuch_8c.html#aa2697eb2457e0bcd498462830debc346" title="Does a message have this tag? ">nm_message_has_tag()</a> </td><td align="left">Does a message have this tag? </td></tr>
 <tr>
 <td align="left"><a class="el" href="notmuch_2lib_8h.html#ad84349cdd5669f38ce04692c048dcfc8" title="Is a message still visible in the query? ">nm_message_is_still_queried()</a> </td><td align="left">Is a message still visible in the query? </td></tr>
 <tr>
-<td align="left"><a class="el" href="notmuch_8c.html#ac8114a1b39313cf9d098b94aefcef468" title="Close an email - Implements MxOps::msg_close() ">nm_msg_close()</a> </td><td align="left">Close an email - Implements <a class="el" href="structMxOps.html#ad53e3df1ff124eea52bc0488915e9ae4" title="Close an email. ">MxOps::msg_close()</a> </td></tr>
+<td align="left">nm_msg_close - Close an email() </td><td align="left">Implements <a class="el" href="structMxOps.html#ad53e3df1ff124eea52bc0488915e9ae4">MxOps::msg_close()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="notmuch_8c.html#a687f114afaf0d0f46f15fefb042388f8" title="Save changes to an email - Implements MxOps::msg_commit() ">nm_msg_commit()</a> </td><td align="left">Save changes to an email - Implements <a class="el" href="structMxOps.html#ab59dadf81aec5575a1c690caa4822e37" title="Save changes to an email. ">MxOps::msg_commit()</a> </td></tr>
+<td align="left">nm_msg_commit - Save changes to an email() </td><td align="left">Implements <a class="el" href="structMxOps.html#ab59dadf81aec5575a1c690caa4822e37">MxOps::msg_commit()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="notmuch_8c.html#aa1bfcac1bfcc68048430c30e68852e44" title="Open an email message in a Mailbox - Implements MxOps::msg_open() ">nm_msg_open()</a> </td><td align="left">Open an email message in a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> - Implements <a class="el" href="structMxOps.html#afae8d734bf2f05baf8b45eb69f23a2a8" title="Open an email message in a Mailbox. ">MxOps::msg_open()</a> </td></tr>
+<td align="left">nm_msg_open - Open an email message in a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox()</a> </td><td align="left">Implements <a class="el" href="structMxOps.html#afae8d734bf2f05baf8b45eb69f23a2a8">MxOps::msg_open()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="notmuch_8c.html#a74b88a57d928c52b022ae4f9c2964757" title="Canonicalise a Mailbox path - Implements MxOps::path_canon() ">nm_path_canon()</a> </td><td align="left">Canonicalise a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> path - Implements <a class="el" href="structMxOps.html#ad7d938f02ba15c08d45128bc2ca00e28" title="Canonicalise a Mailbox path. ">MxOps::path_canon()</a> </td></tr>
+<td align="left">nm_path_canon - Canonicalise a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> path() </td><td align="left">Implements <a class="el" href="structMxOps.html#ad7d938f02ba15c08d45128bc2ca00e28">MxOps::path_canon()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="notmuch_8c.html#ae4bef25c4fd9bfe27d4c375c21cf663f" title="Find the parent of a Mailbox path - Implements MxOps::path_parent() ">nm_path_parent()</a> </td><td align="left">Find the parent of a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> path - Implements <a class="el" href="structMxOps.html#a0816dd26eb79c12783e9ac9e7b67ecd9" title="Find the parent of a Mailbox path. ">MxOps::path_parent()</a> </td></tr>
+<td align="left">nm_path_parent - Find the parent of a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> path() </td><td align="left">Implements <a class="el" href="structMxOps.html#a0816dd26eb79c12783e9ac9e7b67ecd9">MxOps::path_parent()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="notmuch_8c.html#a20d34f068e9fee22a43689209af3d918" title="Abbreviate a Mailbox path - Implements MxOps::path_pretty() ">nm_path_pretty()</a> </td><td align="left">Abbreviate a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> path - Implements <a class="el" href="structMxOps.html#a3a85067a3d76652ec0014ce520c565db" title="Abbreviate a Mailbox path. ">MxOps::path_pretty()</a> </td></tr>
+<td align="left">nm_path_pretty - Abbreviate a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> path() </td><td align="left">Implements <a class="el" href="structMxOps.html#a3a85067a3d76652ec0014ce520c565db">MxOps::path_pretty()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="notmuch_2lib_8h.html#ad7557498adc7575505d1d53c70b64194" title="Is this a Notmuch Mailbox? - Implements MxOps::path_probe() ">nm_path_probe()</a> </td><td align="left">Is this a Notmuch <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a>? - Implements <a class="el" href="structMxOps.html#a625a6ea0abfdb6620542e26acc499177" title="Does this Mailbox type recognise this path? ">MxOps::path_probe()</a> </td></tr>
+<td align="left">nm_path_probe - Is this a Notmuch <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a>?() </td><td align="left">Implements <a class="el" href="structMxOps.html#a625a6ea0abfdb6620542e26acc499177">MxOps::path_probe()</a> - </td></tr>
 <tr>
 <td align="left"><a class="el" href="notmuch_8c.html#af4d63e598d37c1d204fcc56bdb0e2bae" title="Update the progress counter. ">nm_progress_update()</a> </td><td align="left">Update the progress counter </td></tr>
 <tr>
@@ -172,29 +158,85 @@ $(document).ready(function(){initNavTree('nm_notmuch.html','');});
 <td align="left"><a class="el" href="notmuch_2lib_8h.html#aea5430205d9c6c6cb5b5a71ff740fddb" title="Function to move the current search window forward in time. ">nm_query_window_forward()</a> </td><td align="left">Function to move the current search window forward in time </td></tr>
 <tr>
 <td align="left"><a class="el" href="notmuch_2lib_8h.html#a1a319609376f1dcd48dd3c75e7f75cf6" title="Resets the vfolder window position to the present. ">nm_query_window_reset()</a> </td><td align="left">Resets the vfolder window position to the present. </td></tr>
-<tr>
-<td align="left"><a class="el" href="notmuch_2lib_8h.html#a8ac57cce7f11e7ce9b485d9fce4c2975" title="Get the entire thread of an email. ">nm_read_entire_thread()</a> </td><td align="left">Get the entire thread of an email </td></tr>
-<tr>
-<td align="left"><a class="el" href="notmuch_2lib_8h.html#a76a97a39757a2e0441d23eab1ba5a221" title="Add a message to the Notmuch database. ">nm_record_message()</a> </td><td align="left">Add a message to the Notmuch database </td></tr>
-<tr>
-<td align="left"><a class="el" href="notmuch_8c.html#a077d62a65a036f3cacc562db56582ab4" title="Save the tags to a message - Implements MxOps::tags_commit() ">nm_tags_commit()</a> </td><td align="left">Save the tags to a message - Implements <a class="el" href="structMxOps.html#a9e996b21c0a4d701020aa632ecc5ae82" title="Save the tags to a message. ">MxOps::tags_commit()</a> </td></tr>
-<tr>
-<td align="left"><a class="el" href="notmuch_8c.html#ab1bd88605fe649c57ccf862293d3fbe7" title="Prompt and validate new messages tags - Implements MxOps::tags_edit() ">nm_tags_edit()</a> </td><td align="left">Prompt and validate new messages tags - Implements <a class="el" href="structMxOps.html#a0e3f825e2d93106795c85d5df78874ea" title="Prompt and validate new messages tags. ">MxOps::tags_edit()</a> </td></tr>
-<tr>
-<td align="left"><a class="el" href="notmuch_2lib_8h.html#a117bd16ebdde574564b14e737dc1349e" title="Change the filename. ">nm_update_filename()</a> </td><td align="left">Change the filename </td></tr>
-<tr>
-<td align="left"><a class="el" href="notmuch_2lib_8h.html#af6a894a34eca1a263c572322a8d66da8" title="Turn a query into a URL. ">nm_url_from_query()</a> </td><td align="left">Turn a query into a URL </td></tr>
-<tr>
-<td align="left"><a class="el" href="notmuch_8c.html#ad8f62a6c7fc1fcdab25470d50e6b9d49" title="Update the Email&#39;s flags. ">update_email_flags()</a> </td><td align="left">Update the <a class="el" href="structEmail.html" title="The envelope/body of an email. ">Email</a>'s flags </td></tr>
-<tr>
-<td align="left"><a class="el" href="notmuch_8c.html#ad709dd1e383f13bf730e1b0791b6fdac" title="Update the Email&#39;s tags from Notmuch. ">update_email_tags()</a> </td><td align="left">Update the <a class="el" href="structEmail.html" title="The envelope/body of an email. ">Email</a>'s tags from Notmuch </td></tr>
-<tr>
-<td align="left"><a class="el" href="notmuch_8c.html#aa667101acb4fa8caff3610d35875da18" title="Set the path for a message. ">update_message_path()</a> </td><td align="left">Set the path for a message </td></tr>
-<tr>
-<td align="left"><a class="el" href="notmuch_8c.html#ab368ac6da1bfee09880e51942edb79ab" title="Update the tags on a message. ">update_tags()</a> </td><td align="left">Update the tags on a message </td></tr>
-<tr>
-<td align="left"><a class="el" href="notmuch_8c.html#a3c1e6b40d6cc7a396ef95d90e4364337" title="transforms a vfolder search query into a windowed one ">windowed_query_from_query()</a> </td><td align="left">transforms a vfolder search query into a windowed one </td></tr>
 </table>
+<p>Notmuch virtual mailbox type</p>
+<h2>Notes</h2>
+<ul>
+<li>notmuch uses private Mailbox-&gt;data and private Email-&gt;data</li>
+<li>all exported functions are usable within notmuch context only</li>
+<li>all functions have to be covered by "mailbox-&gt;type == MUTT_NOTMUCH" check (it's implemented in <a class="el" href="notmuch_2mdata_8c.html#a819fc59593f985a02abe21f26037bc74" title="Get the Notmuch Mailbox data. ">nm_mdata_get()</a> and <a class="el" href="mbox_8c.html#a49be0897f8fb6c33c74a838b83f4ed46" title="Add Mbox data to the Mailbox. ">init_mailbox()</a> functions).</li>
+<li>exception are nm_nonctx_* functions &ndash; these functions use nm_default_url (or parse URL from another resource)</li>
+</ul>
+<p>Implementation: <a class="el" href="group__mx__api.html#gaeb8eaded43f46d1709e8174fccbe5004" title="Notmuch Mailbox - Implements MxOps -. ">MxNotmuchOps</a></p>
+<table class="doxtable">
+<tr>
+<th align="left">Data </th><th align="left">Description  </th></tr>
+<tr>
+<td align="left"><a class="el" href="group__mx__api.html#gaeb8eaded43f46d1709e8174fccbe5004" title="Notmuch Mailbox - Implements MxOps -. ">MxNotmuchOps</a> - Notmuch <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> - Implements <a class="el" href="structMxOps.html">MxOps</a> </td><td align="left"></td></tr>
+</table>
+<table class="doxtable">
+<tr>
+<th align="left">Function </th><th align="left">Description  </th></tr>
+<tr>
+<td align="left">nm_ac_add - Add a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> to an <a class="el" href="structAccount.html" title="A group of associated Mailboxes. ">Account()</a> </td><td align="left">Implements <a class="el" href="structMxOps.html#ac432a4900b0ca5a5ca2dc98319dbf737">MxOps::ac_add()</a> - </td></tr>
+<tr>
+<td align="left">nm_ac_owns_path - Check whether an <a class="el" href="structAccount.html" title="A group of associated Mailboxes. ">Account</a> owns a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> path() </td><td align="left">Implements <a class="el" href="structMxOps.html#a8036f191d1b0ace220c5a5ff52f609b4">MxOps::ac_owns_path()</a> - </td></tr>
+<tr>
+<td align="left"><a class="el" href="notmuch_2lib_8h.html#a7f54a204c0b9fb005283ee778d177085" title="Get the folder for a Email. ">nm_email_get_folder()</a> </td><td align="left">Get the folder for a <a class="el" href="structEmail.html" title="The envelope/body of an email. ">Email</a> </td></tr>
+<tr>
+<td align="left"><a class="el" href="notmuch_2lib_8h.html#a4c16724879983f9b127cf1ec90e698bc" title="Get the folder for a Email from the same level as the notmuch database. ">nm_email_get_folder_rel_db()</a> </td><td align="left">Get the folder for a <a class="el" href="structEmail.html" title="The envelope/body of an email. ">Email</a> from the same level as the notmuch database </td></tr>
+<tr>
+<td align="left"><a class="el" href="notmuch_2lib_8h.html#a898d866e55c29ab688ac12f27d60c1a4" title="Fill a list with all notmuch tags. ">nm_get_all_tags()</a> </td><td align="left">Fill a list with all notmuch tags </td></tr>
+<tr>
+<td align="left"><a class="el" href="notmuch_8c.html#a884d5cc9390a4c7be4616c6e1657c186" title="Create a Mailbox with default Notmuch settings. ">nm_get_default_data()</a> </td><td align="left">Create a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> with default Notmuch settings </td></tr>
+<tr>
+<td align="left"><a class="el" href="notmuch_8c.html#a4729f785c0394ea5a5d6ceacdd0657c0" title="Create a Mailbox with default Notmuch settings. ">nm_get_default_url()</a> </td><td align="left">Create a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> with default Notmuch settings </td></tr>
+<tr>
+<td align="left"><a class="el" href="notmuch_8c.html#a624cee6288d0ad565125b800c83bdf4d" title="Close the header cache. ">nm_hcache_close()</a> </td><td align="left">Close the header cache </td></tr>
+<tr>
+<td align="left"><a class="el" href="notmuch_8c.html#a510f5d77650516cdaa69fd107baca758" title="Open a header cache. ">nm_hcache_open()</a> </td><td align="left">Open a header cache </td></tr>
+<tr>
+<td align="left"><a class="el" href="notmuch_2lib_8h.html#ac14b20cce8965804b7da03772f8d6f0b" title="Setup feature commands. ">nm_init()</a> </td><td align="left">Setup feature commands </td></tr>
+<tr>
+<td align="left">nm_mbox_check - Check for new mail() </td><td align="left">Implements <a class="el" href="structMxOps.html#af72b7c6ef064d1ca86b71ac9aff3e875">MxOps::mbox_check()</a> - </td></tr>
+<tr>
+<td align="left">nm_mbox_check_stats - Check the <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> statistics() </td><td align="left">Implements <a class="el" href="structMxOps.html#af807cc5fe2889a304182e99ec91f7e0c">MxOps::mbox_check_stats()</a> - </td></tr>
+<tr>
+<td align="left">nm_mbox_close - Close a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox()</a> </td><td align="left">Implements <a class="el" href="structMxOps.html#ae97b81d5371def5f6f2e64544cdec5fc">MxOps::mbox_close()</a> - </td></tr>
+<tr>
+<td align="left">nm_mbox_open - Open a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox()</a> </td><td align="left">Implements <a class="el" href="structMxOps.html#ac504b1095f3ce15cae85466ab6c7bd45">MxOps::mbox_open()</a> - </td></tr>
+<tr>
+<td align="left">nm_mbox_sync - Save changes to the <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox()</a> </td><td align="left">Implements <a class="el" href="structMxOps.html#aebbfeec5651637ec053cc47b95c124af">MxOps::mbox_sync()</a> - </td></tr>
+<tr>
+<td align="left"><a class="el" href="notmuch_8c.html#aa2697eb2457e0bcd498462830debc346" title="Does a message have this tag? ">nm_message_has_tag()</a> </td><td align="left">Does a message have this tag? </td></tr>
+<tr>
+<td align="left"><a class="el" href="notmuch_2lib_8h.html#ad84349cdd5669f38ce04692c048dcfc8" title="Is a message still visible in the query? ">nm_message_is_still_queried()</a> </td><td align="left">Is a message still visible in the query? </td></tr>
+<tr>
+<td align="left">nm_msg_close - Close an email() </td><td align="left">Implements <a class="el" href="structMxOps.html#ad53e3df1ff124eea52bc0488915e9ae4">MxOps::msg_close()</a> - </td></tr>
+<tr>
+<td align="left">nm_msg_commit - Save changes to an email() </td><td align="left">Implements <a class="el" href="structMxOps.html#ab59dadf81aec5575a1c690caa4822e37">MxOps::msg_commit()</a> - </td></tr>
+<tr>
+<td align="left">nm_msg_open - Open an email message in a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox()</a> </td><td align="left">Implements <a class="el" href="structMxOps.html#afae8d734bf2f05baf8b45eb69f23a2a8">MxOps::msg_open()</a> - </td></tr>
+<tr>
+<td align="left">nm_path_canon - Canonicalise a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> path() </td><td align="left">Implements <a class="el" href="structMxOps.html#ad7d938f02ba15c08d45128bc2ca00e28">MxOps::path_canon()</a> - </td></tr>
+<tr>
+<td align="left">nm_path_parent - Find the parent of a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> path() </td><td align="left">Implements <a class="el" href="structMxOps.html#a0816dd26eb79c12783e9ac9e7b67ecd9">MxOps::path_parent()</a> - </td></tr>
+<tr>
+<td align="left">nm_path_pretty - Abbreviate a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> path() </td><td align="left">Implements <a class="el" href="structMxOps.html#a3a85067a3d76652ec0014ce520c565db">MxOps::path_pretty()</a> - </td></tr>
+<tr>
+<td align="left">nm_path_probe - Is this a Notmuch <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a>?() </td><td align="left">Implements <a class="el" href="structMxOps.html#a625a6ea0abfdb6620542e26acc499177">MxOps::path_probe()</a> - </td></tr>
+<tr>
+<td align="left"><a class="el" href="notmuch_8c.html#af4d63e598d37c1d204fcc56bdb0e2bae" title="Update the progress counter. ">nm_progress_update()</a> </td><td align="left">Update the progress counter </td></tr>
+<tr>
+<td align="left"><a class="el" href="notmuch_2lib_8h.html#aae60593aef46b9214e075f66103c956c" title="Are windowed queries enabled for use? ">nm_query_window_available()</a> </td><td align="left">Are windowed queries enabled for use? </td></tr>
+<tr>
+<td align="left"><a class="el" href="notmuch_2lib_8h.html#a972d1267792a1d646ecf3bf49d38ce00" title="Function to move the current search window backward in time. ">nm_query_window_backward()</a> </td><td align="left">Function to move the current search window backward in time </td></tr>
+<tr>
+<td align="left"><a class="el" href="notmuch_2lib_8h.html#aea5430205d9c6c6cb5b5a71ff740fddb" title="Function to move the current search window forward in time. ">nm_query_window_forward()</a> </td><td align="left">Function to move the current search window forward in time </td></tr>
+<tr>
+<td align="left"><a class="el" href="notmuch_2lib_8h.html#a1a319609376f1dcd48dd3c75e7f75cf6" title="Resets the vfolder window position to the present. ">nm_query_window_reset()</a> </td><td align="left">Resets the vfolder window position to the present. </td></tr>
+</table>
+<p>| | <a class="el" href="notmuch_2lib_8h.html#a8ac57cce7f11e7ce9b485d9fce4c2975" title="Get the entire thread of an email. ">nm_read_entire_thread()</a> | Get the entire thread of an email | | <a class="el" href="notmuch_2lib_8h.html#a76a97a39757a2e0441d23eab1ba5a221" title="Add a message to the Notmuch database. ">nm_record_message()</a> | Add a message to the Notmuch database | | nm_tags_commit - Save the tags to a message() | Implements <a class="el" href="structMxOps.html#a9e996b21c0a4d701020aa632ecc5ae82">MxOps::tags_commit()</a> - | | nm_tags_edit - Prompt and validate new messages tags() | Implements <a class="el" href="structMxOps.html#a0e3f825e2d93106795c85d5df78874ea">MxOps::tags_edit()</a> - | | <a class="el" href="notmuch_2lib_8h.html#a117bd16ebdde574564b14e737dc1349e" title="Change the filename. ">nm_update_filename()</a> | Change the filename | | <a class="el" href="notmuch_2lib_8h.html#af6a894a34eca1a263c572322a8d66da8" title="Turn a query into a URL. ">nm_url_from_query()</a> | Turn a query into a URL | | <a class="el" href="notmuch_8c.html#ad8f62a6c7fc1fcdab25470d50e6b9d49" title="Update the Email&#39;s flags. ">update_email_flags()</a> | Update the <a class="el" href="structEmail.html" title="The envelope/body of an email. ">Email</a>'s flags | | <a class="el" href="notmuch_8c.html#ad709dd1e383f13bf730e1b0791b6fdac" title="Update the Email&#39;s tags from Notmuch. ">update_email_tags()</a> | Update the <a class="el" href="structEmail.html" title="The envelope/body of an email. ">Email</a>'s tags from Notmuch | | <a class="el" href="notmuch_8c.html#aa667101acb4fa8caff3610d35875da18" title="Set the path for a message. ">update_message_path()</a> | Set the path for a message | | <a class="el" href="notmuch_8c.html#ab368ac6da1bfee09880e51942edb79ab" title="Update the tags on a message. ">update_tags()</a> | Update the tags on a message | | <a class="el" href="notmuch_8c.html#a3c1e6b40d6cc7a396ef95d90e4364337" title="transforms a vfolder search query into a windowed one ">windowed_query_from_query()</a> | transforms a vfolder search query into a windowed one | </p>
 </div></div><!-- contents -->
 </div><!-- doc-content -->
 </body>

@@ -24,8 +24,8 @@ var message_8c =
     [ "imap_cache_del", "message_8c.html#aade70cfb183e32e948a40ba633fd711a", null ],
     [ "imap_cache_clean", "message_8c.html#a12bfed71f3ebb43d6a7dd014d079370f", null ],
     [ "imap_set_flags", "message_8c.html#a568e8aa0aa74d1941d68b571202aa5af", null ],
-    [ "imap_msg_open", "message_8c.html#a3d1aada0974c1c85621a0aa3626a576b", null ],
-    [ "imap_msg_commit", "message_8c.html#a1226858cc62e436a52cf0c64b97f6fdb", null ],
-    [ "imap_msg_close", "message_8c.html#a976a007de492b4814274866632d62708", null ],
-    [ "imap_msg_save_hcache", "message_8c.html#af92aa8eebe364d7a8d1f7e94a1d50d28", null ]
+    [ "imap_msg_open", "group__mx__msg__open.html#ga3d1aada0974c1c85621a0aa3626a576b", null ],
+    [ "imap_msg_commit", "group__mx__msg__commit.html#ga1226858cc62e436a52cf0c64b97f6fdb", null ],
+    [ "imap_msg_close", "group__mx__msg__close.html#ga976a007de492b4814274866632d62708", null ],
+    [ "imap_msg_save_hcache", "group__mx__msg__save__hcache.html#gaf92aa8eebe364d7a8d1f7e94a1d50d28", null ]
 ];

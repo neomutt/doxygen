@@ -9,67 +9,67 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 100)">
 <title>save_attachment_flowed_helper</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-100 502,-100 502,4 -4,4"/>
-<!-- Node14969 -->
+<!-- Node12269 -->
 <g id="node1" class="node">
-<title>Node14969</title>
+<title>Node12269</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-33 0,-63 139,-63 139,-33 0,-33"/>
 <text text-anchor="start" x="8" y="-51" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">save_attachment_flowed</text>
 <text text-anchor="middle" x="69.5" y="-40" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">_helper</text>
 </g>
-<!-- Node14970 -->
+<!-- Node12270 -->
 <g id="node2" class="node">
-<title>Node14970</title>
+<title>Node12270</title>
 <g id="a_node2"><a xlink:href="recvattach_8c.html#aad56960e0d22f0b6e36dbf18d120d84a" target="_top" xlink:title="Ask the user if we should save the attachment. ">
 <polygon fill="#ffffff" stroke="#000000" points="176.5,-76.5 176.5,-95.5 310.5,-95.5 310.5,-76.5 176.5,-76.5"/>
 <text text-anchor="middle" x="243.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">query_save_attachment</text>
 </a>
 </g>
 </g>
-<!-- Node14969&#45;&gt;Node14970 -->
+<!-- Node12269&#45;&gt;Node12270 -->
 <g id="edge1" class="edge">
-<title>Node14969&#45;&gt;Node14970</title>
+<title>Node12269&#45;&gt;Node12270</title>
 <path fill="none" stroke="#191970" d="M148.1083,-65.1673C165.941,-69.0618 184.2483,-73.06 199.9958,-76.4991"/>
 <polygon fill="#191970" stroke="#191970" points="148.7859,-61.7329 138.2694,-63.0186 147.2923,-68.5717 148.7859,-61.7329"/>
 </g>
-<!-- Node14971 -->
+<!-- Node12271 -->
 <g id="node3" class="node">
-<title>Node14971</title>
+<title>Node12271</title>
 <g id="a_node3"><a xlink:href="recvattach_8c.html#a2b47c498759b3b7d7d8b1e111a034df8" target="_top" xlink:title="Save a list of attachments. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="348,-38.5 348,-57.5 498,-57.5 498,-38.5 348,-38.5"/>
 <text text-anchor="middle" x="423" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_save_attachment_list</text>
 </a>
 </g>
 </g>
-<!-- Node14969&#45;&gt;Node14971 -->
+<!-- Node12269&#45;&gt;Node12271 -->
 <g id="edge5" class="edge">
-<title>Node14969&#45;&gt;Node14971</title>
+<title>Node12269&#45;&gt;Node12271</title>
 <path fill="none" stroke="#191970" d="M149.4397,-48C208.9036,-48 289.5085,-48 347.8053,-48"/>
 <polygon fill="#191970" stroke="#191970" points="149.3403,-44.5001 139.3402,-48 149.3402,-51.5001 149.3403,-44.5001"/>
 </g>
-<!-- Node15164 -->
+<!-- Node12485 -->
 <g id="node4" class="node">
-<title>Node15164</title>
+<title>Node12485</title>
 <g id="a_node4"><a xlink:href="recvattach_8c.html#a999be3ce814a6a72a2a5c409b7583521" target="_top" xlink:title="Save the attachment, without prompting each time. ">
 <polygon fill="#ffffff" stroke="#000000" points="175,-.5 175,-19.5 312,-19.5 312,-.5 175,-.5"/>
 <text text-anchor="middle" x="243.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">save_without_prompting</text>
 </a>
 </g>
 </g>
-<!-- Node14969&#45;&gt;Node15164 -->
+<!-- Node12269&#45;&gt;Node12485 -->
 <g id="edge3" class="edge">
-<title>Node14969&#45;&gt;Node15164</title>
+<title>Node12269&#45;&gt;Node12485</title>
 <path fill="none" stroke="#191970" d="M148.1083,-30.8327C165.941,-26.9382 184.2483,-22.94 199.9958,-19.5009"/>
 <polygon fill="#191970" stroke="#191970" points="147.2923,-27.4283 138.2694,-32.9814 148.7859,-34.2671 147.2923,-27.4283"/>
 </g>
-<!-- Node14970&#45;&gt;Node14971 -->
+<!-- Node12270&#45;&gt;Node12271 -->
 <g id="edge2" class="edge">
-<title>Node14970&#45;&gt;Node14971</title>
+<title>Node12270&#45;&gt;Node12271</title>
 <path fill="none" stroke="#191970" d="M298.6773,-74.319C324.1328,-68.9301 353.9684,-62.6139 378.0303,-57.5201"/>
 <polygon fill="#191970" stroke="#191970" points="297.8537,-70.9157 288.7954,-76.411 299.3035,-77.7639 297.8537,-70.9157"/>
 </g>
-<!-- Node15164&#45;&gt;Node14971 -->
+<!-- Node12485&#45;&gt;Node12271 -->
 <g id="edge4" class="edge">
-<title>Node15164&#45;&gt;Node14971</title>
+<title>Node12485&#45;&gt;Node12271</title>
 <path fill="none" stroke="#191970" d="M298.6773,-21.681C324.1328,-27.0699 353.9684,-33.3861 378.0303,-38.4799"/>
 <polygon fill="#191970" stroke="#191970" points="299.3035,-18.2361 288.7954,-19.589 297.8537,-25.0843 299.3035,-18.2361"/>
 </g>

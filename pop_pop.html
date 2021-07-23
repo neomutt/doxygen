@@ -32,7 +32,7 @@
   <td id="projectalign" style="padding-left: 0.5em;">
    <a style="color: black; text-decoration: none;" href="https://neomutt.org">
    <div id="projectname">NeoMutt
-   &#160;<span id="projectnumber">2021-02-05-584-gb5c7a7</span>
+   &#160;<span id="projectnumber">2021-02-05-647-g5d4e00</span>
    </div>
    <div id="projectbrief">Teaching an old dog new tricks</div>
    </a>
@@ -91,26 +91,21 @@ $(document).ready(function(){initNavTree('pop_pop.html','');});
 <div class="title">POP network mailbox </div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><table class="doxtable">
-<tr>
-<th align="left">Data </th><th align="left">Description  </th></tr>
-<tr>
-<td align="left"><a class="el" href="pop_8c.html#aec53cbb4297fe9b475784600a3957dc7" title="POP Mailbox - Implements MxOps. ">MxPopOps</a> - POP <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> </td><td align="left">Implements <a class="el" href="structMxOps.html" title="The Mailbox API. ">MxOps</a> </td></tr>
-</table>
-<p>POP network mailbox</p>
+<div class="textblock"><p>POP network mailbox</p>
+<p>Implementation: <a class="el" href="group__mx__api.html#gaec53cbb4297fe9b475784600a3957dc7" title="POP Mailbox - Implements MxOps -. ">MxPopOps</a></p>
 <table class="doxtable">
 <tr>
 <th align="left">Data </th><th align="left">Description  </th></tr>
 <tr>
-<td align="left"><a class="el" href="pop_8c.html#aec53cbb4297fe9b475784600a3957dc7" title="POP Mailbox - Implements MxOps. ">MxPopOps</a> - POP <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> </td><td align="left">Implements <a class="el" href="structMxOps.html" title="The Mailbox API. ">MxOps</a> </td></tr>
+<td align="left"><a class="el" href="group__mx__api.html#gaec53cbb4297fe9b475784600a3957dc7" title="POP Mailbox - Implements MxOps -. ">MxPopOps</a> - POP <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> - Implements <a class="el" href="structMxOps.html">MxOps</a> </td><td align="left"></td></tr>
 </table>
 <table class="doxtable">
 <tr>
 <th align="left">Function </th><th align="left">Description  </th></tr>
 <tr>
-<td align="left"><a class="el" href="pop_8c.html#a171eb6bc7e61e52a2aeca10d87611a36" title="Add a Mailbox to an Account - Implements MxOps::ac_add() ">pop_ac_add()</a> </td><td align="left">Add a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> to an <a class="el" href="structAccount.html" title="A group of associated Mailboxes. ">Account</a> - Implements <a class="el" href="structMxOps.html#ac432a4900b0ca5a5ca2dc98319dbf737" title="Add a Mailbox to an Account. ">MxOps::ac_add()</a> </td></tr>
+<td align="left">pop_ac_add - Add a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> to an <a class="el" href="structAccount.html" title="A group of associated Mailboxes. ">Account()</a> </td><td align="left">Implements <a class="el" href="structMxOps.html#ac432a4900b0ca5a5ca2dc98319dbf737">MxOps::ac_add()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="pop_8c.html#a2eb1513bdfb94004dfbdab1e4ac4847f" title="Check whether an Account owns a Mailbox path - Implements MxOps::ac_owns_path() ">pop_ac_owns_path()</a> </td><td align="left">Check whether an <a class="el" href="structAccount.html" title="A group of associated Mailboxes. ">Account</a> owns a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> path - Implements <a class="el" href="structMxOps.html#a8036f191d1b0ace220c5a5ff52f609b4" title="Check whether an Account owns a Mailbox path. ">MxOps::ac_owns_path()</a> </td></tr>
+<td align="left">pop_ac_owns_path - Check whether an <a class="el" href="structAccount.html" title="A group of associated Mailboxes. ">Account</a> owns a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> path() </td><td align="left">Implements <a class="el" href="structMxOps.html#a8036f191d1b0ace220c5a5ff52f609b4">MxOps::ac_owns_path()</a> - </td></tr>
 <tr>
 <td align="left"><a class="el" href="pop_8c.html#a306deeb158f76bd338f04b1a5494d6a9" title="delete all cached messages ">pop_clear_cache()</a> </td><td align="left">delete all cached messages </td></tr>
 <tr>
@@ -122,27 +117,27 @@ $(document).ready(function(){initNavTree('pop_pop.html','');});
 <tr>
 <td align="left"><a class="el" href="pop_8c.html#a3956320a3812ac0af7796e4b99d4c3e6" title="Open the header cache. ">pop_hcache_open()</a> </td><td align="left">Open the header cache </td></tr>
 <tr>
-<td align="left"><a class="el" href="pop_8c.html#a5c3baa1bb7f18e3e64806fd6932290b7" title="Check for new mail - Implements MxOps::mbox_check() ">pop_mbox_check()</a> </td><td align="left">Check for new mail - Implements <a class="el" href="structMxOps.html#af72b7c6ef064d1ca86b71ac9aff3e875" title="Check for new mail. ">MxOps::mbox_check()</a> </td></tr>
+<td align="left">pop_mbox_check - Check for new mail() </td><td align="left">Implements <a class="el" href="structMxOps.html#af72b7c6ef064d1ca86b71ac9aff3e875">MxOps::mbox_check()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="pop_8c.html#a8398779af3d3ee5b92d4b1e5dd8059a9" title="Close a Mailbox - Implements MxOps::mbox_close() ">pop_mbox_close()</a> </td><td align="left">Close a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> - Implements <a class="el" href="structMxOps.html#ae97b81d5371def5f6f2e64544cdec5fc" title="Close a Mailbox. ">MxOps::mbox_close()</a> </td></tr>
+<td align="left">pop_mbox_close - Close a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox()</a> </td><td align="left">Implements <a class="el" href="structMxOps.html#ae97b81d5371def5f6f2e64544cdec5fc">MxOps::mbox_close()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="pop_8c.html#a0de2de1958a22ca0679ea67f4f434db2" title="Open a Mailbox - Implements MxOps::mbox_open() ">pop_mbox_open()</a> </td><td align="left">Open a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> - Implements <a class="el" href="structMxOps.html#ac504b1095f3ce15cae85466ab6c7bd45" title="Open a Mailbox. ">MxOps::mbox_open()</a> </td></tr>
+<td align="left">pop_mbox_open - Open a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox()</a> </td><td align="left">Implements <a class="el" href="structMxOps.html#ac504b1095f3ce15cae85466ab6c7bd45">MxOps::mbox_open()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="pop_8c.html#af4f176edf88cdbf7c4ded57e9838f008" title="Save changes to the Mailbox - Implements MxOps::mbox_sync() ">pop_mbox_sync()</a> </td><td align="left">Save changes to the <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> - Implements <a class="el" href="structMxOps.html#aebbfeec5651637ec053cc47b95c124af" title="Save changes to the Mailbox. ">MxOps::mbox_sync()</a> </td></tr>
+<td align="left">pop_mbox_sync - Save changes to the <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox()</a> </td><td align="left">Implements <a class="el" href="structMxOps.html#aebbfeec5651637ec053cc47b95c124af">MxOps::mbox_sync()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="pop_8c.html#a7401b6da959be8294880ff7df8c611a8" title="Close an email - Implements MxOps::msg_close() ">pop_msg_close()</a> </td><td align="left">Close an email - Implements <a class="el" href="structMxOps.html#ad53e3df1ff124eea52bc0488915e9ae4" title="Close an email. ">MxOps::msg_close()</a> </td></tr>
+<td align="left">pop_msg_close - Close an email() </td><td align="left">Implements <a class="el" href="structMxOps.html#ad53e3df1ff124eea52bc0488915e9ae4">MxOps::msg_close()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="pop_8c.html#a0263abbcf87d283cf024fc87c11097e9" title="Open an email message in a Mailbox - Implements MxOps::msg_open() ">pop_msg_open()</a> </td><td align="left">Open an email message in a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> - Implements <a class="el" href="structMxOps.html#afae8d734bf2f05baf8b45eb69f23a2a8" title="Open an email message in a Mailbox. ">MxOps::msg_open()</a> </td></tr>
+<td align="left">pop_msg_open - Open an email message in a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox()</a> </td><td align="left">Implements <a class="el" href="structMxOps.html#afae8d734bf2f05baf8b45eb69f23a2a8">MxOps::msg_open()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="pop_8c.html#abcd55f0bb3f983b76ecbdc34253f1c05" title="Save message to the header cache - Implements MxOps::msg_save_hcache() ">pop_msg_save_hcache()</a> </td><td align="left">Save message to the header cache - Implements <a class="el" href="structMxOps.html#a4c0ce9432905dfb3f6849c97ae504f84" title="Save message to the header cache. ">MxOps::msg_save_hcache()</a> </td></tr>
+<td align="left">pop_msg_save_hcache - Save message to the header cache() </td><td align="left">Implements <a class="el" href="structMxOps.html#a4c0ce9432905dfb3f6849c97ae504f84">MxOps::msg_save_hcache()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="pop_8c.html#a15f51348ae6a47437dcd21d7aca945b9" title="Canonicalise a Mailbox path - Implements MxOps::path_canon() ">pop_path_canon()</a> </td><td align="left">Canonicalise a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> path - Implements <a class="el" href="structMxOps.html#ad7d938f02ba15c08d45128bc2ca00e28" title="Canonicalise a Mailbox path. ">MxOps::path_canon()</a> </td></tr>
+<td align="left">pop_path_canon - Canonicalise a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> path() </td><td align="left">Implements <a class="el" href="structMxOps.html#ad7d938f02ba15c08d45128bc2ca00e28">MxOps::path_canon()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="pop_8c.html#a0c80b09a7ac17ad83cf6b5d647cde95c" title="Find the parent of a Mailbox path - Implements MxOps::path_parent() ">pop_path_parent()</a> </td><td align="left">Find the parent of a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> path - Implements <a class="el" href="structMxOps.html#a0816dd26eb79c12783e9ac9e7b67ecd9" title="Find the parent of a Mailbox path. ">MxOps::path_parent()</a> </td></tr>
+<td align="left">pop_path_parent - Find the parent of a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> path() </td><td align="left">Implements <a class="el" href="structMxOps.html#a0816dd26eb79c12783e9ac9e7b67ecd9">MxOps::path_parent()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="pop_8c.html#a47c10790f7a2d4bac15a9a82a90e1f04" title="Abbreviate a Mailbox path - Implements MxOps::path_pretty() ">pop_path_pretty()</a> </td><td align="left">Abbreviate a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> path - Implements <a class="el" href="structMxOps.html#a3a85067a3d76652ec0014ce520c565db" title="Abbreviate a Mailbox path. ">MxOps::path_pretty()</a> </td></tr>
+<td align="left">pop_path_pretty - Abbreviate a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> path() </td><td align="left">Implements <a class="el" href="structMxOps.html#a3a85067a3d76652ec0014ce520c565db">MxOps::path_pretty()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="pop_2lib_8h.html#a5b33b7c070124e656f1a4e8c67c039ad" title="Is this a POP Mailbox? - Implements MxOps::path_probe() ">pop_path_probe()</a> </td><td align="left">Is this a POP <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a>? - Implements <a class="el" href="structMxOps.html#a625a6ea0abfdb6620542e26acc499177" title="Does this Mailbox type recognise this path? ">MxOps::path_probe()</a> </td></tr>
+<td align="left">pop_path_probe - Is this a POP <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a>?() </td><td align="left">Implements <a class="el" href="structMxOps.html#a625a6ea0abfdb6620542e26acc499177">MxOps::path_probe()</a> - </td></tr>
 <tr>
 <td align="left"><a class="el" href="pop_8c.html#ac8590e3bcca739faf5b19884475fa008" title="Read header. ">pop_read_header()</a> </td><td align="left">Read header </td></tr>
 </table>

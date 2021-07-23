@@ -9,69 +9,69 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 138)">
 <title>nm_hcache_close</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-138 256,-138 256,4 -4,4"/>
-<!-- Node672 -->
+<!-- Node114 -->
 <g id="node1" class="node">
-<title>Node672</title>
+<title>Node114</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-57.5 0,-76.5 103,-76.5 103,-57.5 0,-57.5"/>
 <text text-anchor="middle" x="51.5" y="-64.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nm_hcache_close</text>
 </g>
-<!-- Node673 -->
+<!-- Node115 -->
 <g id="node2" class="node">
-<title>Node673</title>
+<title>Node115</title>
 <g id="a_node2"><a xlink:href="notmuch_8c.html#abaf21ab5cf16eed638156c611e65e22f" target="_top" xlink:title="Search for matching messages. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="141,-114.5 141,-133.5 250,-133.5 250,-114.5 141,-114.5"/>
 <text text-anchor="middle" x="195.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">read_mesgs_query</text>
 </a>
 </g>
 </g>
-<!-- Node672&#45;&gt;Node673 -->
+<!-- Node114&#45;&gt;Node115 -->
 <g id="edge1" class="edge">
-<title>Node672&#45;&gt;Node673</title>
+<title>Node114&#45;&gt;Node115</title>
 <path fill="none" stroke="#191970" d="M81.4513,-80.7613C98.2292,-88.2789 119.6165,-97.5474 139,-105 147.5003,-108.2682 156.8329,-111.5346 165.4212,-114.4143"/>
 <polygon fill="#191970" stroke="#191970" points="82.7097,-77.4893 72.1553,-76.5643 79.8293,-83.8692 82.7097,-77.4893"/>
 </g>
-<!-- Node675 -->
+<!-- Node117 -->
 <g id="node3" class="node">
-<title>Node675</title>
+<title>Node117</title>
 <g id="a_node3"><a xlink:href="notmuch_8c.html#a73570c4d26bc98c4862a64d96859d09f" target="_top" xlink:title="Perform a query with threads. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="139,-76.5 139,-95.5 252,-95.5 252,-76.5 139,-76.5"/>
 <text text-anchor="middle" x="195.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">read_threads_query</text>
 </a>
 </g>
 </g>
-<!-- Node672&#45;&gt;Node675 -->
+<!-- Node114&#45;&gt;Node117 -->
 <g id="edge2" class="edge">
-<title>Node672&#45;&gt;Node675</title>
+<title>Node114&#45;&gt;Node117</title>
 <path fill="none" stroke="#191970" d="M113.0393,-75.1198C121.6277,-76.253 130.419,-77.4129 138.9103,-78.5333"/>
 <polygon fill="#191970" stroke="#191970" points="113.4525,-71.644 103.0806,-73.8058 112.5368,-78.5839 113.4525,-71.644"/>
 </g>
-<!-- Node1104 -->
+<!-- Node120 -->
 <g id="node4" class="node">
-<title>Node1104</title>
-<g id="a_node4"><a xlink:href="notmuch_8c.html#afd9ac1fea250b07e3ea64493021aaa06" target="_top" xlink:title="Check for new mail &#45; Implements MxOps::mbox_check() ">
+<title>Node120</title>
+<g id="a_node4"><a xlink:href="group__mx__mbox__check.html#gafd9ac1fea250b07e3ea64493021aaa06" target="_top" xlink:title="Check for new mail &#45; Implements MxOps::mbox_check() &#45;. ">
 <polygon fill="#ffffff" stroke="#000000" points="146,-38.5 146,-57.5 245,-57.5 245,-38.5 146,-38.5"/>
 <text text-anchor="middle" x="195.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nm_mbox_check</text>
 </a>
 </g>
 </g>
-<!-- Node672&#45;&gt;Node1104 -->
+<!-- Node114&#45;&gt;Node120 -->
 <g id="edge3" class="edge">
-<title>Node672&#45;&gt;Node1104</title>
+<title>Node114&#45;&gt;Node120</title>
 <path fill="none" stroke="#191970" d="M113.3272,-58.8422C124.1487,-57.4144 135.2832,-55.9453 145.726,-54.5674"/>
 <polygon fill="#191970" stroke="#191970" points="112.5368,-55.4161 103.0806,-60.1942 113.4525,-62.356 112.5368,-55.4161"/>
 </g>
-<!-- Node717 -->
+<!-- Node121 -->
 <g id="node5" class="node">
-<title>Node717</title>
-<g id="a_node5"><a xlink:href="notmuch_8c.html#af34af0a876b8063034f021754bf66886" target="_top" xlink:title="Save changes to the Mailbox &#45; Implements MxOps::mbox_sync() ">
+<title>Node121</title>
+<g id="a_node5"><a xlink:href="group__mx__mbox__sync.html#gaf34af0a876b8063034f021754bf66886" target="_top" xlink:title="Save changes to the Mailbox &#45; Implements MxOps::mbox_sync() &#45;. ">
 <polygon fill="#ffffff" stroke="#000000" points="149,-.5 149,-19.5 242,-19.5 242,-.5 149,-.5"/>
 <text text-anchor="middle" x="195.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nm_mbox_sync</text>
 </a>
 </g>
 </g>
-<!-- Node672&#45;&gt;Node717 -->
+<!-- Node114&#45;&gt;Node121 -->
 <g id="edge4" class="edge">
-<title>Node672&#45;&gt;Node717</title>
+<title>Node114&#45;&gt;Node121</title>
 <path fill="none" stroke="#191970" d="M81.4513,-53.2387C98.2292,-45.7211 119.6165,-36.4526 139,-29 147.5003,-25.7318 156.8329,-22.4654 165.4212,-19.5857"/>
 <polygon fill="#191970" stroke="#191970" points="79.8293,-50.1308 72.1553,-57.4357 82.7097,-56.5107 79.8293,-50.1308"/>
 </g>

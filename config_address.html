@@ -32,7 +32,7 @@
   <td id="projectalign" style="padding-left: 0.5em;">
    <a style="color: black; text-decoration: none;" href="https://neomutt.org">
    <div id="projectname">NeoMutt
-   &#160;<span id="projectnumber">2021-02-05-584-gb5c7a7</span>
+   &#160;<span id="projectnumber">2021-02-05-647-g5d4e00</span>
    </div>
    <div id="projectbrief">Teaching an old dog new tricks</div>
    </a>
@@ -97,28 +97,29 @@ $(document).ready(function(){initNavTree('config_address.html','');});
 <li>Empty address is stored as <code>NULL</code></li>
 <li>Validator is passed <code>struct <a class="el" href="structAddress.html" title="An email address. ">Address</a> *</code>, which may be <code>NULL</code></li>
 <li>Data is freed when <code><a class="el" href="structConfigSet.html" title="Container for lots of config items. ">ConfigSet</a></code> is freed</li>
+<li>Implementation: <a class="el" href="config_2address_8c.html#a8807bb47386dd2c36d66d157b41fbba9" title="Config type representing an Email Addresss. ">cst_address</a></li>
 </ul>
 <table class="doxtable">
 <tr>
 <th align="left">Function </th><th align="left">Description  </th></tr>
 <tr>
-<td align="left"><a class="el" href="config_2address_8c.html#abd2f53bded52356d4d0066d3558326df" title="Destroy an Address object - Implements ConfigSetType::destroy() ">address_destroy()</a> </td><td align="left">Destroy an <a class="el" href="structAddress.html" title="An email address. ">Address</a> object - Implements <a class="el" href="structConfigSetType.html#ad7c535ff8033c38dbaffa7c14bb4412e" title="Destroy a config item. ">ConfigSetType::destroy()</a> </td></tr>
+<td align="left">address_destroy - Destroy an <a class="el" href="structAddress.html" title="An email address. ">Address</a> object() </td><td align="left">Implements <a class="el" href="structConfigSetType.html#ad7c535ff8033c38dbaffa7c14bb4412e">ConfigSetType::destroy()</a> - </td></tr>
 <tr>
 <td align="left"><a class="el" href="config_2address_8c.html#ab8aaeecfcc1ee3a4fb48cbccf3cd4a34" title="Create a copy of an Address object. ">address_dup()</a> </td><td align="left">Create a copy of an <a class="el" href="structAddress.html" title="An email address. ">Address</a> object </td></tr>
 <tr>
 <td align="left"><a class="el" href="config_2address_8c.html#a43b78e7c154cec4ca2dffb8334fe4c37" title="Free an Address object. ">address_free()</a> </td><td align="left">Free an <a class="el" href="structAddress.html" title="An email address. ">Address</a> object </td></tr>
 <tr>
-<td align="left"><a class="el" href="config_2address_8c.html#a8008133974fe559ede7da70d359f5418" title="Get an Address object from an Address config item - Implements ConfigSetType::native_get() ...">address_native_get()</a> </td><td align="left">Get an <a class="el" href="structAddress.html" title="An email address. ">Address</a> object from an <a class="el" href="structAddress.html" title="An email address. ">Address</a> config item - Implements <a class="el" href="structConfigSetType.html#adaa23a7c94973926ef08f41a362abba5" title="Get a string from a config item. ">ConfigSetType::native_get()</a> </td></tr>
+<td align="left">address_native_get - Get an <a class="el" href="structAddress.html" title="An email address. ">Address</a> object from an <a class="el" href="structAddress.html" title="An email address. ">Address</a> config item() </td><td align="left">Implements <a class="el" href="structConfigSetType.html#adaa23a7c94973926ef08f41a362abba5">ConfigSetType::native_get()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="config_2address_8c.html#ae93647fb497ccd3fbe0e2fd2cb834224" title="Set an Address config item by Address object - Implements ConfigSetType::native_set() ...">address_native_set()</a> </td><td align="left">Set an <a class="el" href="structAddress.html" title="An email address. ">Address</a> config item by <a class="el" href="structAddress.html" title="An email address. ">Address</a> object - Implements <a class="el" href="structConfigSetType.html#a96efeb892d4c223281181587a50d002b" title="Set a config item by string. ">ConfigSetType::native_set()</a> </td></tr>
+<td align="left">address_native_set - Set an <a class="el" href="structAddress.html" title="An email address. ">Address</a> config item by <a class="el" href="structAddress.html" title="An email address. ">Address</a> object() </td><td align="left">Implements <a class="el" href="structConfigSetType.html#a96efeb892d4c223281181587a50d002b">ConfigSetType::native_set()</a> - </td></tr>
 <tr>
 <td align="left"><a class="el" href="config_2address_8c.html#ae65da9a6a2378923a758a3d116354777" title="Create an Address from a string. ">address_new()</a> </td><td align="left">Create an <a class="el" href="structAddress.html" title="An email address. ">Address</a> from a string </td></tr>
 <tr>
-<td align="left"><a class="el" href="config_2address_8c.html#af3fccaef5848b5826a78e3644508328b" title="Reset an Address to its initial value - Implements ConfigSetType::reset() ">address_reset()</a> </td><td align="left">Reset an <a class="el" href="structAddress.html" title="An email address. ">Address</a> to its initial value - Implements <a class="el" href="structConfigSetType.html#ad392f82b5421743c74fb020752a3e401" title="Reset a config item to its initial value. ">ConfigSetType::reset()</a> </td></tr>
+<td align="left">address_reset - Reset an <a class="el" href="structAddress.html" title="An email address. ">Address</a> to its initial value() </td><td align="left">Implements <a class="el" href="structConfigSetType.html#ad392f82b5421743c74fb020752a3e401">ConfigSetType::reset()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="config_2address_8c.html#ad491963060ee2cc61d5426b2367707d9" title="Get an Address as a string - Implements ConfigSetType::string_get() ">address_string_get()</a> </td><td align="left">Get an <a class="el" href="structAddress.html" title="An email address. ">Address</a> as a string - Implements <a class="el" href="structConfigSetType.html#a4459745b328d5ff773741a53fccd5fc7" title="Get a config item as a string. ">ConfigSetType::string_get()</a> </td></tr>
+<td align="left">address_string_get - Get an <a class="el" href="structAddress.html" title="An email address. ">Address</a> as a string() </td><td align="left">Implements <a class="el" href="structConfigSetType.html#a4459745b328d5ff773741a53fccd5fc7">ConfigSetType::string_get()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="config_2address_8c.html#a5d737b3ecc68fd6a4f17b9187556dbd9" title="Set an Address by string - Implements ConfigSetType::string_set() ">address_string_set()</a> </td><td align="left">Set an <a class="el" href="structAddress.html" title="An email address. ">Address</a> by string - Implements <a class="el" href="structConfigSetType.html#aaab5c1abc281e7f906cccb7bf64d2554" title="Set a config item by string. ">ConfigSetType::string_set()</a> </td></tr>
+<td align="left">address_string_set - Set an <a class="el" href="structAddress.html" title="An email address. ">Address</a> by string() </td><td align="left">Implements <a class="el" href="structConfigSetType.html#aaab5c1abc281e7f906cccb7bf64d2554">ConfigSetType::string_set()</a> - </td></tr>
 <tr>
 <td align="left"><a class="el" href="config_2address_8c.html#a8807bb47386dd2c36d66d157b41fbba9" title="Config type representing an Email Addresss. ">cst_address()</a> </td><td align="left">Config type representing an <a class="el" href="structEmail.html" title="The envelope/body of an email. ">Email</a> Addresss </td></tr>
 </table>

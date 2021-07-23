@@ -6,7 +6,7 @@ var recvattach_8c =
     [ "check_readonly", "recvattach_8c.html#ac0088fa2a9f68e82d502399dd21054d7", null ],
     [ "mutt_update_v2r", "recvattach_8c.html#ada90cfca09573e1031de106fd88cad72", null ],
     [ "mutt_update_tree", "recvattach_8c.html#aa9845701586d190b83e575e9e1f89303", null ],
-    [ "attach_format_str", "recvattach_8c.html#a15aa67845d7281e3b5263c24dcf75d0c", null ],
+    [ "attach_format_str", "group__expando__api.html#ga15aa67845d7281e3b5263c24dcf75d0c", null ],
     [ "attach_make_entry", "recvattach_8c.html#a298233037da9ffcf0169ceb8d0531815", null ],
     [ "attach_tag", "recvattach_8c.html#a86305a7b86a230165ada61d110743699", null ],
     [ "prepend_savedir", "recvattach_8c.html#a7ead8fceb1c2b8c8c8a86b08e73a1191", null ],

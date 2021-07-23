@@ -9,90 +9,90 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 194)">
 <title>parse_grouplist</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-194 245,-194 245,4 -4,4"/>
-<!-- Node16699 -->
+<!-- Node15524 -->
 <g id="node1" class="node">
-<title>Node16699</title>
+<title>Node15524</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-76.5 0,-95.5 92,-95.5 92,-76.5 0,-76.5"/>
 <text text-anchor="middle" x="46" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">parse_grouplist</text>
 </g>
-<!-- Node16700 -->
+<!-- Node15525 -->
 <g id="node2" class="node">
-<title>Node16700</title>
+<title>Node15525</title>
 <g id="a_node2"><a xlink:href="mutt_2string_8c.html#a29db81d6f5a7dd216cbea75ecf8a5885" target="_top" xlink:title="Compare two strings, ignoring case. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="138,-170.5 138,-189.5 231,-189.5 231,-170.5 138,-170.5"/>
 <text text-anchor="middle" x="184.5" y="-177.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_istr_equal</text>
 </a>
 </g>
 </g>
-<!-- Node16699&#45;&gt;Node16700 -->
+<!-- Node15524&#45;&gt;Node15525 -->
 <g id="edge1" class="edge">
-<title>Node16699&#45;&gt;Node16700</title>
+<title>Node15524&#45;&gt;Node15525</title>
 <path fill="none" stroke="#191970" d="M54.106,-95.6689C67.8068,-111.4429 97.0863,-142.7781 128,-161 131.4616,-163.0404 135.173,-164.899 138.9786,-166.5839"/>
 <polygon fill="#191970" stroke="#191970" points="137.9599,-169.9463 148.5442,-170.4192 140.565,-163.4491 137.9599,-169.9463"/>
 </g>
-<!-- Node16702 -->
+<!-- Node15527 -->
 <g id="node3" class="node">
-<title>Node16702</title>
+<title>Node15527</title>
 <g id="a_node3"><a xlink:href="buffer_8c.html#a4bcc481586ae3af02645b4e23e48e0d7" target="_top" xlink:title="Copy a string into a Buffer. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="130,-132.5 130,-151.5 239,-151.5 239,-132.5 130,-132.5"/>
 <text text-anchor="middle" x="184.5" y="-139.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_buffer_strcpy</text>
 </a>
 </g>
 </g>
-<!-- Node16699&#45;&gt;Node16702 -->
+<!-- Node15524&#45;&gt;Node15527 -->
 <g id="edge2" class="edge">
-<title>Node16699&#45;&gt;Node16702</title>
+<title>Node15524&#45;&gt;Node15527</title>
 <path fill="none" stroke="#191970" d="M65.6481,-95.5308C82.1141,-103.3563 106.3386,-114.4951 128,-123 133.4306,-125.1322 139.2093,-127.2467 144.9195,-129.2479"/>
 <polygon fill="#191970" stroke="#191970" points="143.7965,-132.5628 154.3911,-132.492 146.0647,-125.9405 143.7965,-132.5628"/>
 </g>
-<!-- Node16711 -->
+<!-- Node15536 -->
 <g id="node4" class="node">
-<title>Node16711</title>
+<title>Node15536</title>
 <g id="a_node4"><a xlink:href="init_8c.html#a0c8965a76cc79c02268a42a859968bcb" target="_top" xlink:title="Extract one token from a string. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="128,-76.5 128,-95.5 241,-95.5 241,-76.5 128,-76.5"/>
 <text text-anchor="middle" x="184.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_extract_token</text>
 </a>
 </g>
 </g>
-<!-- Node16699&#45;&gt;Node16711 -->
+<!-- Node15524&#45;&gt;Node15536 -->
 <g id="edge3" class="edge">
-<title>Node16699&#45;&gt;Node16711</title>
+<title>Node15524&#45;&gt;Node15536</title>
 <path fill="none" stroke="#191970" d="M92.1185,-86C100.3761,-86 109.1295,-86 117.8286,-86"/>
 <polygon fill="#191970" stroke="#191970" points="117.9826,-89.5001 127.9826,-86 117.9826,-82.5001 117.9826,-89.5001"/>
 </g>
-<!-- Node16755 -->
+<!-- Node15580 -->
 <g id="node5" class="node">
-<title>Node16755</title>
+<title>Node15580</title>
 <g id="a_node5"><a xlink:href="group_8c.html#a38b419a7a8c35f428b5be24f98a6c9d7" target="_top" xlink:title="Add a Group to a GroupList. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="129,-38.5 129,-57.5 240,-57.5 240,-38.5 129,-38.5"/>
 <text text-anchor="middle" x="184.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_grouplist_add</text>
 </a>
 </g>
 </g>
-<!-- Node16699&#45;&gt;Node16755 -->
+<!-- Node15524&#45;&gt;Node15580 -->
 <g id="edge5" class="edge">
-<title>Node16699&#45;&gt;Node16755</title>
+<title>Node15524&#45;&gt;Node15580</title>
 <path fill="none" stroke="#191970" d="M80.9494,-76.411C98.8284,-71.5056 120.7884,-65.4804 139.8778,-60.2429"/>
 <polygon fill="#191970" stroke="#191970" points="140.8443,-63.6072 149.5618,-57.5859 138.9921,-56.8566 140.8443,-63.6072"/>
 </g>
-<!-- Node16756 -->
+<!-- Node15581 -->
 <g id="node6" class="node">
-<title>Node16756</title>
+<title>Node15581</title>
 <g id="a_node6"><a xlink:href="group_8c.html#a3a6aba954be87b3fd1d1e5bb5b9d04ae" target="_top" xlink:title="Match a pattern to a Group. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="128,-.5 128,-19.5 241,-19.5 241,-.5 128,-.5"/>
 <text text-anchor="middle" x="184.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_pattern_group</text>
 </a>
 </g>
 </g>
-<!-- Node16699&#45;&gt;Node16756 -->
+<!-- Node15524&#45;&gt;Node15581 -->
 <g id="edge6" class="edge">
-<title>Node16699&#45;&gt;Node16756</title>
+<title>Node15524&#45;&gt;Node15581</title>
 <path fill="none" stroke="#191970" d="M57.5541,-76.3734C72.852,-64.0148 101.0481,-42.5527 128,-29 132.2819,-26.8468 136.8637,-24.8509 141.4967,-23.0258"/>
 <polygon fill="#191970" stroke="#191970" points="142.8262,-26.266 150.9988,-19.5237 140.4054,-19.6979 142.8262,-26.266"/>
 </g>
-<!-- Node16711&#45;&gt;Node16711 -->
+<!-- Node15536&#45;&gt;Node15536 -->
 <g id="edge4" class="edge">
-<title>Node16711&#45;&gt;Node16711</title>
+<title>Node15536&#45;&gt;Node15536</title>
 <path fill="none" stroke="#191970" d="M163.2302,-95.7571C152.8827,-104.5653 159.9727,-114 184.5,-114 200.2128,-114 208.7693,-110.128 210.1695,-105.0292"/>
 <polygon fill="#191970" stroke="#191970" points="213.2189,-103.2911 205.7698,-95.7571 206.8948,-106.292 213.2189,-103.2911"/>
 </g>

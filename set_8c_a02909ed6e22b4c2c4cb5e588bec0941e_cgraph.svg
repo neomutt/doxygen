@@ -9,60 +9,60 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 100)">
 <title>cs_inherit_variable</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-100 400,-100 400,4 -4,4"/>
-<!-- Node4018 -->
+<!-- Node4330 -->
 <g id="node1" class="node">
-<title>Node4018</title>
+<title>Node4330</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-38.5 0,-57.5 109,-57.5 109,-38.5 0,-38.5"/>
 <text text-anchor="middle" x="54.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_inherit_variable</text>
 </g>
-<!-- Node4019 -->
+<!-- Node4331 -->
 <g id="node2" class="node">
-<title>Node4019</title>
+<title>Node4331</title>
 <g id="a_node2"><a xlink:href="memory_8c.html#a4c1612d209c7825d55e6a014df352f03" target="_top" xlink:title="Allocate zeroed memory on the heap. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="160,-76.5 160,-95.5 264,-95.5 264,-76.5 160,-76.5"/>
 <text text-anchor="middle" x="212" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_mem_calloc</text>
 </a>
 </g>
 </g>
-<!-- Node4018&#45;&gt;Node4019 -->
+<!-- Node4330&#45;&gt;Node4331 -->
 <g id="edge1" class="edge">
-<title>Node4018&#45;&gt;Node4019</title>
+<title>Node4330&#45;&gt;Node4331</title>
 <path fill="none" stroke="#191970" d="M94.2439,-57.589C115.0277,-62.6035 140.6611,-68.7881 162.6995,-74.1053"/>
 <polygon fill="#191970" stroke="#191970" points="161.9999,-77.5368 172.5419,-76.4799 163.6417,-70.7321 161.9999,-77.5368"/>
 </g>
-<!-- Node4021 -->
+<!-- Node4333 -->
 <g id="node3" class="node">
-<title>Node4021</title>
+<title>Node4333</title>
 <g id="a_node3"><a xlink:href="mutt_2string_8c.html#a4c2560f787bd1226b977992c16860c98" target="_top" xlink:title="Copy a string, safely. ">
 <polygon fill="#ffffff" stroke="#000000" points="315,-19.5 315,-38.5 396,-38.5 396,-19.5 315,-19.5"/>
 <text text-anchor="middle" x="355.5" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_str_dup</text>
 </a>
 </g>
 </g>
-<!-- Node4018&#45;&gt;Node4021 -->
+<!-- Node4330&#45;&gt;Node4333 -->
 <g id="edge2" class="edge">
-<title>Node4018&#45;&gt;Node4021</title>
+<title>Node4330&#45;&gt;Node4333</title>
 <path fill="none" stroke="#191970" d="M109.0088,-44.5592C164.7136,-41.043 250.5301,-35.626 304.8085,-32.1998"/>
 <polygon fill="#191970" stroke="#191970" points="305.134,-35.6863 314.8936,-31.5632 304.6929,-28.7002 305.134,-35.6863"/>
 </g>
-<!-- Node4022 -->
+<!-- Node4334 -->
 <g id="node4" class="node">
-<title>Node4022</title>
+<title>Node4334</title>
 <g id="a_node4"><a xlink:href="hash_8c.html#a4a327d1c45d793f2d5fb1298f84381d4" target="_top" xlink:title="Insert a string with type info into a Hash Table. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="145,-.5 145,-19.5 279,-19.5 279,-.5 145,-.5"/>
 <text text-anchor="middle" x="212" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_hash_typed_insert</text>
 </a>
 </g>
 </g>
-<!-- Node4018&#45;&gt;Node4022 -->
+<!-- Node4330&#45;&gt;Node4334 -->
 <g id="edge3" class="edge">
-<title>Node4018&#45;&gt;Node4022</title>
+<title>Node4330&#45;&gt;Node4334</title>
 <path fill="none" stroke="#191970" d="M94.2439,-38.411C115.0277,-33.3965 140.6611,-27.2119 162.6995,-21.8947"/>
 <polygon fill="#191970" stroke="#191970" points="163.6417,-25.2679 172.5419,-19.5201 161.9999,-18.4632 163.6417,-25.2679"/>
 </g>
-<!-- Node4022&#45;&gt;Node4021 -->
+<!-- Node4334&#45;&gt;Node4333 -->
 <g id="edge4" class="edge">
-<title>Node4022&#45;&gt;Node4021</title>
+<title>Node4334&#45;&gt;Node4333</title>
 <path fill="none" stroke="#191970" d="M279.1283,-18.8881C287.8406,-20.0416 296.6441,-21.2072 305.0222,-22.3165"/>
 <polygon fill="#191970" stroke="#191970" points="304.623,-25.7941 314.9959,-23.6371 305.5419,-18.8547 304.623,-25.7941"/>
 </g>

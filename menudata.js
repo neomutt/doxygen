@@ -222,4 +222,5 @@ var menudata={children:[
 {text:"u",url:"globals_defs_u.html#index_u"},
 {text:"w",url:"globals_defs_w.html#index_w"}]}]}]},
 {text:"Libraries",url:"pages.html",children:[
-{text:"Libraries",url:"pages.html"}]}]}
+{text:"Libraries",url:"pages.html"}]},
+{text:"Modules",url:"modules.html"}]}

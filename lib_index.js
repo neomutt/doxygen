@@ -1,6 +1,7 @@
 var lib_index =
 [
     [ "Config used by libindex", "index_config.html", null ],
+    [ "Index functions", "index_functions.html", null ],
     [ "Index Dialog", "index_dialog.html", null ],
     [ "Index Bar (status)", "index_ibar.html", null ],
     [ "Index Window", "index_index.html", null ],

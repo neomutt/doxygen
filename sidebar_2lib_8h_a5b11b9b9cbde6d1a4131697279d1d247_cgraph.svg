@@ -9,210 +9,210 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 404)">
 <title>sb_change_mailbox</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-404 396,-404 396,4 -4,4"/>
-<!-- Node4438 -->
+<!-- Node4102 -->
 <g id="node1" class="node">
-<title>Node4438</title>
+<title>Node4102</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-190.5 0,-209.5 113,-209.5 113,-190.5 0,-190.5"/>
 <text text-anchor="middle" x="56.5" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">sb_change_mailbox</text>
 </g>
-<!-- Node4439 -->
+<!-- Node4103 -->
 <g id="node2" class="node">
-<title>Node4439</title>
+<title>Node4103</title>
 <g id="a_node2"><a xlink:href="mutt__window_8c.html#a03920015a9ccfd1814779c1570f2fee6" target="_top" xlink:title="Is the Window visible? ">
 <polygon fill="#ffffff" stroke="#000000" points="149,-380.5 149,-399.5 283,-399.5 283,-380.5 149,-380.5"/>
 <text text-anchor="middle" x="216" y="-387.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_window_is_visible</text>
 </a>
 </g>
 </g>
-<!-- Node4438&#45;&gt;Node4439 -->
+<!-- Node4102&#45;&gt;Node4103 -->
 <g id="edge1" class="edge">
-<title>Node4438&#45;&gt;Node4439</title>
+<title>Node4102&#45;&gt;Node4103</title>
 <path fill="none" stroke="#191970" d="M58.9183,-209.865C66.6243,-239.1752 93.4278,-326.4608 149,-371 151.2554,-372.8076 153.6739,-374.4434 156.2053,-375.9235"/>
 <polygon fill="#191970" stroke="#191970" points="154.6613,-379.0645 165.1741,-380.3803 157.7764,-372.7958 154.6613,-379.0645"/>
 </g>
-<!-- Node4440 -->
+<!-- Node4104 -->
 <g id="node3" class="node">
-<title>Node4440</title>
+<title>Node4104</title>
 <g id="a_node3"><a xlink:href="sidebar_2private_8h.html#ab5b13b1e7dde22852a4cec0b3cb6e7cb" target="_top" xlink:title="Get the Sidebar data for this window. ">
 <polygon fill="#ffffff" stroke="#000000" points="174,-342.5 174,-361.5 258,-361.5 258,-342.5 174,-342.5"/>
 <text text-anchor="middle" x="216" y="-349.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">sb_wdata_get</text>
 </a>
 </g>
 </g>
-<!-- Node4438&#45;&gt;Node4440 -->
+<!-- Node4102&#45;&gt;Node4104 -->
 <g id="edge2" class="edge">
-<title>Node4438&#45;&gt;Node4440</title>
+<title>Node4102&#45;&gt;Node4104</title>
 <path fill="none" stroke="#191970" d="M60.4623,-209.7452C70.9833,-234.3709 102.0642,-299.5122 149,-333 153.6136,-336.2917 158.784,-339.015 164.1526,-341.2676"/>
 <polygon fill="#191970" stroke="#191970" points="163.3586,-344.7032 173.9527,-344.8352 165.7532,-338.1255 163.3586,-344.7032"/>
 </g>
-<!-- Node4441 -->
+<!-- Node4105 -->
 <g id="node4" class="node">
-<title>Node4441</title>
+<title>Node4105</title>
 <g id="a_node4"><a xlink:href="helpers_8c.html#ae50f679dd6c5bd1ba820884c8602f038" target="_top" xlink:title="Get a boolean config item by name. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="170.5,-304.5 170.5,-323.5 261.5,-323.5 261.5,-304.5 170.5,-304.5"/>
 <text text-anchor="middle" x="216" y="-311.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_subset_bool</text>
 </a>
 </g>
 </g>
-<!-- Node4438&#45;&gt;Node4441 -->
+<!-- Node4102&#45;&gt;Node4105 -->
 <g id="edge3" class="edge">
-<title>Node4438&#45;&gt;Node4441</title>
+<title>Node4102&#45;&gt;Node4105</title>
 <path fill="none" stroke="#191970" d="M63.1852,-209.6963C76.9546,-228.9264 110.4417,-272.0163 149,-295 152.6804,-297.1938 156.6257,-299.1443 160.6921,-300.8768"/>
 <polygon fill="#191970" stroke="#191970" points="159.7411,-304.2595 170.3323,-304.5358 162.2251,-297.715 159.7411,-304.2595"/>
 </g>
-<!-- Node4464 -->
+<!-- Node4128 -->
 <g id="node5" class="node">
-<title>Node4464</title>
+<title>Node4128</title>
 <g id="a_node5"><a xlink:href="sidebar_2functions_8c.html#a0222a961b136eea0bb5cb34747e9cfd4" target="_top" xlink:title="Selects the first unhidden mailbox. ">
 <polygon fill="#ffffff" stroke="#000000" points="181,-266.5 181,-285.5 251,-285.5 251,-266.5 181,-266.5"/>
 <text text-anchor="middle" x="216" y="-273.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">select_first</text>
 </a>
 </g>
 </g>
-<!-- Node4438&#45;&gt;Node4464 -->
+<!-- Node4102&#45;&gt;Node4128 -->
 <g id="edge4" class="edge">
-<title>Node4438&#45;&gt;Node4464</title>
+<title>Node4102&#45;&gt;Node4128</title>
 <path fill="none" stroke="#191970" d="M71.7944,-209.655C89.8052,-220.7729 120.8424,-239.1527 149,-252 157.6678,-255.9548 167.1927,-259.7046 176.2719,-263.0141"/>
 <polygon fill="#191970" stroke="#191970" points="175.2924,-266.3802 185.8872,-266.4213 177.6305,-259.7822 175.2924,-266.3802"/>
 </g>
-<!-- Node4465 -->
+<!-- Node4129 -->
 <g id="node6" class="node">
-<title>Node4465</title>
+<title>Node4129</title>
 <g id="a_node6"><a xlink:href="sidebar_2functions_8c.html#a783b12db809f5b2b15fe8f52219f0aa0" target="_top" xlink:title="Selects the next unhidden mailbox. ">
 <polygon fill="#ffffff" stroke="#000000" points="319,-209.5 319,-228.5 392,-228.5 392,-209.5 319,-209.5"/>
 <text text-anchor="middle" x="355.5" y="-216.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">select_next</text>
 </a>
 </g>
 </g>
-<!-- Node4438&#45;&gt;Node4465 -->
+<!-- Node4102&#45;&gt;Node4129 -->
 <g id="edge8" class="edge">
-<title>Node4438&#45;&gt;Node4465</title>
+<title>Node4102&#45;&gt;Node4129</title>
 <path fill="none" stroke="#191970" d="M94.0369,-209.5095C110.744,-213.2744 130.7325,-217.1433 149,-219 203.5815,-224.5478 266.6983,-223.4629 308.6417,-221.6926"/>
 <polygon fill="#191970" stroke="#191970" points="308.9996,-225.1801 318.8311,-221.2314 308.683,-218.1872 308.9996,-225.1801"/>
 </g>
-<!-- Node4466 -->
+<!-- Node4130 -->
 <g id="node7" class="node">
-<title>Node4466</title>
+<title>Node4130</title>
 <g id="a_node7"><a xlink:href="sidebar_2functions_8c.html#a274a700dbd0be9dde567b7657d15ff50" target="_top" xlink:title="Selects the last unhidden mailbox. ">
 <polygon fill="#ffffff" stroke="#000000" points="181.5,-114.5 181.5,-133.5 250.5,-133.5 250.5,-114.5 181.5,-114.5"/>
 <text text-anchor="middle" x="216" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">select_last</text>
 </a>
 </g>
 </g>
-<!-- Node4438&#45;&gt;Node4466 -->
+<!-- Node4102&#45;&gt;Node4130 -->
 <g id="edge6" class="edge">
-<title>Node4438&#45;&gt;Node4466</title>
+<title>Node4102&#45;&gt;Node4130</title>
 <path fill="none" stroke="#191970" d="M69.3456,-190.4827C86.6524,-178.045 118.7821,-156.2882 149,-143 156.1595,-139.8517 163.9787,-137.0813 171.6671,-134.6988"/>
 <polygon fill="#191970" stroke="#191970" points="172.6604,-138.055 181.2763,-131.8893 170.6959,-131.3363 172.6604,-138.055"/>
 </g>
-<!-- Node4467 -->
+<!-- Node4131 -->
 <g id="node8" class="node">
-<title>Node4467</title>
+<title>Node4131</title>
 <g id="a_node8"><a xlink:href="sidebar_2functions_8c.html#a20d03da9fb1f98af4f82061d90f31e41" target="_top" xlink:title="Selects the previous unhidden mailbox. ">
 <polygon fill="#ffffff" stroke="#000000" points="319,-133.5 319,-152.5 392,-152.5 392,-133.5 319,-133.5"/>
 <text text-anchor="middle" x="355.5" y="-140.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">select_prev</text>
 </a>
 </g>
 </g>
-<!-- Node4438&#45;&gt;Node4467 -->
+<!-- Node4102&#45;&gt;Node4131 -->
 <g id="edge16" class="edge">
-<title>Node4438&#45;&gt;Node4467</title>
+<title>Node4102&#45;&gt;Node4131</title>
 <path fill="none" stroke="#191970" d="M62.1263,-190.3096C74.6381,-169.8602 107.0074,-122.7228 149,-105 203.869,-81.8428 225.1711,-90.7634 283,-105 301.0507,-109.4438 319.5844,-119.2683 333.3942,-127.8141"/>
 <polygon fill="#191970" stroke="#191970" points="331.8338,-130.9722 342.1362,-133.4444 335.6241,-125.0872 331.8338,-130.9722"/>
 </g>
-<!-- Node4468 -->
+<!-- Node4132 -->
 <g id="node9" class="node">
-<title>Node4468</title>
+<title>Node4132</title>
 <g id="a_node9"><a xlink:href="sidebar_2functions_8c.html#a81a98a3fefb21902f38fca34265be52b" target="_top" xlink:title="Selects the next new mailbox. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="167,-38.5 167,-57.5 265,-57.5 265,-38.5 167,-38.5"/>
 <text text-anchor="middle" x="216" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">select_next_new</text>
 </a>
 </g>
 </g>
-<!-- Node4438&#45;&gt;Node4468 -->
+<!-- Node4102&#45;&gt;Node4132 -->
 <g id="edge9" class="edge">
-<title>Node4438&#45;&gt;Node4468</title>
+<title>Node4102&#45;&gt;Node4132</title>
 <path fill="none" stroke="#191970" d="M60.8647,-190.4612C72.0974,-166.9327 104.2881,-105.6036 149,-72 154.5081,-67.8604 160.7957,-64.3854 167.2619,-61.482"/>
 <polygon fill="#191970" stroke="#191970" points="168.8358,-64.6209 176.7935,-57.6262 166.2107,-58.1317 168.8358,-64.6209"/>
 </g>
-<!-- Node4470 -->
+<!-- Node4134 -->
 <g id="node10" class="node">
-<title>Node4470</title>
+<title>Node4134</title>
 <g id="a_node10"><a xlink:href="sidebar_2functions_8c.html#aebff1a41887fd6fec659359bd5c25e57" target="_top" xlink:title="Selects the first entry in the next page of mailboxes. ">
 <polygon fill="#ffffff" stroke="#000000" points="162.5,-152.5 162.5,-171.5 269.5,-171.5 269.5,-152.5 162.5,-152.5"/>
 <text text-anchor="middle" x="216" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">select_page_down</text>
 </a>
 </g>
 </g>
-<!-- Node4438&#45;&gt;Node4470 -->
+<!-- Node4102&#45;&gt;Node4134 -->
 <g id="edge10" class="edge">
-<title>Node4438&#45;&gt;Node4470</title>
+<title>Node4102&#45;&gt;Node4134</title>
 <path fill="none" stroke="#191970" d="M96.7486,-190.411C117.7963,-185.3965 143.7552,-179.2119 166.0734,-173.8947"/>
 <polygon fill="#191970" stroke="#191970" points="167.1243,-177.2424 176.0408,-171.5201 165.5019,-170.433 167.1243,-177.2424"/>
 </g>
-<!-- Node4471 -->
+<!-- Node4135 -->
 <g id="node11" class="node">
-<title>Node4471</title>
+<title>Node4135</title>
 <g id="a_node11"><a xlink:href="sidebar_2functions_8c.html#a1070cc745831603687030058f90f986e" target="_top" xlink:title="Selects the last entry in the previous page of mailboxes. ">
 <polygon fill="#ffffff" stroke="#000000" points="170,-190.5 170,-209.5 262,-209.5 262,-190.5 170,-190.5"/>
 <text text-anchor="middle" x="216" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">select_page_up</text>
 </a>
 </g>
 </g>
-<!-- Node4438&#45;&gt;Node4471 -->
+<!-- Node4102&#45;&gt;Node4135 -->
 <g id="edge13" class="edge">
-<title>Node4438&#45;&gt;Node4471</title>
+<title>Node4102&#45;&gt;Node4135</title>
 <path fill="none" stroke="#191970" d="M113.1828,-200C128.3152,-200 144.66,-200 159.768,-200"/>
 <polygon fill="#191970" stroke="#191970" points="159.9998,-203.5001 169.9998,-200 159.9997,-196.5001 159.9998,-203.5001"/>
 </g>
-<!-- Node4472 -->
+<!-- Node4136 -->
 <g id="node12" class="node">
-<title>Node4472</title>
+<title>Node4136</title>
 <g id="a_node12"><a xlink:href="sidebar_2functions_8c.html#ab311f407d785628b423a4682e28654b4" target="_top" xlink:title="Selects the previous new mailbox. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="167,-.5 167,-19.5 265,-19.5 265,-.5 167,-.5"/>
 <text text-anchor="middle" x="216" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">select_prev_new</text>
 </a>
 </g>
 </g>
-<!-- Node4438&#45;&gt;Node4472 -->
+<!-- Node4102&#45;&gt;Node4136 -->
 <g id="edge17" class="edge">
-<title>Node4438&#45;&gt;Node4472</title>
+<title>Node4102&#45;&gt;Node4136</title>
 <path fill="none" stroke="#191970" d="M58.9183,-190.135C66.6243,-160.8248 93.4278,-73.5392 149,-29 151.7242,-26.8167 154.6862,-24.8841 157.7978,-23.1736"/>
 <polygon fill="#191970" stroke="#191970" points="159.3171,-26.327 166.8895,-18.9169 156.3489,-19.9874 159.3171,-26.327"/>
 </g>
-<!-- Node4464&#45;&gt;Node4465 -->
+<!-- Node4128&#45;&gt;Node4129 -->
 <g id="edge5" class="edge">
-<title>Node4464&#45;&gt;Node4465</title>
+<title>Node4128&#45;&gt;Node4129</title>
 <path fill="none" stroke="#191970" d="M244.2315,-266.4729C256.2652,-262.2613 270.4065,-257.1114 283,-252 297.539,-246.099 313.4318,-238.9465 326.6224,-232.8109"/>
 <polygon fill="#191970" stroke="#191970" points="328.1254,-235.9719 335.6917,-228.5555 325.1519,-229.6348 328.1254,-235.9719"/>
 </g>
-<!-- Node4466&#45;&gt;Node4467 -->
+<!-- Node4130&#45;&gt;Node4131 -->
 <g id="edge7" class="edge">
-<title>Node4466&#45;&gt;Node4467</title>
+<title>Node4130&#45;&gt;Node4131</title>
 <path fill="none" stroke="#191970" d="M250.8419,-128.7455C268.354,-131.1307 289.8216,-134.0546 308.7462,-136.6321"/>
 <polygon fill="#191970" stroke="#191970" points="308.2847,-140.1015 318.6655,-137.9831 309.2294,-133.1655 308.2847,-140.1015"/>
 </g>
-<!-- Node4470&#45;&gt;Node4465 -->
+<!-- Node4134&#45;&gt;Node4129 -->
 <g id="edge11" class="edge">
-<title>Node4470&#45;&gt;Node4465</title>
+<title>Node4134&#45;&gt;Node4129</title>
 <path fill="none" stroke="#191970" d="M254.7213,-171.5117C264.1039,-174.217 274.0159,-177.4163 283,-181 299.4087,-187.5453 316.9772,-196.6944 330.7098,-204.3751"/>
 <polygon fill="#191970" stroke="#191970" points="329.1214,-207.4983 339.5428,-209.4078 332.5868,-201.4162 329.1214,-207.4983"/>
 </g>
-<!-- Node4470&#45;&gt;Node4467 -->
+<!-- Node4134&#45;&gt;Node4131 -->
 <g id="edge12" class="edge">
-<title>Node4470&#45;&gt;Node4467</title>
+<title>Node4134&#45;&gt;Node4131</title>
 <path fill="none" stroke="#191970" d="M269.5354,-154.7084C282.3813,-152.9588 296.004,-151.1034 308.5265,-149.3978"/>
 <polygon fill="#191970" stroke="#191970" points="309.3093,-152.8236 318.7454,-148.006 308.3645,-145.8877 309.3093,-152.8236"/>
 </g>
-<!-- Node4471&#45;&gt;Node4465 -->
+<!-- Node4135&#45;&gt;Node4129 -->
 <g id="edge15" class="edge">
-<title>Node4471&#45;&gt;Node4465</title>
+<title>Node4135&#45;&gt;Node4129</title>
 <path fill="none" stroke="#191970" d="M262.0641,-206.274C277.0238,-208.3115 293.633,-210.5737 308.6494,-212.6189"/>
 <polygon fill="#191970" stroke="#191970" points="308.3702,-216.1131 318.7511,-213.9948 309.315,-209.1772 308.3702,-216.1131"/>
 </g>
-<!-- Node4471&#45;&gt;Node4467 -->
+<!-- Node4135&#45;&gt;Node4131 -->
 <g id="edge14" class="edge">
-<title>Node4471&#45;&gt;Node4467</title>
+<title>Node4135&#45;&gt;Node4131</title>
 <path fill="none" stroke="#191970" d="M254.7213,-190.4883C264.1039,-187.783 274.0159,-184.5837 283,-181 299.4087,-174.4547 316.9772,-165.3056 330.7098,-157.6249"/>
 <polygon fill="#191970" stroke="#191970" points="332.5868,-160.5838 339.5428,-152.5922 329.1214,-154.5017 332.5868,-160.5838"/>
 </g>

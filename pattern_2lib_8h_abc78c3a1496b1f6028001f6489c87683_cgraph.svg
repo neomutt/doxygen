@@ -9,390 +9,390 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 785.5231)">
 <title>mutt_pattern_func</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-785.5231 452,-785.5231 452,4 -4,4"/>
-<!-- Node9075 -->
+<!-- Node9171 -->
 <g id="node1" class="node">
-<title>Node9075</title>
+<title>Node9171</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-398.5 0,-417.5 107,-417.5 107,-398.5 0,-398.5"/>
 <text text-anchor="middle" x="53.5" y="-405.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_pattern_func</text>
 </g>
-<!-- Node9076 -->
+<!-- Node9172 -->
 <g id="node2" class="node">
-<title>Node9076</title>
+<title>Node9172</title>
 <g id="a_node2"><a xlink:href="pool_8c.html#a2129d5ea0085753afdd37cf62161845d" target="_top" xlink:title="Get a Buffer from the pool. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="317,-740.5 317,-759.5 438,-759.5 438,-740.5 317,-740.5"/>
 <text text-anchor="middle" x="377.5" y="-747.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_buffer_pool_get</text>
 </a>
 </g>
 </g>
-<!-- Node9075&#45;&gt;Node9076 -->
+<!-- Node9171&#45;&gt;Node9172 -->
 <g id="edge1" class="edge">
-<title>Node9075&#45;&gt;Node9076</title>
+<title>Node9171&#45;&gt;Node9172</title>
 <path fill="none" stroke="#191970" d="M54.436,-417.6178C59.6534,-469.0196 86.9484,-710.6024 143,-754 200.8315,-798.7757 292.9576,-778.7474 342.7799,-762.8116"/>
 <polygon fill="#191970" stroke="#191970" points="344.0635,-766.0734 352.4498,-759.5988 341.8563,-759.4304 344.0635,-766.0734"/>
 </g>
-<!-- Node9085 -->
+<!-- Node9181 -->
 <g id="node3" class="node">
-<title>Node9085</title>
+<title>Node9181</title>
 <g id="a_node3"><a xlink:href="buffer_8c.html#a4bcc481586ae3af02645b4e23e48e0d7" target="_top" xlink:title="Copy a string into a Buffer. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="323,-474.5 323,-493.5 432,-493.5 432,-474.5 323,-474.5"/>
 <text text-anchor="middle" x="377.5" y="-481.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_buffer_strcpy</text>
 </a>
 </g>
 </g>
-<!-- Node9075&#45;&gt;Node9085 -->
+<!-- Node9171&#45;&gt;Node9181 -->
 <g id="edge2" class="edge">
-<title>Node9075&#45;&gt;Node9085</title>
+<title>Node9171&#45;&gt;Node9181</title>
 <path fill="none" stroke="#191970" d="M72.9459,-417.5517C90.773,-425.94 118.104,-437.884 143,-445 199.1932,-461.0617 264.9727,-471.2875 312.5385,-477.2191"/>
 <polygon fill="#191970" stroke="#191970" points="312.3542,-480.7224 322.7038,-478.4561 313.1998,-473.7737 312.3542,-480.7224"/>
 </g>
-<!-- Node9090 -->
+<!-- Node9186 -->
 <g id="node4" class="node">
-<title>Node9090</title>
+<title>Node9186</title>
 <g id="a_node4"><a xlink:href="curs__lib_8c.html#a89ddceeb9356040360c64ff0c9463480" target="_top" xlink:title="Ask the user for a string. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="146.5,-702.5 146.5,-721.5 267.5,-721.5 267.5,-702.5 146.5,-702.5"/>
 <text text-anchor="middle" x="207" y="-709.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_buffer_get_field</text>
 </a>
 </g>
 </g>
-<!-- Node9075&#45;&gt;Node9090 -->
+<!-- Node9171&#45;&gt;Node9186 -->
 <g id="edge3" class="edge">
-<title>Node9075&#45;&gt;Node9090</title>
+<title>Node9171&#45;&gt;Node9186</title>
 <path fill="none" stroke="#191970" d="M55.2903,-417.7247C63.7937,-462.9314 101.4219,-652.0694 143,-693 144.4868,-694.4636 146.0808,-695.8153 147.7598,-697.0636"/>
 <polygon fill="#191970" stroke="#191970" points="146.386,-700.322 156.7581,-702.483 149.9975,-694.3255 146.386,-700.322"/>
 </g>
-<!-- Node9428 -->
+<!-- Node9524 -->
 <g id="node5" class="node">
-<title>Node9428</title>
+<title>Node9524</title>
 <g id="a_node5"><a xlink:href="buffer_8c.html#a2d7c4a32422377609be66b0f620c4971" target="_top" xlink:title="Is the Buffer empty? ">
 <polygon fill="#ffffff" stroke="#000000" points="145,-664.5 145,-683.5 269,-683.5 269,-664.5 145,-664.5"/>
 <text text-anchor="middle" x="207" y="-671.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_buffer_is_empty</text>
 </a>
 </g>
 </g>
-<!-- Node9075&#45;&gt;Node9428 -->
+<!-- Node9171&#45;&gt;Node9524 -->
 <g id="edge4" class="edge">
-<title>Node9075&#45;&gt;Node9428</title>
+<title>Node9171&#45;&gt;Node9524</title>
 <path fill="none" stroke="#191970" d="M54.0134,-417.6938C56.4911,-454.4337 70.3155,-586.4853 143,-655 144.6789,-656.5826 146.4837,-658.0339 148.3846,-659.3649"/>
 <polygon fill="#191970" stroke="#191970" points="146.8297,-662.5082 157.2427,-664.4629 150.3214,-656.4412 146.8297,-662.5082"/>
 </g>
-<!-- Node9289 -->
+<!-- Node9385 -->
 <g id="node6" class="node">
-<title>Node9289</title>
+<title>Node9385</title>
 <g id="a_node6"><a xlink:href="pool_8c.html#a08b48e2ac8849341888ee7429cc5093c" target="_top" xlink:title="Free a Buffer from the pool. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="307,-664.5 307,-683.5 448,-683.5 448,-664.5 307,-664.5"/>
 <text text-anchor="middle" x="377.5" y="-671.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_buffer_pool_release</text>
 </a>
 </g>
 </g>
-<!-- Node9075&#45;&gt;Node9289 -->
+<!-- Node9171&#45;&gt;Node9385 -->
 <g id="edge5" class="edge">
-<title>Node9075&#45;&gt;Node9289</title>
+<title>Node9171&#45;&gt;Node9385</title>
 <path fill="none" stroke="#191970" d="M54.6219,-417.6285C60.5882,-466.9928 90.3167,-690.9296 143,-731 208.8281,-781.0682 312.5676,-720.0302 356.6113,-689.463"/>
 <polygon fill="#191970" stroke="#191970" points="358.7051,-692.2689 364.8324,-683.6255 354.6524,-686.5613 358.7051,-692.2689"/>
 </g>
-<!-- Node9347 -->
+<!-- Node9443 -->
 <g id="node7" class="node">
-<title>Node9347</title>
+<title>Node9443</title>
 <g id="a_node7"><a xlink:href="buffer_8c.html#aa43f3cb9584746ca0cf6720ac1fc38e7" target="_top" xlink:title="Copy a Buffer&#39;s string. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="152,-588.5 152,-607.5 262,-607.5 262,-588.5 152,-588.5"/>
 <text text-anchor="middle" x="207" y="-595.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_buffer_strdup</text>
 </a>
 </g>
 </g>
-<!-- Node9075&#45;&gt;Node9347 -->
+<!-- Node9171&#45;&gt;Node9443 -->
 <g id="edge6" class="edge">
-<title>Node9075&#45;&gt;Node9347</title>
+<title>Node9171&#45;&gt;Node9443</title>
 <path fill="none" stroke="#191970" d="M55.7637,-417.829C63.0071,-447.0385 88.4085,-534.0721 143,-579 145.1493,-580.7688 147.4585,-582.3729 149.8788,-583.8278"/>
 <polygon fill="#191970" stroke="#191970" points="148.5388,-587.0724 159.0412,-588.4696 151.7024,-580.828 148.5388,-587.0724"/>
 </g>
-<!-- Node9213 -->
+<!-- Node9309 -->
 <g id="node8" class="node">
-<title>Node9213</title>
+<title>Node9309</title>
 <g id="a_node8"><a xlink:href="helpers_8c.html#ac477c591155aa4ae0452bbabc0affffe" target="_top" xlink:title="Get a string config item by name. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="158,-550.5 158,-569.5 256,-569.5 256,-550.5 158,-550.5"/>
 <text text-anchor="middle" x="207" y="-557.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_subset_string</text>
 </a>
 </g>
 </g>
-<!-- Node9075&#45;&gt;Node9213 -->
+<!-- Node9171&#45;&gt;Node9309 -->
 <g id="edge7" class="edge">
-<title>Node9075&#45;&gt;Node9213</title>
+<title>Node9171&#45;&gt;Node9309</title>
 <path fill="none" stroke="#191970" d="M57.6677,-417.502C68.4094,-440.9463 99.29,-502.0986 143,-536 148.3551,-540.1534 154.5059,-543.6481 160.831,-546.5712"/>
 <polygon fill="#191970" stroke="#191970" points="159.5734,-549.8388 170.1503,-550.4552 162.2663,-543.3775 159.5734,-549.8388"/>
 </g>
-<!-- Node10364 -->
+<!-- Node10467 -->
 <g id="node9" class="node">
-<title>Node10364</title>
+<title>Node10467</title>
 <g id="a_node9"><a xlink:href="pattern_8c.html#ac4be56068a28743c1ca64c1e61e76ae2" target="_top" xlink:title="Convert a simple search into a real request. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="151,-626.5 151,-645.5 263,-645.5 263,-626.5 151,-626.5"/>
 <text text-anchor="middle" x="207" y="-633.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_check_simple</text>
 </a>
 </g>
 </g>
-<!-- Node9075&#45;&gt;Node10364 -->
+<!-- Node9171&#45;&gt;Node10467 -->
 <g id="edge8" class="edge">
-<title>Node9075&#45;&gt;Node10364</title>
+<title>Node9171&#45;&gt;Node10467</title>
 <path fill="none" stroke="#191970" d="M54.7082,-417.5609C59.3834,-450.4942 79.3191,-560.3094 143,-617 144.7585,-618.5654 146.6408,-620.0021 148.6163,-621.3205"/>
 <polygon fill="#191970" stroke="#191970" points="147.3325,-624.6096 157.779,-626.3767 150.7146,-618.4808 147.3325,-624.6096"/>
 </g>
-<!-- Node9253 -->
+<!-- Node9349 -->
 <g id="node10" class="node">
-<title>Node9253</title>
+<title>Node9349</title>
 <g id="a_node10"><a xlink:href="mutt_2string_8c.html#a6b6a50296dd2a31863a43379ef4a343d" target="_top" xlink:title="Compare two strings. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="332.5,-588.5 332.5,-607.5 422.5,-607.5 422.5,-588.5 332.5,-588.5"/>
 <text text-anchor="middle" x="377.5" y="-595.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_str_equal</text>
 </a>
 </g>
 </g>
-<!-- Node9075&#45;&gt;Node9253 -->
+<!-- Node9171&#45;&gt;Node9349 -->
 <g id="edge13" class="edge">
-<title>Node9075&#45;&gt;Node9253</title>
+<title>Node9171&#45;&gt;Node9349</title>
 <path fill="none" stroke="#191970" d="M65.8969,-417.6376C82.8601,-430.6435 114.4605,-454.2296 143,-472 147.9344,-475.0724 290.0108,-551.1711 350.5733,-583.5898"/>
 <polygon fill="#191970" stroke="#191970" points="349.0917,-586.7665 359.5599,-588.3998 352.3951,-580.595 349.0917,-586.7665"/>
 </g>
-<!-- Node9082 -->
+<!-- Node9178 -->
 <g id="node11" class="node">
-<title>Node9082</title>
+<title>Node9178</title>
 <g id="a_node11"><a xlink:href="buffer_8c.html#ab807be90af362e2c91aa45993fda0d5d" target="_top" xlink:title="Initialise a new Buffer. ">
 <polygon fill="#ffffff" stroke="#000000" points="330,-342.5 330,-361.5 425,-361.5 425,-342.5 330,-342.5"/>
 <text text-anchor="middle" x="377.5" y="-349.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_buffer_init</text>
 </a>
 </g>
 </g>
-<!-- Node9075&#45;&gt;Node9082 -->
+<!-- Node9171&#45;&gt;Node9178 -->
 <g id="edge14" class="edge">
-<title>Node9075&#45;&gt;Node9082</title>
+<title>Node9171&#45;&gt;Node9178</title>
 <path fill="none" stroke="#191970" d="M82.7832,-417.5803C125.303,-429.9387 206.1385,-447.5467 271,-427 307.0296,-415.5866 341.4058,-387.111 360.932,-368.715"/>
 <polygon fill="#191970" stroke="#191970" points="363.6049,-370.9988 368.3527,-361.5273 358.7347,-365.9707 363.6049,-370.9988"/>
 </g>
-<!-- Node9081 -->
+<!-- Node9177 -->
 <g id="node12" class="node">
-<title>Node9081</title>
+<title>Node9177</title>
 <g id="a_node12"><a xlink:href="memory_8c.html#a264da4dc58e6dc8983285bd1f538f24d" target="_top" xlink:title="Allocate memory on the heap. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="152.5,-398.5 152.5,-417.5 261.5,-417.5 261.5,-398.5 152.5,-398.5"/>
 <text text-anchor="middle" x="207" y="-405.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_mem_malloc</text>
 </a>
 </g>
 </g>
-<!-- Node9075&#45;&gt;Node9081 -->
+<!-- Node9171&#45;&gt;Node9177 -->
 <g id="edge15" class="edge">
-<title>Node9075&#45;&gt;Node9081</title>
+<title>Node9171&#45;&gt;Node9177</title>
 <path fill="none" stroke="#191970" d="M107.1869,-408C118.4875,-408 130.5235,-408 142.1829,-408"/>
 <polygon fill="#191970" stroke="#191970" points="142.3041,-411.5001 152.3041,-408 142.3041,-404.5001 142.3041,-411.5001"/>
 </g>
-<!-- Node10366 -->
+<!-- Node10469 -->
 <g id="node13" class="node">
-<title>Node10366</title>
+<title>Node10469</title>
 <g id="a_node13"><a xlink:href="compile_8c.html#a3a72cebbb79a27c1ec38c7f7d7f3110f" target="_top" xlink:title="Create a Pattern. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="150.5,-342.5 150.5,-361.5 263.5,-361.5 263.5,-342.5 150.5,-342.5"/>
 <text text-anchor="middle" x="207" y="-349.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_pattern_comp</text>
 </a>
 </g>
 </g>
-<!-- Node9075&#45;&gt;Node10366 -->
+<!-- Node9171&#45;&gt;Node10469 -->
 <g id="edge16" class="edge">
-<title>Node9075&#45;&gt;Node10366</title>
+<title>Node9171&#45;&gt;Node10469</title>
 <path fill="none" stroke="#191970" d="M79.8876,-398.3733C105.1913,-389.1419 143.5711,-375.1402 171.5375,-364.9375"/>
 <polygon fill="#191970" stroke="#191970" points="172.7619,-368.2165 180.9567,-361.5011 170.3628,-361.6404 172.7619,-368.2165"/>
 </g>
-<!-- Node10347 -->
+<!-- Node10450 -->
 <g id="node14" class="node">
-<title>Node10347</title>
+<title>Node10450</title>
 <g id="a_node14"><a xlink:href="compile_8c.html#ae447e834babbe84bef7005199ec39962" target="_top" xlink:title="Free a Pattern. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="325,-276.5 325,-295.5 430,-295.5 430,-276.5 325,-276.5"/>
 <text text-anchor="middle" x="377.5" y="-283.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_pattern_free</text>
 </a>
 </g>
 </g>
-<!-- Node9075&#45;&gt;Node10347 -->
+<!-- Node9171&#45;&gt;Node10450 -->
 <g id="edge32" class="edge">
-<title>Node9075&#45;&gt;Node10347</title>
+<title>Node9171&#45;&gt;Node10450</title>
 <path fill="none" stroke="#191970" d="M57.5948,-398.4317C67.9644,-375.5744 97.6976,-317.9919 143,-295 197.5523,-267.3136 268.7859,-269.0095 318.3643,-275.1447"/>
 <polygon fill="#191970" stroke="#191970" points="317.9155,-278.6157 328.2904,-276.4678 318.8405,-271.6771 317.9155,-278.6157"/>
 </g>
-<!-- Node10386 -->
+<!-- Node10489 -->
 <g id="node15" class="node">
-<title>Node10386</title>
+<title>Node10489</title>
 <g id="a_node15"><a xlink:href="imap_2lib_8h.html#ac55dfb1446427e7f3cb17405877d585a" target="_top" xlink:title="Find messages in mailbox matching a pattern. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="167.5,-304.5 167.5,-323.5 246.5,-323.5 246.5,-304.5 167.5,-304.5"/>
 <text text-anchor="middle" x="207" y="-311.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">imap_search</text>
 </a>
 </g>
 </g>
-<!-- Node9075&#45;&gt;Node10386 -->
+<!-- Node9171&#45;&gt;Node10489 -->
 <g id="edge22" class="edge">
-<title>Node9075&#45;&gt;Node10386</title>
+<title>Node9171&#45;&gt;Node10489</title>
 <path fill="none" stroke="#191970" d="M62.4652,-398.2469C77.5885,-382.3519 109.7839,-350.8467 143,-333 147.6041,-330.5263 152.5719,-328.3345 157.6326,-326.4021"/>
 <polygon fill="#191970" stroke="#191970" points="159.1139,-329.5925 167.4076,-322.9997 156.8128,-322.9815 159.1139,-329.5925"/>
 </g>
-<!-- Node9483 -->
+<!-- Node9579 -->
 <g id="node16" class="node">
-<title>Node9483</title>
+<title>Node9579</title>
 <g id="a_node16"><a xlink:href="progress_2lib_8h.html#aba05e74a07a772a1336c0a19ea174614" target="_top" xlink:title="Create a new Progress Bar. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="165,-228.5 165,-247.5 249,-247.5 249,-228.5 165,-228.5"/>
 <text text-anchor="middle" x="207" y="-235.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">progress_new</text>
 </a>
 </g>
 </g>
-<!-- Node9075&#45;&gt;Node9483 -->
+<!-- Node9171&#45;&gt;Node9579 -->
 <g id="edge24" class="edge">
-<title>Node9075&#45;&gt;Node9483</title>
+<title>Node9171&#45;&gt;Node9579</title>
 <path fill="none" stroke="#191970" d="M56.8641,-398.3055C66.31,-372.4513 95.5283,-301.1655 143,-262 147.9257,-257.9361 153.6086,-254.5203 159.5125,-251.6596"/>
 <polygon fill="#191970" stroke="#191970" points="161.1022,-254.7856 168.8952,-247.6078 158.327,-248.3592 161.1022,-254.7856"/>
 </g>
-<!-- Node10153 -->
+<!-- Node10257 -->
 <g id="node17" class="node">
-<title>Node10153</title>
+<title>Node10257</title>
 <g id="a_node17"><a xlink:href="mx_8c.html#a4721eba787445b6c9ab9a6366b5e816d" target="_top" xlink:title="Bytes of padding between messages &#45; Wrapper for MxOps::msg_padding_size() ">
 <polygon fill="#ffffff" stroke="#000000" points="143,-190.5 143,-209.5 271,-209.5 271,-190.5 143,-190.5"/>
 <text text-anchor="middle" x="207" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mx_msg_padding_size</text>
 </a>
 </g>
 </g>
-<!-- Node9075&#45;&gt;Node10153 -->
+<!-- Node9171&#45;&gt;Node10257 -->
 <g id="edge25" class="edge">
-<title>Node9075&#45;&gt;Node10153</title>
+<title>Node9171&#45;&gt;Node10257</title>
 <path fill="none" stroke="#191970" d="M55.173,-398.4902C61.1011,-367.6612 84.0071,-269.5587 143,-219 144.9636,-217.3171 147.0711,-215.7832 149.2826,-214.3852"/>
 <polygon fill="#191970" stroke="#191970" points="151.0445,-217.4126 158.2424,-209.6383 147.7674,-211.2271 151.0445,-217.4126"/>
 </g>
-<!-- Node9517 -->
+<!-- Node9613 -->
 <g id="node18" class="node">
-<title>Node9517</title>
+<title>Node9613</title>
 <g id="a_node18"><a xlink:href="progress_2lib_8h.html#a7373bbf71548c41b082a305b3346727a" target="_top" xlink:title="Update the state of the progress bar. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="158,-152.5 158,-171.5 256,-171.5 256,-152.5 158,-152.5"/>
 <text text-anchor="middle" x="207" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">progress_update</text>
 </a>
 </g>
 </g>
-<!-- Node9075&#45;&gt;Node9517 -->
+<!-- Node9171&#45;&gt;Node9613 -->
 <g id="edge26" class="edge">
-<title>Node9075&#45;&gt;Node9517</title>
+<title>Node9171&#45;&gt;Node9613</title>
 <path fill="none" stroke="#191970" d="M54.3804,-398.1249C58.0449,-363.0298 75.2341,-243.1144 143,-181 144.9064,-179.2526 146.9667,-177.6654 149.1395,-176.2239"/>
 <polygon fill="#191970" stroke="#191970" points="150.9162,-179.2412 157.9909,-171.3545 147.5422,-173.108 150.9162,-179.2412"/>
 </g>
-<!-- Node9688 -->
+<!-- Node9786 -->
 <g id="node19" class="node">
-<title>Node9688</title>
+<title>Node9786</title>
 <g id="a_node19"><a xlink:href="exec_8c.html#a19019da905ed802ad656fbe8b2c8ca93" target="_top" xlink:title="Match a pattern against an email header. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="152.5,-114.5 152.5,-133.5 261.5,-133.5 261.5,-114.5 152.5,-114.5"/>
 <text text-anchor="middle" x="207" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_pattern_exec</text>
 </a>
 </g>
 </g>
-<!-- Node9075&#45;&gt;Node9688 -->
+<!-- Node9171&#45;&gt;Node9786 -->
 <g id="edge27" class="edge">
-<title>Node9075&#45;&gt;Node9688</title>
+<title>Node9171&#45;&gt;Node9786</title>
 <path fill="none" stroke="#191970" d="M55.5099,-398.3822C64.6854,-355.3249 103.8353,-180.7372 143,-143 144.5023,-141.5524 146.1098,-140.2145 147.8002,-138.9779"/>
 <polygon fill="#191970" stroke="#191970" points="150.0346,-141.7213 156.8405,-133.6015 146.4565,-135.7048 150.0346,-141.7213"/>
 </g>
-<!-- Node9682 -->
+<!-- Node9780 -->
 <g id="node20" class="node">
-<title>Node9682</title>
+<title>Node9780</title>
 <g id="a_node20"><a xlink:href="context_8c.html#a0882b6875e05115e47a09836c63b5bf9" target="_top" xlink:title="Get a virtual Email. ">
 <polygon fill="#ffffff" stroke="#000000" points="149,-76.5 149,-95.5 265,-95.5 265,-76.5 149,-76.5"/>
 <text text-anchor="middle" x="207" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_get_virt_email</text>
 </a>
 </g>
 </g>
-<!-- Node9075&#45;&gt;Node9682 -->
+<!-- Node9171&#45;&gt;Node9780 -->
 <g id="edge28" class="edge">
-<title>Node9075&#45;&gt;Node9682</title>
+<title>Node9171&#45;&gt;Node9780</title>
 <path fill="none" stroke="#191970" d="M55.0948,-398.2989C62.9824,-351.4246 99.2025,-148.8578 143,-105 144.4435,-103.5545 145.9916,-102.218 147.623,-100.9823"/>
 <polygon fill="#191970" stroke="#191970" points="149.6869,-103.8222 156.3765,-95.6064 146.0235,-97.8573 149.6869,-103.8222"/>
 </g>
-<!-- Node9539 -->
+<!-- Node9635 -->
 <g id="node21" class="node">
-<title>Node9539</title>
+<title>Node9635</title>
 <g id="a_node21"><a xlink:href="progress_2lib_8h.html#ab4c7a63427cdcaae2b1147ff6f010af4" target="_top" xlink:title="Free a Progress Bar. ">
 <polygon fill="#ffffff" stroke="#000000" points="165.5,-.5 165.5,-19.5 248.5,-19.5 248.5,-.5 165.5,-.5"/>
 <text text-anchor="middle" x="207" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">progress_free</text>
 </a>
 </g>
 </g>
-<!-- Node9075&#45;&gt;Node9539 -->
+<!-- Node9171&#45;&gt;Node9635 -->
 <g id="edge29" class="edge">
-<title>Node9075&#45;&gt;Node9539</title>
+<title>Node9171&#45;&gt;Node9635</title>
 <path fill="none" stroke="#191970" d="M54.588,-398.3089C60.7089,-345.3557 92.3952,-91.2969 143,-34 146.7314,-29.7752 151.2814,-26.2919 156.2179,-23.4205"/>
 <polygon fill="#191970" stroke="#191970" points="158.0029,-26.4428 165.4274,-18.8846 154.91,-20.1631 158.0029,-26.4428"/>
 </g>
-<!-- Node9511 -->
+<!-- Node9607 -->
 <g id="node22" class="node">
-<title>Node9511</title>
+<title>Node9607</title>
 <g id="a_node22"><a xlink:href="mutt__logging_8c.html#af068b3f524a31fad293b2fb61dfc4534" target="_top" xlink:title="Clear the message line (bottom line of screen) ">
 <polygon fill="#ffffff" stroke="#ff0000" points="328.5,-19.5 328.5,-38.5 426.5,-38.5 426.5,-19.5 328.5,-19.5"/>
 <text text-anchor="middle" x="377.5" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_clear_error</text>
 </a>
 </g>
 </g>
-<!-- Node9075&#45;&gt;Node9511 -->
+<!-- Node9171&#45;&gt;Node9607 -->
 <g id="edge31" class="edge">
-<title>Node9075&#45;&gt;Node9511</title>
+<title>Node9171&#45;&gt;Node9607</title>
 <path fill="none" stroke="#191970" d="M54.6242,-398.338C60.7091,-347.748 91.3502,-113.9139 143,-67 168.0357,-44.2599 257.2448,-35.0602 318.1231,-31.3849"/>
 <polygon fill="#191970" stroke="#191970" points="318.6014,-34.8634 328.3864,-30.8009 318.2037,-27.8747 318.6014,-34.8634"/>
 </g>
-<!-- Node10364&#45;&gt;Node9076 -->
+<!-- Node10467&#45;&gt;Node9172 -->
 <g id="edge11" class="edge">
-<title>Node10364&#45;&gt;Node9076</title>
+<title>Node10467&#45;&gt;Node9172</title>
 <path fill="none" stroke="#191970" d="M250.6685,-645.6011C257.7406,-648.0898 264.7768,-651.1802 271,-655 290.8274,-667.17 289.917,-677.2075 307,-693 322.888,-707.6878 342.0418,-723.0375 356.3725,-734.103"/>
 <polygon fill="#191970" stroke="#191970" points="354.5303,-737.1003 364.5999,-740.3949 358.7827,-731.5399 354.5303,-737.1003"/>
 </g>
-<!-- Node10364&#45;&gt;Node9085 -->
+<!-- Node10467&#45;&gt;Node9181 -->
 <g id="edge10" class="edge">
-<title>Node10364&#45;&gt;Node9085</title>
+<title>Node10467&#45;&gt;Node9181</title>
 <path fill="none" stroke="#191970" d="M251.9535,-626.4671C258.6484,-623.9867 265.2295,-620.8812 271,-617 282.9419,-608.968 338.2731,-536.2879 364.124,-501.8914"/>
 <polygon fill="#191970" stroke="#191970" points="367.0967,-503.7611 370.296,-493.6609 361.4964,-499.5615 367.0967,-503.7611"/>
 </g>
-<!-- Node10364&#45;&gt;Node9289 -->
+<!-- Node10467&#45;&gt;Node9385 -->
 <g id="edge12" class="edge">
-<title>Node10364&#45;&gt;Node9289</title>
+<title>Node10467&#45;&gt;Node9385</title>
 <path fill="none" stroke="#191970" d="M250.0243,-645.589C272.7264,-650.6487 300.7732,-656.8996 324.774,-662.2488"/>
 <polygon fill="#191970" stroke="#191970" points="324.2631,-665.7207 334.785,-664.4799 325.7859,-658.8883 324.2631,-665.7207"/>
 </g>
-<!-- Node10364&#45;&gt;Node9253 -->
+<!-- Node10467&#45;&gt;Node9349 -->
 <g id="edge9" class="edge">
-<title>Node10364&#45;&gt;Node9253</title>
+<title>Node10467&#45;&gt;Node9349</title>
 <path fill="none" stroke="#191970" d="M250.0243,-626.411C272.7264,-621.3513 300.7732,-615.1004 324.774,-609.7512"/>
 <polygon fill="#191970" stroke="#191970" points="325.7859,-613.1117 334.785,-607.5201 324.2631,-606.2793 325.7859,-613.1117"/>
 </g>
-<!-- Node10366&#45;&gt;Node9085 -->
+<!-- Node10469&#45;&gt;Node9181 -->
 <g id="edge17" class="edge">
-<title>Node10366&#45;&gt;Node9085</title>
+<title>Node10469&#45;&gt;Node9181</title>
 <path fill="none" stroke="#191970" d="M225.8279,-361.5687C238.92,-368.5339 256.5461,-378.5435 271,-389 305.0261,-413.6158 340.6826,-447.2818 360.8938,-467.2223"/>
 <polygon fill="#191970" stroke="#191970" points="358.5305,-469.8083 368.0861,-474.3844 363.4698,-464.8481 358.5305,-469.8083"/>
 </g>
-<!-- Node10366&#45;&gt;Node9082 -->
+<!-- Node10469&#45;&gt;Node9178 -->
 <g id="edge18" class="edge">
-<title>Node10366&#45;&gt;Node9082</title>
+<title>Node10469&#45;&gt;Node9178</title>
 <path fill="none" stroke="#191970" d="M263.774,-352C281.754,-352 301.6433,-352 319.6948,-352"/>
 <polygon fill="#191970" stroke="#191970" points="319.7955,-355.5001 329.7955,-352 319.7954,-348.5001 319.7955,-355.5001"/>
 </g>
-<!-- Node10366&#45;&gt;Node10366 -->
+<!-- Node10469&#45;&gt;Node10469 -->
 <g id="edge19" class="edge">
-<title>Node10366&#45;&gt;Node10366</title>
+<title>Node10469&#45;&gt;Node10469</title>
 <path fill="none" stroke="#191970" d="M183.5724,-361.7571C172.1752,-370.5653 179.9844,-380 207,-380 224.729,-380 234.1865,-375.9368 235.3725,-370.6539"/>
 <polygon fill="#191970" stroke="#191970" points="238.3449,-368.7974 230.4276,-361.7571 232.2265,-372.1981 238.3449,-368.7974"/>
 </g>
-<!-- Node10366&#45;&gt;Node10347 -->
+<!-- Node10469&#45;&gt;Node10450 -->
 <g id="edge20" class="edge">
-<title>Node10366&#45;&gt;Node10347</title>
+<title>Node10469&#45;&gt;Node10450</title>
 <path fill="none" stroke="#191970" d="M242.1403,-342.4408C251.5903,-339.6336 261.7525,-336.3976 271,-333 297.8147,-323.1481 327.4868,-309.8466 348.6858,-299.9086"/>
 <polygon fill="#191970" stroke="#191970" points="350.2451,-303.0429 357.7889,-295.6036 347.2525,-296.7148 350.2451,-303.0429"/>
 </g>
-<!-- Node10347&#45;&gt;Node10347 -->
+<!-- Node10450&#45;&gt;Node10450 -->
 <g id="edge21" class="edge">
-<title>Node10347&#45;&gt;Node10347</title>
+<title>Node10450&#45;&gt;Node10450</title>
 <path fill="none" stroke="#191970" d="M351.2981,-295.7571C338.5512,-304.5653 347.2852,-314 377.5,-314 397.8006,-314 408.4044,-309.741 409.3114,-304.2746"/>
 <polygon fill="#191970" stroke="#191970" points="412.1252,-302.1836 403.7019,-295.7571 406.2791,-306.0337 412.1252,-302.1836"/>
 </g>
-<!-- Node10386&#45;&gt;Node9082 -->
+<!-- Node10489&#45;&gt;Node9178 -->
 <g id="edge23" class="edge">
-<title>Node10386&#45;&gt;Node9082</title>
+<title>Node10489&#45;&gt;Node9178</title>
 <path fill="none" stroke="#191970" d="M246.5447,-322.8135C269.8193,-328.0008 299.5471,-334.6263 324.7941,-340.2532"/>
 <polygon fill="#191970" stroke="#191970" points="324.0638,-343.6763 334.5857,-342.4355 325.5866,-336.8439 324.0638,-343.6763"/>
 </g>
-<!-- Node9539&#45;&gt;Node9511 -->
+<!-- Node9635&#45;&gt;Node9607 -->
 <g id="edge30" class="edge">
-<title>Node9539&#45;&gt;Node9511</title>
+<title>Node9635&#45;&gt;Node9607</title>
 <path fill="none" stroke="#191970" d="M248.709,-14.6479C269.6632,-16.983 295.415,-19.8527 318.3699,-22.4107"/>
 <polygon fill="#191970" stroke="#191970" points="318.0262,-25.894 328.3523,-23.5231 318.8015,-18.9371 318.0262,-25.894"/>
 </g>

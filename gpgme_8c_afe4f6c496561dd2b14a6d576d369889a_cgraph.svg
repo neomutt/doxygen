@@ -9,31 +9,31 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 161.5)">
 <title>mutt_autocrypt_gpgme_select_or_create_key</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-161.5 302,-161.5 302,4 -4,4"/>
-<!-- Node5127 -->
+<!-- Node5229 -->
 <g id="node1" class="node">
-<title>Node5127</title>
+<title>Node5229</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-66.5 0,-96.5 131,-96.5 131,-66.5 0,-66.5"/>
 <text text-anchor="start" x="8" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_autocrypt_gpgme</text>
 <text text-anchor="middle" x="65.5" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">_select_or_create_key</text>
 </g>
-<!-- Node5128 -->
+<!-- Node5230 -->
 <g id="node2" class="node">
-<title>Node5128</title>
+<title>Node5230</title>
 <g id="a_node2"><a xlink:href="question_2lib_8h.html#a95d1cd189641185a743df0397ea072c8" target="_top" xlink:title="Offer the user a multiple choice question. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="179,-138 179,-157 286,-157 286,-138 179,-138"/>
 <text text-anchor="middle" x="232.5" y="-145" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_multi_choice</text>
 </a>
 </g>
 </g>
-<!-- Node5127&#45;&gt;Node5128 -->
+<!-- Node5229&#45;&gt;Node5230 -->
 <g id="edge1" class="edge">
-<title>Node5127&#45;&gt;Node5128</title>
+<title>Node5229&#45;&gt;Node5230</title>
 <path fill="none" stroke="#191970" d="M95.1932,-96.6998C115.1644,-106.5598 142.2644,-119.2461 167,-128.5 173.0404,-130.7598 179.4756,-132.9181 185.8641,-134.9158"/>
 <polygon fill="#191970" stroke="#191970" points="185.2167,-138.3762 195.8014,-137.9143 187.2389,-131.6747 185.2167,-138.3762"/>
 </g>
-<!-- Node5227 -->
+<!-- Node5329 -->
 <g id="node3" class="node">
-<title>Node5227</title>
+<title>Node5329</title>
 <g id="a_node3"><a xlink:href="gpgme_8c.html#a2894737dbf5865d40fa9807c20d9a51f" target="_top" xlink:title="Select a Autocrypt key. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="167,-88.5 167,-118.5 298,-118.5 298,-88.5 167,-88.5"/>
 <text text-anchor="start" x="175" y="-106.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_autocrypt_gpgme</text>
@@ -41,30 +41,30 @@
 </a>
 </g>
 </g>
-<!-- Node5127&#45;&gt;Node5227 -->
+<!-- Node5229&#45;&gt;Node5329 -->
 <g id="edge2" class="edge">
-<title>Node5127&#45;&gt;Node5227</title>
+<title>Node5229&#45;&gt;Node5329</title>
 <path fill="none" stroke="#191970" d="M131.0235,-90.1318C139.496,-91.248 148.2278,-92.3983 156.8471,-93.5337"/>
 <polygon fill="#191970" stroke="#191970" points="156.5198,-97.0208 166.8913,-94.8569 157.4342,-90.0808 156.5198,-97.0208"/>
 </g>
-<!-- Node5212 -->
+<!-- Node5314 -->
 <g id="node4" class="node">
-<title>Node5212</title>
+<title>Node5314</title>
 <g id="a_node4"><a xlink:href="question_2lib_8h.html#a67a4f6d2c21c9de420130089bb20505c" target="_top" xlink:title="Ask the user a Yes/No question. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="190.5,-50 190.5,-69 274.5,-69 274.5,-50 190.5,-50"/>
 <text text-anchor="middle" x="232.5" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_yesorno</text>
 </a>
 </g>
 </g>
-<!-- Node5127&#45;&gt;Node5212 -->
+<!-- Node5229&#45;&gt;Node5314 -->
 <g id="edge3" class="edge">
-<title>Node5127&#45;&gt;Node5212</title>
+<title>Node5229&#45;&gt;Node5314</title>
 <path fill="none" stroke="#191970" d="M131.0235,-72.8682C147.3646,-70.7154 164.67,-68.4357 180.2726,-66.3803"/>
 <polygon fill="#191970" stroke="#191970" points="180.7954,-69.8417 190.2526,-65.0655 179.8811,-62.9017 180.7954,-69.8417"/>
 </g>
-<!-- Node7296 -->
+<!-- Node7230 -->
 <g id="node5" class="node">
-<title>Node7296</title>
+<title>Node7230</title>
 <g id="a_node5"><a xlink:href="gpgme_8c.html#a183f2f1eff311c4f49f5552966804fdf" target="_top" xlink:title="Create a GPGME key. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="167,-.5 167,-30.5 298,-30.5 298,-.5 167,-.5"/>
 <text text-anchor="start" x="175" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_autocrypt_gpgme</text>
@@ -72,9 +72,9 @@
 </a>
 </g>
 </g>
-<!-- Node5127&#45;&gt;Node7296 -->
+<!-- Node5229&#45;&gt;Node7230 -->
 <g id="edge4" class="edge">
-<title>Node5127&#45;&gt;Node7296</title>
+<title>Node5229&#45;&gt;Node7230</title>
 <path fill="none" stroke="#191970" d="M102.552,-66.3337C121.7499,-58.5262 145.5959,-48.9068 167,-40.5 172.1689,-38.4698 177.5759,-36.3692 182.9719,-34.2877"/>
 <polygon fill="#191970" stroke="#191970" points="184.5397,-37.4349 192.6191,-30.5811 182.029,-30.9006 184.5397,-37.4349"/>
 </g>

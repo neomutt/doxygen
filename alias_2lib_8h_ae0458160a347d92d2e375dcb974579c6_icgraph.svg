@@ -9,60 +9,60 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 188)">
 <title>alias_lookup</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-188 233,-188 233,4 -4,4"/>
-<!-- Node2817 -->
+<!-- Node2703 -->
 <g id="node1" class="node">
-<title>Node2817</title>
+<title>Node2703</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-88.5 0,-107.5 78,-107.5 78,-88.5 0,-88.5"/>
 <text text-anchor="middle" x="39" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">alias_lookup</text>
 </g>
-<!-- Node2818 -->
+<!-- Node2704 -->
 <g id="node2" class="node">
-<title>Node2818</title>
+<title>Node2704</title>
 <g id="a_node2"><a xlink:href="alias_8c.html#afa6db199eab0d4f151c52b3712facae8" target="_top" xlink:title="Expand aliases, recursively. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="121,-164.5 121,-183.5 222,-183.5 222,-164.5 121,-164.5"/>
 <text text-anchor="middle" x="171.5" y="-171.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">expand_aliases_r</text>
 </a>
 </g>
 </g>
-<!-- Node2817&#45;&gt;Node2818 -->
+<!-- Node2703&#45;&gt;Node2704 -->
 <g id="edge1" class="edge">
-<title>Node2817&#45;&gt;Node2818</title>
+<title>Node2703&#45;&gt;Node2704</title>
 <path fill="none" stroke="#191970" d="M57.1019,-114.5088C71.6082,-127.03 92.9498,-143.9202 114,-155 120.9776,-158.6727 128.802,-161.8242 136.3782,-164.4446"/>
 <polygon fill="#191970" stroke="#191970" points="59.219,-111.7092 49.4045,-107.7184 54.5881,-116.9586 59.219,-111.7092"/>
 </g>
-<!-- Node3019 -->
+<!-- Node2926 -->
 <g id="node3" class="node">
-<title>Node3019</title>
+<title>Node2926</title>
 <g id="a_node3"><a xlink:href="alias_2lib_8h.html#a9a5bce1105cd6bfb1f7a614f680dfef2" target="_top" xlink:title="Create a new Alias from an Address. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="133.5,-126.5 133.5,-145.5 209.5,-145.5 209.5,-126.5 133.5,-126.5"/>
 <text text-anchor="middle" x="171.5" y="-133.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">alias_create</text>
 </a>
 </g>
 </g>
-<!-- Node2817&#45;&gt;Node3019 -->
+<!-- Node2703&#45;&gt;Node2926 -->
 <g id="edge2" class="edge">
-<title>Node2817&#45;&gt;Node3019</title>
+<title>Node2703&#45;&gt;Node2926</title>
 <path fill="none" stroke="#191970" d="M82.2039,-110.3906C100.3492,-115.5945 121.1294,-121.5541 138.0754,-126.4141"/>
 <polygon fill="#191970" stroke="#191970" points="83.0127,-106.9815 72.4353,-107.589 81.0829,-113.7102 83.0127,-106.9815"/>
 </g>
-<!-- Node2830 -->
+<!-- Node2855 -->
 <g id="node4" class="node">
-<title>Node2830</title>
+<title>Node2855</title>
 <g id="a_node4"><a xlink:href="main_8c.html#adedb285b02c41bde2158ded9cc9fd7ac" target="_top" xlink:title="Start NeoMutt. ">
 <polygon fill="#ffffff" stroke="#000000" points="151,-88.5 151,-107.5 192,-107.5 192,-88.5 151,-88.5"/>
 <text text-anchor="middle" x="171.5" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">main</text>
 </a>
 </g>
 </g>
-<!-- Node2817&#45;&gt;Node2830 -->
+<!-- Node2703&#45;&gt;Node2855 -->
 <g id="edge3" class="edge">
-<title>Node2817&#45;&gt;Node2830</title>
+<title>Node2703&#45;&gt;Node2855</title>
 <path fill="none" stroke="#191970" d="M88.0846,-98C109.7315,-98 134.0045,-98 150.7605,-98"/>
 <polygon fill="#191970" stroke="#191970" points="88.0378,-94.5001 78.0377,-98 88.0377,-101.5001 88.0378,-94.5001"/>
 </g>
-<!-- Node2945 -->
+<!-- Node2850 -->
 <g id="node5" class="node">
-<title>Node2945</title>
+<title>Node2850</title>
 <g id="a_node5"><a xlink:href="muttlib_8h.html#a2fa448bbbf2c34fdf00ea41a699768af" target="_top" xlink:title="Create the canonical path (with regex char escaping) ">
 <polygon fill="#ffffff" stroke="#ff0000" points="114,-39 114,-69 229,-69 229,-39 114,-39"/>
 <text text-anchor="start" x="122" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_buffer_expand</text>
@@ -70,24 +70,24 @@
 </a>
 </g>
 </g>
-<!-- Node2817&#45;&gt;Node2945 -->
+<!-- Node2703&#45;&gt;Node2850 -->
 <g id="edge4" class="edge">
-<title>Node2817&#45;&gt;Node2945</title>
+<title>Node2703&#45;&gt;Node2850</title>
 <path fill="none" stroke="#191970" d="M77.3756,-85.2564C92.6166,-80.1952 110.2649,-74.3347 126.1327,-69.0654"/>
 <polygon fill="#191970" stroke="#191970" points="76.1379,-81.9794 67.7505,-88.4527 78.344,-88.6227 76.1379,-81.9794"/>
 </g>
-<!-- Node3024 -->
+<!-- Node2932 -->
 <g id="node6" class="node">
-<title>Node3024</title>
+<title>Node2932</title>
 <g id="a_node6"><a xlink:href="mx_8h.html#a5fd7ddec18249a46944727c7297add2f" target="_top" xlink:title="Canonicalise a mailbox path &#45; Wrapper for MxOps::path_canon() ">
 <polygon fill="#ffffff" stroke="#ff0000" points="124.5,-.5 124.5,-19.5 218.5,-19.5 218.5,-.5 124.5,-.5"/>
 <text text-anchor="middle" x="171.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mx_path_canon</text>
 </a>
 </g>
 </g>
-<!-- Node2817&#45;&gt;Node3024 -->
+<!-- Node2703&#45;&gt;Node2932 -->
 <g id="edge5" class="edge">
-<title>Node2817&#45;&gt;Node3024</title>
+<title>Node2703&#45;&gt;Node2932</title>
 <path fill="none" stroke="#191970" d="M54.2667,-80.6664C68.4382,-65.4919 90.7897,-43.7748 114,-30 120.9986,-25.8465 128.9891,-22.3821 136.7417,-19.5682"/>
 <polygon fill="#191970" stroke="#191970" points="51.4303,-78.5827 47.2818,-88.3316 56.6043,-83.2976 51.4303,-78.5827"/>
 </g>

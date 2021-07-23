@@ -9,75 +9,75 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 138)">
 <title>window_get_focus</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-138 400,-138 400,4 -4,4"/>
-<!-- Node15927 -->
+<!-- Node17375 -->
 <g id="node1" class="node">
-<title>Node15927</title>
+<title>Node17375</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-57.5 0,-76.5 107,-76.5 107,-57.5 0,-57.5"/>
 <text text-anchor="middle" x="53.5" y="-64.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">window_get_focus</text>
 </g>
-<!-- Node15928 -->
+<!-- Node17376 -->
 <g id="node2" class="node">
-<title>Node15928</title>
+<title>Node17376</title>
 <g id="a_node2"><a xlink:href="debug_2window_8c.html#a3e949b6cf149926e285fbfdad1e94eb0" target="_top" xlink:title="debug_win_dump">
 <polygon fill="#ffffff" stroke="#ff0000" points="147.5,-114.5 147.5,-133.5 249.5,-133.5 249.5,-114.5 147.5,-114.5"/>
 <text text-anchor="middle" x="198.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">debug_win_dump</text>
 </a>
 </g>
 </g>
-<!-- Node15927&#45;&gt;Node15928 -->
+<!-- Node17375&#45;&gt;Node17376 -->
 <g id="edge1" class="edge">
-<title>Node15927&#45;&gt;Node15928</title>
+<title>Node17375&#45;&gt;Node17376</title>
 <path fill="none" stroke="#191970" d="M87.0865,-80.203C113.7106,-90.669 150.2843,-105.0462 174.1511,-114.4284"/>
 <polygon fill="#191970" stroke="#191970" points="88.357,-76.9417 77.7697,-76.5405 85.796,-83.4565 88.357,-76.9417"/>
 </g>
-<!-- Node16555 -->
+<!-- Node18060 -->
 <g id="node3" class="node">
-<title>Node16555</title>
+<title>Node18060</title>
 <g id="a_node3"><a xlink:href="mutt__window_8h.html#a9cd46beacc51d6ed854fd50fb303ddc4" target="_top" xlink:title="Set the Window focus. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="290,-95.5 290,-114.5 396,-114.5 396,-95.5 290,-95.5"/>
 <text text-anchor="middle" x="343" y="-102.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">window_set_focus</text>
 </a>
 </g>
 </g>
-<!-- Node15927&#45;&gt;Node16555 -->
+<!-- Node17375&#45;&gt;Node18060 -->
 <g id="edge4" class="edge">
-<title>Node15927&#45;&gt;Node16555</title>
+<title>Node17375&#45;&gt;Node18060</title>
 <path fill="none" stroke="#191970" d="M117.3198,-75.377C168.9622,-82.1557 240.8563,-91.5925 289.5137,-97.9793"/>
 <polygon fill="#191970" stroke="#191970" points="117.6447,-71.8897 107.2743,-74.0585 116.7337,-78.8302 117.6447,-71.8897"/>
 </g>
-<!-- Node16556 -->
+<!-- Node18061 -->
 <g id="node4" class="node">
-<title>Node16556</title>
+<title>Node18061</title>
 <g id="a_node4"><a xlink:href="mutt__window_8h.html#ab28580b56634b0e90008ca98fe935487" target="_top" xlink:title="Does the given Window have the focus? ">
 <polygon fill="#ffffff" stroke="#ff0000" points="143,-38.5 143,-57.5 254,-57.5 254,-38.5 143,-38.5"/>
 <text text-anchor="middle" x="198.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">window_is_focused</text>
 </a>
 </g>
 </g>
-<!-- Node15927&#45;&gt;Node16556 -->
+<!-- Node17375&#45;&gt;Node18061 -->
 <g id="edge3" class="edge">
-<title>Node15927&#45;&gt;Node16556</title>
+<title>Node17375&#45;&gt;Node18061</title>
 <path fill="none" stroke="#191970" d="M117.0188,-58.6769C125.5757,-57.5556 134.3022,-56.4121 142.7114,-55.3102"/>
 <polygon fill="#191970" stroke="#191970" points="116.5412,-55.2094 107.0807,-59.9791 117.4507,-62.1501 116.5412,-55.2094"/>
 </g>
-<!-- Node16560 -->
+<!-- Node18065 -->
 <g id="node5" class="node">
-<title>Node16560</title>
+<title>Node18065</title>
 <g id="a_node5"><a xlink:href="helpbar_8c.html#a5165a2f8ed1418aba9747d98572b104b" target="_top" xlink:title="Recalculate the display of the Help Bar &#45; Implements MuttWindow::recalc() ">
 <polygon fill="#ffffff" stroke="#ff0000" points="154.5,-.5 154.5,-19.5 242.5,-19.5 242.5,-.5 154.5,-.5"/>
 <text text-anchor="middle" x="198.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">helpbar_recalc</text>
 </a>
 </g>
 </g>
-<!-- Node15927&#45;&gt;Node16560 -->
+<!-- Node17375&#45;&gt;Node18065 -->
 <g id="edge5" class="edge">
-<title>Node15927&#45;&gt;Node16560</title>
+<title>Node17375&#45;&gt;Node18065</title>
 <path fill="none" stroke="#191970" d="M84.5262,-53.1795C101.6492,-45.7162 123.3644,-36.5184 143,-29 151.4648,-25.7588 160.7519,-22.4749 169.2665,-19.5696"/>
 <polygon fill="#191970" stroke="#191970" points="82.7769,-50.1249 75.0255,-57.3475 85.5892,-56.5351 82.7769,-50.1249"/>
 </g>
-<!-- Node15928&#45;&gt;Node16555 -->
+<!-- Node17376&#45;&gt;Node18060 -->
 <g id="edge2" class="edge">
-<title>Node15928&#45;&gt;Node16555</title>
+<title>Node17376&#45;&gt;Node18060</title>
 <path fill="none" stroke="#191970" d="M260.0548,-115.9063C269.9717,-114.6023 280.1634,-113.2622 289.8604,-111.9872"/>
 <polygon fill="#191970" stroke="#191970" points="259.3105,-112.4739 249.8522,-117.2478 260.2231,-119.4142 259.3105,-112.4739"/>
 </g>

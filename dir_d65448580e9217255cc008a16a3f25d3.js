@@ -2,6 +2,8 @@ var dir_d65448580e9217255cc008a16a3f25d3 =
 [
     [ "config.c", "index_2config_8c.html", "index_2config_8c" ],
     [ "dlg_index.c", "dlg__index_8c.html", "dlg__index_8c" ],
+    [ "functions.c", "index_2functions_8c.html", "index_2functions_8c" ],
+    [ "functions.h", "index_2functions_8h.html", "index_2functions_8h" ],
     [ "ibar.c", "ibar_8c.html", "ibar_8c" ],
     [ "ibar.h", "ibar_8h.html", "ibar_8h" ],
     [ "index.c", "index_8c.html", "index_8c" ],

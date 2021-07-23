@@ -27,5 +27,7 @@ var searchData=
   ['userhdrs',['userhdrs',['../structEnvelope.html#a005f4bd665ae1ae362add27948753fe1',1,'Envelope']]],
   ['userhdrs_5foverride_5fheaders',['userhdrs_override_headers',['../header_8c.html#ac275db574e2761b5462827f74461db55',1,'header.c']]],
   ['username',['Username',['../mutt__globals_8h.html#a441e341e914ef8b06dbb797713a1e83b',1,'mutt_globals.h']]],
-  ['usertyped',['UserTyped',['../init_8c.html#ab3ee96d7e971ed297da156ede55e8fc8',1,'init.c']]]
+  ['usertyped',['UserTyped',['../init_8c.html#ab3ee96d7e971ed297da156ede55e8fc8',1,'init.c']]],
+  ['usethreadsmethods',['UseThreadsMethods',['../mutt__thread_8c.html#a5c2a82bc1766950548a5d97a7dbd8d2a',1,'mutt_thread.c']]],
+  ['usethreadstypedef',['UseThreadsTypeDef',['../mutt__thread_8c.html#acd8062518a14249dc049bc3ac762b6d7',1,'UseThreadsTypeDef():&#160;mutt_thread.c'],['../mutt__thread_8h.html#acd8062518a14249dc049bc3ac762b6d7',1,'UseThreadsTypeDef():&#160;mutt_thread.c']]]
 ];

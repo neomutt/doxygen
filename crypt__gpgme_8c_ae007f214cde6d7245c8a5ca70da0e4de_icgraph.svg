@@ -9,75 +9,75 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 226)">
 <title>crypt_key_free</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-226 400,-226 400,4 -4,4"/>
-<!-- Node4601 -->
+<!-- Node5033 -->
 <g id="node1" class="node">
-<title>Node4601</title>
+<title>Node5033</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-107.5 0,-126.5 89,-126.5 89,-107.5 0,-107.5"/>
 <text text-anchor="middle" x="44.5" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">crypt_key_free</text>
 </g>
-<!-- Node4602 -->
+<!-- Node5034 -->
 <g id="node2" class="node">
-<title>Node4602</title>
+<title>Node5034</title>
 <g id="a_node2"><a xlink:href="crypt__gpgme_8c.html#ad1fef6cc1938f167f62e9aee7a969e57" target="_top" xlink:title="Find a key by email address. ">
 <polygon fill="#ffffff" stroke="#000000" points="154,-202.5 154,-221.5 268,-221.5 268,-202.5 154,-202.5"/>
 <text text-anchor="middle" x="211" y="-209.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">crypt_getkeybyaddr</text>
 </a>
 </g>
 </g>
-<!-- Node4601&#45;&gt;Node4602 -->
+<!-- Node5033&#45;&gt;Node5034 -->
 <g id="edge1" class="edge">
-<title>Node4601&#45;&gt;Node4602</title>
+<title>Node5033&#45;&gt;Node5034</title>
 <path fill="none" stroke="#191970" d="M59.8602,-134.4746C74.9345,-150.5915 99.3404,-174.0666 125,-188 136.4427,-194.2135 149.6354,-198.9334 162.1977,-202.4708"/>
 <polygon fill="#191970" stroke="#191970" points="62.1939,-131.8393 52.8706,-126.8067 57.0206,-136.555 62.1939,-131.8393"/>
 </g>
-<!-- Node4603 -->
+<!-- Node5035 -->
 <g id="node3" class="node">
-<title>Node4603</title>
+<title>Node5035</title>
 <g id="a_node3"><a xlink:href="crypt__gpgme_8c.html#aa15024a537ac84b348d4f4dd7e3fc7bf" target="_top" xlink:title="Find keys of the recipients of the message. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="333,-164.5 333,-183.5 396,-183.5 396,-164.5 333,-164.5"/>
 <text text-anchor="middle" x="364.5" y="-171.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">find_keys</text>
 </a>
 </g>
 </g>
-<!-- Node4601&#45;&gt;Node4603 -->
+<!-- Node5033&#45;&gt;Node5035 -->
 <g id="edge5" class="edge">
-<title>Node4601&#45;&gt;Node4603</title>
+<title>Node5033&#45;&gt;Node5035</title>
 <path fill="none" stroke="#191970" d="M69.1039,-131.4796C84.6031,-139.8638 105.3352,-149.7666 125,-155 197.5535,-174.3087 286.4838,-175.8579 332.8917,-175.0759"/>
 <polygon fill="#191970" stroke="#191970" points="70.6252,-128.3206 60.1861,-126.5107 67.2181,-134.4355 70.6252,-128.3206"/>
 </g>
-<!-- Node5091 -->
+<!-- Node5569 -->
 <g id="node4" class="node">
-<title>Node5091</title>
+<title>Node5569</title>
 <g id="a_node4"><a xlink:href="crypt__gpgme_8c.html#ad973b70036b65c94f40a43a08b9b9c93" target="_top" xlink:title="Find a key by string. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="158.5,-126.5 158.5,-145.5 263.5,-145.5 263.5,-126.5 158.5,-126.5"/>
 <text text-anchor="middle" x="211" y="-133.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">crypt_getkeybystr</text>
 </a>
 </g>
 </g>
-<!-- Node4601&#45;&gt;Node5091 -->
+<!-- Node5033&#45;&gt;Node5569 -->
 <g id="edge3" class="edge">
-<title>Node4601&#45;&gt;Node5091</title>
+<title>Node5033&#45;&gt;Node5569</title>
 <path fill="none" stroke="#191970" d="M99.1226,-123.2332C118.1345,-125.4027 139.4146,-127.8311 158.2701,-129.9828"/>
 <polygon fill="#191970" stroke="#191970" points="99.4513,-119.7481 89.1189,-122.0917 98.6576,-126.703 99.4513,-119.7481"/>
 </g>
-<!-- Node5096 -->
+<!-- Node5574 -->
 <g id="node5" class="node">
-<title>Node5096</title>
+<title>Node5574</title>
 <g id="a_node5"><a xlink:href="ncrypt_2lib_8h.html#a2e8df329d00791c453eb6b3f60eabfdf" target="_top" xlink:title="Select a private Autocrypt key for a new account. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="125,-88.5 125,-107.5 297,-107.5 297,-88.5 125,-88.5"/>
 <text text-anchor="middle" x="211" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_gpgme_select_secret_key</text>
 </a>
 </g>
 </g>
-<!-- Node4601&#45;&gt;Node5096 -->
+<!-- Node5033&#45;&gt;Node5574 -->
 <g id="edge6" class="edge">
-<title>Node4601&#45;&gt;Node5096</title>
+<title>Node5033&#45;&gt;Node5574</title>
 <path fill="none" stroke="#191970" d="M99.1951,-110.7585C108.3413,-109.7148 118.0108,-108.6114 127.6814,-107.5078"/>
 <polygon fill="#191970" stroke="#191970" points="98.6576,-107.297 89.1189,-111.9083 99.4513,-114.2519 98.6576,-107.297"/>
 </g>
-<!-- Node4927 -->
+<!-- Node5403 -->
 <g id="node6" class="node">
-<title>Node4927</title>
+<title>Node5403</title>
 <g id="a_node6"><a xlink:href="crypt__gpgme_8h.html#ab3031c1c6cd431efc8fc3b90607c042d" target="_top" xlink:title="Implements CryptModuleSpecs::pgp_make_key_attachment() ">
 <polygon fill="#ffffff" stroke="#000000" points="146,-39 146,-69 276,-69 276,-39 146,-39"/>
 <text text-anchor="start" x="154" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pgp_gpgme_make_key</text>
@@ -85,36 +85,36 @@
 </a>
 </g>
 </g>
-<!-- Node4601&#45;&gt;Node4927 -->
+<!-- Node5033&#45;&gt;Node5403 -->
 <g id="edge7" class="edge">
-<title>Node4601&#45;&gt;Node4927</title>
+<title>Node5033&#45;&gt;Node5403</title>
 <path fill="none" stroke="#191970" d="M71.6508,-102.8665C87.0428,-95.1903 106.8071,-85.8888 125,-79 134.4517,-75.4211 144.648,-72.0479 154.6014,-69.0066"/>
 <polygon fill="#191970" stroke="#191970" points="70.03,-99.764 62.6852,-107.3998 73.1886,-106.0108 70.03,-99.764"/>
 </g>
-<!-- Node5093 -->
+<!-- Node5571 -->
 <g id="node7" class="node">
-<title>Node5093</title>
+<title>Node5571</title>
 <g id="a_node7"><a xlink:href="crypt__gpgme_8c.html#ae010b65b9f6813e3e2a097aac83416db" target="_top" xlink:title="Show the user the encryption/signing menu. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="155,-.5 155,-19.5 267,-19.5 267,-.5 155,-.5"/>
 <text text-anchor="middle" x="211" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">gpgme_send_menu</text>
 </a>
 </g>
 </g>
-<!-- Node4601&#45;&gt;Node5093 -->
+<!-- Node5033&#45;&gt;Node5571 -->
 <g id="edge8" class="edge">
-<title>Node4601&#45;&gt;Node5093</title>
+<title>Node5033&#45;&gt;Node5571</title>
 <path fill="none" stroke="#191970" d="M56.2466,-98.8864C70.1993,-78.88 95.3548,-47.2242 125,-30 134.0129,-24.7634 144.3055,-20.8976 154.5622,-18.0439"/>
 <polygon fill="#191970" stroke="#191970" points="53.185,-97.166 50.4871,-107.4116 58.9854,-101.0847 53.185,-97.166"/>
 </g>
-<!-- Node4602&#45;&gt;Node4603 -->
+<!-- Node5034&#45;&gt;Node5035 -->
 <g id="edge2" class="edge">
-<title>Node4602&#45;&gt;Node4603</title>
+<title>Node5034&#45;&gt;Node5035</title>
 <path fill="none" stroke="#191970" d="M259.6474,-199.957C283.4508,-194.0643 311.4383,-187.1358 332.5082,-181.9198"/>
 <polygon fill="#191970" stroke="#191970" points="258.6004,-196.6104 249.7345,-202.411 260.2826,-203.4053 258.6004,-196.6104"/>
 </g>
-<!-- Node5091&#45;&gt;Node4603 -->
+<!-- Node5569&#45;&gt;Node5035 -->
 <g id="edge4" class="edge">
-<title>Node5091&#45;&gt;Node4603</title>
+<title>Node5569&#45;&gt;Node5035</title>
 <path fill="none" stroke="#191970" d="M259.6474,-148.043C283.4508,-153.9357 311.4383,-160.8642 332.5082,-166.0802"/>
 <polygon fill="#191970" stroke="#191970" points="260.2826,-144.5947 249.7345,-145.589 258.6004,-151.3896 260.2826,-144.5947"/>
 </g>

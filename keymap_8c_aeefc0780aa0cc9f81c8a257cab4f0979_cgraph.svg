@@ -9,60 +9,60 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 188)">
 <title>km_error_key</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-188 382,-188 382,4 -4,4"/>
-<!-- Node13807 -->
+<!-- Node10017 -->
 <g id="node1" class="node">
-<title>Node13807</title>
+<title>Node10017</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-88.5 0,-107.5 84,-107.5 84,-88.5 0,-88.5"/>
 <text text-anchor="middle" x="42" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">km_error_key</text>
 </g>
-<!-- Node13808 -->
+<!-- Node10018 -->
 <g id="node2" class="node">
-<title>Node13808</title>
+<title>Node10018</title>
 <g id="a_node2"><a xlink:href="keymap_8c.html#a3a87d54521cdb9f2f47441ec5ed53c39" target="_top" xlink:title="Find a function&#39;s mapping in a Menu. ">
 <polygon fill="#ffffff" stroke="#000000" points="137,-164.5 137,-183.5 219,-183.5 219,-164.5 137,-164.5"/>
 <text text-anchor="middle" x="178" y="-171.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">km_find_func</text>
 </a>
 </g>
 </g>
-<!-- Node13807&#45;&gt;Node13808 -->
+<!-- Node10017&#45;&gt;Node10018 -->
 <g id="edge1" class="edge">
-<title>Node13807&#45;&gt;Node13808</title>
+<title>Node10017&#45;&gt;Node10018</title>
 <path fill="none" stroke="#191970" d="M54.7626,-107.6462C69.8239,-118.7559 95.8774,-137.128 120,-150 127.0981,-153.7876 134.9259,-157.3866 142.4723,-160.5909"/>
 <polygon fill="#191970" stroke="#191970" points="141.2244,-163.862 151.8044,-164.4229 143.8834,-157.3866 141.2244,-163.862"/>
 </g>
-<!-- Node13809 -->
+<!-- Node10019 -->
 <g id="node3" class="node">
-<title>Node13809</title>
+<title>Node10019</title>
 <g id="a_node3"><a xlink:href="curs__lib_8c.html#a9a8c35513fca5be6bdd795e27db1991a" target="_top" xlink:title="Return a keystroke to the input buffer. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="272,-107.5 272,-126.5 378,-126.5 378,-107.5 272,-107.5"/>
 <text text-anchor="middle" x="325" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_unget_event</text>
 </a>
 </g>
 </g>
-<!-- Node13807&#45;&gt;Node13809 -->
+<!-- Node10017&#45;&gt;Node10019 -->
 <g id="edge2" class="edge">
-<title>Node13807&#45;&gt;Node13809</title>
+<title>Node10017&#45;&gt;Node10019</title>
 <path fill="none" stroke="#191970" d="M73.5626,-107.506C87.6341,-111.2702 104.5011,-115.1395 120,-117 167.2351,-122.6701 221.0346,-122.4188 261.6647,-120.884"/>
 <polygon fill="#191970" stroke="#191970" points="261.8519,-124.3794 271.6987,-120.469 261.5625,-117.3854 261.8519,-124.3794"/>
 </g>
-<!-- Node13812 -->
+<!-- Node10022 -->
 <g id="node4" class="node">
-<title>Node13812</title>
+<title>Node10022</title>
 <g id="a_node4"><a xlink:href="keymap_8c.html#a5e8e32677bf6b21a23e4cf970b41e461" target="_top" xlink:title="Determine what a keypress should do. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="144,-88.5 144,-107.5 212,-107.5 212,-88.5 144,-88.5"/>
 <text text-anchor="middle" x="178" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">km_dokey</text>
 </a>
 </g>
 </g>
-<!-- Node13807&#45;&gt;Node13812 -->
+<!-- Node10017&#45;&gt;Node10022 -->
 <g id="edge3" class="edge">
-<title>Node13807&#45;&gt;Node13812</title>
+<title>Node10017&#45;&gt;Node10022</title>
 <path fill="none" stroke="#191970" d="M84.2858,-98C100.0208,-98 117.9102,-98 133.8114,-98"/>
 <polygon fill="#191970" stroke="#191970" points="133.931,-101.5001 143.931,-98 133.9309,-94.5001 133.931,-101.5001"/>
 </g>
-<!-- Node15976 -->
+<!-- Node12018 -->
 <g id="node5" class="node">
-<title>Node15976</title>
+<title>Node12018</title>
 <g id="a_node5"><a xlink:href="curs__lib_8c.html#aa6e4149468b3bcdafdccfa131cb3d941" target="_top" xlink:title="Clear entries from UngetKeyEvents. ">
 <polygon fill="#ffffff" stroke="#000000" points="120,-39 120,-69 236,-69 236,-39 120,-39"/>
 <text text-anchor="start" x="128" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_flush_unget_to</text>
@@ -70,30 +70,30 @@
 </a>
 </g>
 </g>
-<!-- Node13807&#45;&gt;Node15976 -->
+<!-- Node10017&#45;&gt;Node12018 -->
 <g id="edge5" class="edge">
-<title>Node13807&#45;&gt;Node15976</title>
+<title>Node10017&#45;&gt;Node12018</title>
 <path fill="none" stroke="#191970" d="M71.51,-88.4527C86.1384,-83.7199 104.3103,-77.8408 121.4772,-72.2868"/>
 <polygon fill="#191970" stroke="#191970" points="122.9973,-75.4737 131.4343,-69.0654 120.8425,-68.8136 122.9973,-75.4737"/>
 </g>
-<!-- Node14643 -->
+<!-- Node10857 -->
 <g id="node6" class="node">
-<title>Node14643</title>
+<title>Node10857</title>
 <g id="a_node6"><a xlink:href="keymap_8c.html#a830fff42df69ae5c6e256eb03ce18892" target="_top" xlink:title="Get the key string bound to a Keymap. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="129.5,-.5 129.5,-19.5 226.5,-19.5 226.5,-.5 129.5,-.5"/>
 <text text-anchor="middle" x="178" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">km_expand_key</text>
 </a>
 </g>
 </g>
-<!-- Node13807&#45;&gt;Node14643 -->
+<!-- Node10017&#45;&gt;Node10857 -->
 <g id="edge6" class="edge">
-<title>Node13807&#45;&gt;Node14643</title>
+<title>Node10017&#45;&gt;Node10857</title>
 <path fill="none" stroke="#191970" d="M50.6903,-88.3439C64.2149,-73.8361 91.6992,-46.3748 120,-30 124.382,-27.4645 129.1363,-25.1811 133.9735,-23.1436"/>
 <polygon fill="#191970" stroke="#191970" points="135.2434,-26.4052 143.3018,-19.5267 132.7128,-19.8786 135.2434,-26.4052"/>
 </g>
-<!-- Node13812&#45;&gt;Node13809 -->
+<!-- Node10022&#45;&gt;Node10019 -->
 <g id="edge4" class="edge">
-<title>Node13812&#45;&gt;Node13809</title>
+<title>Node10022&#45;&gt;Node10019</title>
 <path fill="none" stroke="#191970" d="M212.0942,-102.4067C226.9124,-104.322 244.7643,-106.6294 261.8542,-108.8383"/>
 <polygon fill="#191970" stroke="#191970" points="261.4336,-112.313 271.7997,-110.1238 262.3309,-105.3707 261.4336,-112.313"/>
 </g>

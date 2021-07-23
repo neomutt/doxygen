@@ -9,244 +9,244 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 516.299)">
 <title>neomutt_mailboxlist_get_all</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-516.299 431,-516.299 431,4 -4,4"/>
-<!-- Node1816 -->
+<!-- Node1980 -->
 <g id="node1" class="node">
-<title>Node1816</title>
+<title>Node1980</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-242 0,-272 118,-272 118,-242 0,-242"/>
 <text text-anchor="start" x="8" y="-260" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">neomutt_mailboxlist</text>
 <text text-anchor="middle" x="59" y="-249" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">_get_all</text>
 </g>
-<!-- Node1817 -->
+<!-- Node1981 -->
 <g id="node2" class="node">
-<title>Node1817</title>
+<title>Node1981</title>
 <g id="a_node2"><a xlink:href="browser_8c.html#a375816ec72ad018ad8ee41f048a65756" target="_top" xlink:title="Get list of all files/newsgroups with mask. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="315,-484.5 315,-503.5 423,-503.5 423,-484.5 315,-484.5"/>
 <text text-anchor="middle" x="369" y="-491.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">examine_directory</text>
 </a>
 </g>
 </g>
-<!-- Node1816&#45;&gt;Node1817 -->
+<!-- Node1980&#45;&gt;Node1981 -->
 <g id="edge1" class="edge">
-<title>Node1816&#45;&gt;Node1817</title>
+<title>Node1980&#45;&gt;Node1981</title>
 <path fill="none" stroke="#191970" d="M60.9847,-282.0399C66.3296,-330.6815 85.6541,-437.3415 154,-485 206.8616,-521.8611 286.1034,-513.1325 332.1725,-503.5169"/>
 <polygon fill="#191970" stroke="#191970" points="64.464,-281.6567 59.9968,-272.0498 57.498,-282.3457 64.464,-281.6567"/>
 </g>
-<!-- Node2383 -->
+<!-- Node2601 -->
 <g id="node3" class="node">
-<title>Node2383</title>
+<title>Node2601</title>
 <g id="a_node3"><a xlink:href="browser_8c.html#a549cf0809f6613b087453c495a34a7b7" target="_top" xlink:title="Get list of mailboxes/subscribed newsgroups. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="311,-437.5 311,-456.5 427,-456.5 427,-437.5 311,-437.5"/>
 <text text-anchor="middle" x="369" y="-444.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">examine_mailboxes</text>
 </a>
 </g>
 </g>
-<!-- Node1816&#45;&gt;Node2383 -->
+<!-- Node1980&#45;&gt;Node2601 -->
 <g id="edge2" class="edge">
-<title>Node1816&#45;&gt;Node2383</title>
+<title>Node1980&#45;&gt;Node2601</title>
 <path fill="none" stroke="#191970" d="M68.0485,-281.4846C81.5156,-314.343 110.062,-372.0333 154,-402 200.4704,-433.6939 264.7653,-443.8043 310.9179,-446.6814"/>
 <polygon fill="#191970" stroke="#191970" points="71.2861,-280.1539 64.3528,-272.1426 64.7769,-282.7289 71.2861,-280.1539"/>
 </g>
-<!-- Node2384 -->
+<!-- Node2602 -->
 <g id="node4" class="node">
-<title>Node2384</title>
+<title>Node2602</title>
 <g id="a_node4"><a xlink:href="command__parse_8c.html#a7a682ec69ec56de3c8498f11fa16db7c" target="_top" xlink:title="Remove all Mailboxes from the Sidebar/notifications. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="154,-342.5 154,-361.5 275,-361.5 275,-342.5 154,-342.5"/>
 <text text-anchor="middle" x="214.5" y="-349.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">do_unmailboxes_star</text>
 </a>
 </g>
 </g>
-<!-- Node1816&#45;&gt;Node2384 -->
+<!-- Node1980&#45;&gt;Node2602 -->
 <g id="edge3" class="edge">
-<title>Node1816&#45;&gt;Node2384</title>
+<title>Node1980&#45;&gt;Node2602</title>
 <path fill="none" stroke="#191970" d="M81.9158,-279.4146C100.1496,-296.1858 127.0042,-318.6174 154,-333 160.9958,-336.7271 168.842,-339.8607 176.5071,-342.4397"/>
 <polygon fill="#191970" stroke="#191970" points="83.8639,-276.4434 74.1751,-272.1565 79.0759,-281.5498 83.8639,-276.4434"/>
 </g>
-<!-- Node2385 -->
+<!-- Node2603 -->
 <g id="node5" class="node">
-<title>Node2385</title>
+<title>Node2603</title>
 <g id="a_node5"><a xlink:href="mailbox_8h.html#af136c4998f1122c79ec9769d9288175a" target="_top" xlink:title="Find the mailbox with a given path. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="174.5,-304.5 174.5,-323.5 254.5,-323.5 254.5,-304.5 174.5,-304.5"/>
 <text text-anchor="middle" x="214.5" y="-311.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mailbox_find</text>
 </a>
 </g>
 </g>
-<!-- Node1816&#45;&gt;Node2385 -->
+<!-- Node1980&#45;&gt;Node2603 -->
 <g id="edge4" class="edge">
-<title>Node1816&#45;&gt;Node2385</title>
+<title>Node1980&#45;&gt;Node2603</title>
 <path fill="none" stroke="#191970" d="M104.2898,-275.9327C119.9392,-282.2564 137.6493,-289.1719 154,-295 163.2295,-298.2898 173.3539,-301.5885 182.6355,-304.4925"/>
 <polygon fill="#191970" stroke="#191970" points="105.4244,-272.6157 94.8427,-272.0869 102.785,-279.0991 105.4244,-272.6157"/>
 </g>
-<!-- Node2389 -->
+<!-- Node2607 -->
 <g id="node6" class="node">
-<title>Node2389</title>
+<title>Node2607</title>
 <g id="a_node6"><a xlink:href="mailbox_8h.html#acfc4ad0910e3472a8c4bdb025e359687" target="_top" xlink:title="Find the mailbox with a given name. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="158,-266.5 158,-285.5 271,-285.5 271,-266.5 158,-266.5"/>
 <text text-anchor="middle" x="214.5" y="-273.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mailbox_find_name</text>
 </a>
 </g>
 </g>
-<!-- Node1816&#45;&gt;Node2389 -->
+<!-- Node1980&#45;&gt;Node2607 -->
 <g id="edge5" class="edge">
-<title>Node1816&#45;&gt;Node2389</title>
+<title>Node1980&#45;&gt;Node2607</title>
 <path fill="none" stroke="#191970" d="M128.4418,-265.4848C138.3286,-266.6929 148.3967,-267.9231 157.9967,-269.0961"/>
 <polygon fill="#191970" stroke="#191970" points="128.5822,-261.9761 118.2315,-264.2373 127.7331,-268.9244 128.5822,-261.9761"/>
 </g>
-<!-- Node2390 -->
+<!-- Node2608 -->
 <g id="node7" class="node">
-<title>Node2390</title>
+<title>Node2608</title>
 <g id="a_node7"><a xlink:href="sidebar_2window_8c.html#ae8fdf0a222141e5e18f6caa9a15f93f6" target="_top" xlink:title="Recalculate the Sidebar display &#45; Implements MuttWindow::recalc() ">
 <polygon fill="#ffffff" stroke="#ff0000" points="183.5,-228.5 183.5,-247.5 245.5,-247.5 245.5,-228.5 183.5,-228.5"/>
 <text text-anchor="middle" x="214.5" y="-235.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">sb_recalc</text>
 </a>
 </g>
 </g>
-<!-- Node1816&#45;&gt;Node2390 -->
+<!-- Node1980&#45;&gt;Node2608 -->
 <g id="edge6" class="edge">
-<title>Node1816&#45;&gt;Node2390</title>
+<title>Node1980&#45;&gt;Node2608</title>
 <path fill="none" stroke="#191970" d="M128.2076,-248.5438C147.4566,-246.1918 167.4126,-243.7534 183.2791,-241.8148"/>
 <polygon fill="#191970" stroke="#191970" points="127.7331,-245.0756 118.2315,-249.7627 128.5822,-252.0239 127.7331,-245.0756"/>
 </g>
-<!-- Node2391 -->
+<!-- Node2609 -->
 <g id="node8" class="node">
-<title>Node2391</title>
+<title>Node2609</title>
 <g id="a_node8"><a xlink:href="imap_2browse_8c.html#aa8f4671fc317a9d9c49a6c0fae13321e" target="_top" xlink:title="Format and add an IMAP folder to the browser. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="180.5,-152.5 180.5,-171.5 248.5,-171.5 248.5,-152.5 180.5,-152.5"/>
 <text text-anchor="middle" x="214.5" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">add_folder</text>
 </a>
 </g>
 </g>
-<!-- Node1816&#45;&gt;Node2391 -->
+<!-- Node1980&#45;&gt;Node2609 -->
 <g id="edge7" class="edge">
-<title>Node1816&#45;&gt;Node2391</title>
+<title>Node1980&#45;&gt;Node2609</title>
 <path fill="none" stroke="#191970" d="M84.1499,-235.2988C102.6049,-220.1191 128.7511,-200.1144 154,-186 164.0605,-180.3761 175.7086,-175.4237 186.082,-171.5005"/>
 <polygon fill="#191970" stroke="#191970" points="81.6794,-232.8017 76.2426,-241.8952 86.1635,-238.1769 81.6794,-232.8017"/>
 </g>
-<!-- Node1874 -->
+<!-- Node2064 -->
 <g id="node9" class="node">
-<title>Node1874</title>
+<title>Node2064</title>
 <g id="a_node9"><a xlink:href="imap_2lib_8h.html#a3148406431ca84d8cfaae786e47c5c8d" target="_top" xlink:title="IMAP hook into the folder browser. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="328,-171.5 328,-190.5 410,-190.5 410,-171.5 328,-171.5"/>
 <text text-anchor="middle" x="369" y="-178.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">imap_browse</text>
 </a>
 </g>
 </g>
-<!-- Node1816&#45;&gt;Node1874 -->
+<!-- Node1980&#45;&gt;Node2064 -->
 <g id="edge9" class="edge">
-<title>Node1816&#45;&gt;Node1874</title>
+<title>Node1980&#45;&gt;Node2064</title>
 <path fill="none" stroke="#191970" d="M101.0748,-238.0083C117.3495,-231.2384 136.2925,-224.0482 154,-219 213.2353,-202.1126 283.8989,-191.3531 327.6147,-185.7462"/>
 <polygon fill="#191970" stroke="#191970" points="99.6717,-234.8016 91.8303,-241.9264 102.4033,-241.2466 99.6717,-234.8016"/>
 </g>
-<!-- Node2392 -->
+<!-- Node2610 -->
 <g id="node10" class="node">
-<title>Node2392</title>
+<title>Node2610</title>
 <g id="a_node10"><a xlink:href="imap_8c.html#ac58d293937015b8560ee115503d199ff" target="_top" xlink:title="Look for completion matches for mailboxes. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="167.5,-114.5 167.5,-133.5 261.5,-133.5 261.5,-114.5 167.5,-114.5"/>
 <text text-anchor="middle" x="214.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">complete_hosts</text>
 </a>
 </g>
 </g>
-<!-- Node1816&#45;&gt;Node2392 -->
+<!-- Node1980&#45;&gt;Node2610 -->
 <g id="edge10" class="edge">
-<title>Node1816&#45;&gt;Node2392</title>
+<title>Node1980&#45;&gt;Node2610</title>
 <path fill="none" stroke="#191970" d="M73.1594,-232.884C89.5091,-207.0612 118.732,-166.623 154,-143 159.7626,-139.1402 166.3529,-136.0294 173.0146,-133.5328"/>
 <polygon fill="#191970" stroke="#191970" points="70.0054,-231.3303 67.7309,-241.6781 75.9619,-235.0072 70.0054,-231.3303"/>
 </g>
-<!-- Node2001 -->
+<!-- Node2193 -->
 <g id="node11" class="node">
-<title>Node2001</title>
+<title>Node2193</title>
 <g id="a_node11"><a xlink:href="init_8h.html#aadc99134446d4162844e0a8d103df18b" target="_top" xlink:title="Initialise NeoMutt. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="184,-76.5 184,-95.5 245,-95.5 245,-76.5 184,-76.5"/>
 <text text-anchor="middle" x="214.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_init</text>
 </a>
 </g>
 </g>
-<!-- Node1816&#45;&gt;Node2001 -->
+<!-- Node1980&#45;&gt;Node2193 -->
 <g id="edge11" class="edge">
-<title>Node1816&#45;&gt;Node2001</title>
+<title>Node1980&#45;&gt;Node2193</title>
 <path fill="none" stroke="#191970" d="M68.1736,-231.9743C81.7849,-198.2685 110.4968,-138.641 154,-105 162.622,-98.3326 173.6232,-93.9806 183.8741,-91.1502"/>
 <polygon fill="#191970" stroke="#191970" points="64.8135,-230.957 64.4346,-241.5451 71.3336,-233.5043 64.8135,-230.957"/>
 </g>
-<!-- Node2393 -->
+<!-- Node2611 -->
 <g id="node12" class="node">
-<title>Node2393</title>
+<title>Node2611</title>
 <g id="a_node12"><a xlink:href="sidebar_2observer_8c.html#ac4a9feba12a608728753334115f8ef1b" target="_top" xlink:title="Initialise the Sidebar data. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="176.5,-38.5 176.5,-57.5 252.5,-57.5 252.5,-38.5 176.5,-38.5"/>
 <text text-anchor="middle" x="214.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">sb_init_data</text>
 </a>
 </g>
 </g>
-<!-- Node1816&#45;&gt;Node2393 -->
+<!-- Node1980&#45;&gt;Node2611 -->
 <g id="edge12" class="edge">
-<title>Node1816&#45;&gt;Node2393</title>
+<title>Node1980&#45;&gt;Node2611</title>
 <path fill="none" stroke="#191970" d="M64.7322,-232.0577C75.3288,-191.5344 101.8198,-111.4637 154,-67 160.3685,-61.5733 168.2879,-57.6941 176.276,-54.9219"/>
 <polygon fill="#191970" stroke="#191970" points="61.2965,-231.3698 62.2653,-241.9203 68.0873,-233.0685 61.2965,-231.3698"/>
 </g>
-<!-- Node2394 -->
+<!-- Node2612 -->
 <g id="node13" class="node">
-<title>Node2394</title>
+<title>Node2612</title>
 <g id="a_node13"><a xlink:href="mutt__mailbox_8h.html#a699c8af5931c0e7156efb889a6e43738" target="_top" xlink:title="Check all all Mailboxes for new mail. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="155,-456.5 155,-475.5 274,-475.5 274,-456.5 155,-456.5"/>
 <text text-anchor="middle" x="214.5" y="-463.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_mailbox_check</text>
 </a>
 </g>
 </g>
-<!-- Node1816&#45;&gt;Node2394 -->
+<!-- Node1980&#45;&gt;Node2612 -->
 <g id="edge13" class="edge">
-<title>Node1816&#45;&gt;Node2394</title>
+<title>Node1980&#45;&gt;Node2612</title>
 <path fill="none" stroke="#191970" d="M65.6209,-281.9982C77.2165,-321.215 104.7759,-397.3218 154,-442 160.861,-448.2274 169.534,-452.9278 178.1543,-456.4405"/>
 <polygon fill="#191970" stroke="#191970" points="68.9342,-280.8538 62.8296,-272.1944 62.2018,-282.7707 68.9342,-280.8538"/>
 </g>
-<!-- Node2026 -->
+<!-- Node2218 -->
 <g id="node14" class="node">
-<title>Node2026</title>
+<title>Node2218</title>
 <g id="a_node14"><a xlink:href="mutt__mailbox_8h.html#a4a77c0185d4129b0a7ab77c30481b9ef" target="_top" xlink:title="incoming folders completion routine ">
 <polygon fill="#ffffff" stroke="#ff0000" points="313,-399.5 313,-418.5 425,-418.5 425,-399.5 313,-399.5"/>
 <text text-anchor="middle" x="369" y="-406.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_mailbox_next</text>
 </a>
 </g>
 </g>
-<!-- Node1816&#45;&gt;Node2026 -->
+<!-- Node1980&#45;&gt;Node2218 -->
 <g id="edge18" class="edge">
-<title>Node1816&#45;&gt;Node2026</title>
+<title>Node1980&#45;&gt;Node2218</title>
 <path fill="none" stroke="#191970" d="M71.8891,-280.7974C87.597,-307.3409 116.7191,-349.3814 154,-371 202.694,-399.2369 267.2408,-407.5012 312.8637,-409.4628"/>
 <polygon fill="#191970" stroke="#191970" points="74.917,-279.0417 66.9011,-272.1138 68.8471,-282.5284 74.917,-279.0417"/>
 </g>
-<!-- Node2398 -->
+<!-- Node2617 -->
 <g id="node15" class="node">
-<title>Node2398</title>
+<title>Node2617</title>
 <g id="a_node15"><a xlink:href="mutt__mailbox_8h.html#ab9927df6282aeabd032cfca3332f4907" target="_top" xlink:title="List the mailboxes with new mail. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="162,-.5 162,-19.5 267,-19.5 267,-.5 162,-.5"/>
 <text text-anchor="middle" x="214.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_mailbox_list</text>
 </a>
 </g>
 </g>
-<!-- Node1816&#45;&gt;Node2398 -->
+<!-- Node1980&#45;&gt;Node2617 -->
 <g id="edge17" class="edge">
-<title>Node1816&#45;&gt;Node2398</title>
+<title>Node1980&#45;&gt;Node2617</title>
 <path fill="none" stroke="#191970" d="M62.4403,-231.816C70.1565,-185.0557 93.1948,-84.5374 154,-29 158.227,-25.1392 163.233,-22.0629 168.5271,-19.6117"/>
 <polygon fill="#191970" stroke="#191970" points="58.9786,-231.2998 60.9054,-241.7179 65.896,-232.3721 58.9786,-231.2998"/>
 </g>
-<!-- Node2391&#45;&gt;Node1874 -->
+<!-- Node2609&#45;&gt;Node2064 -->
 <g id="edge8" class="edge">
-<title>Node2391&#45;&gt;Node1874</title>
+<title>Node2609&#45;&gt;Node2064</title>
 <path fill="none" stroke="#191970" d="M258.7741,-167.4447C280.5484,-170.1225 306.6258,-173.3294 327.9487,-175.9516"/>
 <polygon fill="#191970" stroke="#191970" points="259.141,-163.9636 248.7886,-166.2167 258.2866,-170.9112 259.141,-163.9636"/>
 </g>
-<!-- Node2394&#45;&gt;Node1817 -->
+<!-- Node2612&#45;&gt;Node1981 -->
 <g id="edge14" class="edge">
-<title>Node2394&#45;&gt;Node1817</title>
+<title>Node2612&#45;&gt;Node1981</title>
 <path fill="none" stroke="#191970" d="M277.0986,-477.3447C290.1755,-479.7146 303.8338,-482.19 316.4997,-484.4854"/>
 <polygon fill="#191970" stroke="#191970" points="277.7019,-473.8971 267.238,-475.5577 276.4536,-480.7849 277.7019,-473.8971"/>
 </g>
-<!-- Node2394&#45;&gt;Node2383 -->
+<!-- Node2612&#45;&gt;Node2601 -->
 <g id="edge15" class="edge">
-<title>Node2394&#45;&gt;Node2383</title>
+<title>Node2612&#45;&gt;Node2601</title>
 <path fill="none" stroke="#191970" d="M284.234,-457.4243C293.1651,-456.326 302.2315,-455.211 310.9496,-454.1389"/>
 <polygon fill="#191970" stroke="#191970" points="283.7317,-453.9596 274.2337,-458.6541 284.5862,-460.9073 283.7317,-453.9596"/>
 </g>
-<!-- Node2394&#45;&gt;Node2026 -->
+<!-- Node2612&#45;&gt;Node2218 -->
 <g id="edge16" class="edge">
-<title>Node2394&#45;&gt;Node2026</title>
+<title>Node2612&#45;&gt;Node2218</title>
 <path fill="none" stroke="#191970" d="M247.2359,-452.5581C265.8326,-445.061 289.6053,-435.7092 311,-428 319.9717,-424.7672 329.8037,-421.4591 338.7823,-418.5283"/>
 <polygon fill="#191970" stroke="#191970" points="245.7079,-449.4008 237.7545,-456.4003 248.337,-455.8884 245.7079,-449.4008"/>
 </g>

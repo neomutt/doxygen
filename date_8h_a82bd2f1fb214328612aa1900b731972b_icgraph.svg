@@ -9,96 +9,96 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 160.2843)">
 <title>mutt_date_local_tz</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-160.2843 451,-160.2843 451,4 -4,4"/>
-<!-- Node3912 -->
+<!-- Node4241 -->
 <g id="node1" class="node">
-<title>Node3912</title>
+<title>Node4241</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-76.5 0,-95.5 110,-95.5 110,-76.5 0,-76.5"/>
 <text text-anchor="middle" x="55" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_date_local_tz</text>
 </g>
-<!-- Node3913 -->
+<!-- Node4242 -->
 <g id="node2" class="node">
-<title>Node3913</title>
+<title>Node4242</title>
 <g id="a_node2"><a xlink:href="parse_8h.html#a32cd9ed48d31f100bd8525018e1450da" target="_top" xlink:title="parses an RFC822 header ">
 <polygon fill="#ffffff" stroke="#ff0000" points="146,-114.5 146,-133.5 288,-133.5 288,-114.5 146,-114.5"/>
 <text text-anchor="middle" x="217" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_rfc822_read_header</text>
 </a>
 </g>
 </g>
-<!-- Node3912&#45;&gt;Node3913 -->
+<!-- Node4241&#45;&gt;Node4242 -->
 <g id="edge1" class="edge">
-<title>Node3912&#45;&gt;Node3913</title>
+<title>Node4241&#45;&gt;Node4242</title>
 <path fill="none" stroke="#191970" d="M105.7148,-97.8961C128.4856,-103.2374 154.9867,-109.4537 176.4145,-114.4799"/>
 <polygon fill="#191970" stroke="#191970" points="106.4145,-94.4653 95.8794,-95.589 104.8159,-101.2803 106.4145,-94.4653"/>
 </g>
-<!-- Node4468 -->
+<!-- Node4851 -->
 <g id="node3" class="node">
-<title>Node4468</title>
+<title>Node4851</title>
 <g id="a_node3"><a xlink:href="mbox_8c.html#ad71d97d10ebedc0dd20050efed3d997c" target="_top" xlink:title="Read a mailbox in MMDF format. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="324,-133.5 324,-152.5 447,-152.5 447,-133.5 324,-133.5"/>
 <text text-anchor="middle" x="385.5" y="-140.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mmdf_parse_mailbox</text>
 </a>
 </g>
 </g>
-<!-- Node3912&#45;&gt;Node4468 -->
+<!-- Node4241&#45;&gt;Node4851 -->
 <g id="edge4" class="edge">
-<title>Node3912&#45;&gt;Node4468</title>
+<title>Node4241&#45;&gt;Node4851</title>
 <path fill="none" stroke="#191970" d="M73.9306,-102.3549C91.3367,-116.2326 118.5365,-135.1089 146,-143 204.6456,-159.8507 274.7562,-157.3823 323.9161,-152.2066"/>
 <polygon fill="#191970" stroke="#191970" points="75.7165,-99.2917 65.7715,-95.6381 71.2675,-104.696 75.7165,-99.2917"/>
 </g>
-<!-- Node4472 -->
+<!-- Node4855 -->
 <g id="node4" class="node">
-<title>Node4472</title>
+<title>Node4855</title>
 <g id="a_node4"><a xlink:href="mbox_8c.html#a0c856532edc1e1040922489ada94cc0d" target="_top" xlink:title="Read a mailbox from disk. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="324.5,-95.5 324.5,-114.5 446.5,-114.5 446.5,-95.5 324.5,-95.5"/>
 <text text-anchor="middle" x="385.5" y="-102.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mbox_parse_mailbox</text>
 </a>
 </g>
 </g>
-<!-- Node3912&#45;&gt;Node4472 -->
+<!-- Node4241&#45;&gt;Node4855 -->
 <g id="edge5" class="edge">
-<title>Node3912&#45;&gt;Node4472</title>
+<title>Node4241&#45;&gt;Node4855</title>
 <path fill="none" stroke="#191970" d="M120.3238,-89.7554C179.6285,-93.1647 266.4277,-98.1547 324.3846,-101.4866"/>
 <polygon fill="#191970" stroke="#191970" points="120.5027,-86.26 110.3183,-89.1802 120.1009,-93.2484 120.5027,-86.26"/>
 </g>
-<!-- Node4478 -->
+<!-- Node4861 -->
 <g id="node5" class="node">
-<title>Node4478</title>
+<title>Node4861</title>
 <g id="a_node5"><a xlink:href="date_8h.html#a394b85b0f5ce946eed457c6720611e0d" target="_top" xlink:title="Write a date in RFC822 format to a buffer. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="153.5,-38.5 153.5,-57.5 280.5,-57.5 280.5,-38.5 153.5,-38.5"/>
 <text text-anchor="middle" x="217" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_date_make_date</text>
 </a>
 </g>
 </g>
-<!-- Node3912&#45;&gt;Node4478 -->
+<!-- Node4241&#45;&gt;Node4861 -->
 <g id="edge6" class="edge">
-<title>Node3912&#45;&gt;Node4478</title>
+<title>Node4241&#45;&gt;Node4861</title>
 <path fill="none" stroke="#191970" d="M105.7148,-74.1039C128.4856,-68.7626 154.9867,-62.5463 176.4145,-57.5201"/>
 <polygon fill="#191970" stroke="#191970" points="104.8159,-70.7197 95.8794,-76.411 106.4145,-77.5347 104.8159,-70.7197"/>
 </g>
-<!-- Node4479 -->
+<!-- Node4862 -->
 <g id="node6" class="node">
-<title>Node4479</title>
+<title>Node4862</title>
 <g id="a_node6"><a xlink:href="date_8h.html#ab30120ea670e25b9f47ccc9c83eda66f" target="_top" xlink:title="Format date in IMAP style: DD&#45;MMM&#45;YYYY HH:MM:SS +ZZzz. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="152,-.5 152,-19.5 282,-19.5 282,-.5 152,-.5"/>
 <text text-anchor="middle" x="217" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_date_make_imap</text>
 </a>
 </g>
 </g>
-<!-- Node3912&#45;&gt;Node4479 -->
+<!-- Node4241&#45;&gt;Node4862 -->
 <g id="edge7" class="edge">
-<title>Node3912&#45;&gt;Node4479</title>
+<title>Node4241&#45;&gt;Node4862</title>
 <path fill="none" stroke="#191970" d="M76.0469,-70.2666C93.8743,-57.5817 120.5274,-40.0873 146,-29 154.5409,-25.2824 163.9841,-22.1401 173.1206,-19.5472"/>
 <polygon fill="#191970" stroke="#191970" points="73.6246,-67.6996 67.5818,-76.4022 77.7327,-73.3674 73.6246,-67.6996"/>
 </g>
-<!-- Node3913&#45;&gt;Node4468 -->
+<!-- Node4242&#45;&gt;Node4851 -->
 <g id="edge2" class="edge">
-<title>Node3913&#45;&gt;Node4468</title>
+<title>Node4242&#45;&gt;Node4851</title>
 <path fill="none" stroke="#191970" d="M298.4331,-133.1824C306.9624,-134.1441 315.5302,-135.1102 323.7864,-136.0412"/>
 <polygon fill="#191970" stroke="#191970" points="298.7884,-129.7003 288.4592,-132.0577 298.004,-136.6563 298.7884,-129.7003"/>
 </g>
-<!-- Node3913&#45;&gt;Node4472 -->
+<!-- Node4242&#45;&gt;Node4855 -->
 <g id="edge3" class="edge">
-<title>Node3913&#45;&gt;Node4472</title>
+<title>Node4242&#45;&gt;Node4855</title>
 <path fill="none" stroke="#191970" d="M298.586,-114.8004C307.2459,-113.8239 315.9435,-112.8432 324.3121,-111.8995"/>
 <polygon fill="#191970" stroke="#191970" points="298.004,-111.3437 288.4592,-115.9423 298.7884,-118.2997 298.004,-111.3437"/>
 </g>

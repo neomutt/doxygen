@@ -9,51 +9,51 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 52.4929)">
 <title>imap_copy_messages</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-52.4929 415,-52.4929 415,4 -4,4"/>
-<!-- Node24495 -->
+<!-- Node24129 -->
 <g id="node1" class="node">
-<title>Node24495</title>
+<title>Node24129</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-28.5 0,-47.5 125,-47.5 125,-28.5 0,-28.5"/>
 <text text-anchor="middle" x="62.5" y="-35.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">imap_copy_messages</text>
 </g>
-<!-- Node24496 -->
+<!-- Node24130 -->
 <g id="node2" class="node">
-<title>Node24496</title>
+<title>Node24130</title>
 <g id="a_node2"><a xlink:href="commands_8h.html#a5d95c39ad429339ec0cdc9524ce8023b" target="_top" xlink:title="Save an email. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="293,-28.5 293,-47.5 411,-47.5 411,-28.5 293,-28.5"/>
 <text text-anchor="middle" x="352" y="-35.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_save_message</text>
 </a>
 </g>
 </g>
-<!-- Node24495&#45;&gt;Node24496 -->
+<!-- Node24129&#45;&gt;Node24130 -->
 <g id="edge1" class="edge">
-<title>Node24495&#45;&gt;Node24496</title>
+<title>Node24129&#45;&gt;Node24130</title>
 <path fill="none" stroke="#191970" d="M135.3271,-45.4051C143.9719,-46.0617 152.6776,-46.6206 161,-47 203.6224,-48.9432 214.3809,-49.0143 257,-47 268.5839,-46.4525 280.9358,-45.5315 292.7696,-44.4822"/>
 <polygon fill="#191970" stroke="#191970" points="135.4817,-41.9063 125.2335,-44.5942 134.9211,-48.8838 135.4817,-41.9063"/>
 </g>
-<!-- Node24552 -->
+<!-- Node24213 -->
 <g id="node3" class="node">
-<title>Node24552</title>
+<title>Node24213</title>
 <g id="a_node3"><a xlink:href="mx_8h.html#af9e949965d56e69eb9a6a9aa640614bb" target="_top" xlink:title="Save changes and close mailbox. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="161,-.5 161,-19.5 257,-19.5 257,-.5 161,-.5"/>
 <text text-anchor="middle" x="209" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mx_mbox_close</text>
 </a>
 </g>
 </g>
-<!-- Node24495&#45;&gt;Node24552 -->
+<!-- Node24129&#45;&gt;Node24213 -->
 <g id="edge2" class="edge">
-<title>Node24495&#45;&gt;Node24552</title>
+<title>Node24129&#45;&gt;Node24213</title>
 <path fill="none" stroke="#191970" d="M122.5471,-26.5234C135.2505,-24.0955 148.5017,-21.5628 160.7038,-19.2307"/>
 <polygon fill="#191970" stroke="#191970" points="121.6724,-23.1272 112.5072,-28.4423 122.9865,-30.0027 121.6724,-23.1272"/>
 </g>
-<!-- Node24552&#45;&gt;Node24496 -->
+<!-- Node24213&#45;&gt;Node24130 -->
 <g id="edge3" class="edge">
-<title>Node24552&#45;&gt;Node24496</title>
+<title>Node24213&#45;&gt;Node24130</title>
 <path fill="none" stroke="#191970" d="M267.0011,-21.3569C279.0767,-23.7213 291.6853,-26.1901 303.3809,-28.4802"/>
 <polygon fill="#191970" stroke="#191970" points="267.501,-17.8883 257.0147,-19.4015 266.1558,-24.7579 267.501,-17.8883"/>
 </g>
-<!-- Node24552&#45;&gt;Node24552 -->
+<!-- Node24213&#45;&gt;Node24213 -->
 <g id="edge4" class="edge">
-<title>Node24552&#45;&gt;Node24552</title>
+<title>Node24213&#45;&gt;Node24213</title>
 <path fill="none" stroke="#191970" d="M182.4941,-28.6539C183.6021,-33.9368 192.4374,-38 209,-38 234.2383,-38 241.5337,-28.5653 230.8863,-19.7571"/>
 <polygon fill="#191970" stroke="#191970" points="185.6117,-30.2449 187.1137,-19.7571 179.3992,-27.0192 185.6117,-30.2449"/>
 </g>

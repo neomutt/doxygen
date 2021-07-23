@@ -9,84 +9,84 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 100.2951)">
 <title>attach_make_entry</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-100.2951 550,-100.2951 550,4 -4,4"/>
-<!-- Node8322 -->
+<!-- Node5742 -->
 <g id="node1" class="node">
-<title>Node8322</title>
+<title>Node5742</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-56.5 0,-75.5 111,-75.5 111,-56.5 0,-56.5"/>
 <text text-anchor="middle" x="55.5" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">attach_make_entry</text>
 </g>
-<!-- Node8323 -->
+<!-- Node5743 -->
 <g id="node2" class="node">
-<title>Node8323</title>
+<title>Node5743</title>
 <g id="a_node2"><a xlink:href="helpers_8c.html#ac477c591155aa4ae0452bbabc0affffe" target="_top" xlink:title="Get a string config item by name. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="448,-38.5 448,-57.5 546,-57.5 546,-38.5 448,-38.5"/>
 <text text-anchor="middle" x="497" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_subset_string</text>
 </a>
 </g>
 </g>
-<!-- Node8322&#45;&gt;Node8323 -->
+<!-- Node5742&#45;&gt;Node5743 -->
 <g id="edge1" class="edge">
-<title>Node8322&#45;&gt;Node8323</title>
+<title>Node5742&#45;&gt;Node5743</title>
 <path fill="none" stroke="#191970" d="M99.401,-75.5012C167.2337,-88.5838 301.2611,-108.0571 412,-85 432.9426,-80.6395 455.0515,-70.833 471.4703,-62.4111"/>
 <polygon fill="#191970" stroke="#191970" points="473.231,-65.4392 480.4281,-57.664 469.9532,-59.254 473.231,-65.4392"/>
 </g>
-<!-- Node8346 -->
+<!-- Node5766 -->
 <g id="node3" class="node">
-<title>Node8346</title>
-<g id="a_node3"><a xlink:href="muttlib_8c.html#a8972094c1e995739c8b072c8be3ce453" target="_top" xlink:title="Expand expandos (x) in a string. ">
+<title>Node5766</title>
+<g id="a_node3"><a xlink:href="group__expando__api.html#ga8972094c1e995739c8b072c8be3ce453" target="_top" xlink:title="Expand expandos (x) in a string &#45;. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="287,-38.5 287,-57.5 412,-57.5 412,-38.5 287,-38.5"/>
 <text text-anchor="middle" x="349.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_expando_format</text>
 </a>
 </g>
 </g>
-<!-- Node8322&#45;&gt;Node8346 -->
+<!-- Node5742&#45;&gt;Node5766 -->
 <g id="edge2" class="edge">
-<title>Node8322&#45;&gt;Node8346</title>
+<title>Node5742&#45;&gt;Node5766</title>
 <path fill="none" stroke="#191970" d="M111.1448,-62.5932C158.1211,-59.7171 225.7193,-55.5784 276.9383,-52.4426"/>
 <polygon fill="#191970" stroke="#191970" points="277.1853,-55.9341 286.9527,-51.8294 276.7575,-48.9472 277.1853,-55.9341"/>
 </g>
-<!-- Node8388 -->
+<!-- Node5808 -->
 <g id="node4" class="node">
-<title>Node8388</title>
-<g id="a_node4"><a xlink:href="recvattach_8c.html#a15aa67845d7281e3b5263c24dcf75d0c" target="_top" xlink:title="Format a string for the attachment menu &#45; Implements format_t. ">
+<title>Node5808</title>
+<g id="a_node4"><a xlink:href="group__expando__api.html#ga15aa67845d7281e3b5263c24dcf75d0c" target="_top" xlink:title="Format a string for the attachment menu &#45; Implements format_t &#45;Expando Description &#160;%C Character set ...">
 <polygon fill="#ffffff" stroke="#ff0000" points="147,-.5 147,-19.5 251,-19.5 251,-.5 147,-.5"/>
 <text text-anchor="middle" x="199" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">attach_format_str</text>
 </a>
 </g>
 </g>
-<!-- Node8322&#45;&gt;Node8388 -->
+<!-- Node5742&#45;&gt;Node5808 -->
 <g id="edge5" class="edge">
-<title>Node8322&#45;&gt;Node8388</title>
+<title>Node5742&#45;&gt;Node5808</title>
 <path fill="none" stroke="#191970" d="M80.1685,-56.3733C103.6172,-47.2226 139.0775,-33.3844 165.1605,-23.2057"/>
 <polygon fill="#191970" stroke="#191970" points="166.61,-26.3971 174.6534,-19.5011 164.0652,-19.8761 166.61,-26.3971"/>
 </g>
-<!-- Node8346&#45;&gt;Node8323 -->
+<!-- Node5766&#45;&gt;Node5743 -->
 <g id="edge3" class="edge">
-<title>Node8346&#45;&gt;Node8323</title>
+<title>Node5766&#45;&gt;Node5743</title>
 <path fill="none" stroke="#191970" d="M412.0533,-48C420.5381,-48 429.2254,-48 437.6517,-48"/>
 <polygon fill="#191970" stroke="#191970" points="437.7693,-51.5001 447.7693,-48 437.7693,-44.5001 437.7693,-51.5001"/>
 </g>
-<!-- Node8346&#45;&gt;Node8346 -->
+<!-- Node5766&#45;&gt;Node5766 -->
 <g id="edge4" class="edge">
-<title>Node8346&#45;&gt;Node8346</title>
+<title>Node5766&#45;&gt;Node5766</title>
 <path fill="none" stroke="#191970" d="M326.9972,-57.7571C316.0498,-66.5653 323.5508,-76 349.5,-76 366.5292,-76 375.6133,-71.9368 376.7525,-66.6539"/>
 <polygon fill="#191970" stroke="#191970" points="379.7999,-64.9303 372.0028,-57.7571 373.6248,-68.227 379.7999,-64.9303"/>
 </g>
-<!-- Node8388&#45;&gt;Node8323 -->
+<!-- Node5808&#45;&gt;Node5743 -->
 <g id="edge6" class="edge">
-<title>Node8388&#45;&gt;Node8323</title>
+<title>Node5808&#45;&gt;Node5743</title>
 <path fill="none" stroke="#191970" d="M251.3159,-12.7509C294.5762,-15.4841 357.5241,-20.5192 412,-29 424.1397,-30.8899 437.1357,-33.4941 449.2217,-36.1687"/>
 <polygon fill="#191970" stroke="#191970" points="448.5941,-39.6153 459.121,-38.4179 450.145,-32.7892 448.5941,-39.6153"/>
 </g>
-<!-- Node8388&#45;&gt;Node8346 -->
+<!-- Node5808&#45;&gt;Node5766 -->
 <g id="edge7" class="edge">
-<title>Node8388&#45;&gt;Node8346</title>
+<title>Node5808&#45;&gt;Node5766</title>
 <path fill="none" stroke="#191970" d="M236.9775,-19.589C256.6587,-24.5583 280.8907,-30.6767 301.8206,-35.9613"/>
 <polygon fill="#191970" stroke="#191970" points="301.243,-39.4253 311.7956,-38.4799 302.9567,-32.6383 301.243,-39.4253"/>
 </g>
-<!-- Node8388&#45;&gt;Node8388 -->
+<!-- Node5808&#45;&gt;Node5808 -->
 <g id="edge8" class="edge">
-<title>Node8388&#45;&gt;Node8388</title>
+<title>Node5808&#45;&gt;Node5808</title>
 <path fill="none" stroke="#191970" d="M177.1137,-19.7571C166.4663,-28.5653 173.7617,-38 199,-38 215.5626,-38 224.3979,-33.9368 225.5059,-28.6539"/>
 <polygon fill="#191970" stroke="#191970" points="228.6008,-27.0192 220.8863,-19.7571 222.3883,-30.2449 228.6008,-27.0192"/>
 </g>

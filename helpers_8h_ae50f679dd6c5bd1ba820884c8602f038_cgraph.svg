@@ -9,66 +9,66 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 136)">
 <title>cs_subset_bool</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-136 292,-136 292,4 -4,4"/>
-<!-- Node607 -->
+<!-- Node662 -->
 <g id="node1" class="node">
-<title>Node607</title>
+<title>Node662</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-38.5 0,-57.5 91,-57.5 91,-38.5 0,-38.5"/>
 <text text-anchor="middle" x="45.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_subset_bool</text>
 </g>
-<!-- Node608 -->
+<!-- Node663 -->
 <g id="node2" class="node">
-<title>Node608</title>
+<title>Node663</title>
 <g id="a_node2"><a xlink:href="subset_8c.html#a20b4ed9caadbf8c910807a2a1225ff1e" target="_top" xlink:title="Create a Subset config item (inherited) ">
 <polygon fill="#ffffff" stroke="#ff0000" points="127,-94.5 127,-113.5 288,-113.5 288,-94.5 127,-94.5"/>
 <text text-anchor="middle" x="207.5" y="-101.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_subset_create_inheritance</text>
 </a>
 </g>
 </g>
-<!-- Node607&#45;&gt;Node608 -->
+<!-- Node662&#45;&gt;Node663 -->
 <g id="edge1" class="edge">
-<title>Node607&#45;&gt;Node608</title>
+<title>Node662&#45;&gt;Node663</title>
 <path fill="none" stroke="#191970" d="M63.8561,-57.5797C80.1063,-65.756 104.6471,-77.3692 127,-85 134.4531,-87.5443 142.4074,-89.8705 150.3061,-91.9553"/>
 <polygon fill="#191970" stroke="#191970" points="149.6867,-95.4087 160.2395,-94.465 151.4015,-88.622 149.6867,-95.4087"/>
 </g>
-<!-- Node620 -->
+<!-- Node675 -->
 <g id="node3" class="node">
-<title>Node620</title>
+<title>Node675</title>
 <g id="a_node3"><a xlink:href="set_8c.html#abc8977c3a4db023bfd5f5e8e93bd4cf9" target="_top" xlink:title="Find the root Config Item. ">
 <polygon fill="#ffffff" stroke="#000000" points="169,-38.5 169,-57.5 246,-57.5 246,-38.5 169,-38.5"/>
 <text text-anchor="middle" x="207.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_get_base</text>
 </a>
 </g>
 </g>
-<!-- Node607&#45;&gt;Node620 -->
+<!-- Node662&#45;&gt;Node675 -->
 <g id="edge3" class="edge">
-<title>Node607&#45;&gt;Node620</title>
+<title>Node662&#45;&gt;Node675</title>
 <path fill="none" stroke="#191970" d="M91.0571,-48C112.1284,-48 137.1857,-48 158.6484,-48"/>
 <polygon fill="#191970" stroke="#191970" points="158.8626,-51.5001 168.8626,-48 158.8626,-44.5001 158.8626,-51.5001"/>
 </g>
-<!-- Node621 -->
+<!-- Node676 -->
 <g id="node4" class="node">
-<title>Node621</title>
+<title>Node676</title>
 <g id="a_node4"><a xlink:href="subset_8c.html#a7417f52ec93f2ea2ddddc4051944064c" target="_top" xlink:title="Natively get the value of a HashElem config item. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="138,-.5 138,-19.5 277,-19.5 277,-.5 138,-.5"/>
 <text text-anchor="middle" x="207.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_subset_he_native_get</text>
 </a>
 </g>
 </g>
-<!-- Node607&#45;&gt;Node621 -->
+<!-- Node662&#45;&gt;Node676 -->
 <g id="edge5" class="edge">
-<title>Node607&#45;&gt;Node621</title>
+<title>Node662&#45;&gt;Node676</title>
 <path fill="none" stroke="#191970" d="M86.3794,-38.411C107.8534,-33.3739 134.3605,-27.1562 157.097,-21.8229"/>
 <polygon fill="#191970" stroke="#191970" points="157.9781,-25.2113 166.9145,-19.5201 156.3795,-18.3963 157.9781,-25.2113"/>
 </g>
-<!-- Node608&#45;&gt;Node608 -->
+<!-- Node663&#45;&gt;Node663 -->
 <g id="edge2" class="edge">
-<title>Node608&#45;&gt;Node608</title>
+<title>Node663&#45;&gt;Node663</title>
 <path fill="none" stroke="#191970" d="M182.5311,-113.7571C170.3841,-122.5653 178.707,-132 207.5,-132 226.8453,-132 236.9501,-127.741 237.8144,-122.2746"/>
 <polygon fill="#191970" stroke="#191970" points="240.7492,-120.3667 232.4689,-113.7571 234.8201,-124.0877 240.7492,-120.3667"/>
 </g>
-<!-- Node620&#45;&gt;Node620 -->
+<!-- Node675&#45;&gt;Node675 -->
 <g id="edge4" class="edge">
-<title>Node620&#45;&gt;Node620</title>
+<title>Node675&#45;&gt;Node675</title>
 <path fill="none" stroke="#191970" d="M182.5311,-57.7571C170.3841,-66.5653 178.707,-76 207.5,-76 226.8453,-76 236.9501,-71.741 237.8144,-66.2746"/>
 <polygon fill="#191970" stroke="#191970" points="240.7492,-64.3667 232.4689,-57.7571 234.8201,-68.0877 240.7492,-64.3667"/>
 </g>

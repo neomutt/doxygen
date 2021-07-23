@@ -9,144 +9,144 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 328)">
 <title>include_forward</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-328 290,-328 290,4 -4,4"/>
-<!-- Node14553 -->
+<!-- Node14421 -->
 <g id="node1" class="node">
-<title>Node14553</title>
+<title>Node14421</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-152.5 0,-171.5 95,-171.5 95,-152.5 0,-152.5"/>
 <text text-anchor="middle" x="47.5" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">include_forward</text>
 </g>
-<!-- Node14554 -->
+<!-- Node14422 -->
 <g id="node2" class="node">
-<title>Node14554</title>
+<title>Node14422</title>
 <g id="a_node2"><a xlink:href="mx_8c.html#a7df2f9d4d83ce9fca2cf48e08f8a4bc0" target="_top" xlink:title="return a stream pointer for a message ">
 <polygon fill="#ffffff" stroke="#ff0000" points="164.5,-304.5 164.5,-323.5 252.5,-323.5 252.5,-304.5 164.5,-304.5"/>
 <text text-anchor="middle" x="208.5" y="-311.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mx_msg_open</text>
 </a>
 </g>
 </g>
-<!-- Node14553&#45;&gt;Node14554 -->
+<!-- Node14421&#45;&gt;Node14422 -->
 <g id="edge1" class="edge">
-<title>Node14553&#45;&gt;Node14554</title>
+<title>Node14421&#45;&gt;Node14422</title>
 <path fill="none" stroke="#191970" d="M50.726,-171.8372C59.4002,-196.6788 85.6844,-262.2851 131,-295 137.9429,-300.0123 146.0512,-303.7118 154.3575,-306.4403"/>
 <polygon fill="#191970" stroke="#191970" points="153.5656,-309.8537 164.1413,-309.2177 155.4772,-303.1198 153.5656,-309.8537"/>
 </g>
-<!-- Node14557 -->
+<!-- Node14425 -->
 <g id="node3" class="node">
-<title>Node14557</title>
+<title>Node14425</title>
 <g id="a_node3"><a xlink:href="attachments_8c.html#a9fb5dd768a13b9f083ca3a5e2e713db6" target="_top" xlink:title="Parse a MIME email. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="131,-266.5 131,-285.5 286,-285.5 286,-266.5 131,-266.5"/>
 <text text-anchor="middle" x="208.5" y="-273.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_parse_mime_message</text>
 </a>
 </g>
 </g>
-<!-- Node14553&#45;&gt;Node14557 -->
+<!-- Node14421&#45;&gt;Node14425 -->
 <g id="edge2" class="edge">
-<title>Node14553&#45;&gt;Node14557</title>
+<title>Node14421&#45;&gt;Node14425</title>
 <path fill="none" stroke="#191970" d="M53.0456,-171.532C64.8031,-190.8527 94.1984,-234.6853 131,-257 134.5982,-259.1818 138.4335,-261.1133 142.3992,-262.8232"/>
 <polygon fill="#191970" stroke="#191970" points="141.2477,-266.1299 151.8384,-266.4243 143.7429,-259.5897 141.2477,-266.1299"/>
 </g>
-<!-- Node16019 -->
+<!-- Node15894 -->
 <g id="node4" class="node">
-<title>Node16019</title>
+<title>Node15894</title>
 <g id="a_node4"><a xlink:href="hook_8c.html#af487ca5e3f7da21c86e3ad61fdb55faa" target="_top" xlink:title="Perform a message hook. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="149,-228.5 149,-247.5 268,-247.5 268,-228.5 149,-228.5"/>
 <text text-anchor="middle" x="208.5" y="-235.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_message_hook</text>
 </a>
 </g>
 </g>
-<!-- Node14553&#45;&gt;Node16019 -->
+<!-- Node14421&#45;&gt;Node15894 -->
 <g id="edge3" class="edge">
-<title>Node14553&#45;&gt;Node16019</title>
+<title>Node14421&#45;&gt;Node15894</title>
 <path fill="none" stroke="#191970" d="M58.6016,-171.5324C73.9015,-184.1912 102.7893,-206.4121 131,-219 136.4301,-221.4229 142.2179,-223.5675 148.0908,-225.459"/>
 <polygon fill="#191970" stroke="#191970" points="147.4241,-228.9121 158.0069,-228.4076 149.4193,-222.2024 147.4241,-228.9121"/>
 </g>
-<!-- Node14613 -->
+<!-- Node14481 -->
 <g id="node5" class="node">
-<title>Node14613</title>
+<title>Node14481</title>
 <g id="a_node5"><a xlink:href="helpers_8c.html#ae50f679dd6c5bd1ba820884c8602f038" target="_top" xlink:title="Get a boolean config item by name. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="163,-190.5 163,-209.5 254,-209.5 254,-190.5 163,-190.5"/>
 <text text-anchor="middle" x="208.5" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_subset_bool</text>
 </a>
 </g>
 </g>
-<!-- Node14553&#45;&gt;Node14613 -->
+<!-- Node14421&#45;&gt;Node14481 -->
 <g id="edge4" class="edge">
-<title>Node14553&#45;&gt;Node14613</title>
+<title>Node14421&#45;&gt;Node14481</title>
 <path fill="none" stroke="#191970" d="M88.1271,-171.589C109.4685,-176.6261 135.8119,-182.8438 158.4081,-188.1771"/>
 <polygon fill="#191970" stroke="#191970" points="157.6284,-191.5891 168.165,-190.4799 159.2365,-184.7763 157.6284,-191.5891"/>
 </g>
-<!-- Node15251 -->
+<!-- Node15121 -->
 <g id="node6" class="node">
-<title>Node15251</title>
+<title>Node15121</title>
 <g id="a_node6"><a xlink:href="crypt_8c.html#a4ee7f1419a7e39b0e9f1f9d550f4de43" target="_top" xlink:title="Check that we have a usable passphrase, ask if not. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="143,-152.5 143,-171.5 274,-171.5 274,-152.5 143,-152.5"/>
 <text text-anchor="middle" x="208.5" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">crypt_valid_passphrase</text>
 </a>
 </g>
 </g>
-<!-- Node14553&#45;&gt;Node15251 -->
+<!-- Node14421&#45;&gt;Node15121 -->
 <g id="edge5" class="edge">
-<title>Node14553&#45;&gt;Node15251</title>
+<title>Node14421&#45;&gt;Node15121</title>
 <path fill="none" stroke="#191970" d="M95.3694,-162C107.1449,-162 120.0418,-162 132.7786,-162"/>
 <polygon fill="#191970" stroke="#191970" points="132.9345,-165.5001 142.9344,-162 132.9344,-158.5001 132.9345,-165.5001"/>
 </g>
-<!-- Node15306 -->
+<!-- Node15178 -->
 <g id="node7" class="node">
-<title>Node15306</title>
+<title>Node15178</title>
 <g id="a_node7"><a xlink:href="mx_8c.html#a2172d90c08b5a2b293d22ed13ee0e7a8" target="_top" xlink:title="Close a message. ">
 <polygon fill="#ffffff" stroke="#000000" points="164,-114.5 164,-133.5 253,-133.5 253,-114.5 164,-114.5"/>
 <text text-anchor="middle" x="208.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mx_msg_close</text>
 </a>
 </g>
 </g>
-<!-- Node14553&#45;&gt;Node15306 -->
+<!-- Node14421&#45;&gt;Node15178 -->
 <g id="edge6" class="edge">
-<title>Node14553&#45;&gt;Node15306</title>
+<title>Node14421&#45;&gt;Node15178</title>
 <path fill="none" stroke="#191970" d="M88.1271,-152.411C109.4685,-147.3739 135.8119,-141.1562 158.4081,-135.8229"/>
 <polygon fill="#191970" stroke="#191970" points="159.2365,-139.2237 168.165,-133.5201 157.6284,-132.4109 159.2365,-139.2237"/>
 </g>
-<!-- Node16542 -->
+<!-- Node16282 -->
 <g id="node8" class="node">
-<title>Node16542</title>
+<title>Node16282</title>
 <g id="a_node8"><a xlink:href="send_8c.html#a40683be6f58e2cdf321c3e30a494fbde" target="_top" xlink:title="Add the &quot;start of forwarded message&quot; text. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="153.5,-76.5 153.5,-95.5 263.5,-95.5 263.5,-76.5 153.5,-76.5"/>
 <text text-anchor="middle" x="208.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_forward_intro</text>
 </a>
 </g>
 </g>
-<!-- Node14553&#45;&gt;Node16542 -->
+<!-- Node14421&#45;&gt;Node16282 -->
 <g id="edge7" class="edge">
-<title>Node14553&#45;&gt;Node16542</title>
+<title>Node14421&#45;&gt;Node16282</title>
 <path fill="none" stroke="#191970" d="M58.6016,-152.4676C73.9015,-139.8088 102.7893,-117.5879 131,-105 136.4301,-102.5771 142.2179,-100.4325 148.0908,-98.541"/>
 <polygon fill="#191970" stroke="#191970" points="149.4193,-101.7976 158.0069,-95.5924 147.4241,-95.0879 149.4193,-101.7976"/>
 </g>
-<!-- Node16031 -->
+<!-- Node15906 -->
 <g id="node9" class="node">
-<title>Node16031</title>
+<title>Node15906</title>
 <g id="a_node9"><a xlink:href="copy_8c.html#aa0dd608f4ed300454d97ac83ade160ac" target="_top" xlink:title="Copy a message from a Mailbox. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="149.5,-38.5 149.5,-57.5 267.5,-57.5 267.5,-38.5 149.5,-38.5"/>
 <text text-anchor="middle" x="208.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_copy_message</text>
 </a>
 </g>
 </g>
-<!-- Node14553&#45;&gt;Node16031 -->
+<!-- Node14421&#45;&gt;Node15906 -->
 <g id="edge8" class="edge">
-<title>Node14553&#45;&gt;Node16031</title>
+<title>Node14421&#45;&gt;Node15906</title>
 <path fill="none" stroke="#191970" d="M53.0456,-152.468C64.8031,-133.1473 94.1984,-89.3147 131,-67 134.5982,-64.8182 138.4335,-62.8867 142.3992,-61.1768"/>
 <polygon fill="#191970" stroke="#191970" points="143.7429,-64.4103 151.8384,-57.5757 141.2477,-57.8701 143.7429,-64.4103"/>
 </g>
-<!-- Node16543 -->
+<!-- Node16283 -->
 <g id="node10" class="node">
-<title>Node16543</title>
+<title>Node16283</title>
 <g id="a_node10"><a xlink:href="send_8c.html#ad951cc16f636045622b313f89278627a" target="_top" xlink:title="Add a &quot;end of forwarded message&quot; text. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="150,-.5 150,-19.5 267,-19.5 267,-.5 150,-.5"/>
 <text text-anchor="middle" x="208.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_forward_trailer</text>
 </a>
 </g>
 </g>
-<!-- Node14553&#45;&gt;Node16543 -->
+<!-- Node14421&#45;&gt;Node16283 -->
 <g id="edge9" class="edge">
-<title>Node14553&#45;&gt;Node16543</title>
+<title>Node14421&#45;&gt;Node16283</title>
 <path fill="none" stroke="#191970" d="M50.726,-152.1628C59.4002,-127.3212 85.6844,-61.7149 131,-29 133.8958,-26.9094 136.9943,-25.0472 140.2254,-23.3886"/>
 <polygon fill="#191970" stroke="#191970" points="141.8936,-26.478 149.6239,-19.2328 139.0627,-20.0759 141.8936,-26.478"/>
 </g>

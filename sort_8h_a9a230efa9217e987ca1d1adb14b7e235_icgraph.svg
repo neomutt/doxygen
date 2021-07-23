@@ -9,105 +9,105 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 263.5)">
 <title>mutt_get_name</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-263.5 509,-263.5 509,4 -4,4"/>
-<!-- Node3424 -->
+<!-- Node3364 -->
 <g id="node1" class="node">
-<title>Node3424</title>
+<title>Node3364</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-126 0,-145 94,-145 94,-126 0,-126"/>
 <text text-anchor="middle" x="47" y="-133" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_get_name</text>
 </g>
-<!-- Node3425 -->
+<!-- Node3365 -->
 <g id="node2" class="node">
-<title>Node3425</title>
+<title>Node3365</title>
 <g id="a_node2"><a xlink:href="sort_8c.html#a19abb41fb474288a035bfb9a259ad958" target="_top" xlink:title="Compare the &#39;to&#39; fields of two emails &#45; Implements sort_mail_t. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="158,-240 158,-259 232,-259 232,-240 158,-240"/>
 <text text-anchor="middle" x="195" y="-247" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">compare_to</text>
 </a>
 </g>
 </g>
-<!-- Node3424&#45;&gt;Node3425 -->
+<!-- Node3364&#45;&gt;Node3365 -->
 <g id="edge1" class="edge">
-<title>Node3424&#45;&gt;Node3425</title>
+<title>Node3364&#45;&gt;Node3365</title>
 <path fill="none" stroke="#191970" d="M58.2191,-153.7251C72.3611,-175.1954 98.6505,-210.4701 130,-230.5 138.3222,-235.8172 148.1813,-239.6907 157.6726,-242.4954"/>
 <polygon fill="#191970" stroke="#191970" points="61.0991,-151.7321 52.7618,-145.1945 55.2025,-155.5044 61.0991,-151.7321"/>
 </g>
-<!-- Node3997 -->
+<!-- Node3991 -->
 <g id="node3" class="node">
-<title>Node3997</title>
+<title>Node3991</title>
 <g id="a_node3"><a xlink:href="sort_8c.html#a834094be1fc1c7f9fcb8bddb7a2abcbf" target="_top" xlink:title="Compare the &#39;from&#39; fields of two emails &#45; Implements sort_mail_t. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="151,-202 151,-221 239,-221 239,-202 151,-202"/>
 <text text-anchor="middle" x="195" y="-209" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">compare_from</text>
 </a>
 </g>
 </g>
-<!-- Node3424&#45;&gt;Node3997 -->
+<!-- Node3364&#45;&gt;Node3991 -->
 <g id="edge2" class="edge">
-<title>Node3424&#45;&gt;Node3997</title>
+<title>Node3364&#45;&gt;Node3991</title>
 <path fill="none" stroke="#191970" d="M68.6215,-150.7778C84.9679,-161.8933 108.2381,-176.8076 130,-187.5 141.2284,-193.0169 154.0613,-198.0123 165.3419,-201.9994"/>
 <polygon fill="#191970" stroke="#191970" points="70.5256,-147.8393 60.3061,-145.0443 66.552,-153.6022 70.5256,-147.8393"/>
 </g>
-<!-- Node3998 -->
+<!-- Node3992 -->
 <g id="node4" class="node">
-<title>Node3998</title>
+<title>Node3992</title>
 <g id="a_node4"><a xlink:href="hdrline_8c.html#adf6800cd4ee1a0975d8bb953265b1ba9" target="_top" xlink:title="Generate a From: field (with optional prefix) ">
 <polygon fill="#ffffff" stroke="#000000" points="296,-126 296,-145 369,-145 369,-126 296,-126"/>
 <text text-anchor="middle" x="332.5" y="-133" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">make_from</text>
 </a>
 </g>
 </g>
-<!-- Node3424&#45;&gt;Node3998 -->
+<!-- Node3364&#45;&gt;Node3992 -->
 <g id="edge3" class="edge">
-<title>Node3424&#45;&gt;Node3998</title>
+<title>Node3364&#45;&gt;Node3992</title>
 <path fill="none" stroke="#191970" d="M104.4489,-135.5C161.5072,-135.5 247.2782,-135.5 295.7376,-135.5"/>
 <polygon fill="#191970" stroke="#191970" points="104.1446,-132.0001 94.1445,-135.5 104.1445,-139.0001 104.1446,-132.0001"/>
 </g>
-<!-- Node3659 -->
+<!-- Node3622 -->
 <g id="node5" class="node">
-<title>Node3659</title>
-<g id="a_node5"><a xlink:href="hdrline_8c.html#afa87b03d9a383088d6db0c417f79da92" target="_top" xlink:title="Format a string for the index list &#45; Implements format_t. ">
+<title>Node3622</title>
+<g id="a_node5"><a xlink:href="group__expando__api.html#gafa87b03d9a383088d6db0c417f79da92" target="_top" xlink:title="Format a string for the index list &#45; Implements format_t &#45;Expando Description &#160;%a Address of the auth...">
 <polygon fill="#ffffff" stroke="#ff0000" points="405,-126 405,-145 505,-145 505,-126 405,-126"/>
 <text text-anchor="middle" x="455" y="-133" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">index_format_str</text>
 </a>
 </g>
 </g>
-<!-- Node3424&#45;&gt;Node3659 -->
+<!-- Node3364&#45;&gt;Node3622 -->
 <g id="edge5" class="edge">
-<title>Node3424&#45;&gt;Node3659</title>
+<title>Node3364&#45;&gt;Node3622</title>
 <path fill="none" stroke="#191970" d="M104.237,-146.2064C112.8454,-147.5109 121.6382,-148.6728 130,-149.5 235.7294,-159.9595 263.3818,-166.0281 369,-154.5 386.0244,-152.6418 404.6133,-148.7728 420.1393,-145.0081"/>
 <polygon fill="#191970" stroke="#191970" points="104.6783,-142.7327 94.2531,-144.621 103.5804,-149.6461 104.6783,-142.7327"/>
 </g>
-<!-- Node3999 -->
+<!-- Node3993 -->
 <g id="node6" class="node">
-<title>Node3999</title>
+<title>Node3993</title>
 <g id="a_node6"><a xlink:href="maillist_8h.html#a040e23853a9575346469585a670ccc56" target="_top" xlink:title="Search list of addresses for a mailing list. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="132,-88 132,-107 258,-107 258,-88 132,-88"/>
 <text text-anchor="middle" x="195" y="-95" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">check_for_mailing_list</text>
 </a>
 </g>
 </g>
-<!-- Node3424&#45;&gt;Node3999 -->
+<!-- Node3364&#45;&gt;Node3993 -->
 <g id="edge6" class="edge">
-<title>Node3424&#45;&gt;Node3999</title>
+<title>Node3364&#45;&gt;Node3993</title>
 <path fill="none" stroke="#191970" d="M94.1735,-123.3879C114.7856,-118.0956 138.6093,-111.9787 157.9219,-107.0201"/>
 <polygon fill="#191970" stroke="#191970" points="93.162,-120.034 84.3466,-125.911 94.9029,-126.8141 93.162,-120.034"/>
 </g>
-<!-- Node4001 -->
+<!-- Node3995 -->
 <g id="node7" class="node">
-<title>Node4001</title>
+<title>Node3995</title>
 <g id="a_node7"><a xlink:href="send_8c.html#a43b8e36cf2d3908ed8484cceeab3de63" target="_top" xlink:title="Format a greetings string. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="150,-50 150,-69 240,-69 240,-50 150,-50"/>
 <text text-anchor="middle" x="195" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">greeting_string</text>
 </a>
 </g>
 </g>
-<!-- Node3424&#45;&gt;Node4001 -->
+<!-- Node3364&#45;&gt;Node3995 -->
 <g id="edge9" class="edge">
-<title>Node3424&#45;&gt;Node4001</title>
+<title>Node3364&#45;&gt;Node3995</title>
 <path fill="none" stroke="#191970" d="M66.4857,-119.4594C82.6501,-106.8291 106.6814,-89.5658 130,-78.5 137.7538,-74.8204 146.3709,-71.6944 154.7285,-69.1054"/>
 <polygon fill="#191970" stroke="#191970" points="64.0063,-116.9599 58.3694,-125.9308 68.3703,-122.4331 64.0063,-116.9599"/>
 </g>
-<!-- Node4003 -->
+<!-- Node3997 -->
 <g id="node8" class="node">
-<title>Node4003</title>
+<title>Node3997</title>
 <g id="a_node8"><a xlink:href="send_8h.html#a4ac367179189d865ae41a5366bc6bec7" target="_top" xlink:title="Generate references for a reply email. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="130,-.5 130,-30.5 260,-30.5 260,-.5 130,-.5"/>
 <text text-anchor="start" x="138" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_add_to_reference</text>
@@ -115,27 +115,27 @@
 </a>
 </g>
 </g>
-<!-- Node3424&#45;&gt;Node4003 -->
+<!-- Node3364&#45;&gt;Node3997 -->
 <g id="edge10" class="edge">
-<title>Node3424&#45;&gt;Node4003</title>
+<title>Node3364&#45;&gt;Node3997</title>
 <path fill="none" stroke="#191970" d="M58.7327,-117.3848C73.2096,-96.309 99.6626,-61.7008 130,-40.5 135.3516,-36.7601 141.3377,-33.4856 147.4524,-30.6466"/>
 <polygon fill="#191970" stroke="#191970" points="55.7765,-115.509 53.1187,-125.7651 61.5922,-119.405 55.7765,-115.509"/>
 </g>
-<!-- Node3998&#45;&gt;Node3659 -->
+<!-- Node3992&#45;&gt;Node3622 -->
 <g id="edge4" class="edge">
-<title>Node3998&#45;&gt;Node3659</title>
+<title>Node3992&#45;&gt;Node3622</title>
 <path fill="none" stroke="#191970" d="M379.4645,-135.5C387.7185,-135.5 396.3391,-135.5 404.6802,-135.5"/>
 <polygon fill="#191970" stroke="#191970" points="379.2541,-132.0001 369.254,-135.5 379.254,-139.0001 379.2541,-132.0001"/>
 </g>
-<!-- Node3999&#45;&gt;Node3998 -->
+<!-- Node3993&#45;&gt;Node3992 -->
 <g id="edge7" class="edge">
-<title>Node3999&#45;&gt;Node3998</title>
+<title>Node3993&#45;&gt;Node3992</title>
 <path fill="none" stroke="#191970" d="M239.5729,-109.8183C258.4645,-115.0393 280.1472,-121.0316 297.814,-125.9141"/>
 <polygon fill="#191970" stroke="#191970" points="240.2681,-106.3793 229.6971,-107.089 238.4034,-113.1264 240.2681,-106.3793"/>
 </g>
-<!-- Node3999&#45;&gt;Node3659 -->
+<!-- Node3993&#45;&gt;Node3622 -->
 <g id="edge8" class="edge">
-<title>Node3999&#45;&gt;Node3659</title>
+<title>Node3993&#45;&gt;Node3622</title>
 <path fill="none" stroke="#191970" d="M268.3794,-103.7276C299.5139,-106.8313 336.1341,-111.0915 369,-116.5 384.5403,-119.0574 401.4972,-122.6326 416.2152,-125.9926"/>
 <polygon fill="#191970" stroke="#191970" points="268.337,-100.2069 258.0444,-102.7194 267.6573,-107.1738 268.337,-100.2069"/>
 </g>

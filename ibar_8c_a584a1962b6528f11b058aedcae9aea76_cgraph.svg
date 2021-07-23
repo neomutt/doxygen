@@ -9,99 +9,99 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 214)">
 <title>ibar_window_observer</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-214 302,-214 302,4 -4,4"/>
-<!-- Node5616 -->
+<!-- Node5772 -->
 <g id="node1" class="node">
-<title>Node5616</title>
+<title>Node5772</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-95.5 0,-114.5 126,-114.5 126,-95.5 0,-95.5"/>
 <text text-anchor="middle" x="63" y="-102.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">ibar_window_observer</text>
 </g>
-<!-- Node5617 -->
+<!-- Node5773 -->
 <g id="node2" class="node">
-<title>Node5617</title>
+<title>Node5773</title>
 <g id="a_node2"><a xlink:href="mutt__window_8c.html#acc980a1a7394501677aa101125082c4c" target="_top" xlink:title="Find a (grand&#45;)parent of a Window by type. ">
 <polygon fill="#ffffff" stroke="#000000" points="173,-190.5 173,-209.5 287,-209.5 287,-190.5 173,-190.5"/>
 <text text-anchor="middle" x="230" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">window_find_parent</text>
 </a>
 </g>
 </g>
-<!-- Node5616&#45;&gt;Node5617 -->
+<!-- Node5772&#45;&gt;Node5773 -->
 <g id="edge1" class="edge">
-<title>Node5616&#45;&gt;Node5617</title>
+<title>Node5772&#45;&gt;Node5773</title>
 <path fill="none" stroke="#191970" d="M72.8005,-114.6385C89.6381,-130.6805 125.7575,-162.8813 162,-181 166.61,-183.3047 171.5401,-185.3648 176.5607,-187.1986"/>
 <polygon fill="#191970" stroke="#191970" points="175.6731,-190.5924 186.267,-190.4509 177.8971,-183.9551 175.6731,-190.5924"/>
 </g>
-<!-- Node5618 -->
+<!-- Node5774 -->
 <g id="node3" class="node">
-<title>Node5618</title>
+<title>Node5774</title>
 <g id="a_node3"><a xlink:href="mutt_2notify_8c.html#a244545a719099431dda975083aef827e" target="_top" xlink:title="Remove an observer from an object. ">
 <polygon fill="#ffffff" stroke="#000000" points="162,-152.5 162,-171.5 298,-171.5 298,-152.5 162,-152.5"/>
 <text text-anchor="middle" x="230" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">notify_observer_remove</text>
 </a>
 </g>
 </g>
-<!-- Node5616&#45;&gt;Node5618 -->
+<!-- Node5772&#45;&gt;Node5774 -->
 <g id="edge2" class="edge">
-<title>Node5616&#45;&gt;Node5618</title>
+<title>Node5772&#45;&gt;Node5774</title>
 <path fill="none" stroke="#191970" d="M85.9818,-114.5276C105.9061,-122.617 135.6074,-134.269 162,-143 168.9607,-145.3027 176.3808,-147.5665 183.6656,-149.684"/>
 <polygon fill="#191970" stroke="#191970" points="182.8837,-153.1004 193.4599,-152.4706 184.7994,-146.3676 182.8837,-153.1004"/>
 </g>
-<!-- Node5619 -->
+<!-- Node5775 -->
 <g id="node4" class="node">
-<title>Node5619</title>
+<title>Node5775</title>
 <g id="a_node4"><a xlink:href="ibar_8c.html#a8c5487e966cc459ca0d063ea60567c49" target="_top" xlink:title="Notification that a Color has changed &#45; Implements observer_t. ">
 <polygon fill="#ffffff" stroke="#000000" points="173.5,-114.5 173.5,-133.5 286.5,-133.5 286.5,-114.5 173.5,-114.5"/>
 <text text-anchor="middle" x="230" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">ibar_color_observer</text>
 </a>
 </g>
 </g>
-<!-- Node5616&#45;&gt;Node5619 -->
+<!-- Node5772&#45;&gt;Node5775 -->
 <g id="edge3" class="edge">
-<title>Node5616&#45;&gt;Node5619</title>
+<title>Node5772&#45;&gt;Node5775</title>
 <path fill="none" stroke="#191970" d="M126.1355,-112.1831C138.2586,-113.5624 150.9916,-115.011 163.2251,-116.4029"/>
 <polygon fill="#191970" stroke="#191970" points="163.0279,-119.9029 173.3595,-117.5559 163.8193,-112.9478 163.0279,-119.9029"/>
 </g>
-<!-- Node5620 -->
+<!-- Node5776 -->
 <g id="node5" class="node">
-<title>Node5620</title>
+<title>Node5776</title>
 <g id="a_node5"><a xlink:href="ibar_8c.html#a5f538f6126333e1ba077b2da2a96892a" target="_top" xlink:title="Notification that a Config Variable has changed &#45; Implements observer_t. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="171,-76.5 171,-95.5 289,-95.5 289,-76.5 171,-76.5"/>
 <text text-anchor="middle" x="230" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">ibar_config_observer</text>
 </a>
 </g>
 </g>
-<!-- Node5616&#45;&gt;Node5620 -->
+<!-- Node5772&#45;&gt;Node5776 -->
 <g id="edge4" class="edge">
-<title>Node5616&#45;&gt;Node5620</title>
+<title>Node5772&#45;&gt;Node5776</title>
 <path fill="none" stroke="#191970" d="M126.1355,-97.8169C137.4944,-96.5246 149.3887,-95.1713 160.906,-93.861"/>
 <polygon fill="#191970" stroke="#191970" points="161.367,-97.3312 170.9072,-92.7231 160.5757,-90.3761 161.367,-97.3312"/>
 </g>
-<!-- Node5623 -->
+<!-- Node5779 -->
 <g id="node6" class="node">
-<title>Node5623</title>
+<title>Node5779</title>
 <g id="a_node6"><a xlink:href="ibar_8c.html#aec5d549873ee8720c55c217a90d0957e" target="_top" xlink:title="Notification that the Index has changed &#45; Implements observer_t. ">
 <polygon fill="#ffffff" stroke="#000000" points="172,-38.5 172,-57.5 288,-57.5 288,-38.5 172,-38.5"/>
 <text text-anchor="middle" x="230" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">ibar_index_observer</text>
 </a>
 </g>
 </g>
-<!-- Node5616&#45;&gt;Node5623 -->
+<!-- Node5772&#45;&gt;Node5779 -->
 <g id="edge5" class="edge">
-<title>Node5616&#45;&gt;Node5623</title>
+<title>Node5772&#45;&gt;Node5779</title>
 <path fill="none" stroke="#191970" d="M85.9818,-95.4724C105.9061,-87.383 135.6074,-75.731 162,-67 168.9607,-64.6973 176.3808,-62.4335 183.6656,-60.316"/>
 <polygon fill="#191970" stroke="#191970" points="184.7994,-63.6324 193.4599,-57.5294 182.8837,-56.8996 184.7994,-63.6324"/>
 </g>
-<!-- Node5624 -->
+<!-- Node5780 -->
 <g id="node7" class="node">
-<title>Node5624</title>
+<title>Node5780</title>
 <g id="a_node7"><a xlink:href="ibar_8c.html#a2e5d46c39aa352d4d93f9856201a20cf" target="_top" xlink:title="Notification that a Menu has changed &#45; Implements observer_t. ">
 <polygon fill="#ffffff" stroke="#000000" points="172,-.5 172,-19.5 288,-19.5 288,-.5 172,-.5"/>
 <text text-anchor="middle" x="230" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">ibar_menu_observer</text>
 </a>
 </g>
 </g>
-<!-- Node5616&#45;&gt;Node5624 -->
+<!-- Node5772&#45;&gt;Node5780 -->
 <g id="edge6" class="edge">
-<title>Node5616&#45;&gt;Node5624</title>
+<title>Node5772&#45;&gt;Node5780</title>
 <path fill="none" stroke="#191970" d="M72.8005,-95.3615C89.6381,-79.3195 125.7575,-47.1187 162,-29 166.61,-26.6953 171.5401,-24.6352 176.5607,-22.8014"/>
 <polygon fill="#191970" stroke="#191970" points="177.8971,-26.0449 186.267,-19.5491 175.6731,-19.4076 177.8971,-26.0449"/>
 </g>

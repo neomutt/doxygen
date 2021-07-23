@@ -32,7 +32,7 @@
   <td id="projectalign" style="padding-left: 0.5em;">
    <a style="color: black; text-decoration: none;" href="https://neomutt.org">
    <div id="projectname">NeoMutt
-   &#160;<span id="projectnumber">2021-02-05-584-gb5c7a7</span>
+   &#160;<span id="projectnumber">2021-02-05-647-g5d4e00</span>
    </div>
    <div id="projectbrief">Teaching an old dog new tricks</div>
    </a>
@@ -113,27 +113,17 @@ $(document).ready(function(){initNavTree('index_dialog.html','');});
 <li><a class="el" href="structIndexSharedData.html" title="Data shared between Index, Pager and Sidebar. ">IndexSharedData</a></li>
 </ul>
 <h2>Events</h2>
-<p>Once constructed, it is controlled by the following events:</p>
-<table class="doxtable">
-<tr>
-<th align="left">Event Type </th><th align="left">Handler  </th></tr>
-<tr>
-<td align="left"><a class="el" href="notify__type_8h.html#addc4b6302e217e9dffab38d9dd5c02f8a279f8c4386a4e0efac638ac67e221e7f" title="Config has changed, NotifyConfig, EventConfig. ">NT_CONFIG</a> </td><td align="left"><a class="el" href="dlgautocrypt_8c.html#a9bd67f27cc64aa06cd7c88bfadadf47c" title="Notification that a Config Variable has changed - Implements observer_t. ">autocrypt_config_observer()</a> </td></tr>
-<tr>
-<td align="left"><a class="el" href="notify__type_8h.html#addc4b6302e217e9dffab38d9dd5c02f8a0effa043e3256fe597161d6fa95f7442" title="MuttWindow has changed, NotifyWindow, EventWindow. ">NT_WINDOW</a> </td><td align="left"><a class="el" href="dlgautocrypt_8c.html#a8763051632cc07c551e8e5162329473c" title="Notification that a Window has changed - Implements observer_t. ">autocrypt_window_observer()</a> </td></tr>
-</table>
-<p>The Index Dialog doesn't have any specific colours, so it doesn't need to support <a class="el" href="notify__type_8h.html#addc4b6302e217e9dffab38d9dd5c02f8a2e99b9536d698981bbcf5cdce49c9d05" title="Colour has changed, NotifyColor, EventColor. ">NT_COLOR</a>.</p>
-<p>The Index Dialog does not implement <a class="el" href="structMuttWindow.html#a6fab13b319ae04d592fdc7eed5a33339" title="Recalculate the Window data. ">MuttWindow::recalc()</a> or <a class="el" href="structMuttWindow.html#a3c981072a0027f9c1c96fdbee78ad05f" title="Repaint the Window. ">MuttWindow::repaint()</a>.</p>
+<p>None.</p>
 <p>Some other events are handled by the dialog's children.</p>
 <table class="doxtable">
 <tr>
 <th align="left">Function </th><th align="left">Description  </th></tr>
 <tr>
-<td align="left"><a class="el" href="dlg__index_8c.html#a1afccf4efebcf228db70bf20df1249b9" title="Get index of first new message. ">ci_first_message()</a> </td><td align="left">Get index of first new message </td></tr>
+<td align="left"><a class="el" href="dlg__index_8c.html#ac686b66fe0b81b86cd6d5cbb115c8c92" title="Get index of first new message. ">ci_first_message()</a> </td><td align="left">Get index of first new message </td></tr>
 <tr>
-<td align="left"><a class="el" href="dlg__index_8c.html#a788cce9f2baf08576c9306f10e16eeed" title="Find the next undeleted email. ">ci_next_undeleted()</a> </td><td align="left">Find the next undeleted email </td></tr>
+<td align="left"><a class="el" href="dlg__index_8c.html#ac793f3712d9376cd8bf955974370cb2c" title="Find the next undeleted email. ">ci_next_undeleted()</a> </td><td align="left">Find the next undeleted email </td></tr>
 <tr>
-<td align="left"><a class="el" href="dlg__index_8c.html#a47d802d1cb3e224d9f3ee9ac4771bacd" title="Find the previous undeleted email. ">ci_previous_undeleted()</a> </td><td align="left">Find the previous undeleted email </td></tr>
+<td align="left"><a class="el" href="dlg__index_8c.html#a0644dce40225aa25bb279ef6f20a6887" title="Find the previous undeleted email. ">ci_previous_undeleted()</a> </td><td align="left">Find the previous undeleted email </td></tr>
 <tr>
 <td align="left"><a class="el" href="dlg__index_8c.html#a74ec708393189456506dcb292698f3e0" title="Draw a highlighted status bar. ">mutt_draw_statusline()</a> </td><td align="left">Draw a highlighted status bar </td></tr>
 <tr>
@@ -143,13 +133,11 @@ $(document).ready(function(){initNavTree('index_dialog.html','');});
 <tr>
 <td align="left"><a class="el" href="dlg__index_8c.html#a86dba73400c4a9d6c6753e00f139ebca" title="Update the index. ">mutt_update_index()</a> </td><td align="left">Update the index </td></tr>
 <tr>
-<td align="left"><a class="el" href="dlg__index_8c.html#a42f979d608983d011147b38ca6b13227" title="Toggle the mailbox&#39;s readonly flag. ">mx_toggle_write()</a> </td><td align="left">Toggle the mailbox's readonly flag </td></tr>
-<tr>
 <td align="left"><a class="el" href="dlg__index_8c.html#ab7ca27124bd880b95aa786f29e2fa25a" title="Update the index (if threaded) ">update_index_threaded()</a> </td><td align="left">Update the index (if threaded) </td></tr>
 <tr>
 <td align="left"><a class="el" href="dlg__index_8c.html#a3a0c8a818f4198a37d3060e41200b504" title="Update the index (if unthreaded) ">update_index_unthreaded()</a> </td><td align="left">Update the index (if unthreaded) </td></tr>
 <tr>
-<td align="left"><a class="el" href="dlg__index_8c.html#a9b2c7a9768982f4bf72fdf8f5ce7aa2a" title="Update the index. ">update_index()</a> </td><td align="left">Update the index </td></tr>
+<td align="left"><a class="el" href="dlg__index_8c.html#ac334f65223b65fb6e5a9877a7bb260b2" title="Update the index. ">update_index()</a> </td><td align="left">Update the index </td></tr>
 </table>
 </div></div><!-- contents -->
 </div><!-- doc-content -->

@@ -9,54 +9,54 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 100)">
 <title>smime_parse_key</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-100 250,-100 250,4 -4,4"/>
-<!-- Node8790 -->
+<!-- Node6097 -->
 <g id="node1" class="node">
-<title>Node8790</title>
+<title>Node6097</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-38.5 0,-57.5 106,-57.5 106,-38.5 0,-38.5"/>
 <text text-anchor="middle" x="53" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">smime_parse_key</text>
 </g>
-<!-- Node8791 -->
+<!-- Node6098 -->
 <g id="node2" class="node">
-<title>Node8791</title>
+<title>Node6098</title>
 <g id="a_node2"><a xlink:href="memory_8c.html#a4c1612d209c7825d55e6a014df352f03" target="_top" xlink:title="Allocate zeroed memory on the heap. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="142,-76.5 142,-95.5 246,-95.5 246,-76.5 142,-76.5"/>
 <text text-anchor="middle" x="194" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_mem_calloc</text>
 </a>
 </g>
 </g>
-<!-- Node8790&#45;&gt;Node8791 -->
+<!-- Node6097&#45;&gt;Node6098 -->
 <g id="edge1" class="edge">
-<title>Node8790&#45;&gt;Node8791</title>
+<title>Node6097&#45;&gt;Node6098</title>
 <path fill="none" stroke="#191970" d="M88.5803,-57.589C106.782,-62.4944 129.1384,-68.5196 148.5723,-73.7571"/>
 <polygon fill="#191970" stroke="#191970" points="147.8648,-77.1912 158.4311,-76.4141 149.6864,-70.4324 147.8648,-77.1912"/>
 </g>
-<!-- Node8793 -->
+<!-- Node6100 -->
 <g id="node3" class="node">
-<title>Node8793</title>
+<title>Node6100</title>
 <g id="a_node3"><a xlink:href="mutt_2string_8c.html#a4c2560f787bd1226b977992c16860c98" target="_top" xlink:title="Copy a string, safely. ">
 <polygon fill="#ffffff" stroke="#000000" points="153.5,-38.5 153.5,-57.5 234.5,-57.5 234.5,-38.5 153.5,-38.5"/>
 <text text-anchor="middle" x="194" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_str_dup</text>
 </a>
 </g>
 </g>
-<!-- Node8790&#45;&gt;Node8793 -->
+<!-- Node6097&#45;&gt;Node6100 -->
 <g id="edge2" class="edge">
-<title>Node8790&#45;&gt;Node8793</title>
+<title>Node6097&#45;&gt;Node6100</title>
 <path fill="none" stroke="#191970" d="M106.3061,-48C118.3695,-48 131.1482,-48 143.1089,-48"/>
 <polygon fill="#191970" stroke="#191970" points="143.3707,-51.5001 153.3707,-48 143.3706,-44.5001 143.3707,-51.5001"/>
 </g>
-<!-- Node8794 -->
+<!-- Node6101 -->
 <g id="node4" class="node">
-<title>Node8794</title>
+<title>Node6101</title>
 <g id="a_node4"><a xlink:href="smime_8c.html#ae8fc02f34e610b2f4d7cc6823fb41f3f" target="_top" xlink:title="Free a list of SMIME keys. ">
 <polygon fill="#ffffff" stroke="#000000" points="145,-.5 145,-19.5 243,-19.5 243,-.5 145,-.5"/>
 <text text-anchor="middle" x="194" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">smime_key_free</text>
 </a>
 </g>
 </g>
-<!-- Node8790&#45;&gt;Node8794 -->
+<!-- Node6097&#45;&gt;Node6101 -->
 <g id="edge3" class="edge">
-<title>Node8790&#45;&gt;Node8794</title>
+<title>Node6097&#45;&gt;Node6101</title>
 <path fill="none" stroke="#191970" d="M88.5803,-38.411C106.782,-33.5056 129.1384,-27.4804 148.5723,-22.2429"/>
 <polygon fill="#191970" stroke="#191970" points="149.6864,-25.5676 158.4311,-19.5859 147.8648,-18.8088 149.6864,-25.5676"/>
 </g>

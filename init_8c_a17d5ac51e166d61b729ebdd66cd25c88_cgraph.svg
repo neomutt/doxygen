@@ -9,39 +9,39 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 62)">
 <title>mutt_nm_query_complete</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-62 312,-62 312,4 -4,4"/>
-<!-- Node11801 -->
+<!-- Node11730 -->
 <g id="node1" class="node">
-<title>Node11801</title>
+<title>Node11730</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-19.5 0,-38.5 145,-38.5 145,-19.5 0,-19.5"/>
 <text text-anchor="middle" x="72.5" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_nm_query_complete</text>
 </g>
-<!-- Node11802 -->
+<!-- Node11731 -->
 <g id="node2" class="node">
-<title>Node11802</title>
+<title>Node11731</title>
 <g id="a_node2"><a xlink:href="mutt_2string_8c.html#aec596c36127d7c0db187aed347e8437d" target="_top" xlink:title="Find last instance of a substring. ">
 <polygon fill="#ffffff" stroke="#000000" points="199,-38.5 199,-57.5 290,-57.5 290,-38.5 199,-38.5"/>
 <text text-anchor="middle" x="244.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_strn_rfind</text>
 </a>
 </g>
 </g>
-<!-- Node11801&#45;&gt;Node11802 -->
+<!-- Node11730&#45;&gt;Node11731 -->
 <g id="edge1" class="edge">
-<title>Node11801&#45;&gt;Node11802</title>
+<title>Node11730&#45;&gt;Node11731</title>
 <path fill="none" stroke="#191970" d="M145.4435,-37.0577C159.8899,-38.6535 174.8396,-40.305 188.6104,-41.8261"/>
 <polygon fill="#191970" stroke="#191970" points="188.5595,-45.3417 198.8834,-42.961 189.3282,-38.3841 188.5595,-45.3417"/>
 </g>
-<!-- Node11803 -->
+<!-- Node11732 -->
 <g id="node3" class="node">
-<title>Node11803</title>
+<title>Node11732</title>
 <g id="a_node3"><a xlink:href="init_8c.html#a60382d35e2f0edeb0b736323d76894fd" target="_top" xlink:title="Pass a list of Notmuch tags to the completion code. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="181,-.5 181,-19.5 308,-19.5 308,-.5 181,-.5"/>
 <text text-anchor="middle" x="244.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">complete_all_nm_tags</text>
 </a>
 </g>
 </g>
-<!-- Node11801&#45;&gt;Node11803 -->
+<!-- Node11730&#45;&gt;Node11732 -->
 <g id="edge2" class="edge">
-<title>Node11801&#45;&gt;Node11803</title>
+<title>Node11730&#45;&gt;Node11732</title>
 <path fill="none" stroke="#191970" d="M145.4435,-20.9423C153.8405,-20.0147 162.4076,-19.0683 170.8143,-18.1397"/>
 <polygon fill="#191970" stroke="#191970" points="171.4118,-21.5951 180.967,-17.0182 170.6432,-14.6374 171.4118,-21.5951"/>
 </g>

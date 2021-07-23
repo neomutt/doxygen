@@ -9,162 +9,162 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 328)">
 <title>mutt_paddstr</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-328 550,-328 550,4 -4,4"/>
-<!-- Node22688 -->
+<!-- Node22875 -->
 <g id="node1" class="node">
-<title>Node22688</title>
+<title>Node22875</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-152.5 0,-171.5 82,-171.5 82,-152.5 0,-152.5"/>
 <text text-anchor="middle" x="41" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_paddstr</text>
 </g>
-<!-- Node22689 -->
+<!-- Node22876 -->
 <g id="node2" class="node">
-<title>Node22689</title>
+<title>Node22876</title>
 <g id="a_node2"><a xlink:href="compose_2envelope_8c.html#ac4f2268c759c82af60b1be3013ca29a1" target="_top" xlink:title="Draw content on a separate line aligned to header prompt. ">
 <polygon fill="#ffffff" stroke="#000000" points="118,-304.5 118,-323.5 240,-323.5 240,-304.5 118,-304.5"/>
 <text text-anchor="middle" x="179" y="-311.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">draw_header_content</text>
 </a>
 </g>
 </g>
-<!-- Node22688&#45;&gt;Node22689 -->
+<!-- Node22875&#45;&gt;Node22876 -->
 <g id="edge1" class="edge">
-<title>Node22688&#45;&gt;Node22689</title>
+<title>Node22875&#45;&gt;Node22876</title>
 <path fill="none" stroke="#191970" d="M47.9053,-181.1734C58.7693,-208.8182 82.3578,-259.8548 118,-290 125.299,-296.1733 134.3757,-300.8794 143.2776,-304.4164"/>
 <polygon fill="#191970" stroke="#191970" points="51.1774,-179.931 44.366,-171.8159 44.6301,-182.4074 51.1774,-179.931"/>
 </g>
-<!-- Node22690 -->
+<!-- Node22877 -->
 <g id="node3" class="node">
-<title>Node22690</title>
+<title>Node22877</title>
 <g id="a_node3"><a xlink:href="compose_2envelope_8c.html#a53dfa86c8a7e6bca76a112974a4b39f3" target="_top" xlink:title="Write user&#45;defined headers to the compose window. ">
 <polygon fill="#ffffff" stroke="#000000" points="276,-266.5 276,-285.5 419,-285.5 419,-266.5 276,-266.5"/>
 <text text-anchor="middle" x="347.5" y="-273.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">draw_envelope_user_hdrs</text>
 </a>
 </g>
 </g>
-<!-- Node22688&#45;&gt;Node22690 -->
+<!-- Node22875&#45;&gt;Node22877 -->
 <g id="edge6" class="edge">
-<title>Node22688&#45;&gt;Node22690</title>
+<title>Node22875&#45;&gt;Node22877</title>
 <path fill="none" stroke="#191970" d="M50.9521,-180.4809C63.5031,-201.7529 87.2155,-235.8305 118,-252 166.4115,-277.428 228.4448,-282.5628 275.8099,-281.8158"/>
 <polygon fill="#191970" stroke="#191970" points="53.9616,-178.6925 45.9855,-171.7188 47.8718,-182.1443 53.9616,-178.6925"/>
 </g>
-<!-- Node22691 -->
+<!-- Node22878 -->
 <g id="node4" class="node">
-<title>Node22691</title>
+<title>Node22878</title>
 <g id="a_node4"><a xlink:href="compose_2envelope_8c.html#a2e542b14b8bd22ce8d0bf68a898d39df" target="_top" xlink:title="Write the email headers to the compose window. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="455,-228.5 455,-247.5 546,-247.5 546,-228.5 455,-228.5"/>
 <text text-anchor="middle" x="500.5" y="-235.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">draw_envelope</text>
 </a>
 </g>
 </g>
-<!-- Node22688&#45;&gt;Node22691 -->
+<!-- Node22875&#45;&gt;Node22878 -->
 <g id="edge7" class="edge">
-<title>Node22688&#45;&gt;Node22691</title>
+<title>Node22875&#45;&gt;Node22878</title>
 <path fill="none" stroke="#191970" d="M64.8902,-176.8955C79.6453,-185.3727 99.2776,-195.3899 118,-201 235.7519,-236.2839 382.1429,-239.9445 454.9521,-239.2248"/>
 <polygon fill="#191970" stroke="#191970" points="66.3453,-173.6897 55.9568,-171.6089 62.7803,-179.7139 66.3453,-173.6897"/>
 </g>
-<!-- Node23259 -->
+<!-- Node23500 -->
 <g id="node5" class="node">
-<title>Node23259</title>
+<title>Node23500</title>
 <g id="a_node5"><a xlink:href="compose_2envelope_8c.html#a094c42d2adc33086bf5e51684819cd24" target="_top" xlink:title="Write addresses to the compose window. ">
 <polygon fill="#ffffff" stroke="#000000" points="288.5,-190.5 288.5,-209.5 406.5,-209.5 406.5,-190.5 288.5,-190.5"/>
 <text text-anchor="middle" x="347.5" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">draw_envelope_addr</text>
 </a>
 </g>
 </g>
-<!-- Node22688&#45;&gt;Node23259 -->
+<!-- Node22875&#45;&gt;Node23500 -->
 <g id="edge4" class="edge">
-<title>Node22688&#45;&gt;Node23259</title>
+<title>Node22875&#45;&gt;Node23500</title>
 <path fill="none" stroke="#191970" d="M84.9012,-174.1123C95.658,-176.7248 107.1879,-179.2301 118,-181 175.4069,-190.3975 241.6942,-195.2503 288.2231,-197.6887"/>
 <polygon fill="#191970" stroke="#191970" points="85.4248,-170.6352 74.8735,-171.5952 83.7205,-177.4246 85.4248,-170.6352"/>
 </g>
-<!-- Node23260 -->
+<!-- Node23501 -->
 <g id="node6" class="node">
-<title>Node23260</title>
+<title>Node23501</title>
 <g id="a_node6"><a xlink:href="msgwin_8c.html#ae7583a8406cfc0e3602be902ab8cac8e" target="_top" xlink:title="Redraw the Message Window &#45; Implements MuttWindow::repaint() ">
 <polygon fill="#ffffff" stroke="#ff0000" points="131.5,-152.5 131.5,-171.5 226.5,-171.5 226.5,-152.5 131.5,-152.5"/>
 <text text-anchor="middle" x="179" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">msgwin_repaint</text>
 </a>
 </g>
 </g>
-<!-- Node22688&#45;&gt;Node23260 -->
+<!-- Node22875&#45;&gt;Node23501 -->
 <g id="edge8" class="edge">
-<title>Node22688&#45;&gt;Node23260</title>
+<title>Node22875&#45;&gt;Node23501</title>
 <path fill="none" stroke="#191970" d="M92.0472,-162C104.8181,-162 118.4709,-162 131.0838,-162"/>
 <polygon fill="#191970" stroke="#191970" points="92.031,-158.5001 82.0309,-162 92.0309,-165.5001 92.031,-158.5001"/>
 </g>
-<!-- Node23263 -->
+<!-- Node23504 -->
 <g id="node7" class="node">
-<title>Node23263</title>
+<title>Node23504</title>
 <g id="a_node7"><a xlink:href="sbar_8c.html#a4441485e6a706e71ae4b3341e43d27d9" target="_top" xlink:title="Repaint the Window &#45; Implements MuttWindow::repaint() ">
 <polygon fill="#ffffff" stroke="#ff0000" points="140.5,-114.5 140.5,-133.5 217.5,-133.5 217.5,-114.5 140.5,-114.5"/>
 <text text-anchor="middle" x="179" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">sbar_repaint</text>
 </a>
 </g>
 </g>
-<!-- Node22688&#45;&gt;Node23263 -->
+<!-- Node22875&#45;&gt;Node23504 -->
 <g id="edge9" class="edge">
-<title>Node22688&#45;&gt;Node23263</title>
+<title>Node22875&#45;&gt;Node23504</title>
 <path fill="none" stroke="#191970" d="M85.473,-149.7538C104.4946,-144.516 126.3751,-138.4909 144.1879,-133.5859"/>
 <polygon fill="#191970" stroke="#191970" points="84.5352,-146.3817 75.8232,-152.411 86.3936,-153.1305 84.5352,-146.3817"/>
 </g>
-<!-- Node23267 -->
+<!-- Node23508 -->
 <g id="node8" class="node">
-<title>Node23267</title>
+<title>Node23508</title>
 <g id="a_node8"><a xlink:href="helpbar_8c.html#a744700a753aeb8f87e50e57706bfb08d" target="_top" xlink:title="Redraw the Help Bar &#45; Implements MuttWindow::repaint() ">
 <polygon fill="#ffffff" stroke="#ff0000" points="132.5,-76.5 132.5,-95.5 225.5,-95.5 225.5,-76.5 132.5,-76.5"/>
 <text text-anchor="middle" x="179" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">helpbar_repaint</text>
 </a>
 </g>
 </g>
-<!-- Node22688&#45;&gt;Node23267 -->
+<!-- Node22875&#45;&gt;Node23508 -->
 <g id="edge10" class="edge">
-<title>Node22688&#45;&gt;Node23267</title>
+<title>Node22875&#45;&gt;Node23508</title>
 <path fill="none" stroke="#191970" d="M59.606,-145.4172C74.5107,-132.8558 96.4266,-115.9476 118,-105 125.3196,-101.2856 133.5046,-98.131 141.443,-95.5229"/>
 <polygon fill="#191970" stroke="#191970" points="56.987,-143.0537 51.696,-152.2329 61.5563,-148.3567 56.987,-143.0537"/>
 </g>
-<!-- Node23269 -->
+<!-- Node23510 -->
 <g id="node9" class="node">
-<title>Node23269</title>
+<title>Node23510</title>
 <g id="a_node9"><a xlink:href="index_2lib_8h.html#a74ec708393189456506dcb292698f3e0" target="_top" xlink:title="Draw a highlighted status bar. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="118,-38.5 118,-57.5 240,-57.5 240,-38.5 118,-38.5"/>
 <text text-anchor="middle" x="179" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_draw_statusline</text>
 </a>
 </g>
 </g>
-<!-- Node22688&#45;&gt;Node23269 -->
+<!-- Node22875&#45;&gt;Node23510 -->
 <g id="edge11" class="edge">
-<title>Node22688&#45;&gt;Node23269</title>
+<title>Node22875&#45;&gt;Node23510</title>
 <path fill="none" stroke="#191970" d="M51.3219,-143.5567C64.2293,-122.1289 88.2851,-87.1468 118,-67 123.6921,-63.1407 130.2051,-60.0363 136.8074,-57.5475"/>
 <polygon fill="#191970" stroke="#191970" points="48.2103,-141.9445 46.1956,-152.3461 54.2571,-145.4712 48.2103,-141.9445"/>
 </g>
-<!-- Node23275 -->
+<!-- Node23516 -->
 <g id="node10" class="node">
-<title>Node23275</title>
+<title>Node23516</title>
 <g id="a_node10"><a xlink:href="menu_2lib_8h.html#a3581b1d404de8b9d6e4000d20fd316b2" target="_top" xlink:title="Force the redraw of the status bar. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="119.5,-.5 119.5,-19.5 238.5,-19.5 238.5,-.5 119.5,-.5"/>
 <text text-anchor="middle" x="179" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">menu_redraw_status</text>
 </a>
 </g>
 </g>
-<!-- Node22688&#45;&gt;Node23275 -->
+<!-- Node22875&#45;&gt;Node23516 -->
 <g id="edge12" class="edge">
-<title>Node22688&#45;&gt;Node23275</title>
+<title>Node22875&#45;&gt;Node23516</title>
 <path fill="none" stroke="#191970" d="M47.1083,-142.5759C57.2029,-113.6097 80.1049,-59.2685 118,-29 122.8534,-25.1234 128.5024,-22.0336 134.3666,-19.5719"/>
 <polygon fill="#191970" stroke="#191970" points="43.6984,-141.7383 43.862,-152.3319 50.3403,-143.9485 43.6984,-141.7383"/>
 </g>
-<!-- Node22689&#45;&gt;Node22690 -->
+<!-- Node22876&#45;&gt;Node22877 -->
 <g id="edge2" class="edge">
-<title>Node22689&#45;&gt;Node22690</title>
+<title>Node22876&#45;&gt;Node22877</title>
 <path fill="none" stroke="#191970" d="M231.4313,-302.1757C255.1868,-296.8184 282.8986,-290.5689 305.2861,-285.5201"/>
 <polygon fill="#191970" stroke="#191970" points="230.5047,-298.7967 221.5197,-304.411 232.0447,-305.6252 230.5047,-298.7967"/>
 </g>
-<!-- Node22690&#45;&gt;Node22691 -->
+<!-- Node22877&#45;&gt;Node22878 -->
 <g id="edge3" class="edge">
-<title>Node22690&#45;&gt;Node22691</title>
+<title>Node22877&#45;&gt;Node22878</title>
 <path fill="none" stroke="#191970" d="M395.9768,-263.96C417.3517,-258.6512 442.1134,-252.5012 462.1693,-247.5201"/>
 <polygon fill="#191970" stroke="#191970" points="394.9698,-260.6037 386.1084,-266.411 396.6572,-267.3973 394.9698,-260.6037"/>
 </g>
-<!-- Node23259&#45;&gt;Node22691 -->
+<!-- Node23500&#45;&gt;Node22878 -->
 <g id="edge5" class="edge">
-<title>Node23259&#45;&gt;Node22691</title>
+<title>Node23500&#45;&gt;Node22878</title>
 <path fill="none" stroke="#191970" d="M395.9768,-212.04C417.3517,-217.3488 442.1134,-223.4988 462.1693,-228.4799"/>
 <polygon fill="#191970" stroke="#191970" points="396.6572,-208.6027 386.1084,-209.589 394.9698,-215.3963 396.6572,-208.6027"/>
 </g>

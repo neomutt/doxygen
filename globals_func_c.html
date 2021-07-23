@@ -32,7 +32,7 @@
   <td id="projectalign" style="padding-left: 0.5em;">
    <a style="color: black; text-decoration: none;" href="https://neomutt.org">
    <div id="projectname">NeoMutt
-   &#160;<span id="projectnumber">2021-02-05-584-gb5c7a7</span>
+   &#160;<span id="projectnumber">2021-02-05-647-g5d4e00</span>
    </div>
    <div id="projectbrief">Teaching an old dog new tricks</div>
    </a>
@@ -108,8 +108,14 @@ $(document).ready(function(){initNavTree('globals_func_c.html','');});
 <li>calc_envelope()
 : <a class="el" href="compose_2envelope_8c.html#ab7ac2d25ca9da223740bfcc5738f90d2">envelope.c</a>
 </li>
+<li>calc_fit_selection_to_view()
+: <a class="el" href="move_8c.html#a9ec23ae6a781cd8185a6ea8cd9f64565">move.c</a>
+</li>
 <li>calc_header_width_padding()
 : <a class="el" href="compose_8c.html#aef0c67b5c00c17dd35738a4fdc6b65a3">compose.c</a>
+</li>
+<li>calc_move_view()
+: <a class="el" href="move_8c.html#a337341c00c0f1bfe660c790c1231d678">move.c</a>
 </li>
 <li>calc_path_depth()
 : <a class="el" href="sidebar_2window_8c.html#ab3c4643d10cb335f27654df87e28c38d">window.c</a>
@@ -165,20 +171,24 @@ $(document).ready(function(){initNavTree('globals_func_c.html','');});
 : <a class="el" href="maildir_8c.html#a2f160cc2eb601c3954afe704a040f637">maildir.c</a>
 </li>
 <li>change_folder_mailbox()
-: <a class="el" href="dlg__index_8c.html#a06409f326a784eb050fceea3bda71083">dlg_index.c</a>
+: <a class="el" href="index_2lib_8h.html#a2f01349e640f3de95d4477b256148cc7">lib.h</a>
+, <a class="el" href="dlg__index_8c.html#a2f01349e640f3de95d4477b256148cc7">dlg_index.c</a>
 </li>
 <li>change_folder_notmuch()
-: <a class="el" href="dlg__index_8c.html#a9afc71428e0ffd61f046d1991f907325">dlg_index.c</a>
+: <a class="el" href="dlg__index_8c.html#aa72843ff9e1d3e587d527d2f5ccf16dc">dlg_index.c</a>
+, <a class="el" href="index_2lib_8h.html#aa72843ff9e1d3e587d527d2f5ccf16dc">lib.h</a>
 </li>
 <li>change_folder_string()
-: <a class="el" href="dlg__index_8c.html#a2cffeba90eeb29c68ad513fa44f4cd52">dlg_index.c</a>
+: <a class="el" href="dlg__index_8c.html#a95f35df6fb628f36731aef9dba640c66">dlg_index.c</a>
+, <a class="el" href="index_2lib_8h.html#a95f35df6fb628f36731aef9dba640c66">lib.h</a>
 </li>
 <li>charset_validator()
 : <a class="el" href="config_2charset_8c.html#a2af01c740da7a35724ab4052aaf6abb8">charset.c</a>
 , <a class="el" href="config_2charset_8h.html#a2af01c740da7a35724ab4052aaf6abb8">charset.h</a>
 </li>
 <li>check_acl()
-: <a class="el" href="dlg__index_8c.html#a6f6c4c0d70f717b9182f36af0769c5f4">dlg_index.c</a>
+: <a class="el" href="dlg__index_8c.html#a0ae2dda8c87e81d6a3e8f8a15103e6c1">dlg_index.c</a>
+, <a class="el" href="index_2lib_8h.html#a0ae2dda8c87e81d6a3e8f8a15103e6c1">lib.h</a>
 </li>
 <li>check_alias_name()
 : <a class="el" href="alias_8c.html#a298053b358ffc2bb79c2d48ba893dc75">alias.c</a>
@@ -280,13 +290,16 @@ $(document).ready(function(){initNavTree('globals_func_c.html','');});
 , <a class="el" href="commands_8h.html#a2fc497abbb4426b3352d9ec6676cc39f">commands.h</a>
 </li>
 <li>ci_first_message()
-: <a class="el" href="dlg__index_8c.html#a1afccf4efebcf228db70bf20df1249b9">dlg_index.c</a>
+: <a class="el" href="dlg__index_8c.html#ac686b66fe0b81b86cd6d5cbb115c8c92">dlg_index.c</a>
+, <a class="el" href="index_2lib_8h.html#ac686b66fe0b81b86cd6d5cbb115c8c92">lib.h</a>
 </li>
 <li>ci_next_undeleted()
-: <a class="el" href="dlg__index_8c.html#a788cce9f2baf08576c9306f10e16eeed">dlg_index.c</a>
+: <a class="el" href="dlg__index_8c.html#ac793f3712d9376cd8bf955974370cb2c">dlg_index.c</a>
+, <a class="el" href="index_2lib_8h.html#ac793f3712d9376cd8bf955974370cb2c">lib.h</a>
 </li>
 <li>ci_previous_undeleted()
-: <a class="el" href="dlg__index_8c.html#a47d802d1cb3e224d9f3ee9ac4771bacd">dlg_index.c</a>
+: <a class="el" href="dlg__index_8c.html#a0644dce40225aa25bb279ef6f20a6887">dlg_index.c</a>
+, <a class="el" href="index_2lib_8h.html#a0644dce40225aa25bb279ef6f20a6887">lib.h</a>
 </li>
 <li>class_color_new()
 : <a class="el" href="dlg__pager_8c.html#adc70921d341abe693a6b4f075c89a19e">dlg_pager.c</a>
@@ -370,7 +383,8 @@ $(document).ready(function(){initNavTree('globals_func_c.html','');});
 : <a class="el" href="hash_8c.html#af725d05cd3ceef42e227b5ad563ba0eb">hash.c</a>
 </li>
 <li>collapse_all()
-: <a class="el" href="dlg__index_8c.html#a4a383d31a6137e6ae74956a504230855">dlg_index.c</a>
+: <a class="el" href="dlg__index_8c.html#a7d3d767b39a37cf3cd39d45e2c56dd13">dlg_index.c</a>
+, <a class="el" href="index_2lib_8h.html#a7d3d767b39a37cf3cd39d45e2c56dd13">lib.h</a>
 </li>
 <li>color_line_free()
 : <a class="el" href="color_8c.html#a78a4e12ab4ef357913367e4d99fbd3af">color.c</a>
@@ -395,64 +409,64 @@ $(document).ready(function(){initNavTree('globals_func_c.html','');});
 , <a class="el" href="mutt__commands_8h.html#a6cd294522fe18b5c794c48141aeec17e">mutt_commands.h</a>
 </li>
 <li>comp_ac_add()
-: <a class="el" href="compmbox_2compress_8c.html#ad6d5ec9cf297a30e4b0673609773f156">compress.c</a>
+: <a class="el" href="group__mx__ac__add.html#gad6d5ec9cf297a30e4b0673609773f156">compress.c</a>
 </li>
 <li>comp_ac_owns_path()
-: <a class="el" href="compmbox_2compress_8c.html#add2c1f164cf3e15e8391110717418a3e">compress.c</a>
+: <a class="el" href="group__mx__ac__owns__path.html#gadd2c1f164cf3e15e8391110717418a3e">compress.c</a>
 </li>
 <li>comp_mbox_check()
-: <a class="el" href="compmbox_2compress_8c.html#abf3eceb782a3061fe668121697cc2e22">compress.c</a>
+: <a class="el" href="group__mx__mbox__check.html#gabf3eceb782a3061fe668121697cc2e22">compress.c</a>
 </li>
 <li>comp_mbox_close()
-: <a class="el" href="compmbox_2compress_8c.html#ac39b99d890436a70c50814a4701ed597">compress.c</a>
+: <a class="el" href="group__mx__mbox__close.html#gac39b99d890436a70c50814a4701ed597">compress.c</a>
 </li>
 <li>comp_mbox_open()
-: <a class="el" href="compmbox_2compress_8c.html#a017f8938078bb770eb825f2de2e588b0">compress.c</a>
+: <a class="el" href="group__mx__mbox__open.html#ga017f8938078bb770eb825f2de2e588b0">compress.c</a>
 </li>
 <li>comp_mbox_open_append()
-: <a class="el" href="compmbox_2compress_8c.html#a5411107efad334d6cfdf124b9856e673">compress.c</a>
+: <a class="el" href="group__mx__mbox__open__append.html#ga5411107efad334d6cfdf124b9856e673">compress.c</a>
 </li>
 <li>comp_mbox_sync()
-: <a class="el" href="compmbox_2compress_8c.html#adeb7755ceb989e6dc91e9afa2ff9e84e">compress.c</a>
+: <a class="el" href="group__mx__mbox__sync.html#gadeb7755ceb989e6dc91e9afa2ff9e84e">compress.c</a>
 </li>
 <li>comp_msg_close()
-: <a class="el" href="compmbox_2compress_8c.html#a9cedad82abc13c823ff2d0e7bc1b66f9">compress.c</a>
+: <a class="el" href="group__mx__msg__close.html#ga9cedad82abc13c823ff2d0e7bc1b66f9">compress.c</a>
 </li>
 <li>comp_msg_commit()
-: <a class="el" href="compmbox_2compress_8c.html#a449d225488040512f5696e4f76f36694">compress.c</a>
+: <a class="el" href="group__mx__msg__commit.html#ga449d225488040512f5696e4f76f36694">compress.c</a>
 </li>
 <li>comp_msg_open()
-: <a class="el" href="compmbox_2compress_8c.html#ac8f0ce1d30bcb3109c62a81979af5a15">compress.c</a>
+: <a class="el" href="group__mx__msg__open.html#gac8f0ce1d30bcb3109c62a81979af5a15">compress.c</a>
 </li>
 <li>comp_msg_open_new()
-: <a class="el" href="compmbox_2compress_8c.html#a8c943e36f1c8e2354a8303c4435393dd">compress.c</a>
+: <a class="el" href="group__mx__msg__open__new.html#ga8c943e36f1c8e2354a8303c4435393dd">compress.c</a>
 </li>
 <li>comp_msg_padding_size()
-: <a class="el" href="compmbox_2compress_8c.html#a0e6812b4bba1845ea248f4df93c06fea">compress.c</a>
+: <a class="el" href="group__mx__msg__padding__size.html#ga0e6812b4bba1845ea248f4df93c06fea">compress.c</a>
 </li>
 <li>comp_msg_save_hcache()
-: <a class="el" href="compmbox_2compress_8c.html#ac329588156f6dfd55072cc812ff043cd">compress.c</a>
+: <a class="el" href="group__mx__msg__save__hcache.html#gac329588156f6dfd55072cc812ff043cd">compress.c</a>
 </li>
 <li>comp_path_canon()
-: <a class="el" href="compmbox_2compress_8c.html#afc352b335c9a8dd1d6e89bcc566dba80">compress.c</a>
+: <a class="el" href="group__mx__path__canon.html#gafc352b335c9a8dd1d6e89bcc566dba80">compress.c</a>
 </li>
 <li>comp_path_parent()
-: <a class="el" href="compmbox_2compress_8c.html#ab807f84b5a28020a4250500f9fa7463c">compress.c</a>
+: <a class="el" href="group__mx__path__parent.html#gab807f84b5a28020a4250500f9fa7463c">compress.c</a>
 </li>
 <li>comp_path_pretty()
-: <a class="el" href="compmbox_2compress_8c.html#a164a2844f1899843274d6c80a194ca86">compress.c</a>
+: <a class="el" href="group__mx__path__pretty.html#ga164a2844f1899843274d6c80a194ca86">compress.c</a>
 </li>
 <li>comp_path_probe()
-: <a class="el" href="compmbox_2compress_8c.html#ad886126ad1805be0c69f9b2fe138db10">compress.c</a>
+: <a class="el" href="group__mx__path__probe.html#gad886126ad1805be0c69f9b2fe138db10">compress.c</a>
 </li>
 <li>comp_syntax_t()
 : <a class="el" href="dlg__pager_8c.html#a757dbf002697f11969b757fcf5ef398d">dlg_pager.c</a>
 </li>
 <li>comp_tags_commit()
-: <a class="el" href="compmbox_2compress_8c.html#a1c0b7ffa4578c0b91fda494e873f13e7">compress.c</a>
+: <a class="el" href="group__mx__tags__commit.html#ga1c0b7ffa4578c0b91fda494e873f13e7">compress.c</a>
 </li>
 <li>comp_tags_edit()
-: <a class="el" href="compmbox_2compress_8c.html#a6baf16b10893271190480d29fbc8b493">compress.c</a>
+: <a class="el" href="group__mx__tags__edit.html#ga6baf16b10893271190480d29fbc8b493">compress.c</a>
 </li>
 <li>compare_certificates()
 : <a class="el" href="openssl_8c.html#a4beebc53c57442012424fe2dcfcada63">openssl.c</a>
@@ -540,7 +554,7 @@ $(document).ready(function(){initNavTree('globals_func_c.html','');});
 , <a class="el" href="compose_2private_8h.html#a095f337924ae4303682f8c83c060fbc3">private.h</a>
 </li>
 <li>compose_format_str()
-: <a class="el" href="cbar_8c.html#ac48dc934e7245d47d1a4feb8459ccb81">cbar.c</a>
+: <a class="el" href="group__expando__api.html#gac48dc934e7245d47d1a4feb8459ccb81">cbar.c</a>
 </li>
 <li>compose_make_entry()
 : <a class="el" href="compose_2attach_8c.html#ad6307085916b03c82eebfbbabdea27d7">attach.c</a>
@@ -557,43 +571,43 @@ $(document).ready(function(){initNavTree('globals_func_c.html','');});
 : <a class="el" href="compose_8c.html#adafec1e26a0cc777c63616051a27f47d">compose.c</a>
 </li>
 <li>compr_lz4_close()
-: <a class="el" href="lz4_8c.html#a5993a215c71067d6bc812c12818464c8">lz4.c</a>
+: <a class="el" href="group__compress__close.html#ga5993a215c71067d6bc812c12818464c8">lz4.c</a>
 </li>
 <li>compr_lz4_compress()
-: <a class="el" href="lz4_8c.html#a68fc501557aed047c56221aec5d6a81b">lz4.c</a>
+: <a class="el" href="group__compress__compress.html#ga68fc501557aed047c56221aec5d6a81b">lz4.c</a>
 </li>
 <li>compr_lz4_decompress()
-: <a class="el" href="lz4_8c.html#aad6e6b58d0b76a1c66b4312b802fc655">lz4.c</a>
+: <a class="el" href="group__compress__decompress.html#gaad6e6b58d0b76a1c66b4312b802fc655">lz4.c</a>
 </li>
 <li>compr_lz4_open()
-: <a class="el" href="lz4_8c.html#a8f6dc80556cc818681f0c1f3be9c4ce9">lz4.c</a>
+: <a class="el" href="group__compress__open.html#ga8f6dc80556cc818681f0c1f3be9c4ce9">lz4.c</a>
 </li>
 <li>compr_zlib_close()
-: <a class="el" href="zlib_8c.html#a1a3b1d5d1576d328ef24844fe15cc445">zlib.c</a>
+: <a class="el" href="group__compress__close.html#ga1a3b1d5d1576d328ef24844fe15cc445">zlib.c</a>
 </li>
 <li>compr_zlib_compress()
-: <a class="el" href="zlib_8c.html#aa33206af337085b8dbec09f56cc942aa">zlib.c</a>
+: <a class="el" href="group__compress__compress.html#gaa33206af337085b8dbec09f56cc942aa">zlib.c</a>
 </li>
 <li>compr_zlib_decompress()
-: <a class="el" href="zlib_8c.html#a51efffcc6616902bd502c3572453b1ea">zlib.c</a>
+: <a class="el" href="group__compress__decompress.html#ga51efffcc6616902bd502c3572453b1ea">zlib.c</a>
 </li>
 <li>compr_zlib_open()
-: <a class="el" href="zlib_8c.html#a96965887097ffe7e70504b88c4aaf0ba">zlib.c</a>
+: <a class="el" href="group__compress__open.html#ga96965887097ffe7e70504b88c4aaf0ba">zlib.c</a>
 </li>
 <li>compr_zstd_close()
-: <a class="el" href="zstd_8c.html#a0cba45975c44e7438718ca91f673d549">zstd.c</a>
+: <a class="el" href="group__compress__close.html#ga0cba45975c44e7438718ca91f673d549">zstd.c</a>
 </li>
 <li>compr_zstd_compress()
-: <a class="el" href="zstd_8c.html#a75345962b262f4ac5a0fe97849ab2c0d">zstd.c</a>
+: <a class="el" href="group__compress__compress.html#ga75345962b262f4ac5a0fe97849ab2c0d">zstd.c</a>
 </li>
 <li>compr_zstd_decompress()
-: <a class="el" href="zstd_8c.html#abc1734f9e60b72216679e1eda1cb441e">zstd.c</a>
+: <a class="el" href="group__compress__decompress.html#gabc1734f9e60b72216679e1eda1cb441e">zstd.c</a>
 </li>
 <li>compr_zstd_open()
-: <a class="el" href="zstd_8c.html#a56d83eb9b0c0b57ad4ac8b307743005f">zstd.c</a>
+: <a class="el" href="group__compress__open.html#ga56d83eb9b0c0b57ad4ac8b307743005f">zstd.c</a>
 </li>
 <li>compress_format_str()
-: <a class="el" href="compmbox_2compress_8c.html#a804a1a638527ebaddb0d693ec35d5198">compress.c</a>
+: <a class="el" href="group__expando__api.html#ga804a1a638527ebaddb0d693ec35d5198">compress.c</a>
 </li>
 <li>compress_get_ops()
 : <a class="el" href="compress_2compress_8c.html#ae5d8b1caefcb09857644dd0ed0d52755">compress.c</a>
@@ -683,6 +697,12 @@ $(document).ready(function(){initNavTree('globals_func_c.html','');});
 </li>
 <li>config_reply_regex()
 : <a class="el" href="index_8c.html#acb3229045361255e2fae817a57c8fd29">index.c</a>
+</li>
+<li>config_sort()
+: <a class="el" href="index_8c.html#a090b916274ea111af76bf86ce48f07b1">index.c</a>
+</li>
+<li>config_use_threads()
+: <a class="el" href="index_8c.html#ab2fd24b89424e5849ac5176cfe134245">index.c</a>
 </li>
 <li>convert_file_from_to()
 : <a class="el" href="sendlib_8c.html#a785759e368e9558d74a8d99292967dfd">sendlib.c</a>
@@ -793,8 +813,8 @@ $(document).ready(function(){initNavTree('globals_func_c.html','');});
 , <a class="el" href="crypt_8h.html#a05b285778a6dec28cc2fa123fd622a27">crypt.h</a>
 </li>
 <li>crypt_extract_keys_from_messages()
-: <a class="el" href="crypt_8c.html#adffb5a3014f93e3f82de3964911041d0">crypt.c</a>
-, <a class="el" href="ncrypt_2lib_8h.html#adffb5a3014f93e3f82de3964911041d0">lib.h</a>
+: <a class="el" href="ncrypt_2lib_8h.html#adffb5a3014f93e3f82de3964911041d0">lib.h</a>
+, <a class="el" href="crypt_8c.html#adffb5a3014f93e3f82de3964911041d0">crypt.c</a>
 </li>
 <li>crypt_fetch_signatures()
 : <a class="el" href="crypt_8c.html#a3f891994e68f268a2b82c0e2e60bf079">crypt.c</a>
@@ -807,22 +827,22 @@ $(document).ready(function(){initNavTree('globals_func_c.html','');});
 , <a class="el" href="crypt_8c.html#a8a09719065d14c27701c998b48883ac4">crypt.c</a>
 </li>
 <li>crypt_format_str()
-: <a class="el" href="dlggpgme_8c.html#a0f917c383b09751f64bd6be090821acb">dlggpgme.c</a>
+: <a class="el" href="group__expando__api.html#ga0f917c383b09751f64bd6be090821acb">dlggpgme.c</a>
 </li>
 <li>crypt_fpr()
 : <a class="el" href="crypt__gpgme_8c.html#ab2dbaf863588ff5afe1a42f51436e4d9">crypt_gpgme.c</a>
 </li>
 <li>crypt_fpr_or_lkeyid()
-: <a class="el" href="crypt__gpgme_8c.html#afa1d67803d96d8fa8b995775d2a88555">crypt_gpgme.c</a>
-, <a class="el" href="crypt__gpgme_8h.html#afa1d67803d96d8fa8b995775d2a88555">crypt_gpgme.h</a>
+: <a class="el" href="crypt__gpgme_8h.html#afa1d67803d96d8fa8b995775d2a88555">crypt_gpgme.h</a>
+, <a class="el" href="crypt__gpgme_8c.html#afa1d67803d96d8fa8b995775d2a88555">crypt_gpgme.c</a>
 </li>
 <li>crypt_get_fingerprint_or_id()
 : <a class="el" href="crypt_8c.html#a0a1a629e56fca1dc19c84c5577cdbb9f">crypt.c</a>
 , <a class="el" href="crypt_8h.html#a0a1a629e56fca1dc19c84c5577cdbb9f">crypt.h</a>
 </li>
 <li>crypt_get_keys()
-: <a class="el" href="ncrypt_2lib_8h.html#a35eba8f2cd36c286f2226ff748ee63e6">lib.h</a>
-, <a class="el" href="crypt_8c.html#a35eba8f2cd36c286f2226ff748ee63e6">crypt.c</a>
+: <a class="el" href="crypt_8c.html#a35eba8f2cd36c286f2226ff748ee63e6">crypt.c</a>
+, <a class="el" href="ncrypt_2lib_8h.html#a35eba8f2cd36c286f2226ff748ee63e6">lib.h</a>
 </li>
 <li>crypt_getkeybyaddr()
 : <a class="el" href="crypt__gpgme_8c.html#ad1fef6cc1938f167f62e9aee7a969e57">crypt_gpgme.c</a>
@@ -885,16 +905,16 @@ $(document).ready(function(){initNavTree('globals_func_c.html','');});
 , <a class="el" href="ncrypt_2lib_8h.html#aaf94d2bf9e0c58d5d8e436397611be27">lib.h</a>
 </li>
 <li>crypt_pgp_check_traditional()
-: <a class="el" href="cryptglue_8c.html#a5959b6797c94b22a7d391cbb5fd2fa33">cryptglue.c</a>
-, <a class="el" href="ncrypt_2lib_8h.html#a5959b6797c94b22a7d391cbb5fd2fa33">lib.h</a>
+: <a class="el" href="ncrypt_2lib_8h.html#a5959b6797c94b22a7d391cbb5fd2fa33">lib.h</a>
+, <a class="el" href="cryptglue_8c.html#a5959b6797c94b22a7d391cbb5fd2fa33">cryptglue.c</a>
 </li>
 <li>crypt_pgp_decrypt_mime()
 : <a class="el" href="cryptglue_8c.html#aa8e21077ffe83ed3b10dc22acdd6c2e2">cryptglue.c</a>
 , <a class="el" href="ncrypt_2lib_8h.html#aa8e21077ffe83ed3b10dc22acdd6c2e2">lib.h</a>
 </li>
 <li>crypt_pgp_encrypt_message()
-: <a class="el" href="cryptglue_8h.html#aca6c03b64aab01e9d26c9708fd72c2c5">cryptglue.h</a>
-, <a class="el" href="cryptglue_8c.html#aca6c03b64aab01e9d26c9708fd72c2c5">cryptglue.c</a>
+: <a class="el" href="cryptglue_8c.html#aca6c03b64aab01e9d26c9708fd72c2c5">cryptglue.c</a>
+, <a class="el" href="cryptglue_8h.html#aca6c03b64aab01e9d26c9708fd72c2c5">cryptglue.h</a>
 </li>
 <li>crypt_pgp_encrypted_handler()
 : <a class="el" href="cryptglue_8c.html#ae640f1b6ee757254269d79193479ec7e">cryptglue.c</a>
@@ -917,16 +937,16 @@ $(document).ready(function(){initNavTree('globals_func_c.html','');});
 , <a class="el" href="cryptglue_8h.html#a842ab48184b60e3b7b206536b7b78a61">cryptglue.h</a>
 </li>
 <li>crypt_pgp_make_key_attachment()
-: <a class="el" href="cryptglue_8c.html#ac671b1b0cd5df34d49ea749d29df8d3f">cryptglue.c</a>
-, <a class="el" href="ncrypt_2lib_8h.html#ac671b1b0cd5df34d49ea749d29df8d3f">lib.h</a>
+: <a class="el" href="ncrypt_2lib_8h.html#ac671b1b0cd5df34d49ea749d29df8d3f">lib.h</a>
+, <a class="el" href="cryptglue_8c.html#ac671b1b0cd5df34d49ea749d29df8d3f">cryptglue.c</a>
 </li>
 <li>crypt_pgp_send_menu()
 : <a class="el" href="cryptglue_8c.html#abebf8caf41c84183ebacca4e7d7afe8c">cryptglue.c</a>
 , <a class="el" href="ncrypt_2lib_8h.html#abebf8caf41c84183ebacca4e7d7afe8c">lib.h</a>
 </li>
 <li>crypt_pgp_set_sender()
-: <a class="el" href="cryptglue_8h.html#a9f42f50373941a87a03df3424ce1b7c4">cryptglue.h</a>
-, <a class="el" href="cryptglue_8c.html#a9f42f50373941a87a03df3424ce1b7c4">cryptglue.c</a>
+: <a class="el" href="cryptglue_8c.html#a9f42f50373941a87a03df3424ce1b7c4">cryptglue.c</a>
+, <a class="el" href="cryptglue_8h.html#a9f42f50373941a87a03df3424ce1b7c4">cryptglue.h</a>
 </li>
 <li>crypt_pgp_sign_message()
 : <a class="el" href="cryptglue_8c.html#abb7ee2dc3d7dbc1ccb6a4986d9a9c92b">cryptglue.c</a>
@@ -949,15 +969,15 @@ $(document).ready(function(){initNavTree('globals_func_c.html','');});
 , <a class="el" href="cryptglue_8h.html#ab11bb907cc90bcd3aadecfd0000b5350">cryptglue.h</a>
 </li>
 <li>crypt_query()
-: <a class="el" href="crypt_8c.html#af4ab2e337a2477fba687b1f710aa7a61">crypt.c</a>
-, <a class="el" href="ncrypt_2lib_8h.html#af4ab2e337a2477fba687b1f710aa7a61">lib.h</a>
+: <a class="el" href="ncrypt_2lib_8h.html#af4ab2e337a2477fba687b1f710aa7a61">lib.h</a>
+, <a class="el" href="crypt_8c.html#af4ab2e337a2477fba687b1f710aa7a61">crypt.c</a>
 </li>
 <li>crypt_short_keyid()
 : <a class="el" href="crypt__gpgme_8c.html#a2f4afb10266ff41d2325610047e3ddb1">crypt_gpgme.c</a>
 </li>
 <li>crypt_smime_application_handler()
-: <a class="el" href="ncrypt_2lib_8h.html#a449d34e46ef8984a0a435909e1c0d7ab">lib.h</a>
-, <a class="el" href="cryptglue_8c.html#ae87ee3382bf04253e14beacd040c9e7d">cryptglue.c</a>
+: <a class="el" href="cryptglue_8c.html#ae87ee3382bf04253e14beacd040c9e7d">cryptglue.c</a>
+, <a class="el" href="ncrypt_2lib_8h.html#a449d34e46ef8984a0a435909e1c0d7ab">lib.h</a>
 </li>
 <li>crypt_smime_build_smime_entity()
 : <a class="el" href="cryptglue_8c.html#a2fe1beb64b690bc9f5f77c910c124a7d">cryptglue.c</a>
@@ -968,28 +988,28 @@ $(document).ready(function(){initNavTree('globals_func_c.html','');});
 , <a class="el" href="ncrypt_2lib_8h.html#a34e8cf4a9f68adbcd30d41a242ede1e7">lib.h</a>
 </li>
 <li>crypt_smime_find_keys()
-: <a class="el" href="cryptglue_8c.html#a57c1bc28957ade858546c243dad15173">cryptglue.c</a>
-, <a class="el" href="cryptglue_8h.html#ac9687b66aca5969d0a9ad0f5c122dbdb">cryptglue.h</a>
+: <a class="el" href="cryptglue_8h.html#ac9687b66aca5969d0a9ad0f5c122dbdb">cryptglue.h</a>
+, <a class="el" href="cryptglue_8c.html#a57c1bc28957ade858546c243dad15173">cryptglue.c</a>
 </li>
 <li>crypt_smime_getkeys()
 : <a class="el" href="cryptglue_8c.html#a3f60f47f4d4dee7f43f502b7244af35f">cryptglue.c</a>
 , <a class="el" href="ncrypt_2lib_8h.html#a3f60f47f4d4dee7f43f502b7244af35f">lib.h</a>
 </li>
 <li>crypt_smime_invoke_import()
-: <a class="el" href="cryptglue_8c.html#a9a62b3e7470b9f9e899a63ebae53b4da">cryptglue.c</a>
-, <a class="el" href="cryptglue_8h.html#a9a62b3e7470b9f9e899a63ebae53b4da">cryptglue.h</a>
+: <a class="el" href="cryptglue_8h.html#a9a62b3e7470b9f9e899a63ebae53b4da">cryptglue.h</a>
+, <a class="el" href="cryptglue_8c.html#a9a62b3e7470b9f9e899a63ebae53b4da">cryptglue.c</a>
 </li>
 <li>crypt_smime_send_menu()
 : <a class="el" href="cryptglue_8c.html#a352931faf3dbfb2f6d2d6c0a32ad830e">cryptglue.c</a>
 , <a class="el" href="ncrypt_2lib_8h.html#a352931faf3dbfb2f6d2d6c0a32ad830e">lib.h</a>
 </li>
 <li>crypt_smime_set_sender()
-: <a class="el" href="cryptglue_8h.html#a9f57744c7bcac595aa1a8838f83dc369">cryptglue.h</a>
-, <a class="el" href="cryptglue_8c.html#a9f57744c7bcac595aa1a8838f83dc369">cryptglue.c</a>
+: <a class="el" href="cryptglue_8c.html#a9f57744c7bcac595aa1a8838f83dc369">cryptglue.c</a>
+, <a class="el" href="cryptglue_8h.html#a9f57744c7bcac595aa1a8838f83dc369">cryptglue.h</a>
 </li>
 <li>crypt_smime_sign_message()
-: <a class="el" href="cryptglue_8c.html#a8a5cfb9361fdcea0c4e35095f0886baa">cryptglue.c</a>
-, <a class="el" href="cryptglue_8h.html#a8a5cfb9361fdcea0c4e35095f0886baa">cryptglue.h</a>
+: <a class="el" href="cryptglue_8h.html#a8a5cfb9361fdcea0c4e35095f0886baa">cryptglue.h</a>
+, <a class="el" href="cryptglue_8c.html#a8a5cfb9361fdcea0c4e35095f0886baa">cryptglue.c</a>
 </li>
 <li>crypt_smime_valid_passphrase()
 : <a class="el" href="cryptglue_8h.html#a82c5ed5b55a8c04d810494995152f10d">cryptglue.h</a>
@@ -1008,16 +1028,16 @@ $(document).ready(function(){initNavTree('globals_func_c.html','');});
 , <a class="el" href="cryptglue_8h.html#a84e2b083debe6ba85cf3deca3e0fe99a">cryptglue.h</a>
 </li>
 <li>crypt_valid_passphrase()
-: <a class="el" href="crypt_8c.html#a4ee7f1419a7e39b0e9f1f9d550f4de43">crypt.c</a>
-, <a class="el" href="ncrypt_2lib_8h.html#a4ee7f1419a7e39b0e9f1f9d550f4de43">lib.h</a>
+: <a class="el" href="ncrypt_2lib_8h.html#a4ee7f1419a7e39b0e9f1f9d550f4de43">lib.h</a>
+, <a class="el" href="crypt_8c.html#a4ee7f1419a7e39b0e9f1f9d550f4de43">crypt.c</a>
 </li>
 <li>crypt_write_signed()
 : <a class="el" href="crypt_8c.html#a32cadd5ce0071d7f003dde3d80f52d5d">crypt.c</a>
 , <a class="el" href="crypt_8h.html#a32cadd5ce0071d7f003dde3d80f52d5d">crypt.h</a>
 </li>
 <li>crypto_module_free()
-: <a class="el" href="ncrypt_2lib_8h.html#a6f815761abc33bf614605b9a39b3002b">lib.h</a>
-, <a class="el" href="crypt__mod_8c.html#a6f815761abc33bf614605b9a39b3002b">crypt_mod.c</a>
+: <a class="el" href="crypt__mod_8c.html#a6f815761abc33bf614605b9a39b3002b">crypt_mod.c</a>
+, <a class="el" href="ncrypt_2lib_8h.html#a6f815761abc33bf614605b9a39b3002b">lib.h</a>
 </li>
 <li>crypto_module_lookup()
 : <a class="el" href="crypt__mod_8h.html#ab76c8564c3062e3855452cacc1baa71e">crypt_mod.h</a>
@@ -1036,8 +1056,8 @@ $(document).ready(function(){initNavTree('globals_func_c.html','');});
 , <a class="el" href="set_8c.html#abc8977c3a4db023bfd5f5e8e93bd4cf9">set.c</a>
 </li>
 <li>cs_get_elem()
-: <a class="el" href="set_8h.html#a6a48e8c12db6f64a6da6b219c3d987d9">set.h</a>
-, <a class="el" href="set_8c.html#a6a48e8c12db6f64a6da6b219c3d987d9">set.c</a>
+: <a class="el" href="set_8c.html#a6a48e8c12db6f64a6da6b219c3d987d9">set.c</a>
+, <a class="el" href="set_8h.html#a6a48e8c12db6f64a6da6b219c3d987d9">set.h</a>
 </li>
 <li>cs_get_type_def()
 : <a class="el" href="set_8h.html#a74b013e244b5a66aec376873a2c90194">set.h</a>
@@ -1067,8 +1087,8 @@ $(document).ready(function(){initNavTree('globals_func_c.html','');});
 , <a class="el" href="set_8c.html#a52b4a1b57f44e2a7972fe3e3747c3557">set.c</a>
 </li>
 <li>cs_he_string_get()
-: <a class="el" href="set_8c.html#aae8bc50e36b926998d926687f97c8b48">set.c</a>
-, <a class="el" href="set_8h.html#aae8bc50e36b926998d926687f97c8b48">set.h</a>
+: <a class="el" href="set_8h.html#aae8bc50e36b926998d926687f97c8b48">set.h</a>
+, <a class="el" href="set_8c.html#aae8bc50e36b926998d926687f97c8b48">set.c</a>
 </li>
 <li>cs_he_string_minus_equals()
 : <a class="el" href="set_8h.html#afb22f304def10b645bb397b6b8b29641">set.h</a>
@@ -1083,32 +1103,32 @@ $(document).ready(function(){initNavTree('globals_func_c.html','');});
 , <a class="el" href="set_8c.html#a6c9cf00df6994a9cef7caf5d9f0f01c6">set.c</a>
 </li>
 <li>cs_inherit_variable()
-: <a class="el" href="set_8c.html#a02909ed6e22b4c2c4cb5e588bec0941e">set.c</a>
-, <a class="el" href="set_8h.html#a02909ed6e22b4c2c4cb5e588bec0941e">set.h</a>
+: <a class="el" href="set_8h.html#a02909ed6e22b4c2c4cb5e588bec0941e">set.h</a>
+, <a class="el" href="set_8c.html#a02909ed6e22b4c2c4cb5e588bec0941e">set.c</a>
 </li>
 <li>cs_new()
 : <a class="el" href="set_8h.html#a782cae3ae2a644f227712ba2b9777f85">set.h</a>
 , <a class="el" href="set_8c.html#a782cae3ae2a644f227712ba2b9777f85">set.c</a>
 </li>
 <li>cs_register_type()
-: <a class="el" href="set_8h.html#adf0f17032f910c4234f6942e8329fbeb">set.h</a>
-, <a class="el" href="set_8c.html#adf0f17032f910c4234f6942e8329fbeb">set.c</a>
+: <a class="el" href="set_8c.html#adf0f17032f910c4234f6942e8329fbeb">set.c</a>
+, <a class="el" href="set_8h.html#adf0f17032f910c4234f6942e8329fbeb">set.h</a>
 </li>
 <li>cs_register_variables()
 : <a class="el" href="set_8h.html#a0188dac9bcb3b80abfaada460b78a382">set.h</a>
 , <a class="el" href="set_8c.html#a0188dac9bcb3b80abfaada460b78a382">set.c</a>
 </li>
 <li>cs_str_initial_get()
-: <a class="el" href="set_8c.html#a1bc435f8e505a9274333899fa70250ce">set.c</a>
-, <a class="el" href="set_8h.html#a1bc435f8e505a9274333899fa70250ce">set.h</a>
+: <a class="el" href="set_8h.html#a1bc435f8e505a9274333899fa70250ce">set.h</a>
+, <a class="el" href="set_8c.html#a1bc435f8e505a9274333899fa70250ce">set.c</a>
 </li>
 <li>cs_str_initial_set()
 : <a class="el" href="set_8h.html#a2923b046583690255351a486a6a7a0c6">set.h</a>
 , <a class="el" href="set_8c.html#a2923b046583690255351a486a6a7a0c6">set.c</a>
 </li>
 <li>cs_str_native_get()
-: <a class="el" href="set_8h.html#aa24d0f20de3cddc0e486772a303b07cc">set.h</a>
-, <a class="el" href="set_8c.html#aa24d0f20de3cddc0e486772a303b07cc">set.c</a>
+: <a class="el" href="set_8c.html#aa24d0f20de3cddc0e486772a303b07cc">set.c</a>
+, <a class="el" href="set_8h.html#aa24d0f20de3cddc0e486772a303b07cc">set.h</a>
 </li>
 <li>cs_str_native_set()
 : <a class="el" href="set_8h.html#a6eec066d228f0ded678c35ed8aa9ac28">set.h</a>
@@ -1119,16 +1139,16 @@ $(document).ready(function(){initNavTree('globals_func_c.html','');});
 , <a class="el" href="set_8h.html#a2c2cb475e50df247e8c88dab8c123534">set.h</a>
 </li>
 <li>cs_str_string_get()
-: <a class="el" href="set_8h.html#a6fd54e2cfa94fb1157988cebc135ef67">set.h</a>
-, <a class="el" href="set_8c.html#a6fd54e2cfa94fb1157988cebc135ef67">set.c</a>
+: <a class="el" href="set_8c.html#a6fd54e2cfa94fb1157988cebc135ef67">set.c</a>
+, <a class="el" href="set_8h.html#a6fd54e2cfa94fb1157988cebc135ef67">set.h</a>
 </li>
 <li>cs_str_string_minus_equals()
 : <a class="el" href="set_8h.html#ae7fb6258054e01e79f06bdc64b705cd8">set.h</a>
 , <a class="el" href="set_8c.html#ae7fb6258054e01e79f06bdc64b705cd8">set.c</a>
 </li>
 <li>cs_str_string_plus_equals()
-: <a class="el" href="set_8h.html#a651003f60b9d9882dd5c6cc31833927b">set.h</a>
-, <a class="el" href="set_8c.html#a651003f60b9d9882dd5c6cc31833927b">set.c</a>
+: <a class="el" href="set_8c.html#a651003f60b9d9882dd5c6cc31833927b">set.c</a>
+, <a class="el" href="set_8h.html#a651003f60b9d9882dd5c6cc31833927b">set.h</a>
 </li>
 <li>cs_str_string_set()
 : <a class="el" href="set_8c.html#a5b6c4a72c38c2eca93569af53cc82eed">set.c</a>
@@ -1143,20 +1163,20 @@ $(document).ready(function(){initNavTree('globals_func_c.html','');});
 , <a class="el" href="helpers_8c.html#ae50f679dd6c5bd1ba820884c8602f038">helpers.c</a>
 </li>
 <li>cs_subset_create_inheritance()
-: <a class="el" href="subset_8c.html#a20b4ed9caadbf8c910807a2a1225ff1e">subset.c</a>
-, <a class="el" href="subset_8h.html#a20b4ed9caadbf8c910807a2a1225ff1e">subset.h</a>
+: <a class="el" href="subset_8h.html#a20b4ed9caadbf8c910807a2a1225ff1e">subset.h</a>
+, <a class="el" href="subset_8c.html#a20b4ed9caadbf8c910807a2a1225ff1e">subset.c</a>
 </li>
 <li>cs_subset_enum()
-: <a class="el" href="helpers_8c.html#a95398bb7e62a54dcce14a027a926a193">helpers.c</a>
-, <a class="el" href="helpers_8h.html#a95398bb7e62a54dcce14a027a926a193">helpers.h</a>
+: <a class="el" href="helpers_8h.html#a95398bb7e62a54dcce14a027a926a193">helpers.h</a>
+, <a class="el" href="helpers_8c.html#a95398bb7e62a54dcce14a027a926a193">helpers.c</a>
 </li>
 <li>cs_subset_free()
 : <a class="el" href="subset_8c.html#aa13d98edef88b0563dd96102fc8bc22b">subset.c</a>
 , <a class="el" href="subset_8h.html#aa13d98edef88b0563dd96102fc8bc22b">subset.h</a>
 </li>
 <li>cs_subset_he_native_get()
-: <a class="el" href="subset_8c.html#a7417f52ec93f2ea2ddddc4051944064c">subset.c</a>
-, <a class="el" href="subset_8h.html#a7417f52ec93f2ea2ddddc4051944064c">subset.h</a>
+: <a class="el" href="subset_8h.html#a7417f52ec93f2ea2ddddc4051944064c">subset.h</a>
+, <a class="el" href="subset_8c.html#a7417f52ec93f2ea2ddddc4051944064c">subset.c</a>
 </li>
 <li>cs_subset_he_native_set()
 : <a class="el" href="subset_8c.html#a62bcdcf36d0013c7c18131e4db133ff3">subset.c</a>
@@ -1171,28 +1191,28 @@ $(document).ready(function(){initNavTree('globals_func_c.html','');});
 , <a class="el" href="subset_8h.html#a2226e4ab6c7e6a8099844c7ab927dd5b">subset.h</a>
 </li>
 <li>cs_subset_he_string_minus_equals()
-: <a class="el" href="subset_8c.html#a0d2424534e2280b6c0bf8ca06a6b421b">subset.c</a>
-, <a class="el" href="subset_8h.html#a0d2424534e2280b6c0bf8ca06a6b421b">subset.h</a>
+: <a class="el" href="subset_8h.html#a0d2424534e2280b6c0bf8ca06a6b421b">subset.h</a>
+, <a class="el" href="subset_8c.html#a0d2424534e2280b6c0bf8ca06a6b421b">subset.c</a>
 </li>
 <li>cs_subset_he_string_plus_equals()
-: <a class="el" href="subset_8h.html#abdb3a9b5c8876db2541cfa31e075b5f5">subset.h</a>
-, <a class="el" href="subset_8c.html#abdb3a9b5c8876db2541cfa31e075b5f5">subset.c</a>
+: <a class="el" href="subset_8c.html#abdb3a9b5c8876db2541cfa31e075b5f5">subset.c</a>
+, <a class="el" href="subset_8h.html#abdb3a9b5c8876db2541cfa31e075b5f5">subset.h</a>
 </li>
 <li>cs_subset_he_string_set()
 : <a class="el" href="subset_8h.html#a8a31ecbb31d116ffc29cbf2b5645a375">subset.h</a>
 , <a class="el" href="subset_8c.html#a8a31ecbb31d116ffc29cbf2b5645a375">subset.c</a>
 </li>
 <li>cs_subset_long()
-: <a class="el" href="helpers_8h.html#aaa3d1087514bcd9d7ea4347bed337c5b">helpers.h</a>
-, <a class="el" href="helpers_8c.html#aaa3d1087514bcd9d7ea4347bed337c5b">helpers.c</a>
+: <a class="el" href="helpers_8c.html#aaa3d1087514bcd9d7ea4347bed337c5b">helpers.c</a>
+, <a class="el" href="helpers_8h.html#aaa3d1087514bcd9d7ea4347bed337c5b">helpers.h</a>
 </li>
 <li>cs_subset_lookup()
-: <a class="el" href="subset_8h.html#a8a24a54a209c21ec6b04927df61b7fb3">subset.h</a>
-, <a class="el" href="subset_8c.html#a8a24a54a209c21ec6b04927df61b7fb3">subset.c</a>
+: <a class="el" href="subset_8c.html#a8a24a54a209c21ec6b04927df61b7fb3">subset.c</a>
+, <a class="el" href="subset_8h.html#a8a24a54a209c21ec6b04927df61b7fb3">subset.h</a>
 </li>
 <li>cs_subset_mbtable()
-: <a class="el" href="helpers_8h.html#ace270ba09cfcc0d55ff7611bbb44d5ab">helpers.h</a>
-, <a class="el" href="helpers_8c.html#ace270ba09cfcc0d55ff7611bbb44d5ab">helpers.c</a>
+: <a class="el" href="helpers_8c.html#ace270ba09cfcc0d55ff7611bbb44d5ab">helpers.c</a>
+, <a class="el" href="helpers_8h.html#ace270ba09cfcc0d55ff7611bbb44d5ab">helpers.h</a>
 </li>
 <li>cs_subset_new()
 : <a class="el" href="subset_8h.html#a3cb8f174cd1955410790baf67e842ea2">subset.h</a>
@@ -1211,16 +1231,16 @@ $(document).ready(function(){initNavTree('globals_func_c.html','');});
 , <a class="el" href="helpers_8c.html#acadf9e29fd733422508496a70a080c09">helpers.c</a>
 </li>
 <li>cs_subset_quad()
-: <a class="el" href="helpers_8c.html#a9154ba713ce99b0937f475eec7c61af9">helpers.c</a>
-, <a class="el" href="helpers_8h.html#a9154ba713ce99b0937f475eec7c61af9">helpers.h</a>
+: <a class="el" href="helpers_8h.html#a9154ba713ce99b0937f475eec7c61af9">helpers.h</a>
+, <a class="el" href="helpers_8c.html#a9154ba713ce99b0937f475eec7c61af9">helpers.c</a>
 </li>
 <li>cs_subset_regex()
-: <a class="el" href="helpers_8c.html#ae5ccc8068dd017455c38dd01982f7908">helpers.c</a>
-, <a class="el" href="helpers_8h.html#ae5ccc8068dd017455c38dd01982f7908">helpers.h</a>
+: <a class="el" href="helpers_8h.html#ae5ccc8068dd017455c38dd01982f7908">helpers.h</a>
+, <a class="el" href="helpers_8c.html#ae5ccc8068dd017455c38dd01982f7908">helpers.c</a>
 </li>
 <li>cs_subset_slist()
-: <a class="el" href="helpers_8c.html#a55c39d357f3bb648c3aab7f4abdb076e">helpers.c</a>
-, <a class="el" href="helpers_8h.html#a55c39d357f3bb648c3aab7f4abdb076e">helpers.h</a>
+: <a class="el" href="helpers_8h.html#a55c39d357f3bb648c3aab7f4abdb076e">helpers.h</a>
+, <a class="el" href="helpers_8c.html#a55c39d357f3bb648c3aab7f4abdb076e">helpers.c</a>
 </li>
 <li>cs_subset_sort()
 : <a class="el" href="helpers_8h.html#af7f3de51c3c2f5b8f527f40c8397a3fc">helpers.h</a>
@@ -1231,32 +1251,32 @@ $(document).ready(function(){initNavTree('globals_func_c.html','');});
 , <a class="el" href="subset_8c.html#ac43bd842a2754ed35821aad9929f795c">subset.c</a>
 </li>
 <li>cs_subset_str_native_set()
-: <a class="el" href="subset_8c.html#a6ee598a96defed645b11cad6e6cb6512">subset.c</a>
-, <a class="el" href="subset_8h.html#a6ee598a96defed645b11cad6e6cb6512">subset.h</a>
+: <a class="el" href="subset_8h.html#a6ee598a96defed645b11cad6e6cb6512">subset.h</a>
+, <a class="el" href="subset_8c.html#a6ee598a96defed645b11cad6e6cb6512">subset.c</a>
 </li>
 <li>cs_subset_str_reset()
-: <a class="el" href="subset_8c.html#a514631d91f223e8b716b2d1eb159be78">subset.c</a>
-, <a class="el" href="subset_8h.html#a514631d91f223e8b716b2d1eb159be78">subset.h</a>
+: <a class="el" href="subset_8h.html#a514631d91f223e8b716b2d1eb159be78">subset.h</a>
+, <a class="el" href="subset_8c.html#a514631d91f223e8b716b2d1eb159be78">subset.c</a>
 </li>
 <li>cs_subset_str_string_get()
-: <a class="el" href="subset_8c.html#a7e8ecc401fed4ef7d076bc377ec8b80a">subset.c</a>
-, <a class="el" href="subset_8h.html#a7e8ecc401fed4ef7d076bc377ec8b80a">subset.h</a>
+: <a class="el" href="subset_8h.html#a7e8ecc401fed4ef7d076bc377ec8b80a">subset.h</a>
+, <a class="el" href="subset_8c.html#a7e8ecc401fed4ef7d076bc377ec8b80a">subset.c</a>
 </li>
 <li>cs_subset_str_string_minus_equals()
 : <a class="el" href="subset_8c.html#a60f7e66361309fdb276ea4458672abe5">subset.c</a>
 , <a class="el" href="subset_8h.html#a60f7e66361309fdb276ea4458672abe5">subset.h</a>
 </li>
 <li>cs_subset_str_string_plus_equals()
-: <a class="el" href="subset_8c.html#a28038ae3e3e508802fdb3a0932d5ff9e">subset.c</a>
-, <a class="el" href="subset_8h.html#a28038ae3e3e508802fdb3a0932d5ff9e">subset.h</a>
+: <a class="el" href="subset_8h.html#a28038ae3e3e508802fdb3a0932d5ff9e">subset.h</a>
+, <a class="el" href="subset_8c.html#a28038ae3e3e508802fdb3a0932d5ff9e">subset.c</a>
 </li>
 <li>cs_subset_str_string_set()
 : <a class="el" href="subset_8h.html#a8d7d5e60bd8f7f0f8ffd8522de126b12">subset.h</a>
 , <a class="el" href="subset_8c.html#a8d7d5e60bd8f7f0f8ffd8522de126b12">subset.c</a>
 </li>
 <li>cs_subset_string()
-: <a class="el" href="helpers_8h.html#ac477c591155aa4ae0452bbabc0affffe">helpers.h</a>
-, <a class="el" href="helpers_8c.html#ac477c591155aa4ae0452bbabc0affffe">helpers.c</a>
+: <a class="el" href="helpers_8c.html#ac477c591155aa4ae0452bbabc0affffe">helpers.c</a>
+, <a class="el" href="helpers_8h.html#ac477c591155aa4ae0452bbabc0affffe">helpers.h</a>
 </li>
 <li>cs_uninherit_variable()
 : <a class="el" href="set_8h.html#afc62808c51333fd2e3acb261a917b65c">set.h</a>
@@ -1270,32 +1290,32 @@ $(document).ready(function(){initNavTree('globals_func_c.html','');});
 , <a class="el" href="context_8h.html#a438aad8b9b9193a15648a4f1f8039cfb">context.h</a>
 </li>
 <li>ctx_has_limit()
-: <a class="el" href="context_8c.html#addeed4e3ed0c2c32b80d97831bfadcf3">context.c</a>
-, <a class="el" href="context_8h.html#addeed4e3ed0c2c32b80d97831bfadcf3">context.h</a>
+: <a class="el" href="context_8h.html#addeed4e3ed0c2c32b80d97831bfadcf3">context.h</a>
+, <a class="el" href="context_8c.html#addeed4e3ed0c2c32b80d97831bfadcf3">context.c</a>
 </li>
 <li>ctx_mailbox()
-: <a class="el" href="context_8h.html#a3d99ae9e3203ce327227f9ab3f711427">context.h</a>
-, <a class="el" href="context_8c.html#a3d99ae9e3203ce327227f9ab3f711427">context.c</a>
+: <a class="el" href="context_8c.html#a3d99ae9e3203ce327227f9ab3f711427">context.c</a>
+, <a class="el" href="context_8h.html#a3d99ae9e3203ce327227f9ab3f711427">context.h</a>
 </li>
 <li>ctx_mailbox_observer()
-: <a class="el" href="context_8c.html#ae00c71eb34e06ec9e34fa63aeb38824f">context.c</a>
-, <a class="el" href="context_8h.html#ae00c71eb34e06ec9e34fa63aeb38824f">context.h</a>
+: <a class="el" href="context_8h.html#ae00c71eb34e06ec9e34fa63aeb38824f">context.h</a>
+, <a class="el" href="context_8c.html#ae00c71eb34e06ec9e34fa63aeb38824f">context.c</a>
 </li>
 <li>ctx_new()
-: <a class="el" href="context_8h.html#a277306cf26d4e75052d80cc100cbdbab">context.h</a>
-, <a class="el" href="context_8c.html#a277306cf26d4e75052d80cc100cbdbab">context.c</a>
+: <a class="el" href="context_8c.html#a277306cf26d4e75052d80cc100cbdbab">context.c</a>
+, <a class="el" href="context_8h.html#a277306cf26d4e75052d80cc100cbdbab">context.h</a>
 </li>
 <li>ctx_update()
-: <a class="el" href="context_8c.html#a9388581d0baec70c2962fdb99fd1a35c">context.c</a>
-, <a class="el" href="context_8h.html#a9388581d0baec70c2962fdb99fd1a35c">context.h</a>
+: <a class="el" href="context_8h.html#a9388581d0baec70c2962fdb99fd1a35c">context.h</a>
+, <a class="el" href="context_8c.html#a9388581d0baec70c2962fdb99fd1a35c">context.c</a>
 </li>
 <li>cum_attachs_size()
-: <a class="el" href="compose_2private_8h.html#a0a04fab6930b2ffd45c5e07e9dd5cee2">private.h</a>
-, <a class="el" href="compose_2attach_8c.html#a0a04fab6930b2ffd45c5e07e9dd5cee2">attach.c</a>
+: <a class="el" href="compose_2attach_8c.html#a0a04fab6930b2ffd45c5e07e9dd5cee2">attach.c</a>
+, <a class="el" href="compose_2private_8h.html#a0a04fab6930b2ffd45c5e07e9dd5cee2">private.h</a>
 </li>
 <li>current_attachment()
-: <a class="el" href="recvattach_8c.html#a20214b4a23880e9b23ba3ff9eb6fdedf">recvattach.c</a>
-, <a class="el" href="compose_8c.html#a20214b4a23880e9b23ba3ff9eb6fdedf">compose.c</a>
+: <a class="el" href="compose_8c.html#a20214b4a23880e9b23ba3ff9eb6fdedf">compose.c</a>
+, <a class="el" href="recvattach_8c.html#a20214b4a23880e9b23ba3ff9eb6fdedf">recvattach.c</a>
 </li>
 <li>curses_exit_handler()
 : <a class="el" href="mutt__signal_8c.html#addcb2f804ac8deee8b5ea344a23d3ad6">mutt_signal.c</a>

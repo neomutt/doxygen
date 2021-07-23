@@ -9,54 +9,54 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 100)">
 <title>maildir_update_flags</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-100 277,-100 277,4 -4,4"/>
-<!-- Node9435 -->
+<!-- Node6772 -->
 <g id="node1" class="node">
-<title>Node9435</title>
+<title>Node6772</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-38.5 0,-57.5 119,-57.5 119,-38.5 0,-38.5"/>
 <text text-anchor="middle" x="59.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">maildir_update_flags</text>
 </g>
-<!-- Node9436 -->
+<!-- Node6773 -->
 <g id="node2" class="node">
-<title>Node9436</title>
-<g id="a_node2"><a xlink:href="maildir_8c.html#a9c83b6e969c6eced44ccaa2fc21360ec" target="_top" xlink:title="Check for new mail &#45; Implements MxOps::mbox_check() ">
+<title>Node6773</title>
+<g id="a_node2"><a xlink:href="group__mx__mbox__check.html#ga9c83b6e969c6eced44ccaa2fc21360ec" target="_top" xlink:title="Check for new mail &#45; Implements MxOps::mbox_check() &#45;This function handles arrival of new mail and re...">
 <polygon fill="#ffffff" stroke="#ff0000" points="155,-76.5 155,-95.5 273,-95.5 273,-76.5 155,-76.5"/>
 <text text-anchor="middle" x="214" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">maildir_mbox_check</text>
 </a>
 </g>
 </g>
-<!-- Node9435&#45;&gt;Node9436 -->
+<!-- Node6772&#45;&gt;Node6773 -->
 <g id="edge1" class="edge">
-<title>Node9435&#45;&gt;Node9436</title>
+<title>Node6772&#45;&gt;Node6773</title>
 <path fill="none" stroke="#191970" d="M108.4521,-60.04C130.0365,-65.3488 155.041,-71.4988 175.2935,-76.4799"/>
 <polygon fill="#191970" stroke="#191970" points="109.0334,-56.5787 98.4869,-57.589 107.3615,-63.3762 109.0334,-56.5787"/>
 </g>
-<!-- Node9438 -->
+<!-- Node6775 -->
 <g id="node3" class="node">
-<title>Node9438</title>
-<g id="a_node3"><a xlink:href="mh_8c.html#a4be54a995c195a42265f6ac32d80355a" target="_top" xlink:title="Check for new mail &#45; Implements MxOps::mbox_check() ">
+<title>Node6775</title>
+<g id="a_node3"><a xlink:href="group__mx__mbox__check.html#ga4be54a995c195a42265f6ac32d80355a" target="_top" xlink:title="Check for new mail &#45; Implements MxOps::mbox_check() &#45;This function handles arrival of new mail and re...">
 <polygon fill="#ffffff" stroke="#ff0000" points="164.5,-38.5 164.5,-57.5 263.5,-57.5 263.5,-38.5 164.5,-38.5"/>
 <text text-anchor="middle" x="214" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mh_mbox_check</text>
 </a>
 </g>
 </g>
-<!-- Node9435&#45;&gt;Node9438 -->
+<!-- Node6772&#45;&gt;Node6775 -->
 <g id="edge2" class="edge">
-<title>Node9435&#45;&gt;Node9438</title>
+<title>Node6772&#45;&gt;Node6775</title>
 <path fill="none" stroke="#191970" d="M129.5059,-48C141.2932,-48 153.3074,-48 164.4378,-48"/>
 <polygon fill="#191970" stroke="#191970" points="129.2338,-44.5001 119.2337,-48 129.2337,-51.5001 129.2338,-44.5001"/>
 </g>
-<!-- Node9440 -->
+<!-- Node6777 -->
 <g id="node4" class="node">
-<title>Node9440</title>
-<g id="a_node4"><a xlink:href="notmuch_8c.html#afd9ac1fea250b07e3ea64493021aaa06" target="_top" xlink:title="Check for new mail &#45; Implements MxOps::mbox_check() ">
+<title>Node6777</title>
+<g id="a_node4"><a xlink:href="group__mx__mbox__check.html#gafd9ac1fea250b07e3ea64493021aaa06" target="_top" xlink:title="Check for new mail &#45; Implements MxOps::mbox_check() &#45;. ">
 <polygon fill="#ffffff" stroke="#000000" points="164.5,-.5 164.5,-19.5 263.5,-19.5 263.5,-.5 164.5,-.5"/>
 <text text-anchor="middle" x="214" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nm_mbox_check</text>
 </a>
 </g>
 </g>
-<!-- Node9435&#45;&gt;Node9440 -->
+<!-- Node6772&#45;&gt;Node6777 -->
 <g id="edge3" class="edge">
-<title>Node9435&#45;&gt;Node9440</title>
+<title>Node6772&#45;&gt;Node6777</title>
 <path fill="none" stroke="#191970" d="M108.4521,-35.96C130.0365,-30.6512 155.041,-24.5012 175.2935,-19.5201"/>
 <polygon fill="#191970" stroke="#191970" points="107.3615,-32.6238 98.4869,-38.411 109.0334,-39.4213 107.3615,-32.6238"/>
 </g>

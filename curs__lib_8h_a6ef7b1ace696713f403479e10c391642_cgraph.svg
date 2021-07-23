@@ -9,39 +9,39 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 62)">
 <title>mutt_unget_string</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-62 252,-62 252,4 -4,4"/>
-<!-- Node28966 -->
+<!-- Node29641 -->
 <g id="node1" class="node">
-<title>Node28966</title>
+<title>Node29641</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-19.5 0,-38.5 106,-38.5 106,-19.5 0,-19.5"/>
 <text text-anchor="middle" x="53" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_unget_string</text>
 </g>
-<!-- Node28967 -->
+<!-- Node29642 -->
 <g id="node2" class="node">
-<title>Node28967</title>
+<title>Node29642</title>
 <g id="a_node2"><a xlink:href="mutt_2string_8c.html#acca6786b903b22a5924219f9db96e10d" target="_top" xlink:title="Calculate the length of a string, safely. ">
 <polygon fill="#ffffff" stroke="#000000" points="156,-38.5 156,-57.5 234,-57.5 234,-38.5 156,-38.5"/>
 <text text-anchor="middle" x="195" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_str_len</text>
 </a>
 </g>
 </g>
-<!-- Node28966&#45;&gt;Node28967 -->
+<!-- Node29641&#45;&gt;Node29642 -->
 <g id="edge1" class="edge">
-<title>Node28966&#45;&gt;Node28967</title>
+<title>Node29641&#45;&gt;Node29642</title>
 <path fill="none" stroke="#191970" d="M106.2796,-36.129C119.1958,-37.8572 132.9478,-39.6972 145.6727,-41.3999"/>
 <polygon fill="#191970" stroke="#191970" points="145.246,-44.8739 155.6219,-42.7311 146.1744,-37.9357 145.246,-44.8739"/>
 </g>
-<!-- Node28968 -->
+<!-- Node29643 -->
 <g id="node3" class="node">
-<title>Node28968</title>
+<title>Node29643</title>
 <g id="a_node3"><a xlink:href="curs__lib_8c.html#a9a8c35513fca5be6bdd795e27db1991a" target="_top" xlink:title="Return a keystroke to the input buffer. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="142,-.5 142,-19.5 248,-19.5 248,-.5 142,-.5"/>
 <text text-anchor="middle" x="195" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_unget_event</text>
 </a>
 </g>
 </g>
-<!-- Node28966&#45;&gt;Node28968 -->
+<!-- Node29641&#45;&gt;Node29643 -->
 <g id="edge2" class="edge">
-<title>Node28966&#45;&gt;Node28968</title>
+<title>Node29641&#45;&gt;Node29643</title>
 <path fill="none" stroke="#191970" d="M106.2796,-21.871C114.651,-20.7509 123.3736,-19.5838 131.94,-18.4376"/>
 <polygon fill="#191970" stroke="#191970" points="132.4466,-21.9011 141.8941,-17.1057 131.5182,-14.9629 132.4466,-21.9011"/>
 </g>

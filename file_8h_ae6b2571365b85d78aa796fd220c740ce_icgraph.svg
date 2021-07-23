@@ -9,84 +9,84 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 176)">
 <title>mutt_file_fsync_close</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-176 332,-176 332,4 -4,4"/>
-<!-- Node5431 -->
+<!-- Node5301 -->
 <g id="node1" class="node">
-<title>Node5431</title>
+<title>Node5301</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-76.5 0,-95.5 122,-95.5 122,-76.5 0,-76.5"/>
 <text text-anchor="middle" x="61" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_file_fsync_close</text>
 </g>
-<!-- Node5432 -->
+<!-- Node5302 -->
 <g id="node2" class="node">
-<title>Node5432</title>
+<title>Node5302</title>
 <g id="a_node2"><a xlink:href="alias_2lib_8h.html#a9a5bce1105cd6bfb1f7a614f680dfef2" target="_top" xlink:title="Create a new Alias from an Address. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="205,-152.5 205,-171.5 281,-171.5 281,-152.5 205,-152.5"/>
 <text text-anchor="middle" x="243" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">alias_create</text>
 </a>
 </g>
 </g>
-<!-- Node5431&#45;&gt;Node5432 -->
+<!-- Node5301&#45;&gt;Node5302 -->
 <g id="edge1" class="edge">
-<title>Node5431&#45;&gt;Node5432</title>
+<title>Node5301&#45;&gt;Node5302</title>
 <path fill="none" stroke="#191970" d="M82.3676,-101.2019C101.3864,-114.0713 130.3915,-132.1136 158,-143 172.7704,-148.8241 189.7238,-153.067 204.5847,-156.0459"/>
 <polygon fill="#191970" stroke="#191970" points="84.3488,-98.3166 74.1281,-95.5257 80.3776,-104.0812 84.3488,-98.3166"/>
 </g>
-<!-- Node5997 -->
+<!-- Node5921 -->
 <g id="node3" class="node">
-<title>Node5997</title>
+<title>Node5921</title>
 <g id="a_node3"><a xlink:href="maildir_8c.html#a702877a7159e9d9d1973b33b680600d1" target="_top" xlink:title="Commit a message to a maildir folder. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="171.5,-114.5 171.5,-133.5 314.5,-133.5 314.5,-114.5 171.5,-114.5"/>
 <text text-anchor="middle" x="243" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">maildir_commit_message</text>
 </a>
 </g>
 </g>
-<!-- Node5431&#45;&gt;Node5997 -->
+<!-- Node5301&#45;&gt;Node5921 -->
 <g id="edge2" class="edge">
-<title>Node5431&#45;&gt;Node5997</title>
+<title>Node5301&#45;&gt;Node5921</title>
 <path fill="none" stroke="#191970" d="M116.9458,-97.681C142.7558,-103.0699 173.0069,-109.3861 197.404,-114.4799"/>
 <polygon fill="#191970" stroke="#191970" points="117.4306,-94.2068 106.9263,-95.589 115.9998,-101.059 117.4306,-94.2068"/>
 </g>
-<!-- Node5999 -->
+<!-- Node5923 -->
 <g id="node4" class="node">
-<title>Node5999</title>
+<title>Node5923</title>
 <g id="a_node4"><a xlink:href="mh_8c.html#a7d1a12ff9d7a670232f772da4f090bc8" target="_top" xlink:title="Commit a message to an MH folder. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="192.5,-76.5 192.5,-95.5 293.5,-95.5 293.5,-76.5 192.5,-76.5"/>
 <text text-anchor="middle" x="243" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mh_commit_msg</text>
 </a>
 </g>
 </g>
-<!-- Node5431&#45;&gt;Node5999 -->
+<!-- Node5301&#45;&gt;Node5923 -->
 <g id="edge3" class="edge">
-<title>Node5431&#45;&gt;Node5999</title>
+<title>Node5301&#45;&gt;Node5923</title>
 <path fill="none" stroke="#191970" d="M132.1618,-86C152.2636,-86 173.723,-86 192.3529,-86"/>
 <polygon fill="#191970" stroke="#191970" points="132.1097,-82.5001 122.1097,-86 132.1096,-89.5001 132.1097,-82.5001"/>
 </g>
-<!-- Node5497 -->
+<!-- Node5403 -->
 <g id="node5" class="node">
-<title>Node5497</title>
+<title>Node5403</title>
 <g id="a_node5"><a xlink:href="mutt__attach_8h.html#adb94477fad8521799cd4a94ec0e3eecf" target="_top" xlink:title="Save an attachment. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="178,-38.5 178,-57.5 308,-57.5 308,-38.5 178,-38.5"/>
 <text text-anchor="middle" x="243" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_save_attachment</text>
 </a>
 </g>
 </g>
-<!-- Node5431&#45;&gt;Node5497 -->
+<!-- Node5301&#45;&gt;Node5403 -->
 <g id="edge4" class="edge">
-<title>Node5431&#45;&gt;Node5497</title>
+<title>Node5301&#45;&gt;Node5403</title>
 <path fill="none" stroke="#191970" d="M116.9458,-74.319C142.7558,-68.9301 173.0069,-62.6139 197.404,-57.5201"/>
 <polygon fill="#191970" stroke="#191970" points="115.9998,-70.941 106.9263,-76.411 117.4306,-77.7932 115.9998,-70.941"/>
 </g>
-<!-- Node5533 -->
+<!-- Node5436 -->
 <g id="node6" class="node">
-<title>Node5533</title>
+<title>Node5436</title>
 <g id="a_node6"><a xlink:href="mutt__attach_8h.html#a4fd33255a2295a8ec36d8afd7c9c53df" target="_top" xlink:title="Decode, then save an attachment. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="158,-.5 158,-19.5 328,-19.5 328,-.5 158,-.5"/>
 <text text-anchor="middle" x="243" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_decode_save_attachment</text>
 </a>
 </g>
 </g>
-<!-- Node5431&#45;&gt;Node5533 -->
+<!-- Node5301&#45;&gt;Node5436 -->
 <g id="edge5" class="edge">
-<title>Node5431&#45;&gt;Node5533</title>
+<title>Node5301&#45;&gt;Node5436</title>
 <path fill="none" stroke="#191970" d="M82.3676,-70.7981C101.3864,-57.9287 130.3915,-39.8864 158,-29 167.5656,-25.2282 178.0468,-22.1196 188.2822,-19.5879"/>
 <polygon fill="#191970" stroke="#191970" points="80.3776,-67.9188 74.1281,-76.4743 84.3488,-73.6834 80.3776,-67.9188"/>
 </g>

@@ -9,60 +9,60 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 118)">
 <title>crypt_pgp_decrypt_mime</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-118 346,-118 346,4 -4,4"/>
-<!-- Node24526 -->
+<!-- Node23982 -->
 <g id="node1" class="node">
-<title>Node24526</title>
+<title>Node23982</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-56.5 0,-75.5 140,-75.5 140,-56.5 0,-56.5"/>
 <text text-anchor="middle" x="70" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">crypt_pgp_decrypt_mime</text>
 </g>
-<!-- Node24527 -->
+<!-- Node23983 -->
 <g id="node2" class="node">
-<title>Node24527</title>
+<title>Node23983</title>
 <g id="a_node2"><a xlink:href="copy_8h.html#ac158be102976481a9c8edc42fcd8cd09" target="_top" xlink:title="make a copy of a message from a FILE pointer ">
 <polygon fill="#ffffff" stroke="#ff0000" points="192.5,-94.5 192.5,-113.5 325.5,-113.5 325.5,-94.5 192.5,-94.5"/>
 <text text-anchor="middle" x="259" y="-101.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_copy_message_fp</text>
 </a>
 </g>
 </g>
-<!-- Node24526&#45;&gt;Node24527 -->
+<!-- Node23982&#45;&gt;Node23983 -->
 <g id="edge1" class="edge">
-<title>Node24526&#45;&gt;Node24527</title>
+<title>Node23982&#45;&gt;Node23983</title>
 <path fill="none" stroke="#191970" d="M127.742,-77.6095C154.6222,-83.014 186.2028,-89.3635 211.6503,-94.4799"/>
 <polygon fill="#191970" stroke="#191970" points="128.1864,-74.1289 117.6927,-75.589 126.8066,-80.9916 128.1864,-74.1289"/>
 </g>
-<!-- Node24790 -->
+<!-- Node24293 -->
 <g id="node3" class="node">
-<title>Node24790</title>
+<title>Node24293</title>
 <g id="a_node3"><a xlink:href="protos_8h.html#aad14aaca518d6c005ec318f14114d5ec" target="_top" xlink:title="Prepare a message template. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="193,-56.5 193,-75.5 325,-75.5 325,-56.5 193,-56.5"/>
 <text text-anchor="middle" x="259" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_prepare_template</text>
 </a>
 </g>
 </g>
-<!-- Node24526&#45;&gt;Node24790 -->
+<!-- Node23982&#45;&gt;Node24293 -->
 <g id="edge2" class="edge">
-<title>Node24526&#45;&gt;Node24790</title>
+<title>Node23982&#45;&gt;Node24293</title>
 <path fill="none" stroke="#191970" d="M150.3172,-66C164.4689,-66 179.0548,-66 192.7663,-66"/>
 <polygon fill="#191970" stroke="#191970" points="150.1081,-62.5001 140.108,-66 150.108,-69.5001 150.1081,-62.5001"/>
 </g>
-<!-- Node25089 -->
+<!-- Node24599 -->
 <g id="node4" class="node">
-<title>Node25089</title>
+<title>Node24599</title>
 <g id="a_node4"><a xlink:href="recvattach_8h.html#a7688e395101baa5931494c883909d1da" target="_top" xlink:title="Create a list of attachments. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="176,-.5 176,-19.5 342,-19.5 342,-.5 176,-.5"/>
 <text text-anchor="middle" x="259" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_generate_recvattach_list</text>
 </a>
 </g>
 </g>
-<!-- Node24526&#45;&gt;Node25089 -->
+<!-- Node23982&#45;&gt;Node24599 -->
 <g id="edge3" class="edge">
-<title>Node24526&#45;&gt;Node25089</title>
+<title>Node23982&#45;&gt;Node24599</title>
 <path fill="none" stroke="#191970" d="M112.3357,-53.4561C147.0294,-43.1765 195.3834,-28.8494 226.9337,-19.5011"/>
 <polygon fill="#191970" stroke="#191970" points="111.0839,-50.1765 102.4903,-56.3733 113.0726,-56.8881 111.0839,-50.1765"/>
 </g>
-<!-- Node25089&#45;&gt;Node25089 -->
+<!-- Node24599&#45;&gt;Node24599 -->
 <g id="edge4" class="edge">
-<title>Node25089&#45;&gt;Node25089</title>
+<title>Node24599&#45;&gt;Node24599</title>
 <path fill="none" stroke="#191970" d="M223.7678,-27.8913C224.2838,-33.5406 236.0278,-38 259,-38 292.4141,-38 302.0728,-28.5653 287.9763,-19.7571"/>
 <polygon fill="#191970" stroke="#191970" points="226.7017,-29.8176 230.0237,-19.7571 221.1529,-25.5501 226.7017,-29.8176"/>
 </g>

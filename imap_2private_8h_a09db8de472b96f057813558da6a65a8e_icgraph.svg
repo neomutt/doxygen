@@ -9,39 +9,39 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 62)">
 <title>imap_unmunge_mbox_name</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-62 303,-62 303,4 -4,4"/>
-<!-- Node57846 -->
+<!-- Node53454 -->
 <g id="node1" class="node">
-<title>Node57846</title>
+<title>Node53454</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-19.5 0,-38.5 158,-38.5 158,-19.5 0,-19.5"/>
 <text text-anchor="middle" x="79" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">imap_unmunge_mbox_name</text>
 </g>
-<!-- Node57847 -->
+<!-- Node53455 -->
 <g id="node2" class="node">
-<title>Node57847</title>
+<title>Node53455</title>
 <g id="a_node2"><a xlink:href="command_8c.html#a013b0a775f0bcf4a0ad26c6422662672" target="_top" xlink:title="Parse a server LIST command (list mailboxes) ">
 <polygon fill="#ffffff" stroke="#ff0000" points="201.5,-38.5 201.5,-57.5 291.5,-57.5 291.5,-38.5 201.5,-38.5"/>
 <text text-anchor="middle" x="246.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cmd_parse_list</text>
 </a>
 </g>
 </g>
-<!-- Node57846&#45;&gt;Node57847 -->
+<!-- Node53454&#45;&gt;Node53455 -->
 <g id="edge1" class="edge">
-<title>Node57846&#45;&gt;Node57847</title>
+<title>Node53454&#45;&gt;Node53455</title>
 <path fill="none" stroke="#191970" d="M168.3425,-39.1344C179.7136,-40.4242 190.9466,-41.6984 201.198,-42.8613"/>
 <polygon fill="#191970" stroke="#191970" points="168.6661,-35.6487 158.3353,-37.9992 167.8771,-42.6041 168.6661,-35.6487"/>
 </g>
-<!-- Node58410 -->
+<!-- Node54072 -->
 <g id="node3" class="node">
-<title>Node58410</title>
+<title>Node54072</title>
 <g id="a_node3"><a xlink:href="command_8c.html#a2849b4fe7ac723d32741be1427e7f082" target="_top" xlink:title="Parse status from server. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="194,-.5 194,-19.5 299,-19.5 299,-.5 194,-.5"/>
 <text text-anchor="middle" x="246.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cmd_parse_status</text>
 </a>
 </g>
 </g>
-<!-- Node57846&#45;&gt;Node58410 -->
+<!-- Node53454&#45;&gt;Node54072 -->
 <g id="edge2" class="edge">
-<title>Node57846&#45;&gt;Node58410</title>
+<title>Node53454&#45;&gt;Node54072</title>
 <path fill="none" stroke="#191970" d="M168.4731,-18.8508C177.096,-17.8727 185.6377,-16.9038 193.7301,-15.9858"/>
 <polygon fill="#191970" stroke="#191970" points="167.8771,-15.3959 158.3353,-20.0008 168.6661,-22.3513 167.8771,-15.3959"/>
 </g>

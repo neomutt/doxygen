@@ -1,6 +1,5 @@
 var structIndexPrivateData =
 [
-    [ "done", "structIndexPrivateData.html#a601a5c9ec322d05accc85efb21465811", null ],
     [ "tag", "structIndexPrivateData.html#a64436d4474973578cd50e1cbf70eb4ff", null ],
     [ "oldcount", "structIndexPrivateData.html#acf87e32e9751d9c32df842ab478ea4e8", null ],
     [ "newcount", "structIndexPrivateData.html#a2259534417ea3e4f1a89d2ff398def43", null ],

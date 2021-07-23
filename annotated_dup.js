@@ -98,6 +98,7 @@ var annotated_dup =
     [ "ImapHeader", "structImapHeader.html", "structImapHeader" ],
     [ "ImapList", "structImapList.html", "structImapList" ],
     [ "ImapMboxData", "structImapMboxData.html", "structImapMboxData" ],
+    [ "IndexFunction", "structIndexFunction.html", "structIndexFunction" ],
     [ "IndexPrivateData", "structIndexPrivateData.html", "structIndexPrivateData" ],
     [ "IndexSharedData", "structIndexSharedData.html", "structIndexSharedData" ],
     [ "Inheritance", "structInheritance.html", "structInheritance" ],

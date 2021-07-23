@@ -9,69 +9,69 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 138)">
 <title>mutt_ssl_starttls</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-138 267,-138 267,4 -4,4"/>
-<!-- Node22036 -->
+<!-- Node22222 -->
 <g id="node1" class="node">
-<title>Node22036</title>
+<title>Node22222</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-57.5 0,-76.5 98,-76.5 98,-57.5 0,-57.5"/>
 <text text-anchor="middle" x="49" y="-64.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_ssl_starttls</text>
 </g>
-<!-- Node22037 -->
+<!-- Node22223 -->
 <g id="node2" class="node">
-<title>Node22037</title>
+<title>Node22223</title>
 <g id="a_node2"><a xlink:href="imap_2private_8h.html#a93ed20ff163bf6a15c46071ba357d17a" target="_top" xlink:title="Open an IMAP connection. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="134,-114.5 134,-133.5 263,-133.5 263,-114.5 134,-114.5"/>
 <text text-anchor="middle" x="198.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">imap_open_connection</text>
 </a>
 </g>
 </g>
-<!-- Node22036&#45;&gt;Node22037 -->
+<!-- Node22222&#45;&gt;Node22223 -->
 <g id="edge1" class="edge">
-<title>Node22036&#45;&gt;Node22037</title>
+<title>Node22222&#45;&gt;Node22223</title>
 <path fill="none" stroke="#191970" d="M77.7619,-81.0143C94.0434,-88.6533 114.9106,-97.9574 134,-105 143.3093,-108.4345 153.5474,-111.6829 163.0712,-114.4902"/>
 <polygon fill="#191970" stroke="#191970" points="78.8084,-77.6367 68.2739,-76.5082 75.8054,-83.9598 78.8084,-77.6367"/>
 </g>
-<!-- Node22094 -->
+<!-- Node22306 -->
 <g id="node3" class="node">
-<title>Node22094</title>
+<title>Node22306</title>
 <g id="a_node3"><a xlink:href="nntp_2private_8h.html#abc4e8951366a6bf81d5d4d4ecf5ad4ba" target="_top" xlink:title="Connect to server, authenticate and get capabilities. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="135.5,-76.5 135.5,-95.5 261.5,-95.5 261.5,-76.5 135.5,-76.5"/>
 <text text-anchor="middle" x="198.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nntp_open_connection</text>
 </a>
 </g>
 </g>
-<!-- Node22036&#45;&gt;Node22094 -->
+<!-- Node22222&#45;&gt;Node22306 -->
 <g id="edge2" class="edge">
-<title>Node22036&#45;&gt;Node22094</title>
+<title>Node22222&#45;&gt;Node22306</title>
 <path fill="none" stroke="#191970" d="M108.5382,-74.5667C117.3447,-75.686 126.4454,-76.8426 135.3228,-77.9708"/>
 <polygon fill="#191970" stroke="#191970" points="108.7277,-71.0627 98.3662,-73.274 107.8451,-78.0069 108.7277,-71.0627"/>
 </g>
-<!-- Node22109 -->
+<!-- Node22323 -->
 <g id="node4" class="node">
-<title>Node22109</title>
+<title>Node22323</title>
 <g id="a_node4"><a xlink:href="pop_2private_8h.html#a531ae6abd6cf75fb0004bf019944a3b9" target="_top" xlink:title="Open connection and authenticate. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="137.5,-38.5 137.5,-57.5 259.5,-57.5 259.5,-38.5 137.5,-38.5"/>
 <text text-anchor="middle" x="198.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pop_open_connection</text>
 </a>
 </g>
 </g>
-<!-- Node22036&#45;&gt;Node22109 -->
+<!-- Node22222&#45;&gt;Node22323 -->
 <g id="edge3" class="edge">
-<title>Node22036&#45;&gt;Node22109</title>
+<title>Node22222&#45;&gt;Node22323</title>
 <path fill="none" stroke="#191970" d="M108.5258,-59.4348C118.0413,-58.2255 127.9006,-56.9725 137.4509,-55.7588"/>
 <polygon fill="#191970" stroke="#191970" points="107.8451,-55.9931 98.3662,-60.726 108.7277,-62.9373 107.8451,-55.9931"/>
 </g>
-<!-- Node22114 -->
+<!-- Node22328 -->
 <g id="node5" class="node">
-<title>Node22114</title>
+<title>Node22328</title>
 <g id="a_node5"><a xlink:href="smtp_8c.html#af00197da7dca51e184b0e8c22ad91103" target="_top" xlink:title="Open an SMTP Connection. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="163,-.5 163,-19.5 234,-19.5 234,-.5 163,-.5"/>
 <text text-anchor="middle" x="198.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">smtp_open</text>
 </a>
 </g>
 </g>
-<!-- Node22036&#45;&gt;Node22114 -->
+<!-- Node22222&#45;&gt;Node22328 -->
 <g id="edge4" class="edge">
-<title>Node22036&#45;&gt;Node22114</title>
+<title>Node22222&#45;&gt;Node22328</title>
 <path fill="none" stroke="#191970" d="M77.7619,-52.9857C94.0434,-45.3467 114.9106,-36.0426 134,-29 143.3093,-25.5655 153.5474,-22.3171 163.0712,-19.5098"/>
 <polygon fill="#191970" stroke="#191970" points="75.8054,-50.0402 68.2739,-57.4918 78.8084,-56.3633 75.8054,-50.0402"/>
 </g>

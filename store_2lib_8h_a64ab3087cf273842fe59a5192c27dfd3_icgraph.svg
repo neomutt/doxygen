@@ -45,69 +45,69 @@
 <path fill="none" stroke="#191970" d="M82.3309,-171.6669C101.2494,-189.3605 133.697,-216.7009 167,-231 221.4301,-254.3704 289.1073,-263.3957 335.6441,-266.8654"/>
 <polygon fill="#191970" stroke="#191970" points="84.5066,-168.9046 74.862,-164.5192 79.6668,-173.9619 84.5066,-168.9046"/>
 </g>
-<!-- Node588 -->
+<!-- Node642 -->
 <g id="node4" class="node">
-<title>Node588</title>
+<title>Node642</title>
 <g id="a_node4"><a xlink:href="hcache_2lib_8h.html#a26bcb4546ca8d63327187a6bbeab796c" target="_top" xlink:title="close the connection to the header cache ">
 <polygon fill="#ffffff" stroke="#ff0000" points="178.5,-202.5 178.5,-221.5 288.5,-221.5 288.5,-202.5 178.5,-202.5"/>
 <text text-anchor="middle" x="233.5" y="-209.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_hcache_close</text>
 </a>
 </g>
 </g>
-<!-- Node3&#45;&gt;Node588 -->
+<!-- Node3&#45;&gt;Node642 -->
 <g id="edge4" class="edge">
-<title>Node3&#45;&gt;Node588</title>
+<title>Node3&#45;&gt;Node642</title>
 <path fill="none" stroke="#191970" d="M98.9463,-168.2905C118.623,-175.9159 144.0678,-185.4446 167,-193 177.0356,-196.3064 188.0297,-199.5848 198.1374,-202.4637"/>
 <polygon fill="#191970" stroke="#191970" points="100.0953,-164.9818 89.5071,-164.6072 97.5506,-171.503 100.0953,-164.9818"/>
 </g>
-<!-- Node592 -->
+<!-- Node646 -->
 <g id="node5" class="node">
-<title>Node592</title>
+<title>Node646</title>
 <g id="a_node5"><a xlink:href="hcache_2lib_8h.html#afafbb66bd655d35f263db1272440aeb1" target="_top" xlink:title="Fetch a message&#39;s header from the cache. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="167,-164.5 167,-183.5 300,-183.5 300,-164.5 167,-164.5"/>
 <text text-anchor="middle" x="233.5" y="-171.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_hcache_fetch_raw</text>
 </a>
 </g>
 </g>
-<!-- Node3&#45;&gt;Node592 -->
+<!-- Node3&#45;&gt;Node646 -->
 <g id="edge5" class="edge">
-<title>Node3&#45;&gt;Node592</title>
+<title>Node3&#45;&gt;Node646</title>
 <path fill="none" stroke="#191970" d="M141.361,-163.5795C149.8953,-164.5447 158.5427,-165.5227 166.9464,-166.4731"/>
 <polygon fill="#191970" stroke="#191970" points="141.7459,-160.1008 131.4159,-162.4548 140.9592,-167.0565 141.7459,-160.1008"/>
 </g>
-<!-- Node598 -->
+<!-- Node652 -->
 <g id="node6" class="node">
-<title>Node598</title>
+<title>Node652</title>
 <g id="a_node6"><a xlink:href="hcache_2lib_8h.html#aa5d4bb535ed54cc8d4a8a4117ceff9fa" target="_top" xlink:title="free data fetched with mutt_hcache_fetch_raw() ">
 <polygon fill="#ffffff" stroke="#ff0000" points="169.5,-126.5 169.5,-145.5 297.5,-145.5 297.5,-126.5 169.5,-126.5"/>
 <text text-anchor="middle" x="233.5" y="-133.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_hcache_free_raw</text>
 </a>
 </g>
 </g>
-<!-- Node3&#45;&gt;Node598 -->
+<!-- Node3&#45;&gt;Node652 -->
 <g id="edge6" class="edge">
-<title>Node3&#45;&gt;Node598</title>
+<title>Node3&#45;&gt;Node652</title>
 <path fill="none" stroke="#191970" d="M141.475,-146.4076C150.8139,-145.3514 160.2862,-144.2801 169.4247,-143.2466"/>
 <polygon fill="#191970" stroke="#191970" points="140.9592,-142.9435 131.4159,-147.5452 141.7459,-149.8992 140.9592,-142.9435"/>
 </g>
-<!-- Node599 -->
+<!-- Node653 -->
 <g id="node7" class="node">
-<title>Node599</title>
+<title>Node653</title>
 <g id="a_node7"><a xlink:href="hcache_2lib_8h.html#a83689af1668a07b7cdd75a4470b08c72" target="_top" xlink:title="store a key / data pair ">
 <polygon fill="#ffffff" stroke="#ff0000" points="167,-88.5 167,-107.5 300,-107.5 300,-88.5 167,-88.5"/>
 <text text-anchor="middle" x="233.5" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_hcache_store_raw</text>
 </a>
 </g>
 </g>
-<!-- Node3&#45;&gt;Node599 -->
+<!-- Node3&#45;&gt;Node653 -->
 <g id="edge7" class="edge">
-<title>Node3&#45;&gt;Node599</title>
+<title>Node3&#45;&gt;Node653</title>
 <path fill="none" stroke="#191970" d="M98.9463,-141.7095C118.623,-134.0841 144.0678,-124.5554 167,-117 177.0356,-113.6936 188.0297,-110.4152 198.1374,-107.5363"/>
 <polygon fill="#191970" stroke="#191970" points="97.5506,-138.497 89.5071,-145.3928 100.0953,-145.0182 97.5506,-138.497"/>
 </g>
-<!-- Node603 -->
+<!-- Node657 -->
 <g id="node8" class="node">
-<title>Node603</title>
+<title>Node657</title>
 <g id="a_node8"><a xlink:href="hcache_2lib_8h.html#a50c594f02ea355bcabfdad21dc655988" target="_top" xlink:title="delete a key / data pair ">
 <polygon fill="#ffffff" stroke="#ff0000" points="175.5,-39 175.5,-69 291.5,-69 291.5,-39 175.5,-39"/>
 <text text-anchor="start" x="183.5" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_hcache_delete</text>
@@ -115,24 +115,24 @@
 </a>
 </g>
 </g>
-<!-- Node3&#45;&gt;Node603 -->
+<!-- Node3&#45;&gt;Node657 -->
 <g id="edge8" class="edge">
-<title>Node3&#45;&gt;Node603</title>
+<title>Node3&#45;&gt;Node657</title>
 <path fill="none" stroke="#191970" d="M83.8454,-138.722C103.3757,-122.0243 135.7184,-96.1361 167,-79 173.5986,-75.3853 180.8282,-72.0738 188.0136,-69.1262"/>
 <polygon fill="#191970" stroke="#191970" points="81.323,-136.2767 76.0617,-145.4729 85.9095,-141.5648 81.323,-136.2767"/>
 </g>
-<!-- Node606 -->
+<!-- Node660 -->
 <g id="node9" class="node">
-<title>Node606</title>
+<title>Node660</title>
 <g id="a_node9"><a xlink:href="store_8c.html#a2231ae5a5085e1c2c7dba244713b576f" target="_top" xlink:title="Is the string a valid Store backend. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="168,-.5 168,-19.5 299,-19.5 299,-.5 168,-.5"/>
 <text text-anchor="middle" x="233.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">store_is_valid_backend</text>
 </a>
 </g>
 </g>
-<!-- Node3&#45;&gt;Node606 -->
+<!-- Node3&#45;&gt;Node660 -->
 <g id="edge9" class="edge">
-<title>Node3&#45;&gt;Node606</title>
+<title>Node3&#45;&gt;Node660</title>
 <path fill="none" stroke="#191970" d="M75.7619,-136.2613C91.7082,-108.8786 125.0162,-58.1387 167,-30 173.5095,-25.6371 181.0006,-22.2004 188.5551,-19.5008"/>
 <polygon fill="#191970" stroke="#191970" points="72.5769,-134.7826 70.6886,-145.2078 78.666,-138.2356 72.5769,-134.7826"/>
 </g>

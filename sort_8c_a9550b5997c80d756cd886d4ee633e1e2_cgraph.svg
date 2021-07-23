@@ -9,180 +9,180 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 398.2371)">
 <title>get_sort_func</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-398.2371 406,-398.2371 406,4 -4,4"/>
-<!-- Node7106 -->
+<!-- Node7754 -->
 <g id="node1" class="node">
-<title>Node7106</title>
+<title>Node7754</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-190.5 0,-209.5 83,-209.5 83,-190.5 0,-190.5"/>
 <text text-anchor="middle" x="41.5" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">get_sort_func</text>
 </g>
-<!-- Node7107 -->
+<!-- Node7755 -->
 <g id="node2" class="node">
-<title>Node7107</title>
+<title>Node7755</title>
 <g id="a_node2"><a xlink:href="sort_8c.html#a5ea1b00f83ab600ec76f69093e782cc4" target="_top" xlink:title="Compare the sent date of two emails &#45; Implements sort_mail_t. ">
 <polygon fill="#ffffff" stroke="#000000" points="289,-209.5 289,-228.5 402,-228.5 402,-209.5 289,-209.5"/>
 <text text-anchor="middle" x="345.5" y="-216.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">compare_date_sent</text>
 </a>
 </g>
 </g>
-<!-- Node7106&#45;&gt;Node7107 -->
+<!-- Node7754&#45;&gt;Node7755 -->
 <g id="edge1" class="edge">
-<title>Node7106&#45;&gt;Node7107</title>
+<title>Node7754&#45;&gt;Node7755</title>
 <path fill="none" stroke="#191970" d="M42.3863,-209.6688C45.7465,-239.9834 60.6494,-333.3818 119,-371 169.055,-403.2701 201.0831,-400.1805 253,-371 304.0285,-342.3189 330.1949,-272.8165 340.3467,-238.6393"/>
 <polygon fill="#191970" stroke="#191970" points="343.7531,-239.4548 343.0912,-228.8806 337.0145,-237.5596 343.7531,-239.4548"/>
 </g>
-<!-- Node7108 -->
+<!-- Node7756 -->
 <g id="node3" class="node">
-<title>Node7108</title>
+<title>Node7756</title>
 <g id="a_node3"><a xlink:href="sort_8c.html#a834094be1fc1c7f9fcb8bddb7a2abcbf" target="_top" xlink:title="Compare the &#39;from&#39; fields of two emails &#45; Implements sort_mail_t. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="142,-342.5 142,-361.5 230,-361.5 230,-342.5 142,-342.5"/>
 <text text-anchor="middle" x="186" y="-349.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">compare_from</text>
 </a>
 </g>
 </g>
-<!-- Node7106&#45;&gt;Node7108 -->
+<!-- Node7754&#45;&gt;Node7756 -->
 <g id="edge2" class="edge">
-<title>Node7106&#45;&gt;Node7108</title>
+<title>Node7754&#45;&gt;Node7756</title>
 <path fill="none" stroke="#191970" d="M44.3479,-209.7343C52.0556,-234.3345 75.7121,-299.4208 119,-333 123.0751,-336.1611 127.6523,-338.7963 132.4513,-340.993"/>
 <polygon fill="#191970" stroke="#191970" points="131.2922,-344.2981 141.8794,-344.7002 133.8537,-337.7836 131.2922,-344.2981"/>
 </g>
-<!-- Node7161 -->
+<!-- Node7809 -->
 <g id="node4" class="node">
-<title>Node7161</title>
+<title>Node7809</title>
 <g id="a_node4"><a xlink:href="sort_8c.html#a2d669de8b5eccbb3f440a1b6f7a318b1" target="_top" xlink:title="Compare the labels of two emails &#45; Implements sort_mail_t. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="141.5,-304.5 141.5,-323.5 230.5,-323.5 230.5,-304.5 141.5,-304.5"/>
 <text text-anchor="middle" x="186" y="-311.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">compare_label</text>
 </a>
 </g>
 </g>
-<!-- Node7106&#45;&gt;Node7161 -->
+<!-- Node7754&#45;&gt;Node7809 -->
 <g id="edge3" class="edge">
-<title>Node7106&#45;&gt;Node7161</title>
+<title>Node7754&#45;&gt;Node7809</title>
 <path fill="none" stroke="#191970" d="M46.6957,-209.7284C57.5033,-229.0161 84.3141,-272.2047 119,-295 123.0195,-297.6416 127.4076,-299.921 131.9528,-301.887"/>
 <polygon fill="#191970" stroke="#191970" points="130.8443,-305.21 141.4352,-305.4979 133.3355,-298.6682 130.8443,-305.21"/>
 </g>
-<!-- Node7162 -->
+<!-- Node7810 -->
 <g id="node5" class="node">
-<title>Node7162</title>
+<title>Node7810</title>
 <g id="a_node5"><a xlink:href="nntp_2lib_8h.html#a1fe327b2048f5a2c6e0c9878edb5f8e4" target="_top" xlink:title="Sort to mailbox order &#45; Implements sort_mail_t. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="127.5,-266.5 127.5,-285.5 244.5,-285.5 244.5,-266.5 127.5,-266.5"/>
 <text text-anchor="middle" x="186" y="-273.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nntp_compare_order</text>
 </a>
 </g>
 </g>
-<!-- Node7106&#45;&gt;Node7162 -->
+<!-- Node7754&#45;&gt;Node7810 -->
 <g id="edge4" class="edge">
-<title>Node7106&#45;&gt;Node7162</title>
+<title>Node7754&#45;&gt;Node7810</title>
 <path fill="none" stroke="#191970" d="M52.2264,-209.8651C66.4754,-222.4817 92.898,-244.2223 119,-257 123.6983,-259.3 128.7223,-261.3652 133.8276,-263.2094"/>
 <polygon fill="#191970" stroke="#191970" points="133.088,-266.6519 143.6815,-266.487 135.2973,-260.0096 133.088,-266.6519"/>
 </g>
-<!-- Node7164 -->
+<!-- Node7812 -->
 <g id="node6" class="node">
-<title>Node7164</title>
+<title>Node7812</title>
 <g id="a_node6"><a xlink:href="sort_8c.html#a3b9856eb0641218e47cea7bb0e78450a" target="_top" xlink:title="Restore the &#39;unsorted&#39; order of emails &#45; Implements sort_mail_t. ">
 <polygon fill="#ffffff" stroke="#000000" points="141,-228.5 141,-247.5 231,-247.5 231,-228.5 141,-228.5"/>
 <text text-anchor="middle" x="186" y="-235.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">compare_order</text>
 </a>
 </g>
 </g>
-<!-- Node7106&#45;&gt;Node7164 -->
+<!-- Node7754&#45;&gt;Node7812 -->
 <g id="edge5" class="edge">
-<title>Node7106&#45;&gt;Node7164</title>
+<title>Node7754&#45;&gt;Node7812</title>
 <path fill="none" stroke="#191970" d="M77.9635,-209.589C96.7741,-214.5358 119.9146,-220.6211 139.9472,-225.8892"/>
 <polygon fill="#191970" stroke="#191970" points="139.2374,-229.3215 149.7988,-228.4799 141.0177,-222.5517 139.2374,-229.3215"/>
 </g>
-<!-- Node7165 -->
+<!-- Node7813 -->
 <g id="node7" class="node">
-<title>Node7165</title>
+<title>Node7813</title>
 <g id="a_node7"><a xlink:href="sort_8c.html#af294f84939d327ca599624ab5a77cea1" target="_top" xlink:title="Compare the date received of two emails &#45; Implements sort_mail_t. ">
 <polygon fill="#ffffff" stroke="#000000" points="119,-190.5 119,-209.5 253,-209.5 253,-190.5 119,-190.5"/>
 <text text-anchor="middle" x="186" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">compare_date_received</text>
 </a>
 </g>
 </g>
-<!-- Node7106&#45;&gt;Node7165 -->
+<!-- Node7754&#45;&gt;Node7813 -->
 <g id="edge6" class="edge">
-<title>Node7106&#45;&gt;Node7165</title>
+<title>Node7754&#45;&gt;Node7813</title>
 <path fill="none" stroke="#191970" d="M83.2954,-200C91.3232,-200 99.9651,-200 108.7059,-200"/>
 <polygon fill="#191970" stroke="#191970" points="108.9815,-203.5001 118.9815,-200 108.9814,-196.5001 108.9815,-203.5001"/>
 </g>
-<!-- Node7166 -->
+<!-- Node7814 -->
 <g id="node8" class="node">
-<title>Node7166</title>
+<title>Node7814</title>
 <g id="a_node8"><a xlink:href="sort_8c.html#a6fa4dd835009638f6f26965a33309e81" target="_top" xlink:title="Compare two emails using their scores &#45; Implements sort_mail_t. ">
 <polygon fill="#ffffff" stroke="#000000" points="140.5,-152.5 140.5,-171.5 231.5,-171.5 231.5,-152.5 140.5,-152.5"/>
 <text text-anchor="middle" x="186" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">compare_score</text>
 </a>
 </g>
 </g>
-<!-- Node7106&#45;&gt;Node7166 -->
+<!-- Node7754&#45;&gt;Node7814 -->
 <g id="edge7" class="edge">
-<title>Node7106&#45;&gt;Node7166</title>
+<title>Node7754&#45;&gt;Node7814</title>
 <path fill="none" stroke="#191970" d="M77.9635,-190.411C96.7741,-185.4642 119.9146,-179.3789 139.9472,-174.1108"/>
 <polygon fill="#191970" stroke="#191970" points="141.0177,-177.4483 149.7988,-171.5201 139.2374,-170.6785 141.0177,-177.4483"/>
 </g>
-<!-- Node7167 -->
+<!-- Node7815 -->
 <g id="node9" class="node">
-<title>Node7167</title>
+<title>Node7815</title>
 <g id="a_node9"><a xlink:href="sort_8c.html#ad5d200abac1482d6f2869964b4708999" target="_top" xlink:title="Compare the size of two emails &#45; Implements sort_mail_t. ">
 <polygon fill="#ffffff" stroke="#000000" points="144,-114.5 144,-133.5 228,-133.5 228,-114.5 144,-114.5"/>
 <text text-anchor="middle" x="186" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">compare_size</text>
 </a>
 </g>
 </g>
-<!-- Node7106&#45;&gt;Node7167 -->
+<!-- Node7754&#45;&gt;Node7815 -->
 <g id="edge8" class="edge">
-<title>Node7106&#45;&gt;Node7167</title>
+<title>Node7754&#45;&gt;Node7815</title>
 <path fill="none" stroke="#191970" d="M52.2264,-190.1349C66.4754,-177.5183 92.898,-155.7777 119,-143 123.6983,-140.7 128.7223,-138.6348 133.8276,-136.7906"/>
 <polygon fill="#191970" stroke="#191970" points="135.2973,-139.9904 143.6815,-133.513 133.088,-133.3481 135.2973,-139.9904"/>
 </g>
-<!-- Node7168 -->
+<!-- Node7816 -->
 <g id="node10" class="node">
-<title>Node7168</title>
+<title>Node7816</title>
 <g id="a_node10"><a xlink:href="sort_8c.html#a3113d060a994bd422d30da60d6bfbf21" target="_top" xlink:title="Compare the spam values of two emails &#45; Implements sort_mail_t. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="140,-76.5 140,-95.5 232,-95.5 232,-76.5 140,-76.5"/>
 <text text-anchor="middle" x="186" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">compare_spam</text>
 </a>
 </g>
 </g>
-<!-- Node7106&#45;&gt;Node7168 -->
+<!-- Node7754&#45;&gt;Node7816 -->
 <g id="edge9" class="edge">
-<title>Node7106&#45;&gt;Node7168</title>
+<title>Node7754&#45;&gt;Node7816</title>
 <path fill="none" stroke="#191970" d="M46.6957,-190.2716C57.5033,-170.9839 84.3141,-127.7953 119,-105 122.5238,-102.6842 126.3309,-100.6468 130.2787,-98.8548"/>
 <polygon fill="#191970" stroke="#191970" points="131.6882,-102.0608 139.6787,-95.1036 129.0937,-95.5594 131.6882,-102.0608"/>
 </g>
-<!-- Node7170 -->
+<!-- Node7818 -->
 <g id="node11" class="node">
-<title>Node7170</title>
+<title>Node7818</title>
 <g id="a_node11"><a xlink:href="sort_8c.html#a6c132a64c5352af5047e75542e453ae2" target="_top" xlink:title="Compare the subject of two emails &#45; Implements sort_mail_t. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="136,-38.5 136,-57.5 236,-57.5 236,-38.5 136,-38.5"/>
 <text text-anchor="middle" x="186" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">compare_subject</text>
 </a>
 </g>
 </g>
-<!-- Node7106&#45;&gt;Node7170 -->
+<!-- Node7754&#45;&gt;Node7818 -->
 <g id="edge10" class="edge">
-<title>Node7106&#45;&gt;Node7170</title>
+<title>Node7754&#45;&gt;Node7818</title>
 <path fill="none" stroke="#191970" d="M44.3479,-190.2657C52.0556,-165.6655 75.7121,-100.5792 119,-67 121.4525,-65.0975 124.0869,-63.3856 126.842,-61.845"/>
 <polygon fill="#191970" stroke="#191970" points="128.4602,-64.951 135.9775,-57.485 125.4451,-58.6336 128.4602,-64.951"/>
 </g>
-<!-- Node7171 -->
+<!-- Node7819 -->
 <g id="node12" class="node">
-<title>Node7171</title>
+<title>Node7819</title>
 <g id="a_node12"><a xlink:href="sort_8c.html#a19abb41fb474288a035bfb9a259ad958" target="_top" xlink:title="Compare the &#39;to&#39; fields of two emails &#45; Implements sort_mail_t. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="149,-.5 149,-19.5 223,-19.5 223,-.5 149,-.5"/>
 <text text-anchor="middle" x="186" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">compare_to</text>
 </a>
 </g>
 </g>
-<!-- Node7106&#45;&gt;Node7171 -->
+<!-- Node7754&#45;&gt;Node7819 -->
 <g id="edge12" class="edge">
-<title>Node7106&#45;&gt;Node7171</title>
+<title>Node7754&#45;&gt;Node7819</title>
 <path fill="none" stroke="#191970" d="M43.0108,-190.1657C48.0281,-160.9414 66.8805,-73.8707 119,-29 124.7325,-24.0648 131.6646,-20.4071 138.8676,-17.6971"/>
 <polygon fill="#191970" stroke="#191970" points="140.2956,-20.9162 148.7706,-14.5582 138.1805,-14.2433 140.2956,-20.9162"/>
 </g>
-<!-- Node7170&#45;&gt;Node7107 -->
+<!-- Node7818&#45;&gt;Node7755 -->
 <g id="edge11" class="edge">
-<title>Node7170&#45;&gt;Node7107</title>
+<title>Node7818&#45;&gt;Node7755</title>
 <path fill="none" stroke="#191970" d="M235.9523,-57.5764C242.0392,-60.0335 247.8995,-63.1208 253,-67 299.1695,-102.1143 327.375,-167.4937 339.1297,-199.8482"/>
 <polygon fill="#191970" stroke="#191970" points="335.8862,-201.1764 342.4877,-209.4632 342.4948,-198.8683 335.8862,-201.1764"/>
 </g>

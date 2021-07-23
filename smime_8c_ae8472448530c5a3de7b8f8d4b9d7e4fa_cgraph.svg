@@ -9,90 +9,90 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 176)">
 <title>smime_class_find_keys</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-176 445,-176 445,4 -4,4"/>
-<!-- Node19841 -->
+<!-- Node16308 -->
 <g id="node1" class="node">
-<title>Node19841</title>
+<title>Node16308</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-76.5 0,-95.5 132,-95.5 132,-76.5 0,-76.5"/>
 <text text-anchor="middle" x="66" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">smime_class_find_keys</text>
 </g>
-<!-- Node19842 -->
+<!-- Node16309 -->
 <g id="node2" class="node">
-<title>Node19842</title>
+<title>Node16309</title>
 <g id="a_node2"><a xlink:href="smime_8c.html#aa5d908319c8c650007bb588e31584c4a" target="_top" xlink:title="Find an SIME key by address. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="168,-152.5 168,-171.5 307,-171.5 307,-152.5 168,-152.5"/>
 <text text-anchor="middle" x="237.5" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">smime_get_key_by_addr</text>
 </a>
 </g>
 </g>
-<!-- Node19841&#45;&gt;Node19842 -->
+<!-- Node16308&#45;&gt;Node16309 -->
 <g id="edge1" class="edge">
-<title>Node19841&#45;&gt;Node19842</title>
+<title>Node16308&#45;&gt;Node16309</title>
 <path fill="none" stroke="#191970" d="M82.978,-95.5779C102.9446,-106.6235 137.2689,-124.9353 168,-138 177.2421,-141.9291 187.3674,-145.7098 196.9602,-149.0624"/>
 <polygon fill="#191970" stroke="#191970" points="196.1103,-152.4705 206.7049,-152.3893 198.3721,-145.846 196.1103,-152.4705"/>
 </g>
-<!-- Node19889 -->
+<!-- Node16356 -->
 <g id="node3" class="node">
-<title>Node19889</title>
+<title>Node16356</title>
 <g id="a_node3"><a xlink:href="smime_8c.html#ae8fc02f34e610b2f4d7cc6823fb41f3f" target="_top" xlink:title="Free a list of SMIME keys. ">
 <polygon fill="#ffffff" stroke="#000000" points="343,-133.5 343,-152.5 441,-152.5 441,-133.5 343,-133.5"/>
 <text text-anchor="middle" x="392" y="-140.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">smime_key_free</text>
 </a>
 </g>
 </g>
-<!-- Node19841&#45;&gt;Node19889 -->
+<!-- Node16308&#45;&gt;Node16356 -->
 <g id="edge6" class="edge">
-<title>Node19841&#45;&gt;Node19889</title>
+<title>Node16308&#45;&gt;Node16356</title>
 <path fill="none" stroke="#191970" d="M116.2948,-95.5351C132.7624,-98.6126 151.1524,-102.002 168,-105 223.7805,-114.926 287.4841,-125.6762 332.6594,-133.201"/>
 <polygon fill="#191970" stroke="#191970" points="332.1411,-136.6628 342.5799,-134.8512 333.2898,-129.7577 332.1411,-136.6628"/>
 </g>
-<!-- Node22021 -->
+<!-- Node18320 -->
 <g id="node4" class="node">
-<title>Node22021</title>
+<title>Node18320</title>
 <g id="a_node4"><a xlink:href="smime_8c.html#adb8559e910d01e404b33243d123e353d" target="_top" xlink:title="Ask the user to select a key. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="180,-76.5 180,-95.5 295,-95.5 295,-76.5 180,-76.5"/>
 <text text-anchor="middle" x="237.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">smime_ask_for_key</text>
 </a>
 </g>
 </g>
-<!-- Node19841&#45;&gt;Node22021 -->
+<!-- Node16308&#45;&gt;Node18320 -->
 <g id="edge3" class="edge">
-<title>Node19841&#45;&gt;Node22021</title>
+<title>Node16308&#45;&gt;Node18320</title>
 <path fill="none" stroke="#191970" d="M132.3064,-86C144.5305,-86 157.311,-86 169.5819,-86"/>
 <polygon fill="#191970" stroke="#191970" points="169.7461,-89.5001 179.7461,-86 169.7461,-82.5001 169.7461,-89.5001"/>
 </g>
-<!-- Node19879 -->
+<!-- Node16346 -->
 <g id="node5" class="node">
-<title>Node19879</title>
+<title>Node16346</title>
 <g id="a_node5"><a xlink:href="mutt_2string_8c.html#acca6786b903b22a5924219f9db96e10d" target="_top" xlink:title="Calculate the length of a string, safely. ">
 <polygon fill="#ffffff" stroke="#000000" points="198.5,-38.5 198.5,-57.5 276.5,-57.5 276.5,-38.5 198.5,-38.5"/>
 <text text-anchor="middle" x="237.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_str_len</text>
 </a>
 </g>
 </g>
-<!-- Node19841&#45;&gt;Node19879 -->
+<!-- Node16308&#45;&gt;Node16346 -->
 <g id="edge4" class="edge">
-<title>Node19841&#45;&gt;Node19879</title>
+<title>Node16308&#45;&gt;Node16346</title>
 <path fill="none" stroke="#191970" d="M109.2767,-76.411C133.3476,-71.0775 163.3922,-64.4204 188.3468,-58.8911"/>
 <polygon fill="#191970" stroke="#191970" points="189.3365,-62.2568 198.3426,-56.6763 187.8222,-55.4225 189.3365,-62.2568"/>
 </g>
-<!-- Node19846 -->
+<!-- Node16313 -->
 <g id="node6" class="node">
-<title>Node19846</title>
+<title>Node16313</title>
 <g id="a_node6"><a xlink:href="memory_8c.html#af778eb8166966fc0666c64849f6c7c5b" target="_top" xlink:title="Resize a block of memory on the heap. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="183,-.5 183,-19.5 292,-19.5 292,-.5 183,-.5"/>
 <text text-anchor="middle" x="237.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_mem_realloc</text>
 </a>
 </g>
 </g>
-<!-- Node19841&#45;&gt;Node19846 -->
+<!-- Node16308&#45;&gt;Node16313 -->
 <g id="edge5" class="edge">
-<title>Node19841&#45;&gt;Node19846</title>
+<title>Node16308&#45;&gt;Node16313</title>
 <path fill="none" stroke="#191970" d="M80.6354,-76.3146C99.949,-63.8924 135.3295,-42.3617 168,-29 173.8504,-26.6073 180.0991,-24.4189 186.3609,-22.4473"/>
 <polygon fill="#191970" stroke="#191970" points="187.5716,-25.7387 196.1562,-19.5295 185.5732,-19.03 187.5716,-25.7387"/>
 </g>
-<!-- Node19842&#45;&gt;Node19889 -->
+<!-- Node16309&#45;&gt;Node16356 -->
 <g id="edge2" class="edge">
-<title>Node19842&#45;&gt;Node19889</title>
+<title>Node16309&#45;&gt;Node16356</title>
 <path fill="none" stroke="#191970" d="M307.0665,-153.4449C315.6078,-152.3945 324.2756,-151.3286 332.6468,-150.2991"/>
 <polygon fill="#191970" stroke="#191970" points="333.1841,-153.7595 342.6821,-149.065 332.3297,-146.8118 333.1841,-153.7595"/>
 </g>

@@ -9,60 +9,60 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 81)">
 <title>serial_restore_buffer</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-81 404,-81 404,4 -4,4"/>
-<!-- Node8612 -->
+<!-- Node9368 -->
 <g id="node1" class="node">
-<title>Node8612</title>
+<title>Node9368</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-38.5 0,-57.5 117,-57.5 117,-38.5 0,-38.5"/>
 <text text-anchor="middle" x="58.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">serial_restore_buffer</text>
 </g>
-<!-- Node8613 -->
+<!-- Node9369 -->
 <g id="node2" class="node">
-<title>Node8613</title>
+<title>Node9369</title>
 <g id="a_node2"><a xlink:href="serialize_8c.html#ae337dfc66e217ae0253a77eef4271f02" target="_top" xlink:title="Unpack an integer from a binary blob. ">
 <polygon fill="#ffffff" stroke="#000000" points="299,-57.5 299,-76.5 400,-76.5 400,-57.5 299,-57.5"/>
 <text text-anchor="middle" x="349.5" y="-64.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">serial_restore_int</text>
 </a>
 </g>
 </g>
-<!-- Node8612&#45;&gt;Node8613 -->
+<!-- Node9368&#45;&gt;Node9369 -->
 <g id="edge1" class="edge">
-<title>Node8612&#45;&gt;Node8613</title>
+<title>Node9368&#45;&gt;Node9369</title>
 <path fill="none" stroke="#191970" d="M96.8598,-57.5099C113.9302,-61.2749 134.3494,-65.1437 153,-67 198.3409,-71.5129 249.8588,-71.3167 288.766,-70.0968"/>
 <polygon fill="#191970" stroke="#191970" points="289.0076,-73.5907 298.881,-69.7479 288.7662,-66.5948 289.0076,-73.5907"/>
 </g>
-<!-- Node8614 -->
+<!-- Node9370 -->
 <g id="node3" class="node">
-<title>Node8614</title>
+<title>Node9370</title>
 <g id="a_node3"><a xlink:href="serialize_8c.html#a43a280bdcd6ff4e026fbab74aa3f82c4" target="_top" xlink:title="Unpack a variable&#45;length string from a binary blob. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="153,-38.5 153,-57.5 263,-57.5 263,-38.5 153,-38.5"/>
 <text text-anchor="middle" x="208" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">serial_restore_char</text>
 </a>
 </g>
 </g>
-<!-- Node8612&#45;&gt;Node8614 -->
+<!-- Node9368&#45;&gt;Node9370 -->
 <g id="edge2" class="edge">
-<title>Node8612&#45;&gt;Node8614</title>
+<title>Node9368&#45;&gt;Node9370</title>
 <path fill="none" stroke="#191970" d="M117.1573,-48C125.5319,-48 134.1894,-48 142.6819,-48"/>
 <polygon fill="#191970" stroke="#191970" points="142.9289,-51.5001 152.9289,-48 142.9288,-44.5001 142.9289,-51.5001"/>
 </g>
-<!-- Node8636 -->
+<!-- Node9392 -->
 <g id="node4" class="node">
-<title>Node8636</title>
+<title>Node9392</title>
 <g id="a_node4"><a xlink:href="buffer_8c.html#acc8e734c720c7ec2644d693702ec58e2" target="_top" xlink:title="set current read/write position to offset from beginning ">
 <polygon fill="#ffffff" stroke="#000000" points="157,-.5 157,-19.5 259,-19.5 259,-.5 157,-.5"/>
 <text text-anchor="middle" x="208" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_buffer_seek</text>
 </a>
 </g>
 </g>
-<!-- Node8612&#45;&gt;Node8636 -->
+<!-- Node9368&#45;&gt;Node9392 -->
 <g id="edge4" class="edge">
-<title>Node8612&#45;&gt;Node8636</title>
+<title>Node9368&#45;&gt;Node9392</title>
 <path fill="none" stroke="#191970" d="M96.2252,-38.411C115.7756,-33.4417 139.8466,-27.3233 160.6374,-22.0387"/>
 <polygon fill="#191970" stroke="#191970" points="161.7165,-25.3757 170.5461,-19.5201 159.9921,-18.5915 161.7165,-25.3757"/>
 </g>
-<!-- Node8614&#45;&gt;Node8613 -->
+<!-- Node9370&#45;&gt;Node9369 -->
 <g id="edge3" class="edge">
-<title>Node8614&#45;&gt;Node8613</title>
+<title>Node9370&#45;&gt;Node9369</title>
 <path fill="none" stroke="#191970" d="M263.1128,-55.4003C271.5905,-56.5387 280.3835,-57.7193 288.9713,-58.8725"/>
 <polygon fill="#191970" stroke="#191970" points="288.5504,-62.3473 298.9272,-60.2093 289.482,-55.4095 288.5504,-62.3473"/>
 </g>

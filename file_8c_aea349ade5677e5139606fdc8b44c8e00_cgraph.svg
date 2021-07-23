@@ -9,85 +9,85 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 176)">
 <title>mutt_buffer_file_expand_fmt_quote</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-176 330,-176 330,4 -4,4"/>
-<!-- Node17428 -->
+<!-- Node18378 -->
 <g id="node1" class="node">
-<title>Node17428</title>
+<title>Node18378</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-71 0,-101 135,-101 135,-71 0,-71"/>
 <text text-anchor="start" x="8" y="-89" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_buffer_file_expand</text>
 <text text-anchor="middle" x="67.5" y="-78" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">_fmt_quote</text>
 </g>
-<!-- Node17429 -->
+<!-- Node18379 -->
 <g id="node2" class="node">
-<title>Node17429</title>
+<title>Node18379</title>
 <g id="a_node2"><a xlink:href="buffer_8c.html#a0242aaa9a400d0722a99828776c0403b" target="_top" xlink:title="Make a new buffer on the stack. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="195,-152.5 195,-171.5 302,-171.5 302,-152.5 195,-152.5"/>
 <text text-anchor="middle" x="248.5" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_buffer_make</text>
 </a>
 </g>
 </g>
-<!-- Node17428&#45;&gt;Node17429 -->
+<!-- Node18378&#45;&gt;Node18379 -->
 <g id="edge1" class="edge">
-<title>Node17428&#45;&gt;Node17429</title>
+<title>Node18378&#45;&gt;Node18379</title>
 <path fill="none" stroke="#191970" d="M90.8878,-101.2202C111.3184,-113.9351 142.1422,-131.7437 171,-143 177.4168,-145.503 184.2644,-147.7503 191.1334,-149.747"/>
 <polygon fill="#191970" stroke="#191970" points="190.5955,-153.2285 201.1648,-152.4936 192.4441,-146.477 190.5955,-153.2285"/>
 </g>
-<!-- Node17432 -->
+<!-- Node18382 -->
 <g id="node3" class="node">
-<title>Node17432</title>
+<title>Node18382</title>
 <g id="a_node3"><a xlink:href="file_8c.html#a52d932a8cfb110a123fef9eb096a84e0" target="_top" xlink:title="Quote a filename to survive the shell&#39;s quoting rules. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="171,-114.5 171,-133.5 326,-133.5 326,-114.5 171,-114.5"/>
 <text text-anchor="middle" x="248.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_buffer_quote_filename</text>
 </a>
 </g>
 </g>
-<!-- Node17428&#45;&gt;Node17432 -->
+<!-- Node18378&#45;&gt;Node18382 -->
 <g id="edge2" class="edge">
-<title>Node17428&#45;&gt;Node17432</title>
+<title>Node18378&#45;&gt;Node18382</title>
 <path fill="none" stroke="#191970" d="M135.1551,-100.2038C154.3022,-104.2237 174.9091,-108.55 193.2326,-112.3969"/>
 <polygon fill="#191970" stroke="#191970" points="192.6478,-115.8504 203.1536,-114.4798 194.0861,-108.9997 192.6478,-115.8504"/>
 </g>
-<!-- Node17439 -->
+<!-- Node18389 -->
 <g id="node4" class="node">
-<title>Node17439</title>
+<title>Node18389</title>
 <g id="a_node4"><a xlink:href="file_8c.html#ab0b0c8e739075124bcd94ca090b328e1" target="_top" xlink:title="Replace s in a string with a filename. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="186.5,-76.5 186.5,-95.5 310.5,-95.5 310.5,-76.5 186.5,-76.5"/>
 <text text-anchor="middle" x="248.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_file_expand_fmt</text>
 </a>
 </g>
 </g>
-<!-- Node17428&#45;&gt;Node17439 -->
+<!-- Node18378&#45;&gt;Node18389 -->
 <g id="edge3" class="edge">
-<title>Node17428&#45;&gt;Node17439</title>
+<title>Node18378&#45;&gt;Node18389</title>
 <path fill="none" stroke="#191970" d="M135.1551,-86C148.5176,-86 162.5911,-86 176.1032,-86"/>
 <polygon fill="#191970" stroke="#191970" points="176.3056,-89.5001 186.3055,-86 176.3055,-82.5001 176.3056,-89.5001"/>
 </g>
-<!-- Node17442 -->
+<!-- Node18392 -->
 <g id="node5" class="node">
-<title>Node17442</title>
+<title>Node18392</title>
 <g id="a_node5"><a xlink:href="buffer_8h.html#a4aca040fb75bc1dfc086cbfbf14ac8cd" target="_top" xlink:title="Convert a buffer to a const char * &quot;string&quot;. ">
 <polygon fill="#ffffff" stroke="#000000" points="195,-38.5 195,-57.5 302,-57.5 302,-38.5 195,-38.5"/>
 <text text-anchor="middle" x="248.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_buffer_string</text>
 </a>
 </g>
 </g>
-<!-- Node17428&#45;&gt;Node17442 -->
+<!-- Node18378&#45;&gt;Node18392 -->
 <g id="edge4" class="edge">
-<title>Node17428&#45;&gt;Node17442</title>
+<title>Node18378&#45;&gt;Node18392</title>
 <path fill="none" stroke="#191970" d="M135.1551,-71.7962C154.3022,-67.7763 174.9091,-63.45 193.2326,-59.6031"/>
 <polygon fill="#191970" stroke="#191970" points="194.0861,-63.0003 203.1536,-57.5202 192.6478,-56.1496 194.0861,-63.0003"/>
 </g>
-<!-- Node17443 -->
+<!-- Node18393 -->
 <g id="node6" class="node">
-<title>Node17443</title>
+<title>Node18393</title>
 <g id="a_node6"><a xlink:href="buffer_8c.html#a59b13bca38b1b314e2bc5ad142d2df49" target="_top" xlink:title="Release the memory allocated by a buffer. ">
 <polygon fill="#ffffff" stroke="#000000" points="191.5,-.5 191.5,-19.5 305.5,-19.5 305.5,-.5 191.5,-.5"/>
 <text text-anchor="middle" x="248.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_buffer_dealloc</text>
 </a>
 </g>
 </g>
-<!-- Node17428&#45;&gt;Node17443 -->
+<!-- Node18378&#45;&gt;Node18393 -->
 <g id="edge5" class="edge">
-<title>Node17428&#45;&gt;Node17443</title>
+<title>Node18378&#45;&gt;Node18393</title>
 <path fill="none" stroke="#191970" d="M90.8878,-70.7798C111.3184,-58.0649 142.1422,-40.2563 171,-29 177.4168,-26.497 184.2644,-24.2497 191.1334,-22.253"/>
 <polygon fill="#191970" stroke="#191970" points="192.4441,-25.523 201.1648,-19.5064 190.5955,-18.7715 192.4441,-25.523"/>
 </g>

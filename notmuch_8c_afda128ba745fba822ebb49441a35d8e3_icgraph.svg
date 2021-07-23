@@ -9,75 +9,75 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 138)">
 <title>append_message</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-138 376,-138 376,4 -4,4"/>
-<!-- Node14782 -->
+<!-- Node5354 -->
 <g id="node1" class="node">
-<title>Node14782</title>
+<title>Node5354</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-57.5 0,-76.5 102,-76.5 102,-57.5 0,-57.5"/>
 <text text-anchor="middle" x="51" y="-64.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">append_message</text>
 </g>
-<!-- Node14783 -->
+<!-- Node5355 -->
 <g id="node2" class="node">
-<title>Node14783</title>
+<title>Node5355</title>
 <g id="a_node2"><a xlink:href="notmuch_8c.html#a4c6e0cba819ee23908c6cefe1973e982" target="_top" xlink:title="add all the replies to a given messages into the display ">
 <polygon fill="#ffffff" stroke="#000000" points="147,-114.5 147,-133.5 238,-133.5 238,-114.5 147,-114.5"/>
 <text text-anchor="middle" x="192.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">append_replies</text>
 </a>
 </g>
 </g>
-<!-- Node14782&#45;&gt;Node14783 -->
+<!-- Node5354&#45;&gt;Node5355 -->
 <g id="edge1" class="edge">
-<title>Node14782&#45;&gt;Node14783</title>
+<title>Node5354&#45;&gt;Node5355</title>
 <path fill="none" stroke="#191970" d="M84.1182,-80.3409C110.0701,-90.795 145.5503,-105.0874 168.7388,-114.4284"/>
 <polygon fill="#191970" stroke="#191970" points="85.2674,-77.0306 74.6839,-76.5405 82.6518,-83.5236 85.2674,-77.0306"/>
 </g>
-<!-- Node14784 -->
+<!-- Node5356 -->
 <g id="node3" class="node">
-<title>Node14784</title>
+<title>Node5356</title>
 <g id="a_node3"><a xlink:href="notmuch_8c.html#a7bbf633ef694e441f6f88c0efa3a7075" target="_top" xlink:title="add each top level reply in the thread ">
 <polygon fill="#ffffff" stroke="#ff0000" points="283,-95.5 283,-114.5 372,-114.5 372,-95.5 283,-95.5"/>
 <text text-anchor="middle" x="327.5" y="-102.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">append_thread</text>
 </a>
 </g>
 </g>
-<!-- Node14782&#45;&gt;Node14784 -->
+<!-- Node5354&#45;&gt;Node5356 -->
 <g id="edge3" class="edge">
-<title>Node14782&#45;&gt;Node14784</title>
+<title>Node5354&#45;&gt;Node5356</title>
 <path fill="none" stroke="#191970" d="M112.0597,-75.3916C163.6528,-82.4821 236.3533,-92.4735 282.7033,-98.8435"/>
 <polygon fill="#191970" stroke="#191970" points="112.42,-71.9083 102.0366,-74.0141 111.4669,-78.8431 112.42,-71.9083"/>
 </g>
-<!-- Node15345 -->
+<!-- Node5361 -->
 <g id="node4" class="node">
-<title>Node15345</title>
+<title>Node5361</title>
 <g id="a_node4"><a xlink:href="notmuch_8c.html#abaf21ab5cf16eed638156c611e65e22f" target="_top" xlink:title="Search for matching messages. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="138,-38.5 138,-57.5 247,-57.5 247,-38.5 138,-38.5"/>
 <text text-anchor="middle" x="192.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">read_mesgs_query</text>
 </a>
 </g>
 </g>
-<!-- Node14782&#45;&gt;Node15345 -->
+<!-- Node5354&#45;&gt;Node5361 -->
 <g id="edge4" class="edge">
-<title>Node14782&#45;&gt;Node15345</title>
+<title>Node5354&#45;&gt;Node5361</title>
 <path fill="none" stroke="#191970" d="M112.2649,-58.7736C120.7127,-57.6393 129.3442,-56.4803 137.6658,-55.3629"/>
 <polygon fill="#191970" stroke="#191970" points="111.53,-55.3408 102.0847,-60.1406 112.4616,-62.2785 111.53,-55.3408"/>
 </g>
-<!-- Node15346 -->
+<!-- Node5362 -->
 <g id="node5" class="node">
-<title>Node15346</title>
-<g id="a_node5"><a xlink:href="notmuch_8c.html#afd9ac1fea250b07e3ea64493021aaa06" target="_top" xlink:title="Check for new mail &#45; Implements MxOps::mbox_check() ">
+<title>Node5362</title>
+<g id="a_node5"><a xlink:href="group__mx__mbox__check.html#gafd9ac1fea250b07e3ea64493021aaa06" target="_top" xlink:title="Check for new mail &#45; Implements MxOps::mbox_check() &#45;. ">
 <polygon fill="#ffffff" stroke="#000000" points="143,-.5 143,-19.5 242,-19.5 242,-.5 143,-.5"/>
 <text text-anchor="middle" x="192.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nm_mbox_check</text>
 </a>
 </g>
 </g>
-<!-- Node14782&#45;&gt;Node15346 -->
+<!-- Node5354&#45;&gt;Node5362 -->
 <g id="edge5" class="edge">
-<title>Node14782&#45;&gt;Node15346</title>
+<title>Node5354&#45;&gt;Node5362</title>
 <path fill="none" stroke="#191970" d="M80.8047,-53.3096C97.4943,-45.8138 118.7588,-36.5434 138,-29 146.3028,-25.7449 155.4197,-22.4567 163.7811,-19.5519"/>
 <polygon fill="#191970" stroke="#191970" points="79.2263,-50.1821 71.5567,-57.4915 82.1105,-56.5603 79.2263,-50.1821"/>
 </g>
-<!-- Node14783&#45;&gt;Node14784 -->
+<!-- Node5355&#45;&gt;Node5356 -->
 <g id="edge2" class="edge">
-<title>Node14783&#45;&gt;Node14784</title>
+<title>Node5355&#45;&gt;Node5356</title>
 <path fill="none" stroke="#191970" d="M248.1717,-116.1647C259.6924,-114.5433 271.6876,-112.8551 282.7579,-111.297"/>
 <polygon fill="#191970" stroke="#191970" points="247.6194,-112.7079 238.2048,-117.5675 248.5951,-119.6396 247.6194,-112.7079"/>
 </g>

@@ -9,84 +9,84 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 176)">
 <title>sockdata</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-176 199,-176 199,4 -4,4"/>
-<!-- Node11433 -->
+<!-- Node10593 -->
 <g id="node1" class="node">
-<title>Node11433</title>
+<title>Node10593</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-76.5 0,-95.5 61,-95.5 61,-76.5 0,-76.5"/>
 <text text-anchor="middle" x="30.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">sockdata</text>
 </g>
-<!-- Node11434 -->
+<!-- Node10594 -->
 <g id="node2" class="node">
-<title>Node11434</title>
+<title>Node10594</title>
 <g id="a_node2"><a xlink:href="openssl_8c.html#a5dd67086d5ccb49018781662b104954e" target="_top" xlink:title="Set up SSL on the Connection. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="115,-152.5 115,-171.5 177,-171.5 177,-152.5 115,-152.5"/>
 <text text-anchor="middle" x="146" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">ssl_setup</text>
 </a>
 </g>
 </g>
-<!-- Node11433&#45;&gt;Node11434 -->
+<!-- Node10593&#45;&gt;Node10594 -->
 <g id="edge1" class="edge">
-<title>Node11433&#45;&gt;Node11434</title>
+<title>Node10593&#45;&gt;Node10594</title>
 <path fill="none" stroke="#191970" d="M46.7342,-102.7034C59.4943,-115.1047 78.1988,-131.7487 97,-143 103.0285,-146.6077 109.8635,-149.764 116.4744,-152.4142"/>
 <polygon fill="#191970" stroke="#191970" points="49.1677,-100.1873 39.6097,-95.6162 44.2309,-105.1501 49.1677,-100.1873"/>
 </g>
-<!-- Node11438 -->
+<!-- Node10598 -->
 <g id="node3" class="node">
-<title>Node11438</title>
+<title>Node10598</title>
 <g id="a_node3"><a xlink:href="openssl_8c.html#a30f5a89c44c5daba9413290a83abdd9c" target="_top" xlink:title="Check whether a socket read would block &#45; Implements Connection::poll() ">
 <polygon fill="#ffffff" stroke="#ff0000" points="100.5,-114.5 100.5,-133.5 191.5,-133.5 191.5,-114.5 100.5,-114.5"/>
 <text text-anchor="middle" x="146" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">ssl_socket_poll</text>
 </a>
 </g>
 </g>
-<!-- Node11433&#45;&gt;Node11438 -->
+<!-- Node10593&#45;&gt;Node10598 -->
 <g id="edge2" class="edge">
-<title>Node11433&#45;&gt;Node11438</title>
+<title>Node10593&#45;&gt;Node10598</title>
 <path fill="none" stroke="#191970" d="M69.4841,-98.8259C84.9817,-103.9247 102.5024,-109.6891 116.8638,-114.4141"/>
 <polygon fill="#191970" stroke="#191970" points="70.2385,-95.3896 59.6455,-95.589 68.0508,-102.039 70.2385,-95.3896"/>
 </g>
-<!-- Node11439 -->
+<!-- Node10599 -->
 <g id="node4" class="node">
-<title>Node11439</title>
+<title>Node10599</title>
 <g id="a_node4"><a xlink:href="openssl_8c.html#a61b00cd8dc0e66e258ab0d7d9286113e" target="_top" xlink:title="Read data from an SSL socket &#45; Implements Connection::read() ">
 <polygon fill="#ffffff" stroke="#ff0000" points="98.5,-76.5 98.5,-95.5 193.5,-95.5 193.5,-76.5 98.5,-76.5"/>
 <text text-anchor="middle" x="146" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">ssl_socket_read</text>
 </a>
 </g>
 </g>
-<!-- Node11433&#45;&gt;Node11439 -->
+<!-- Node10593&#45;&gt;Node10599 -->
 <g id="edge3" class="edge">
-<title>Node11433&#45;&gt;Node11439</title>
+<title>Node10593&#45;&gt;Node10599</title>
 <path fill="none" stroke="#191970" d="M71.3954,-86C80.0706,-86 89.302,-86 98.2076,-86"/>
 <polygon fill="#191970" stroke="#191970" points="71.1487,-82.5001 61.1486,-86 71.1486,-89.5001 71.1487,-82.5001"/>
 </g>
-<!-- Node11440 -->
+<!-- Node10600 -->
 <g id="node5" class="node">
-<title>Node11440</title>
+<title>Node10600</title>
 <g id="a_node5"><a xlink:href="openssl_8c.html#a40b2b0f0a706d96487919a4b0489026a" target="_top" xlink:title="Write data to an SSL socket &#45; Implements Connection::write() ">
 <polygon fill="#ffffff" stroke="#ff0000" points="97,-38.5 97,-57.5 195,-57.5 195,-38.5 97,-38.5"/>
 <text text-anchor="middle" x="146" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">ssl_socket_write</text>
 </a>
 </g>
 </g>
-<!-- Node11433&#45;&gt;Node11440 -->
+<!-- Node10593&#45;&gt;Node10600 -->
 <g id="edge4" class="edge">
-<title>Node11433&#45;&gt;Node11440</title>
+<title>Node10593&#45;&gt;Node10600</title>
 <path fill="none" stroke="#191970" d="M69.4841,-73.1741C84.9817,-68.0753 102.5024,-62.3109 116.8638,-57.5859"/>
 <polygon fill="#191970" stroke="#191970" points="68.0508,-69.961 59.6455,-76.411 70.2385,-76.6104 68.0508,-69.961"/>
 </g>
-<!-- Node11441 -->
+<!-- Node10601 -->
 <g id="node6" class="node">
-<title>Node11441</title>
+<title>Node10601</title>
 <g id="a_node6"><a xlink:href="openssl_8c.html#aafcc34fa7bf9d54a9323c36761353e6a" target="_top" xlink:title="Close an SSL connection &#45; Implements Connection::close() ">
 <polygon fill="#ffffff" stroke="#ff0000" points="97,-.5 97,-19.5 195,-19.5 195,-.5 97,-.5"/>
 <text text-anchor="middle" x="146" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">ssl_socket_close</text>
 </a>
 </g>
 </g>
-<!-- Node11433&#45;&gt;Node11441 -->
+<!-- Node10593&#45;&gt;Node10601 -->
 <g id="edge5" class="edge">
-<title>Node11433&#45;&gt;Node11441</title>
+<title>Node10593&#45;&gt;Node10601</title>
 <path fill="none" stroke="#191970" d="M46.7342,-69.2966C59.4943,-56.8953 78.1988,-40.2513 97,-29 103.0285,-25.3923 109.8635,-22.236 116.4744,-19.5858"/>
 <polygon fill="#191970" stroke="#191970" points="44.2309,-66.8499 39.6097,-76.3838 49.1677,-71.8127 44.2309,-66.8499"/>
 </g>

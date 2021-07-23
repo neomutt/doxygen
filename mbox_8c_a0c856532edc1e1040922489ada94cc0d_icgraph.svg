@@ -9,66 +9,66 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 100)">
 <title>mbox_parse_mailbox</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-100 416,-100 416,4 -4,4"/>
-<!-- Node4409 -->
+<!-- Node4073 -->
 <g id="node1" class="node">
-<title>Node4409</title>
+<title>Node4073</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-38.5 0,-57.5 122,-57.5 122,-38.5 0,-38.5"/>
 <text text-anchor="middle" x="61" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mbox_parse_mailbox</text>
 </g>
-<!-- Node4410 -->
+<!-- Node4074 -->
 <g id="node2" class="node">
-<title>Node4410</title>
+<title>Node4074</title>
 <g id="a_node2"><a xlink:href="mbox_8c.html#addea22f21e2c96c407018be2afe1cd90" target="_top" xlink:title="Close and reopen a mailbox. ">
 <polygon fill="#ffffff" stroke="#000000" points="164,-76.5 164,-95.5 259,-95.5 259,-76.5 164,-76.5"/>
 <text text-anchor="middle" x="211.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">reopen_mailbox</text>
 </a>
 </g>
 </g>
-<!-- Node4409&#45;&gt;Node4410 -->
+<!-- Node4073&#45;&gt;Node4074 -->
 <g id="edge1" class="edge">
-<title>Node4409&#45;&gt;Node4410</title>
+<title>Node4073&#45;&gt;Node4074</title>
 <path fill="none" stroke="#191970" d="M108.6847,-60.04C129.7103,-65.3488 154.0674,-71.4988 173.7956,-76.4799"/>
 <polygon fill="#191970" stroke="#191970" points="109.5301,-56.6437 98.9775,-57.589 107.8164,-63.4307 109.5301,-56.6437"/>
 </g>
-<!-- Node4411 -->
+<!-- Node4075 -->
 <g id="node3" class="node">
-<title>Node4411</title>
-<g id="a_node3"><a xlink:href="mbox_8c.html#afb376aac365fa068eeb370915b2d309d" target="_top" xlink:title="Check for new mail &#45; Implements MxOps::mbox_check() ">
+<title>Node4075</title>
+<g id="a_node3"><a xlink:href="group__mx__mbox__check.html#gafb376aac365fa068eeb370915b2d309d" target="_top" xlink:title="Check for new mail &#45; Implements MxOps::mbox_check() &#45;. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="301,-38.5 301,-57.5 412,-57.5 412,-38.5 301,-38.5"/>
 <text text-anchor="middle" x="356.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mbox_mbox_check</text>
 </a>
 </g>
 </g>
-<!-- Node4409&#45;&gt;Node4411 -->
+<!-- Node4073&#45;&gt;Node4075 -->
 <g id="edge5" class="edge">
-<title>Node4409&#45;&gt;Node4411</title>
+<title>Node4073&#45;&gt;Node4075</title>
 <path fill="none" stroke="#191970" d="M132.3386,-48C184.1005,-48 253.1255,-48 300.8401,-48"/>
 <polygon fill="#191970" stroke="#191970" points="132.2278,-44.5001 122.2278,-48 132.2278,-51.5001 132.2278,-44.5001"/>
 </g>
-<!-- Node4413 -->
+<!-- Node4077 -->
 <g id="node4" class="node">
-<title>Node4413</title>
-<g id="a_node4"><a xlink:href="mbox_8c.html#aa0908167a905e8a9d3e3541e7c5a416e" target="_top" xlink:title="Open a Mailbox &#45; Implements MxOps::mbox_open() ">
+<title>Node4077</title>
+<g id="a_node4"><a xlink:href="group__mx__mbox__open.html#gaa0908167a905e8a9d3e3541e7c5a416e" target="_top" xlink:title="Open a Mailbox &#45; Implements MxOps::mbox_open() &#45;. ">
 <polygon fill="#ffffff" stroke="#000000" points="158,-.5 158,-19.5 265,-19.5 265,-.5 158,-.5"/>
 <text text-anchor="middle" x="211.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mbox_mbox_open</text>
 </a>
 </g>
 </g>
-<!-- Node4409&#45;&gt;Node4413 -->
+<!-- Node4073&#45;&gt;Node4077 -->
 <g id="edge3" class="edge">
-<title>Node4409&#45;&gt;Node4413</title>
+<title>Node4073&#45;&gt;Node4077</title>
 <path fill="none" stroke="#191970" d="M108.6847,-35.96C129.7103,-30.6512 154.0674,-24.5012 173.7956,-19.5201"/>
 <polygon fill="#191970" stroke="#191970" points="107.8164,-32.5693 98.9775,-38.411 109.5301,-39.3563 107.8164,-32.5693"/>
 </g>
-<!-- Node4410&#45;&gt;Node4411 -->
+<!-- Node4074&#45;&gt;Node4075 -->
 <g id="edge2" class="edge">
-<title>Node4410&#45;&gt;Node4411</title>
+<title>Node4074&#45;&gt;Node4075</title>
 <path fill="none" stroke="#191970" d="M257.9928,-73.8157C278.1237,-68.54 301.3383,-62.4562 320.1735,-57.5201"/>
 <polygon fill="#191970" stroke="#191970" points="256.8757,-70.4902 248.0896,-76.411 258.6503,-77.2615 256.8757,-70.4902"/>
 </g>
-<!-- Node4413&#45;&gt;Node4411 -->
+<!-- Node4077&#45;&gt;Node4075 -->
 <g id="edge4" class="edge">
-<title>Node4413&#45;&gt;Node4411</title>
+<title>Node4077&#45;&gt;Node4075</title>
 <path fill="none" stroke="#191970" d="M257.9928,-22.1843C278.1237,-27.46 301.3383,-33.5438 320.1735,-38.4799"/>
 <polygon fill="#191970" stroke="#191970" points="258.6503,-18.7385 248.0896,-19.589 256.8757,-25.5098 258.6503,-18.7385"/>
 </g>

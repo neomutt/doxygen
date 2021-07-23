@@ -9,45 +9,45 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 43)">
 <title>log_queue_empty</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-43 316,-43 316,4 -4,4"/>
-<!-- Node41 -->
+<!-- Node8 -->
 <g id="node1" class="node">
-<title>Node41</title>
+<title>Node8</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-19.5 0,-38.5 104,-38.5 104,-19.5 0,-19.5"/>
 <text text-anchor="middle" x="52" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">log_queue_empty</text>
 </g>
-<!-- Node42 -->
+<!-- Node9 -->
 <g id="node2" class="node">
-<title>Node42</title>
+<title>Node9</title>
 <g id="a_node2"><a xlink:href="main_8c.html#adedb285b02c41bde2158ded9cc9fd7ac" target="_top" xlink:title="Start NeoMutt. ">
 <polygon fill="#ffffff" stroke="#000000" points="271,-19.5 271,-38.5 312,-38.5 312,-19.5 271,-19.5"/>
 <text text-anchor="middle" x="291.5" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">main</text>
 </a>
 </g>
 </g>
-<!-- Node41&#45;&gt;Node42 -->
+<!-- Node8&#45;&gt;Node9 -->
 <g id="edge1" class="edge">
-<title>Node41&#45;&gt;Node42</title>
+<title>Node8&#45;&gt;Node9</title>
 <path fill="none" stroke="#191970" d="M114.3253,-29C165.9602,-29 236.2577,-29 270.7207,-29"/>
 <polygon fill="#191970" stroke="#191970" points="114.2634,-25.5001 104.2633,-29 114.2633,-32.5001 114.2634,-25.5001"/>
 </g>
-<!-- Node43 -->
+<!-- Node10 -->
 <g id="node3" class="node">
-<title>Node43</title>
+<title>Node10</title>
 <g id="a_node3"><a xlink:href="logging_8h.html#a964e39fa7f189e7513aa05e9993a1c0b" target="_top" xlink:title="Replay the log queue. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="140,-.5 140,-19.5 235,-19.5 235,-.5 140,-.5"/>
 <text text-anchor="middle" x="187.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">log_queue_flush</text>
 </a>
 </g>
 </g>
-<!-- Node41&#45;&gt;Node43 -->
+<!-- Node8&#45;&gt;Node10 -->
 <g id="edge2" class="edge">
-<title>Node41&#45;&gt;Node43</title>
+<title>Node8&#45;&gt;Node10</title>
 <path fill="none" stroke="#191970" d="M114.0754,-20.2957C122.7358,-19.0813 131.5207,-17.8495 139.8588,-16.6803"/>
 <polygon fill="#191970" stroke="#191970" points="113.4174,-16.8536 104.0003,-21.7084 114.3895,-23.7858 113.4174,-16.8536"/>
 </g>
-<!-- Node43&#45;&gt;Node42 -->
+<!-- Node10&#45;&gt;Node9 -->
 <g id="edge3" class="edge">
-<title>Node43&#45;&gt;Node42</title>
+<title>Node10&#45;&gt;Node9</title>
 <path fill="none" stroke="#191970" d="M245.2111,-20.5434C254.3652,-22.2158 263.2804,-23.8445 270.8033,-25.2189"/>
 <polygon fill="#191970" stroke="#191970" points="245.7049,-17.0757 235.2386,-18.7215 244.4468,-23.9618 245.7049,-17.0757"/>
 </g>

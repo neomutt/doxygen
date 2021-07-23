@@ -9,15 +9,15 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 73.5)">
 <title>crypt_pgp_encrypt_message</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-73.5 361,-73.5 361,4 -4,4"/>
-<!-- Node16081 -->
+<!-- Node14878 -->
 <g id="node1" class="node">
-<title>Node16081</title>
+<title>Node14878</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-22.5 0,-41.5 156,-41.5 156,-22.5 0,-22.5"/>
 <text text-anchor="middle" x="78" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">crypt_pgp_encrypt_message</text>
 </g>
-<!-- Node16082 -->
+<!-- Node14879 -->
 <g id="node2" class="node">
-<title>Node16082</title>
+<title>Node14879</title>
 <g id="a_node2"><a xlink:href="autocrypt_8c.html#a23ccdf8d23c4c9ec7f9517e5d2942429" target="_top" xlink:title="Set the Autocrypt default key for signing. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="213.5,-39 213.5,-69 335.5,-69 335.5,-39 213.5,-39"/>
 <text text-anchor="start" x="221.5" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_autocrypt_set</text>
@@ -25,24 +25,24 @@
 </a>
 </g>
 </g>
-<!-- Node16081&#45;&gt;Node16082 -->
+<!-- Node14878&#45;&gt;Node14879 -->
 <g id="edge1" class="edge">
-<title>Node16081&#45;&gt;Node16082</title>
+<title>Node14878&#45;&gt;Node14879</title>
 <path fill="none" stroke="#191970" d="M156.2266,-40.7582C171.8541,-42.5078 188.1875,-44.3365 203.5531,-46.0568"/>
 <polygon fill="#191970" stroke="#191970" points="203.1662,-49.5353 213.4936,-47.1698 203.9451,-42.5788 203.1662,-49.5353"/>
 </g>
-<!-- Node18247 -->
+<!-- Node16876 -->
 <g id="node3" class="node">
-<title>Node18247</title>
+<title>Node16876</title>
 <g id="a_node3"><a xlink:href="crypt__gpgme_8c.html#afc00d1c96caccee32eb480e8aa31078b" target="_top" xlink:title="Implements CryptModuleSpecs::pgp_encrypt_message() ">
 <polygon fill="#ffffff" stroke="#ff0000" points="192,-.5 192,-19.5 357,-19.5 357,-.5 192,-.5"/>
 <text text-anchor="middle" x="274.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pgp_gpgme_encrypt_message</text>
 </a>
 </g>
 </g>
-<!-- Node16081&#45;&gt;Node18247 -->
+<!-- Node14878&#45;&gt;Node16876 -->
 <g id="edge2" class="edge">
-<title>Node16081&#45;&gt;Node18247</title>
+<title>Node14878&#45;&gt;Node16876</title>
 <path fill="none" stroke="#191970" d="M156.2266,-23.2418C164.6115,-22.303 173.1995,-21.3415 181.7322,-20.3862"/>
 <polygon fill="#191970" stroke="#191970" points="182.1596,-23.8603 191.708,-19.2693 181.3807,-16.9038 182.1596,-23.8603"/>
 </g>

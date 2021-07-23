@@ -9,91 +9,91 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 160.5989)">
 <title>mutt_autocrypt_set_sign_as_default_key</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-160.5989 466,-160.5989 466,4 -4,4"/>
-<!-- Node14356 -->
+<!-- Node13229 -->
 <g id="node1" class="node">
-<title>Node14356</title>
+<title>Node13229</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-71 0,-101 122,-101 122,-71 0,-71"/>
 <text text-anchor="start" x="8" y="-89" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_autocrypt_set</text>
 <text text-anchor="middle" x="61" y="-78" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">_sign_as_default_key</text>
 </g>
-<!-- Node14357 -->
+<!-- Node13230 -->
 <g id="node2" class="node">
-<title>Node14357</title>
+<title>Node13230</title>
 <g id="a_node2"><a xlink:href="helpers_8c.html#ae50f679dd6c5bd1ba820884c8602f038" target="_top" xlink:title="Get a boolean config item by name. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="371,-133.5 371,-152.5 462,-152.5 462,-133.5 371,-133.5"/>
 <text text-anchor="middle" x="416.5" y="-140.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_subset_bool</text>
 </a>
 </g>
 </g>
-<!-- Node14356&#45;&gt;Node14357 -->
+<!-- Node13229&#45;&gt;Node13230 -->
 <g id="edge1" class="edge">
-<title>Node14356&#45;&gt;Node14357</title>
+<title>Node13229&#45;&gt;Node13230</title>
 <path fill="none" stroke="#191970" d="M79.6695,-101.1021C98.2511,-115.0845 128.2209,-134.8981 158,-143 225.7984,-161.4457 307.3539,-157.3296 360.4816,-151.349"/>
 <polygon fill="#191970" stroke="#191970" points="361.1979,-154.7887 370.7156,-150.1342 360.3727,-147.8375 361.1979,-154.7887"/>
 </g>
-<!-- Node14380 -->
+<!-- Node13253 -->
 <g id="node3" class="node">
-<title>Node14380</title>
+<title>Node13253</title>
 <g id="a_node3"><a xlink:href="autocrypt_8c.html#aa23563598fe15db0b1c4a4d313acba30" target="_top" xlink:title="Initialise Autocrypt. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="190,-114.5 190,-133.5 303,-133.5 303,-114.5 190,-114.5"/>
 <text text-anchor="middle" x="246.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_autocrypt_init</text>
 </a>
 </g>
 </g>
-<!-- Node14356&#45;&gt;Node14380 -->
+<!-- Node13229&#45;&gt;Node13253 -->
 <g id="edge2" class="edge">
-<title>Node14356&#45;&gt;Node14380</title>
+<title>Node13229&#45;&gt;Node13253</title>
 <path fill="none" stroke="#191970" d="M122.2537,-98.5479C144.1185,-103.027 168.6331,-108.0488 190.0726,-112.4408"/>
 <polygon fill="#191970" stroke="#191970" points="189.5057,-115.8972 200.0047,-114.4754 190.9106,-109.0396 189.5057,-115.8972"/>
 </g>
-<!-- Node15037 -->
+<!-- Node13912 -->
 <g id="node4" class="node">
-<title>Node15037</title>
+<title>Node13912</title>
 <g id="a_node4"><a xlink:href="autocrypt_2db_8c.html#a46f8db1fe0e0066603a705689dec64c6" target="_top" xlink:title="Get Autocrypt Account data from the database. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="160,-76.5 160,-95.5 333,-95.5 333,-76.5 160,-76.5"/>
 <text text-anchor="middle" x="246.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_autocrypt_db_account_get</text>
 </a>
 </g>
 </g>
-<!-- Node14356&#45;&gt;Node15037 -->
+<!-- Node13229&#45;&gt;Node13912 -->
 <g id="edge4" class="edge">
-<title>Node14356&#45;&gt;Node15037</title>
+<title>Node13229&#45;&gt;Node13912</title>
 <path fill="none" stroke="#191970" d="M122.2537,-86C131.0887,-86 140.3563,-86 149.6789,-86"/>
 <polygon fill="#191970" stroke="#191970" points="149.7985,-89.5001 159.7985,-86 149.7985,-82.5001 149.7985,-89.5001"/>
 </g>
-<!-- Node14457 -->
+<!-- Node13330 -->
 <g id="node5" class="node">
-<title>Node14457</title>
+<title>Node13330</title>
 <g id="a_node5"><a xlink:href="mutt_2string_8c.html#ae9b6bbaa52b6ce51f2a384fe500e028e" target="_top" xlink:title="Replace one string with another. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="197,-38.5 197,-57.5 296,-57.5 296,-38.5 197,-38.5"/>
 <text text-anchor="middle" x="246.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_str_replace</text>
 </a>
 </g>
 </g>
-<!-- Node14356&#45;&gt;Node14457 -->
+<!-- Node13229&#45;&gt;Node13330 -->
 <g id="edge5" class="edge">
-<title>Node14356&#45;&gt;Node14457</title>
+<title>Node13229&#45;&gt;Node13330</title>
 <path fill="none" stroke="#191970" d="M122.2537,-73.4521C144.1185,-68.973 168.6331,-63.9512 190.0726,-59.5592"/>
 <polygon fill="#191970" stroke="#191970" points="190.9106,-62.9604 200.0047,-57.5246 189.5057,-56.1028 190.9106,-62.9604"/>
 </g>
-<!-- Node15040 -->
+<!-- Node13915 -->
 <g id="node6" class="node">
-<title>Node15040</title>
+<title>Node13915</title>
 <g id="a_node6"><a xlink:href="autocrypt_2db_8c.html#a68854efa33d1b0d6f63c2d34767b2f9e" target="_top" xlink:title="Free an AutocryptAccount. ">
 <polygon fill="#ffffff" stroke="#000000" points="158,-.5 158,-19.5 335,-19.5 335,-.5 158,-.5"/>
 <text text-anchor="middle" x="246.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_autocrypt_db_account_free</text>
 </a>
 </g>
 </g>
-<!-- Node14356&#45;&gt;Node15040 -->
+<!-- Node13229&#45;&gt;Node13915 -->
 <g id="edge6" class="edge">
-<title>Node14356&#45;&gt;Node15040</title>
+<title>Node13229&#45;&gt;Node13915</title>
 <path fill="none" stroke="#191970" d="M82.3215,-70.7562C101.3254,-57.8488 130.3344,-39.7743 158,-29 164.7451,-26.3731 171.9281,-24.0764 179.1731,-22.0762"/>
 <polygon fill="#191970" stroke="#191970" points="180.2457,-25.4142 189.0557,-19.5291 178.4986,-18.6357 180.2457,-25.4142"/>
 </g>
-<!-- Node14380&#45;&gt;Node14357 -->
+<!-- Node13253&#45;&gt;Node13230 -->
 <g id="edge3" class="edge">
-<title>Node14380&#45;&gt;Node14357</title>
+<title>Node13253&#45;&gt;Node13230</title>
 <path fill="none" stroke="#191970" d="M303.1075,-130.3267C321.6887,-132.4034 342.3149,-134.7087 360.8262,-136.7776"/>
 <polygon fill="#191970" stroke="#191970" points="360.5394,-140.2673 370.8663,-137.8998 361.3169,-133.3106 360.5394,-140.2673"/>
 </g>

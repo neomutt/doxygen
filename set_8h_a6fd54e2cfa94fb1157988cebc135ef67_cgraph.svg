@@ -9,60 +9,60 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 118)">
 <title>cs_str_string_get</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-118 244,-118 244,4 -4,4"/>
-<!-- Node10067 -->
+<!-- Node10917 -->
 <g id="node1" class="node">
-<title>Node10067</title>
+<title>Node10917</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-56.5 0,-75.5 99,-75.5 99,-56.5 0,-56.5"/>
 <text text-anchor="middle" x="49.5" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_str_string_get</text>
 </g>
-<!-- Node10068 -->
+<!-- Node10918 -->
 <g id="node2" class="node">
-<title>Node10068</title>
+<title>Node10918</title>
 <g id="a_node2"><a xlink:href="set_8c.html#a6a48e8c12db6f64a6da6b219c3d987d9" target="_top" xlink:title="Get the HashElem representing a config item. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="148.5,-94.5 148.5,-113.5 226.5,-113.5 226.5,-94.5 148.5,-94.5"/>
 <text text-anchor="middle" x="187.5" y="-101.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_get_elem</text>
 </a>
 </g>
 </g>
-<!-- Node10067&#45;&gt;Node10068 -->
+<!-- Node10917&#45;&gt;Node10918 -->
 <g id="edge1" class="edge">
-<title>Node10067&#45;&gt;Node10068</title>
+<title>Node10917&#45;&gt;Node10918</title>
 <path fill="none" stroke="#191970" d="M84.3232,-75.589C102.1377,-80.4944 124.0184,-86.5196 143.0389,-91.7571"/>
 <polygon fill="#191970" stroke="#191970" points="142.1175,-95.1336 152.6879,-94.4141 143.976,-88.3848 142.1175,-95.1336"/>
 </g>
-<!-- Node10071 -->
+<!-- Node10921 -->
 <g id="node3" class="node">
-<title>Node10071</title>
+<title>Node10921</title>
 <g id="a_node3"><a xlink:href="buffer_8c.html#ad057ee239ae5bcfd72cab3749036ab02" target="_top" xlink:title="Format a string overwriting a Buffer. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="135,-56.5 135,-75.5 240,-75.5 240,-56.5 135,-56.5"/>
 <text text-anchor="middle" x="187.5" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_buffer_printf</text>
 </a>
 </g>
 </g>
-<!-- Node10067&#45;&gt;Node10071 -->
+<!-- Node10917&#45;&gt;Node10921 -->
 <g id="edge2" class="edge">
-<title>Node10067&#45;&gt;Node10071</title>
+<title>Node10917&#45;&gt;Node10921</title>
 <path fill="none" stroke="#191970" d="M99.3212,-66C107.5542,-66 116.1831,-66 124.6856,-66"/>
 <polygon fill="#191970" stroke="#191970" points="124.9591,-69.5001 134.9591,-66 124.959,-62.5001 124.9591,-69.5001"/>
 </g>
-<!-- Node10078 -->
+<!-- Node10928 -->
 <g id="node4" class="node">
-<title>Node10078</title>
+<title>Node10928</title>
 <g id="a_node4"><a xlink:href="set_8c.html#aae8bc50e36b926998d926687f97c8b48" target="_top" xlink:title="Get a config item as a string. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="138.5,-.5 138.5,-19.5 236.5,-19.5 236.5,-.5 138.5,-.5"/>
 <text text-anchor="middle" x="187.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_he_string_get</text>
 </a>
 </g>
 </g>
-<!-- Node10067&#45;&gt;Node10078 -->
+<!-- Node10917&#45;&gt;Node10928 -->
 <g id="edge3" class="edge">
-<title>Node10067&#45;&gt;Node10078</title>
+<title>Node10917&#45;&gt;Node10928</title>
 <path fill="none" stroke="#191970" d="M73.223,-56.3733C95.6737,-47.2629 129.5739,-33.5062 154.6255,-23.3404"/>
 <polygon fill="#191970" stroke="#191970" points="156.1365,-26.5045 164.0865,-19.5011 153.5043,-20.0182 156.1365,-26.5045"/>
 </g>
-<!-- Node10078&#45;&gt;Node10078 -->
+<!-- Node10928&#45;&gt;Node10928 -->
 <g id="edge4" class="edge">
-<title>Node10078&#45;&gt;Node10078</title>
+<title>Node10928&#45;&gt;Node10928</title>
 <path fill="none" stroke="#191970" d="M166.2302,-19.7571C155.8827,-28.5653 162.9727,-38 187.5,-38 203.2128,-38 211.7693,-34.128 213.1695,-29.0292"/>
 <polygon fill="#191970" stroke="#191970" points="216.2189,-27.2911 208.7698,-19.7571 209.8948,-30.292 216.2189,-27.2911"/>
 </g>

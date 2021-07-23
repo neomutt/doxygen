@@ -9,31 +9,31 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 298)">
 <title>mutt_rfc3676_is_format_flowed</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-298 466,-298 466,4 -4,4"/>
-<!-- Node5333 -->
+<!-- Node5819 -->
 <g id="node1" class="node">
-<title>Node5333</title>
+<title>Node5819</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-137.5 0,-167.5 134,-167.5 134,-137.5 0,-137.5"/>
 <text text-anchor="start" x="8" y="-155.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_rfc3676_is_format</text>
 <text text-anchor="middle" x="67" y="-144.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">_flowed</text>
 </g>
-<!-- Node5334 -->
+<!-- Node5820 -->
 <g id="node2" class="node">
-<title>Node5334</title>
+<title>Node5820</title>
 <g id="a_node2"><a xlink:href="mutt__attach_8h.html#a0d463fe47dc745c39cddb1e4d1c10982" target="_top" xlink:title="Pipe an attachment to a command. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="328.5,-225 328.5,-244 456.5,-244 456.5,-225 328.5,-225"/>
 <text text-anchor="middle" x="392.5" y="-232" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_pipe_attachment</text>
 </a>
 </g>
 </g>
-<!-- Node5333&#45;&gt;Node5334 -->
+<!-- Node5819&#45;&gt;Node5820 -->
 <g id="edge1" class="edge">
-<title>Node5333&#45;&gt;Node5334</title>
+<title>Node5819&#45;&gt;Node5820</title>
 <path fill="none" stroke="#191970" d="M109.5152,-171.6073C127.8376,-179.2669 149.6838,-187.6464 170,-193.5 222.4633,-208.6161 283.5511,-219.4044 328.4307,-226.1083"/>
 <polygon fill="#191970" stroke="#191970" points="110.8543,-168.3734 100.2818,-167.6845 108.1171,-174.8161 110.8543,-168.3734"/>
 </g>
-<!-- Node5413 -->
+<!-- Node5916 -->
 <g id="node3" class="node">
-<title>Node5413</title>
+<title>Node5916</title>
 <g id="a_node3"><a xlink:href="recvattach_8c.html#a3c36223d243ef6b041baf6e0bb54533f" target="_top" xlink:title="Helper for unstuffing attachments. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="323,-156.5 323,-186.5 462,-186.5 462,-156.5 323,-156.5"/>
 <text text-anchor="start" x="331" y="-174.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">save_attachment_flowed</text>
@@ -41,30 +41,30 @@
 </a>
 </g>
 </g>
-<!-- Node5333&#45;&gt;Node5413 -->
+<!-- Node5819&#45;&gt;Node5916 -->
 <g id="edge2" class="edge">
-<title>Node5333&#45;&gt;Node5413</title>
+<title>Node5819&#45;&gt;Node5916</title>
 <path fill="none" stroke="#191970" d="M128.1977,-169.8825C141.8458,-173.0486 156.3268,-175.8644 170,-177.5 220.8389,-183.5815 278.6565,-181.7604 322.6096,-178.5879"/>
 <polygon fill="#191970" stroke="#191970" points="128.9724,-166.4691 118.4305,-167.527 127.3312,-173.274 128.9724,-166.4691"/>
 </g>
-<!-- Node5417 -->
+<!-- Node5920 -->
 <g id="node4" class="node">
-<title>Node5417</title>
+<title>Node5920</title>
 <g id="a_node4"><a xlink:href="recvattach_8c.html#aa18a07fb44233ba66b108e547049b0b4" target="_top" xlink:title="Pipe the attachment to a command. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="343,-118 343,-137 442,-137 442,-118 343,-118"/>
 <text text-anchor="middle" x="392.5" y="-125" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pipe_attachment</text>
 </a>
 </g>
 </g>
-<!-- Node5333&#45;&gt;Node5417 -->
+<!-- Node5819&#45;&gt;Node5920 -->
 <g id="edge3" class="edge">
-<title>Node5333&#45;&gt;Node5417</title>
+<title>Node5819&#45;&gt;Node5920</title>
 <path fill="none" stroke="#191970" d="M128.1977,-135.1175C141.8458,-131.9514 156.3268,-129.1356 170,-127.5 229.0667,-120.4343 297.5865,-121.8695 342.8113,-124.1349"/>
 <polygon fill="#191970" stroke="#191970" points="127.3312,-131.726 118.4305,-137.473 128.9724,-138.5309 127.3312,-131.726"/>
 </g>
-<!-- Node5899 -->
+<!-- Node6439 -->
 <g id="node5" class="node">
-<title>Node5899</title>
+<title>Node6439</title>
 <g id="a_node5"><a xlink:href="rfc3676_8h.html#ae80c6b55541960f57f67f4ea3e4467e8" target="_top" xlink:title="Perform RFC3676 space stuffing on an Email. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="170.5,-49.5 170.5,-79.5 286.5,-79.5 286.5,-49.5 170.5,-49.5"/>
 <text text-anchor="start" x="178.5" y="-67.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_rfc3676_space</text>
@@ -72,15 +72,15 @@
 </a>
 </g>
 </g>
-<!-- Node5333&#45;&gt;Node5899 -->
+<!-- Node5819&#45;&gt;Node6439 -->
 <g id="edge4" class="edge">
-<title>Node5333&#45;&gt;Node5899</title>
+<title>Node5819&#45;&gt;Node6439</title>
 <path fill="none" stroke="#191970" d="M101.8009,-132.4578C121.6734,-121.1253 147.1155,-106.805 170,-94.5 179.2485,-89.5271 189.405,-84.2539 198.6223,-79.5386"/>
 <polygon fill="#191970" stroke="#191970" points="100.0362,-129.435 93.0914,-137.4364 103.5101,-135.5122 100.0362,-129.435"/>
 </g>
-<!-- Node5900 -->
+<!-- Node6440 -->
 <g id="node6" class="node">
-<title>Node5900</title>
+<title>Node6440</title>
 <g id="a_node6"><a xlink:href="rfc3676_8h.html#a47bfc67ef302e9b51cee14c713a70f35" target="_top" xlink:title="Remove RFC3676 space stuffing. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="170.5,-.5 170.5,-30.5 286.5,-30.5 286.5,-.5 170.5,-.5"/>
 <text text-anchor="start" x="178.5" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_rfc3676_space</text>
@@ -88,15 +88,15 @@
 </a>
 </g>
 </g>
-<!-- Node5333&#45;&gt;Node5900 -->
+<!-- Node5819&#45;&gt;Node6440 -->
 <g id="edge5" class="edge">
-<title>Node5333&#45;&gt;Node5900</title>
+<title>Node5819&#45;&gt;Node6440</title>
 <path fill="none" stroke="#191970" d="M83.3248,-129.1485C101.8575,-104.0979 134.2008,-64.5468 170,-39.5 174.7672,-36.1646 180.068,-33.1816 185.477,-30.548"/>
 <polygon fill="#191970" stroke="#191970" points="80.4076,-127.2092 77.3625,-137.357 86.0712,-131.323 80.4076,-127.2092"/>
 </g>
-<!-- Node5901 -->
+<!-- Node6441 -->
 <g id="node7" class="node">
-<title>Node5901</title>
+<title>Node6441</title>
 <g id="a_node7"><a xlink:href="rfc3676_8h.html#aafc5472c7687d8941a25999aa30d2be4" target="_top" xlink:title="Unstuff attachments. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="170,-137.5 170,-167.5 287,-167.5 287,-137.5 170,-137.5"/>
 <text text-anchor="start" x="178" y="-155.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_rfc3676_space</text>
@@ -104,15 +104,15 @@
 </a>
 </g>
 </g>
-<!-- Node5333&#45;&gt;Node5901 -->
+<!-- Node5819&#45;&gt;Node6441 -->
 <g id="edge6" class="edge">
-<title>Node5333&#45;&gt;Node5901</title>
+<title>Node5819&#45;&gt;Node6441</title>
 <path fill="none" stroke="#191970" d="M144.1779,-152.5C152.815,-152.5 161.5067,-152.5 169.8567,-152.5"/>
 <polygon fill="#191970" stroke="#191970" points="144.0875,-149.0001 134.0875,-152.5 144.0875,-156.0001 144.0875,-149.0001"/>
 </g>
-<!-- Node5902 -->
+<!-- Node6442 -->
 <g id="node8" class="node">
-<title>Node5902</title>
+<title>Node6442</title>
 <g id="a_node8"><a xlink:href="rfc3676_8h.html#a9cd1b3af0b88c1d0179e890b444c5be0" target="_top" xlink:title="Stuff attachments. ">
 <polygon fill="#ffffff" stroke="#000000" points="170.5,-263.5 170.5,-293.5 286.5,-293.5 286.5,-263.5 170.5,-263.5"/>
 <text text-anchor="start" x="178.5" y="-281.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_rfc3676_space</text>
@@ -120,33 +120,33 @@
 </a>
 </g>
 </g>
-<!-- Node5333&#45;&gt;Node5902 -->
+<!-- Node5819&#45;&gt;Node6442 -->
 <g id="edge10" class="edge">
-<title>Node5333&#45;&gt;Node5902</title>
+<title>Node5819&#45;&gt;Node6442</title>
 <path fill="none" stroke="#191970" d="M87.5598,-174.9469C107.3431,-195.7101 138.776,-226.5818 170,-248.5 177.7538,-253.9429 186.6292,-259.01 195.0837,-263.3728"/>
 <polygon fill="#191970" stroke="#191970" points="89.9755,-172.4068 80.5729,-167.5239 84.8783,-177.2046 89.9755,-172.4068"/>
 </g>
-<!-- Node5901&#45;&gt;Node5334 -->
+<!-- Node6441&#45;&gt;Node5820 -->
 <g id="edge7" class="edge">
-<title>Node5901&#45;&gt;Node5334</title>
+<title>Node6441&#45;&gt;Node5820</title>
 <path fill="none" stroke="#191970" d="M267.6166,-172.0583C300.9952,-188.7476 347.566,-212.033 373.3712,-224.9356"/>
 <polygon fill="#191970" stroke="#191970" points="269.0897,-168.8818 258.5801,-167.5401 265.9591,-175.1428 269.0897,-168.8818"/>
 </g>
-<!-- Node5901&#45;&gt;Node5413 -->
+<!-- Node6441&#45;&gt;Node5916 -->
 <g id="edge8" class="edge">
-<title>Node5901&#45;&gt;Node5413</title>
+<title>Node6441&#45;&gt;Node5916</title>
 <path fill="none" stroke="#191970" d="M297.4313,-160.4859C305.8804,-161.4648 314.5194,-162.4657 322.9771,-163.4455"/>
 <polygon fill="#191970" stroke="#191970" points="297.5809,-156.9799 287.2445,-159.3058 296.7753,-163.9334 297.5809,-156.9799"/>
 </g>
-<!-- Node5901&#45;&gt;Node5417 -->
+<!-- Node6441&#45;&gt;Node5920 -->
 <g id="edge9" class="edge">
-<title>Node5901&#45;&gt;Node5417</title>
+<title>Node6441&#45;&gt;Node5920</title>
 <path fill="none" stroke="#191970" d="M297.1926,-142.0286C312.5058,-139.6942 328.455,-137.263 342.8269,-135.0721"/>
 <polygon fill="#191970" stroke="#191970" points="296.6029,-138.5779 287.2445,-143.545 297.6578,-145.498 296.6029,-138.5779"/>
 </g>
-<!-- Node5902&#45;&gt;Node5334 -->
+<!-- Node6442&#45;&gt;Node5820 -->
 <g id="edge11" class="edge">
-<title>Node5902&#45;&gt;Node5334</title>
+<title>Node6442&#45;&gt;Node5820</title>
 <path fill="none" stroke="#191970" d="M294.1722,-260.8806C315.5495,-255.1453 338.4697,-248.9959 356.7991,-244.0783"/>
 <polygon fill="#191970" stroke="#191970" points="293.2323,-257.5089 284.4808,-263.4808 295.0462,-264.2699 293.2323,-257.5089"/>
 </g>

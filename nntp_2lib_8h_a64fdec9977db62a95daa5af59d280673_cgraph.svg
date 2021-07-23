@@ -9,45 +9,45 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 80)">
 <title>nntp_newsrc_close</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-80 247,-80 247,4 -4,4"/>
-<!-- Node17188 -->
+<!-- Node15724 -->
 <g id="node1" class="node">
-<title>Node17188</title>
+<title>Node15724</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-19.5 0,-38.5 109,-38.5 109,-19.5 0,-19.5"/>
 <text text-anchor="middle" x="54.5" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nntp_newsrc_close</text>
 </g>
-<!-- Node17189 -->
+<!-- Node15725 -->
 <g id="node2" class="node">
-<title>Node17189</title>
+<title>Node15725</title>
 <g id="a_node2"><a xlink:href="file_8c.html#a58563edc1ad32b074fb2425a929b0f39" target="_top" xlink:title="Unlock a file previously locked by mutt_file_lock() ">
 <polygon fill="#ffffff" stroke="#ff0000" points="145,-38.5 145,-57.5 243,-57.5 243,-38.5 145,-38.5"/>
 <text text-anchor="middle" x="194" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_file_unlock</text>
 </a>
 </g>
 </g>
-<!-- Node17188&#45;&gt;Node17189 -->
+<!-- Node15724&#45;&gt;Node15725 -->
 <g id="edge1" class="edge">
-<title>Node17188&#45;&gt;Node17189</title>
+<title>Node15724&#45;&gt;Node15725</title>
 <path fill="none" stroke="#191970" d="M109.2337,-36.4548C117.5908,-37.593 126.2498,-38.7724 134.6995,-39.9232"/>
 <polygon fill="#191970" stroke="#191970" points="134.4872,-43.4266 144.8681,-41.3082 135.432,-36.4906 134.4872,-43.4266"/>
 </g>
-<!-- Node17191 -->
+<!-- Node15727 -->
 <g id="node3" class="node">
-<title>Node17191</title>
+<title>Node15727</title>
 <g id="a_node3"><a xlink:href="file_8c.html#a31f49795ff5b9558db5476e5777e63b6" target="_top" xlink:title="Close a FILE handle (and NULL the pointer) ">
 <polygon fill="#ffffff" stroke="#000000" points="146.5,-.5 146.5,-19.5 241.5,-19.5 241.5,-.5 146.5,-.5"/>
 <text text-anchor="middle" x="194" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_file_fclose</text>
 </a>
 </g>
 </g>
-<!-- Node17188&#45;&gt;Node17191 -->
+<!-- Node15724&#45;&gt;Node15727 -->
 <g id="edge3" class="edge">
-<title>Node17188&#45;&gt;Node17191</title>
+<title>Node15724&#45;&gt;Node15727</title>
 <path fill="none" stroke="#191970" d="M109.2337,-21.5452C118.1072,-20.3366 127.3212,-19.0817 136.2635,-17.8638"/>
 <polygon fill="#191970" stroke="#191970" points="136.7754,-21.3264 146.2116,-16.5088 135.8307,-14.3905 136.7754,-21.3264"/>
 </g>
-<!-- Node17189&#45;&gt;Node17189 -->
+<!-- Node15725&#45;&gt;Node15725 -->
 <g id="edge2" class="edge">
-<title>Node17189&#45;&gt;Node17189</title>
+<title>Node15725&#45;&gt;Node15725</title>
 <path fill="none" stroke="#191970" d="M172.7302,-57.7571C162.3827,-66.5653 169.4727,-76 194,-76 209.7128,-76 218.2693,-72.128 219.6695,-67.0292"/>
 <polygon fill="#191970" stroke="#191970" points="222.7189,-65.2911 215.2698,-57.7571 216.3948,-68.292 222.7189,-65.2911"/>
 </g>

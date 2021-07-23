@@ -9,69 +9,69 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 138)">
 <title>make_subject_list</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-138 267,-138 267,4 -4,4"/>
-<!-- Node4194 -->
+<!-- Node5866 -->
 <g id="node1" class="node">
-<title>Node4194</title>
+<title>Node5866</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-57.5 0,-76.5 105,-76.5 105,-57.5 0,-57.5"/>
 <text text-anchor="middle" x="52.5" y="-64.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">make_subject_list</text>
 </g>
-<!-- Node4195 -->
+<!-- Node5867 -->
 <g id="node2" class="node">
-<title>Node4195</title>
+<title>Node5867</title>
 <g id="a_node2"><a xlink:href="helpers_8c.html#ae50f679dd6c5bd1ba820884c8602f038" target="_top" xlink:title="Get a boolean config item by name. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="156.5,-114.5 156.5,-133.5 247.5,-133.5 247.5,-114.5 156.5,-114.5"/>
 <text text-anchor="middle" x="202" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_subset_bool</text>
 </a>
 </g>
 </g>
-<!-- Node4194&#45;&gt;Node4195 -->
+<!-- Node5866&#45;&gt;Node5867 -->
 <g id="edge1" class="edge">
-<title>Node4194&#45;&gt;Node4195</title>
+<title>Node5866&#45;&gt;Node5867</title>
 <path fill="none" stroke="#191970" d="M72.998,-76.5196C90.7801,-84.604 117.3147,-96.2531 141,-105 146.9407,-107.1939 153.2657,-109.3543 159.5081,-111.3869"/>
 <polygon fill="#191970" stroke="#191970" points="158.5919,-114.7682 169.1824,-114.4625 160.7128,-108.0972 158.5919,-114.7682"/>
 </g>
-<!-- Node4218 -->
+<!-- Node5890 -->
 <g id="node3" class="node">
-<title>Node4218</title>
+<title>Node5890</title>
 <g id="a_node3"><a xlink:href="mutt_2string_8c.html#a12aff586807f47d08506c55b294784da" target="_top" xlink:title="Compare two strings, safely. ">
 <polygon fill="#ffffff" stroke="#000000" points="160,-76.5 160,-95.5 244,-95.5 244,-76.5 160,-76.5"/>
 <text text-anchor="middle" x="202" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_str_cmp</text>
 </a>
 </g>
 </g>
-<!-- Node4194&#45;&gt;Node4218 -->
+<!-- Node5866&#45;&gt;Node5890 -->
 <g id="edge2" class="edge">
-<title>Node4194&#45;&gt;Node4218</title>
+<title>Node5866&#45;&gt;Node5890</title>
 <path fill="none" stroke="#191970" d="M105.2081,-73.6987C119.5493,-75.5213 135.0792,-77.495 149.4137,-79.3168"/>
 <polygon fill="#191970" stroke="#191970" points="149.2445,-82.8234 159.606,-80.6121 150.1271,-75.8792 149.2445,-82.8234"/>
 </g>
-<!-- Node4219 -->
+<!-- Node5891 -->
 <g id="node4" class="node">
-<title>Node4219</title>
+<title>Node5891</title>
 <g id="a_node4"><a xlink:href="list_8c.html#a53adfccd4c8b3409a1fa09aa5daf405b" target="_top" xlink:title="Insert a string at the beginning of a List. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="141,-38.5 141,-57.5 263,-57.5 263,-38.5 141,-38.5"/>
 <text text-anchor="middle" x="202" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_list_insert_head</text>
 </a>
 </g>
 </g>
-<!-- Node4194&#45;&gt;Node4219 -->
+<!-- Node5866&#45;&gt;Node5891 -->
 <g id="edge3" class="edge">
-<title>Node4194&#45;&gt;Node4219</title>
+<title>Node5866&#45;&gt;Node5891</title>
 <path fill="none" stroke="#191970" d="M105.2081,-60.3013C113.486,-59.2493 122.16,-58.1469 130.7715,-57.0525"/>
 <polygon fill="#191970" stroke="#191970" points="131.3456,-60.5077 140.8245,-55.7748 130.463,-53.5636 131.3456,-60.5077"/>
 </g>
-<!-- Node4220 -->
+<!-- Node5892 -->
 <g id="node5" class="node">
-<title>Node4220</title>
+<title>Node5892</title>
 <g id="a_node5"><a xlink:href="list_8c.html#aa75ac654fc325397685dff52f7893743" target="_top" xlink:title="Insert a string after a given ListNode. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="141,-.5 141,-19.5 263,-19.5 263,-.5 141,-.5"/>
 <text text-anchor="middle" x="202" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_list_insert_after</text>
 </a>
 </g>
 </g>
-<!-- Node4194&#45;&gt;Node4220 -->
+<!-- Node5866&#45;&gt;Node5892 -->
 <g id="edge4" class="edge">
-<title>Node4194&#45;&gt;Node4220</title>
+<title>Node5866&#45;&gt;Node5892</title>
 <path fill="none" stroke="#191970" d="M72.998,-57.4804C90.7801,-49.396 117.3147,-37.7469 141,-29 146.9407,-26.8061 153.2657,-24.6457 159.5081,-22.6131"/>
 <polygon fill="#191970" stroke="#191970" points="160.7128,-25.9028 169.1824,-19.5375 158.5919,-19.2318 160.7128,-25.9028"/>
 </g>

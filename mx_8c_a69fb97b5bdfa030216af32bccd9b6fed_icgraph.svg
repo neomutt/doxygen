@@ -18,7 +18,7 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="compmbox_2compress_8c.html#a017f8938078bb770eb825f2de2e588b0" target="_top" xlink:title="Open a Mailbox &#45; Implements MxOps::mbox_open() ">
+<g id="a_node2"><a xlink:href="group__mx__mbox__open.html#ga017f8938078bb770eb825f2de2e588b0" target="_top" xlink:title="Open a Mailbox &#45; Implements MxOps::mbox_open() &#45;Set up a compressed mailbox to be read...">
 <polygon fill="#ffffff" stroke="#000000" points="133,-266.5 133,-285.5 239,-285.5 239,-266.5 133,-266.5"/>
 <text text-anchor="middle" x="186" y="-273.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">comp_mbox_open</text>
 </a>
@@ -33,7 +33,7 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="compmbox_2compress_8c.html#a5411107efad334d6cfdf124b9856e673" target="_top" xlink:title="Open a Mailbox for appending &#45; Implements MxOps::mbox_open_append() ">
+<g id="a_node3"><a xlink:href="group__mx__mbox__open__append.html#ga5411107efad334d6cfdf124b9856e673" target="_top" xlink:title="Open a Mailbox for appending &#45; Implements MxOps::mbox_open_append() &#45;flags may also contain MUTT_NEWF...">
 <polygon fill="#ffffff" stroke="#000000" points="112.5,-228.5 112.5,-247.5 259.5,-247.5 259.5,-228.5 112.5,-228.5"/>
 <text text-anchor="middle" x="186" y="-235.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">comp_mbox_open_append</text>
 </a>
@@ -75,63 +75,63 @@
 <path fill="none" stroke="#191970" d="M86.0737,-148.9312C144.0018,-156.0781 240.7215,-168.0111 298.4257,-175.1304"/>
 <polygon fill="#191970" stroke="#191970" points="86.4291,-145.4486 76.0758,-147.6977 85.5719,-152.3959 86.4291,-145.4486"/>
 </g>
-<!-- Node569 -->
+<!-- Node623 -->
 <g id="node6" class="node">
-<title>Node569</title>
+<title>Node623</title>
 <g id="a_node6"><a xlink:href="mx_8h.html#a66865ad6eece3778bdd6558f1ba637ed" target="_top" xlink:title="Is the mailbox empty. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="131,-114.5 131,-133.5 241,-133.5 241,-114.5 131,-114.5"/>
 <text text-anchor="middle" x="186" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mx_path_is_empty</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node569 -->
+<!-- Node1&#45;&gt;Node623 -->
 <g id="edge6" class="edge">
-<title>Node1&#45;&gt;Node569</title>
+<title>Node1&#45;&gt;Node623</title>
 <path fill="none" stroke="#191970" d="M86.2315,-136.8081C100.5326,-134.9722 116.3009,-132.9479 130.9971,-131.0612"/>
 <polygon fill="#191970" stroke="#191970" points="85.5866,-133.3621 76.1137,-138.107 86.478,-140.3051 85.5866,-133.3621"/>
 </g>
-<!-- Node209 -->
+<!-- Node244 -->
 <g id="node7" class="node">
-<title>Node209</title>
+<title>Node244</title>
 <g id="a_node7"><a xlink:href="mx_8h.html#a5fd7ddec18249a46944727c7297add2f" target="_top" xlink:title="Canonicalise a mailbox path &#45; Wrapper for MxOps::path_canon() ">
 <polygon fill="#ffffff" stroke="#ff0000" points="139,-76.5 139,-95.5 233,-95.5 233,-76.5 139,-76.5"/>
 <text text-anchor="middle" x="186" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mx_path_canon</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node209 -->
+<!-- Node1&#45;&gt;Node244 -->
 <g id="edge7" class="edge">
-<title>Node1&#45;&gt;Node209</title>
+<title>Node1&#45;&gt;Node244</title>
 <path fill="none" stroke="#191970" d="M63.0003,-128.3892C77.0483,-120.6363 95.106,-111.4142 112,-105 121.5482,-101.3748 132.0473,-98.2114 142.0614,-95.5601"/>
 <polygon fill="#191970" stroke="#191970" points="60.9751,-125.5128 53.979,-133.4692 64.4098,-131.6122 60.9751,-125.5128"/>
 </g>
-<!-- Node210 -->
+<!-- Node245 -->
 <g id="node8" class="node">
-<title>Node210</title>
+<title>Node245</title>
 <g id="a_node8"><a xlink:href="mx_8h.html#ae0f8710a0b85d6ebf96cbd2e4e0f6bc1" target="_top" xlink:title="Canonicalise the path to realpath. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="296,-57.5 296,-76.5 396,-76.5 396,-57.5 296,-57.5"/>
 <text text-anchor="middle" x="346" y="-64.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mx_path_canon2</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node210 -->
+<!-- Node1&#45;&gt;Node245 -->
 <g id="edge9" class="edge">
-<title>Node1&#45;&gt;Node210</title>
+<title>Node1&#45;&gt;Node245</title>
 <path fill="none" stroke="#191970" d="M49.1613,-124.953C61.7974,-106.4254 84.2774,-78.7002 112,-67 174.505,-40.6201 255.0398,-48.6577 303.4819,-57.4348"/>
 <polygon fill="#191970" stroke="#191970" points="46.1598,-123.1481 43.6218,-133.4345 52.0205,-126.9759 46.1598,-123.1481"/>
 </g>
-<!-- Node570 -->
+<!-- Node624 -->
 <g id="node9" class="node">
-<title>Node570</title>
+<title>Node624</title>
 <g id="a_node9"><a xlink:href="mx_8h.html#aae663097459c5d2d096256bf29a84ebd" target="_top" xlink:title="Abbreviate a mailbox path &#45; Wrapper for MxOps::path_pretty() ">
 <polygon fill="#ffffff" stroke="#000000" points="139,-.5 139,-19.5 233,-19.5 233,-.5 139,-.5"/>
 <text text-anchor="middle" x="186" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mx_path_pretty</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node570 -->
+<!-- Node1&#45;&gt;Node624 -->
 <g id="edge10" class="edge">
-<title>Node1&#45;&gt;Node570</title>
+<title>Node1&#45;&gt;Node624</title>
 <path fill="none" stroke="#191970" d="M46.0927,-124.0213C57.3921,-99.7229 80.1504,-57.9119 112,-34 120.3166,-27.7561 130.325,-23.097 140.255,-19.6343"/>
 <polygon fill="#191970" stroke="#191970" points="42.8486,-122.7021 41.9585,-133.2595 49.238,-125.5614 42.8486,-122.7021"/>
 </g>
@@ -141,9 +141,9 @@
 <path fill="none" stroke="#191970" d="M270.3677,-189.9813C279.9458,-188.8439 289.4402,-187.7165 298.2994,-186.6644"/>
 <polygon fill="#191970" stroke="#191970" points="269.8966,-186.5126 260.3791,-191.1675 270.7221,-193.4638 269.8966,-186.5126"/>
 </g>
-<!-- Node209&#45;&gt;Node210 -->
+<!-- Node244&#45;&gt;Node245 -->
 <g id="edge8" class="edge">
-<title>Node209&#45;&gt;Node210</title>
+<title>Node244&#45;&gt;Node245</title>
 <path fill="none" stroke="#191970" d="M243.0824,-79.2215C260.3192,-77.1746 279.1063,-74.9436 295.8551,-72.9547"/>
 <polygon fill="#191970" stroke="#191970" points="242.6574,-75.7473 233.1399,-80.4021 243.4829,-82.6984 242.6574,-75.7473"/>
 </g>

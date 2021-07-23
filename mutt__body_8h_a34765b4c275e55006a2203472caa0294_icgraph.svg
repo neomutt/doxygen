@@ -9,96 +9,96 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 162.7377)">
 <title>mutt_body_copy</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-162.7377 472,-162.7377 472,4 -4,4"/>
-<!-- Node2171 -->
+<!-- Node2003 -->
 <g id="node1" class="node">
-<title>Node2171</title>
+<title>Node2003</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-76.5 0,-95.5 98,-95.5 98,-76.5 0,-76.5"/>
 <text text-anchor="middle" x="49" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_body_copy</text>
 </g>
-<!-- Node2172 -->
+<!-- Node2004 -->
 <g id="node2" class="node">
-<title>Node2172</title>
+<title>Node2004</title>
 <g id="a_node2"><a xlink:href="recvcmd_8c.html#a3ece8162f54f872f718dc0b8a7efcd83" target="_top" xlink:title="Attach the body parts which can&#39;t be decoded. ">
 <polygon fill="#ffffff" stroke="#000000" points="134,-114.5 134,-133.5 304,-133.5 304,-114.5 134,-114.5"/>
 <text text-anchor="middle" x="219" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">copy_problematic_attachments</text>
 </a>
 </g>
 </g>
-<!-- Node2171&#45;&gt;Node2172 -->
+<!-- Node2003&#45;&gt;Node2004 -->
 <g id="edge1" class="edge">
-<title>Node2171&#45;&gt;Node2172</title>
+<title>Node2003&#45;&gt;Node2004</title>
 <path fill="none" stroke="#191970" d="M101.8981,-97.8243C125.865,-103.1816 153.8235,-109.4311 176.4103,-114.4799"/>
 <polygon fill="#191970" stroke="#191970" points="102.4209,-94.3548 91.8982,-95.589 100.8938,-101.1862 102.4209,-94.3548"/>
 </g>
-<!-- Node2173 -->
+<!-- Node2005 -->
 <g id="node3" class="node">
-<title>Node2173</title>
+<title>Node2005</title>
 <g id="a_node3"><a xlink:href="recvcmd_8c.html#a7c55bf567b5f09c72e507d90b4d97ed4" target="_top" xlink:title="forward one or several MIME bodies ">
 <polygon fill="#ffffff" stroke="#ff0000" points="340,-133.5 340,-152.5 468,-152.5 468,-133.5 340,-133.5"/>
 <text text-anchor="middle" x="404" y="-140.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">attach_forward_bodies</text>
 </a>
 </g>
 </g>
-<!-- Node2171&#45;&gt;Node2173 -->
+<!-- Node2003&#45;&gt;Node2005 -->
 <g id="edge4" class="edge">
-<title>Node2171&#45;&gt;Node2173</title>
+<title>Node2003&#45;&gt;Node2005</title>
 <path fill="none" stroke="#191970" d="M66.4879,-102.3373C82.6177,-116.2033 107.9446,-135.0725 134,-143 204.7434,-164.5241 290.8244,-159.5214 346.4782,-152.5111"/>
 <polygon fill="#191970" stroke="#191970" points="68.7363,-99.6531 58.9363,-95.6268 64.0865,-104.8856 68.7363,-99.6531"/>
 </g>
-<!-- Node2259 -->
+<!-- Node2074 -->
 <g id="node4" class="node">
-<title>Node2259</title>
+<title>Node2074</title>
 <g id="a_node4"><a xlink:href="recvcmd_8h.html#ade797ae1cd4de6b890e844993d8a7b95" target="_top" xlink:title="Attach a reply. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="351,-95.5 351,-114.5 457,-114.5 457,-95.5 351,-95.5"/>
 <text text-anchor="middle" x="404" y="-102.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_attach_reply</text>
 </a>
 </g>
 </g>
-<!-- Node2171&#45;&gt;Node2259 -->
+<!-- Node2003&#45;&gt;Node2074 -->
 <g id="edge6" class="edge">
-<title>Node2171&#45;&gt;Node2259</title>
+<title>Node2003&#45;&gt;Node2074</title>
 <path fill="none" stroke="#191970" d="M108.4417,-89.1814C176.1243,-92.8038 285.7065,-98.6688 350.7149,-102.1481"/>
 <polygon fill="#191970" stroke="#191970" points="108.534,-85.6814 98.3612,-88.6419 108.1598,-92.6714 108.534,-85.6814"/>
 </g>
-<!-- Node2257 -->
+<!-- Node2073 -->
 <g id="node5" class="node">
-<title>Node2257</title>
+<title>Node2073</title>
 <g id="a_node5"><a xlink:href="recvcmd_8c.html#ab39fb82ff6781463a0a5953e6f470312" target="_top" xlink:title="Forward one or several message&#45;type attachments. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="158,-38.5 158,-57.5 280,-57.5 280,-38.5 158,-38.5"/>
 <text text-anchor="middle" x="219" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">attach_forward_msgs</text>
 </a>
 </g>
 </g>
-<!-- Node2171&#45;&gt;Node2257 -->
+<!-- Node2003&#45;&gt;Node2073 -->
 <g id="edge5" class="edge">
-<title>Node2171&#45;&gt;Node2257</title>
+<title>Node2003&#45;&gt;Node2073</title>
 <path fill="none" stroke="#191970" d="M101.8981,-74.1757C125.865,-68.8184 153.8235,-62.5689 176.4103,-57.5201"/>
 <polygon fill="#191970" stroke="#191970" points="100.8938,-70.8138 91.8982,-76.411 102.4209,-77.6452 100.8938,-70.8138"/>
 </g>
-<!-- Node2284 -->
+<!-- Node2156 -->
 <g id="node6" class="node">
-<title>Node2284</title>
+<title>Node2156</title>
 <g id="a_node6"><a xlink:href="send_8c.html#ae0accb8ca6f488f8a6d77cd9fac7672b" target="_top" xlink:title="Add attachments to an email, inline. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="142.5,-.5 142.5,-19.5 295.5,-19.5 295.5,-.5 142.5,-.5"/>
 <text text-anchor="middle" x="219" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">inline_forward_attachments</text>
 </a>
 </g>
 </g>
-<!-- Node2171&#45;&gt;Node2284 -->
+<!-- Node2003&#45;&gt;Node2156 -->
 <g id="edge7" class="edge">
-<title>Node2171&#45;&gt;Node2284</title>
+<title>Node2003&#45;&gt;Node2156</title>
 <path fill="none" stroke="#191970" d="M68.5504,-69.7918C85.0342,-56.9176 109.7526,-39.4039 134,-29 142.8934,-25.1841 152.6526,-22.0886 162.2889,-19.5919"/>
 <polygon fill="#191970" stroke="#191970" points="65.9199,-67.4138 60.2951,-76.3922 70.2912,-72.8811 65.9199,-67.4138"/>
 </g>
-<!-- Node2172&#45;&gt;Node2173 -->
+<!-- Node2004&#45;&gt;Node2005 -->
 <g id="edge2" class="edge">
-<title>Node2172&#45;&gt;Node2173</title>
+<title>Node2004&#45;&gt;Node2005</title>
 <path fill="none" stroke="#191970" d="M314.3728,-133.795C323.0495,-134.6862 331.6925,-135.5738 339.996,-136.4266"/>
 <polygon fill="#191970" stroke="#191970" points="314.4952,-130.2893 304.1899,-132.7492 313.78,-137.2527 314.4952,-130.2893"/>
 </g>
-<!-- Node2172&#45;&gt;Node2259 -->
+<!-- Node2004&#45;&gt;Node2074 -->
 <g id="edge3" class="edge">
-<title>Node2172&#45;&gt;Node2259</title>
+<title>Node2004&#45;&gt;Node2074</title>
 <path fill="none" stroke="#191970" d="M314.2926,-114.2132C326.8936,-112.919 339.4254,-111.632 350.9516,-110.4482"/>
 <polygon fill="#191970" stroke="#191970" points="313.78,-110.7473 304.1899,-115.2508 314.4952,-117.7107 313.78,-110.7473"/>
 </g>

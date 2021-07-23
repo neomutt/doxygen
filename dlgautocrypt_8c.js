@@ -1,7 +1,7 @@
 var dlgautocrypt_8c =
 [
     [ "AccountEntry", "structAccountEntry.html", "structAccountEntry" ],
-    [ "autocrypt_format_str", "dlgautocrypt_8c.html#a21736452b8329cb51cceeae14270087d", null ],
+    [ "autocrypt_format_str", "group__expando__api.html#ga21736452b8329cb51cceeae14270087d", null ],
     [ "autocrypt_make_entry", "dlgautocrypt_8c.html#aae1e9538c5cdc557c389c82052537ed5", null ],
     [ "autocrypt_menu_free", "dlgautocrypt_8c.html#ae14bd22a760581ec0b7eb7d737c4ef8f", null ],
     [ "populate_menu", "dlgautocrypt_8c.html#ade8ee709c156a5d0ea153a878b519534", null ],

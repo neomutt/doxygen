@@ -9,84 +9,84 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 176)">
 <title>mutt_check_mime_type</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-176 315,-176 315,4 -4,4"/>
-<!-- Node12073 -->
+<!-- Node12055 -->
 <g id="node1" class="node">
-<title>Node12073</title>
+<title>Node12055</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-76.5 0,-95.5 134,-95.5 134,-76.5 0,-76.5"/>
 <text text-anchor="middle" x="67" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_check_mime_type</text>
 </g>
-<!-- Node12074 -->
+<!-- Node12056 -->
 <g id="node2" class="node">
-<title>Node12074</title>
+<title>Node12056</title>
 <g id="a_node2"><a xlink:href="attachments_8c.html#afbf3fcb4f4e98aa1f1844c546cb145b5" target="_top" xlink:title="Parse the &quot;attachments&quot; command. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="190.5,-152.5 190.5,-171.5 290.5,-171.5 290.5,-152.5 190.5,-152.5"/>
 <text text-anchor="middle" x="240.5" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">parse_attach_list</text>
 </a>
 </g>
 </g>
-<!-- Node12073&#45;&gt;Node12074 -->
+<!-- Node12055&#45;&gt;Node12056 -->
 <g id="edge1" class="edge">
-<title>Node12073&#45;&gt;Node12074</title>
+<title>Node12055&#45;&gt;Node12056</title>
 <path fill="none" stroke="#191970" d="M90.3742,-101.0886C110.7407,-113.7024 141.4116,-131.437 170,-143 179.0486,-146.6598 189.032,-149.837 198.5693,-152.4907"/>
 <polygon fill="#191970" stroke="#191970" points="92.1159,-98.0494 81.7862,-95.6939 88.3924,-103.977 92.1159,-98.0494"/>
 </g>
-<!-- Node12076 -->
+<!-- Node12058 -->
 <g id="node3" class="node">
-<title>Node12076</title>
+<title>Node12058</title>
 <g id="a_node3"><a xlink:href="attachments_8c.html#ad9a616dd25dd5e92e35ea7e29ad0d6c1" target="_top" xlink:title="Parse the &quot;unattachments&quot; command. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="184.5,-114.5 184.5,-133.5 296.5,-133.5 296.5,-114.5 184.5,-114.5"/>
 <text text-anchor="middle" x="240.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">parse_unattach_list</text>
 </a>
 </g>
 </g>
-<!-- Node12073&#45;&gt;Node12076 -->
+<!-- Node12055&#45;&gt;Node12058 -->
 <g id="edge2" class="edge">
-<title>Node12073&#45;&gt;Node12076</title>
+<title>Node12055&#45;&gt;Node12058</title>
 <path fill="none" stroke="#191970" d="M120.6598,-97.7526C145.1927,-103.1258 173.8787,-109.4086 197.0335,-114.4799"/>
 <polygon fill="#191970" stroke="#191970" points="121.2987,-94.3096 110.7814,-95.589 119.801,-101.1475 121.2987,-94.3096"/>
 </g>
-<!-- Node12078 -->
+<!-- Node12060 -->
 <g id="node4" class="node">
-<title>Node12078</title>
+<title>Node12060</title>
 <g id="a_node4"><a xlink:href="compose_2lib_8h.html#ab41aa2ed639a1d884984f0d42d1cf827" target="_top" xlink:title="Allow the user to edit the message envelope. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="179.5,-76.5 179.5,-95.5 301.5,-95.5 301.5,-76.5 179.5,-76.5"/>
 <text text-anchor="middle" x="240.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_compose_menu</text>
 </a>
 </g>
 </g>
-<!-- Node12073&#45;&gt;Node12078 -->
+<!-- Node12055&#45;&gt;Node12060 -->
 <g id="edge3" class="edge">
-<title>Node12073&#45;&gt;Node12078</title>
+<title>Node12055&#45;&gt;Node12060</title>
 <path fill="none" stroke="#191970" d="M144.2941,-86C156.0105,-86 167.9597,-86 179.2732,-86"/>
 <polygon fill="#191970" stroke="#191970" points="144.0797,-82.5001 134.0796,-86 144.0796,-89.5001 144.0797,-82.5001"/>
 </g>
-<!-- Node12643 -->
+<!-- Node12679 -->
 <g id="node5" class="node">
-<title>Node12643</title>
+<title>Node12679</title>
 <g id="a_node5"><a xlink:href="parse_8h.html#a44cbe20da647bd7112cf1f4857ad01a3" target="_top" xlink:title="Parse a content type. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="170,-38.5 170,-57.5 311,-57.5 311,-38.5 170,-38.5"/>
 <text text-anchor="middle" x="240.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_parse_content_type</text>
 </a>
 </g>
 </g>
-<!-- Node12073&#45;&gt;Node12643 -->
+<!-- Node12055&#45;&gt;Node12679 -->
 <g id="edge4" class="edge">
-<title>Node12073&#45;&gt;Node12643</title>
+<title>Node12055&#45;&gt;Node12679</title>
 <path fill="none" stroke="#191970" d="M120.6598,-74.2474C145.1927,-68.8742 173.8787,-62.5914 197.0335,-57.5201"/>
 <polygon fill="#191970" stroke="#191970" points="119.801,-70.8525 110.7814,-76.411 121.2987,-77.6904 119.801,-70.8525"/>
 </g>
-<!-- Node12654 -->
+<!-- Node12690 -->
 <g id="node6" class="node">
-<title>Node12654</title>
+<title>Node12690</title>
 <g id="a_node6"><a xlink:href="sendlib_8h.html#a1431e9401865165dfef92315f3ca7ae2" target="_top" xlink:title="Find the MIME type for an attachment. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="171,-.5 171,-19.5 310,-19.5 310,-.5 171,-.5"/>
 <text text-anchor="middle" x="240.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_lookup_mime_type</text>
 </a>
 </g>
 </g>
-<!-- Node12073&#45;&gt;Node12654 -->
+<!-- Node12055&#45;&gt;Node12690 -->
 <g id="edge5" class="edge">
-<title>Node12073&#45;&gt;Node12654</title>
+<title>Node12055&#45;&gt;Node12690</title>
 <path fill="none" stroke="#191970" d="M90.3742,-70.9114C110.7407,-58.2976 141.4116,-40.563 170,-29 179.0486,-25.3402 189.032,-22.163 198.5693,-19.5093"/>
 <polygon fill="#191970" stroke="#191970" points="88.3924,-68.023 81.7862,-76.3061 92.1159,-73.9506 88.3924,-68.023"/>
 </g>

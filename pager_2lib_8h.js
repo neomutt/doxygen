@@ -38,7 +38,7 @@ var pager_2lib_8h =
       [ "PAGER_MODE_MAX", "pager_2lib_8h.html#a97661d5482310b15dc29f620e955991aaf9b4f37f039824fb28899ec7bb6afe37", null ]
     ] ],
     [ "mutt_pager", "pager_2lib_8h.html#a98581fe70f86244edf90b80f6421fb7b", null ],
-    [ "mutt_do_pager", "pager_2lib_8h.html#ad796201423d00e3d91852bdbb4488846", null ],
+    [ "mutt_do_pager", "pager_2lib_8h.html#a9d3af21b7fdf24249c261a9a1aa9f3be", null ],
     [ "mutt_buffer_strip_formatting", "pager_2lib_8h.html#a29a3939691dd7a49875fc11c290bdfe1", null ],
     [ "ppanel_new", "pager_2lib_8h.html#a87d864ce9ddf73144e0757cf4fe3b2db", null ],
     [ "pager_window_new", "pager_2lib_8h.html#a45c6395be73a312371a85bb8df9bf8f2", null ],

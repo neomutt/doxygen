@@ -9,72 +9,72 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 72.6953)">
 <title>mix_make_entry</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-72.6953 526,-72.6953 526,4 -4,4"/>
-<!-- Node6941 -->
+<!-- Node6901 -->
 <g id="node1" class="node">
-<title>Node6941</title>
+<title>Node6901</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-38.5 0,-57.5 99,-57.5 99,-38.5 0,-38.5"/>
 <text text-anchor="middle" x="49.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mix_make_entry</text>
 </g>
-<!-- Node6942 -->
+<!-- Node6902 -->
 <g id="node2" class="node">
-<title>Node6942</title>
+<title>Node6902</title>
 <g id="a_node2"><a xlink:href="helpers_8c.html#ac477c591155aa4ae0452bbabc0affffe" target="_top" xlink:title="Get a string config item by name. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="424,-48.5 424,-67.5 522,-67.5 522,-48.5 424,-48.5"/>
 <text text-anchor="middle" x="473" y="-55.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_subset_string</text>
 </a>
 </g>
 </g>
-<!-- Node6941&#45;&gt;Node6942 -->
+<!-- Node6901&#45;&gt;Node6902 -->
 <g id="edge1" class="edge">
-<title>Node6941&#45;&gt;Node6942</title>
+<title>Node6901&#45;&gt;Node6902</title>
 <path fill="none" stroke="#191970" d="M99.1092,-54.1655C165.0708,-61.5888 285.2854,-72.4227 388,-67 396.3078,-66.5614 405.0533,-65.8833 413.6465,-65.0916"/>
 <polygon fill="#191970" stroke="#191970" points="414.0159,-68.5722 423.6287,-64.1176 413.336,-61.6053 414.0159,-68.5722"/>
 </g>
-<!-- Node6965 -->
+<!-- Node6925 -->
 <g id="node3" class="node">
-<title>Node6965</title>
-<g id="a_node3"><a xlink:href="muttlib_8c.html#a8972094c1e995739c8b072c8be3ce453" target="_top" xlink:title="Expand expandos (x) in a string. ">
+<title>Node6925</title>
+<g id="a_node3"><a xlink:href="group__expando__api.html#ga8972094c1e995739c8b072c8be3ce453" target="_top" xlink:title="Expand expandos (x) in a string &#45;. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="263,-20.5 263,-39.5 388,-39.5 388,-20.5 263,-20.5"/>
 <text text-anchor="middle" x="325.5" y="-27.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_expando_format</text>
 </a>
 </g>
 </g>
-<!-- Node6941&#45;&gt;Node6965 -->
+<!-- Node6901&#45;&gt;Node6925 -->
 <g id="edge2" class="edge">
-<title>Node6941&#45;&gt;Node6965</title>
+<title>Node6901&#45;&gt;Node6925</title>
 <path fill="none" stroke="#191970" d="M99.162,-44.7612C141.978,-41.9688 204.3661,-37.9 252.8039,-34.7411"/>
 <polygon fill="#191970" stroke="#191970" points="253.1651,-38.225 262.9161,-34.0816 252.7095,-31.2399 253.1651,-38.225"/>
 </g>
-<!-- Node7007 -->
+<!-- Node6967 -->
 <g id="node4" class="node">
-<title>Node7007</title>
-<g id="a_node4"><a xlink:href="remailer_8c.html#a718fa86ab6d391f0fe4fbe2c4a1831fb" target="_top" xlink:title="Format a string for the remailer menu &#45; Implements format_t. ">
+<title>Node6967</title>
+<g id="a_node4"><a xlink:href="group__expando__api.html#ga718fa86ab6d391f0fe4fbe2c4a1831fb" target="_top" xlink:title="Format a string for the remailer menu &#45; Implements format_t &#45;Expando Description &#160;%a The remailer&#39;s e...">
 <polygon fill="#ffffff" stroke="#ff0000" points="135,-.5 135,-19.5 227,-19.5 227,-.5 135,-.5"/>
 <text text-anchor="middle" x="181" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mix_format_str</text>
 </a>
 </g>
 </g>
-<!-- Node6941&#45;&gt;Node7007 -->
+<!-- Node6901&#45;&gt;Node6967 -->
 <g id="edge5" class="edge">
-<title>Node6941&#45;&gt;Node7007</title>
+<title>Node6901&#45;&gt;Node6967</title>
 <path fill="none" stroke="#191970" d="M82.683,-38.411C99.5027,-33.5506 120.1263,-27.5909 138.1335,-22.3873"/>
 <polygon fill="#191970" stroke="#191970" points="139.1924,-25.7246 147.8276,-19.5859 137.249,-18.9997 139.1924,-25.7246"/>
 </g>
-<!-- Node6965&#45;&gt;Node6942 -->
+<!-- Node6925&#45;&gt;Node6902 -->
 <g id="edge3" class="edge">
-<title>Node6965&#45;&gt;Node6942</title>
+<title>Node6925&#45;&gt;Node6902</title>
 <path fill="none" stroke="#191970" d="M375.8486,-39.5577C388.0971,-41.8828 401.3064,-44.3904 413.9191,-46.7846"/>
 <polygon fill="#191970" stroke="#191970" points="413.3993,-50.2484 423.8766,-48.6749 414.7049,-43.3712 413.3993,-50.2484"/>
 </g>
-<!-- Node6965&#45;&gt;Node6965 -->
+<!-- Node6925&#45;&gt;Node6925 -->
 <g id="edge4" class="edge">
-<title>Node6965&#45;&gt;Node6965</title>
+<title>Node6925&#45;&gt;Node6925</title>
 <path fill="none" stroke="#191970" d="M303.3054,-39.7571C292.5081,-48.5653 299.9063,-58 325.5,-58 342.2959,-58 351.2556,-53.9368 352.3792,-48.6539"/>
 <polygon fill="#191970" stroke="#191970" points="355.4506,-46.9747 347.6946,-39.7571 349.2567,-50.2361 355.4506,-46.9747"/>
 </g>
-<!-- Node7007&#45;&gt;Node6965 -->
+<!-- Node6967&#45;&gt;Node6925 -->
 <g id="edge6" class="edge">
-<title>Node7007&#45;&gt;Node6965</title>
+<title>Node6967&#45;&gt;Node6925</title>
 <path fill="none" stroke="#191970" d="M227.118,-16.3831C235.3995,-17.5293 244.2104,-18.7488 253.0257,-19.969"/>
 <polygon fill="#191970" stroke="#191970" points="252.567,-23.4387 262.9524,-21.3429 253.5267,-16.5048 252.567,-23.4387"/>
 </g>

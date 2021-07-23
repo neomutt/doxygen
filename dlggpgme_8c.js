@@ -21,7 +21,7 @@ var dlggpgme_8c =
     [ "verify_key", "dlggpgme_8c.html#abf137f94451de251c8179788615f4b74", null ],
     [ "crypt_key_abilities", "dlggpgme_8c.html#ac5c11cc740658856ab48026dd1318eae", null ],
     [ "crypt_flags", "dlggpgme_8c.html#a0f14ace36026a66f26de71c895e99cf2", null ],
-    [ "crypt_format_str", "dlggpgme_8c.html#a0f917c383b09751f64bd6be090821acb", null ],
+    [ "crypt_format_str", "group__expando__api.html#ga0f917c383b09751f64bd6be090821acb", null ],
     [ "crypt_make_entry", "dlggpgme_8c.html#ab68ae4c7ba626e0c248f9d06ff9db2a3", null ],
     [ "gpgme_key_table_free", "dlggpgme_8c.html#a1b3b68a8283be23f59a7f41fe784eede", null ],
     [ "gpgme_key_config_observer", "dlggpgme_8c.html#a0a86978773047112bee0fbf6a7b6ca1a", null ],

@@ -9,97 +9,97 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 128.8303)">
 <title>generic_tokenize_push_string</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-128.8303 386,-128.8303 386,4 -4,4"/>
-<!-- Node5874 -->
+<!-- Node2095 -->
 <g id="node1" class="node">
-<title>Node5874</title>
+<title>Node2095</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-46.8199 0,-76.8199 128,-76.8199 128,-46.8199 0,-46.8199"/>
 <text text-anchor="start" x="8" y="-64.8199" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">generic_tokenize_push</text>
 <text text-anchor="middle" x="64" y="-53.8199" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">_string</text>
 </g>
-<!-- Node5875 -->
+<!-- Node2096 -->
 <g id="node2" class="node">
-<title>Node5875</title>
+<title>Node2096</title>
 <g id="a_node2"><a xlink:href="mutt_2string_8c.html#acca6786b903b22a5924219f9db96e10d" target="_top" xlink:title="Calculate the length of a string, safely. ">
 <polygon fill="#ffffff" stroke="#000000" points="293.5,-80.3199 293.5,-99.3199 371.5,-99.3199 371.5,-80.3199 293.5,-80.3199"/>
 <text text-anchor="middle" x="332.5" y="-87.3199" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_str_len</text>
 </a>
 </g>
 </g>
-<!-- Node5874&#45;&gt;Node5875 -->
+<!-- Node2095&#45;&gt;Node2096 -->
 <g id="edge1" class="edge">
-<title>Node5874&#45;&gt;Node5875</title>
+<title>Node2095&#45;&gt;Node2096</title>
 <path fill="none" stroke="#191970" d="M83.3259,-76.9283C102.5408,-90.9154 133.4796,-110.7324 164,-118.8199 199.6582,-128.2689 210.6031,-124.8245 247,-118.8199 265.5705,-115.7562 285.5309,-109.1863 301.4916,-103.0733"/>
 <polygon fill="#191970" stroke="#191970" points="302.8555,-106.2977 310.8643,-99.3616 300.2781,-99.7895 302.8555,-106.2977"/>
 </g>
-<!-- Node5876 -->
+<!-- Node2097 -->
 <g id="node3" class="node">
-<title>Node5876</title>
+<title>Node2097</title>
 <g id="a_node3"><a xlink:href="keymap_8c.html#ae77e5ffd2edcaa4ac02b1e6b51fb7775" target="_top" xlink:title="Parse a function key string. ">
 <polygon fill="#ffffff" stroke="#000000" points="170,-90.3199 170,-109.3199 241,-109.3199 241,-90.3199 170,-90.3199"/>
 <text text-anchor="middle" x="205.5" y="-97.3199" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">parse_fkey</text>
 </a>
 </g>
 </g>
-<!-- Node5874&#45;&gt;Node5876 -->
+<!-- Node2095&#45;&gt;Node2097 -->
 <g id="edge2" class="edge">
-<title>Node5874&#45;&gt;Node5876</title>
+<title>Node2095&#45;&gt;Node2097</title>
 <path fill="none" stroke="#191970" d="M119.9245,-76.8385C133.2126,-80.407 147.2313,-84.1718 159.9897,-87.598"/>
 <polygon fill="#191970" stroke="#191970" points="159.3479,-91.0496 169.9135,-90.2631 161.1635,-84.2892 159.3479,-91.0496"/>
 </g>
-<!-- Node5877 -->
+<!-- Node2098 -->
 <g id="node4" class="node">
-<title>Node5877</title>
+<title>Node2098</title>
 <g id="a_node4"><a xlink:href="mutt_2string_8c.html#aefa17bf84a5a1cb4b41afb08cd91ceff" target="_top" xlink:title="Check for equality of two strings ignoring case (to a maximum), safely. ">
 <polygon fill="#ffffff" stroke="#000000" points="283,-23.3199 283,-42.3199 382,-42.3199 382,-23.3199 283,-23.3199"/>
 <text text-anchor="middle" x="332.5" y="-30.3199" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_istrn_equal</text>
 </a>
 </g>
 </g>
-<!-- Node5874&#45;&gt;Node5877 -->
+<!-- Node2095&#45;&gt;Node2098 -->
 <g id="edge3" class="edge">
-<title>Node5874&#45;&gt;Node5877</title>
+<title>Node2095&#45;&gt;Node2098</title>
 <path fill="none" stroke="#191970" d="M83.3259,-46.7115C102.5408,-32.7244 133.4796,-12.9074 164,-4.8199 210.9618,7.6244 266.8244,-7.326 300.9629,-19.7049"/>
 <polygon fill="#191970" stroke="#191970" points="299.8163,-23.013 310.4081,-23.2667 302.2863,-16.4632 299.8163,-23.013"/>
 </g>
-<!-- Node5878 -->
+<!-- Node2099 -->
 <g id="node5" class="node">
-<title>Node5878</title>
+<title>Node2099</title>
 <g id="a_node5"><a xlink:href="keymap_8c.html#a46ec7e8f8fb0c44894e0a5939b1e46ef" target="_top" xlink:title="Lookup a menu&#39;s keybindings. ">
 <polygon fill="#ffffff" stroke="#000000" points="164,-14.3199 164,-33.3199 247,-33.3199 247,-14.3199 164,-14.3199"/>
 <text text-anchor="middle" x="205.5" y="-21.3199" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">km_get_table</text>
 </a>
 </g>
 </g>
-<!-- Node5874&#45;&gt;Node5878 -->
+<!-- Node2095&#45;&gt;Node2099 -->
 <g id="edge4" class="edge">
-<title>Node5874&#45;&gt;Node5878</title>
+<title>Node2095&#45;&gt;Node2099</title>
 <path fill="none" stroke="#191970" d="M119.9245,-46.8013C133.2126,-43.2328 147.2313,-39.468 159.9897,-36.0418"/>
 <polygon fill="#191970" stroke="#191970" points="161.1635,-39.3506 169.9135,-33.3767 159.3479,-32.5902 161.1635,-39.3506"/>
 </g>
-<!-- Node5879 -->
+<!-- Node2100 -->
 <g id="node6" class="node">
-<title>Node5879</title>
+<title>Node2100</title>
 <g id="a_node6"><a xlink:href="keymap_8c.html#a311f1f24789f9e8cb4d5b7501a9982c5" target="_top" xlink:title="Get the function by its name. ">
 <polygon fill="#ffffff" stroke="#000000" points="180.5,-52.3199 180.5,-71.3199 230.5,-71.3199 230.5,-52.3199 180.5,-52.3199"/>
 <text text-anchor="middle" x="205.5" y="-59.3199" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">get_op</text>
 </a>
 </g>
 </g>
-<!-- Node5874&#45;&gt;Node5879 -->
+<!-- Node2095&#45;&gt;Node2100 -->
 <g id="edge5" class="edge">
-<title>Node5874&#45;&gt;Node5879</title>
+<title>Node2095&#45;&gt;Node2100</title>
 <path fill="none" stroke="#191970" d="M128.1258,-61.8199C142.522,-61.8199 157.2872,-61.8199 170.009,-61.8199"/>
 <polygon fill="#191970" stroke="#191970" points="170.1618,-65.32 180.1618,-61.8199 170.1618,-58.32 170.1618,-65.32"/>
 </g>
-<!-- Node5879&#45;&gt;Node5875 -->
+<!-- Node2100&#45;&gt;Node2096 -->
 <g id="edge7" class="edge">
-<title>Node5879&#45;&gt;Node5875</title>
+<title>Node2100&#45;&gt;Node2096</title>
 <path fill="none" stroke="#191970" d="M230.5911,-67.3518C245.7175,-70.6867 265.5015,-75.0486 283.6096,-79.0409"/>
 <polygon fill="#191970" stroke="#191970" points="282.9379,-82.4768 293.457,-81.212 284.4451,-75.641 282.9379,-82.4768"/>
 </g>
-<!-- Node5879&#45;&gt;Node5877 -->
+<!-- Node2100&#45;&gt;Node2098 -->
 <g id="edge6" class="edge">
-<title>Node5879&#45;&gt;Node5877</title>
+<title>Node2100&#45;&gt;Node2098</title>
 <path fill="none" stroke="#191970" d="M230.5911,-56.0904C244.9127,-52.8202 263.4095,-48.5965 280.7061,-44.6469"/>
 <polygon fill="#191970" stroke="#191970" points="281.7408,-48.0008 290.7107,-42.3623 280.1824,-41.1764 281.7408,-48.0008"/>
 </g>

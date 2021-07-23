@@ -32,7 +32,7 @@
   <td id="projectalign" style="padding-left: 0.5em;">
    <a style="color: black; text-decoration: none;" href="https://neomutt.org">
    <div id="projectname">NeoMutt
-   &#160;<span id="projectnumber">2021-02-05-584-gb5c7a7</span>
+   &#160;<span id="projectnumber">2021-02-05-647-g5d4e00</span>
    </div>
    <div id="projectbrief">Teaching an old dog new tricks</div>
    </a>
@@ -94,9 +94,6 @@ $(document).ready(function(){initNavTree('structComprOps.html','');});
 </div><!--header-->
 <div class="contents">
 
-<p>Header Cache Compression API.  
- <a href="structComprOps.html#details">More...</a></p>
-
 <p><code>#include &quot;<a class="el" href="compress_2lib_8h_source.html">lib.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
@@ -111,22 +108,17 @@ Data Fields</h2></td></tr>
 <tr class="memdesc:a840192d536030cfc27f47675d23fc074"><td class="mdescLeft">&#160;</td><td class="mdescRight">Maximum compression level.  <a href="#a840192d536030cfc27f47675d23fc074">More...</a><br /></td></tr>
 <tr class="separator:a840192d536030cfc27f47675d23fc074"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a777771ea8c2281fe2af43adcd798c0ff"><td class="memItemLeft" align="right" valign="top">void *(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structComprOps.html#a777771ea8c2281fe2af43adcd798c0ff">open</a> )(short level)</td></tr>
-<tr class="memdesc:a777771ea8c2281fe2af43adcd798c0ff"><td class="mdescLeft">&#160;</td><td class="mdescRight">Open a compression context.  <a href="#a777771ea8c2281fe2af43adcd798c0ff">More...</a><br /></td></tr>
 <tr class="separator:a777771ea8c2281fe2af43adcd798c0ff"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afcd449d25adc8048e2b7cdb591a37dc5"><td class="memItemLeft" align="right" valign="top">void *(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structComprOps.html#afcd449d25adc8048e2b7cdb591a37dc5">compress</a> )(void *cctx, const char *data, size_t dlen, size_t *clen)</td></tr>
-<tr class="memdesc:afcd449d25adc8048e2b7cdb591a37dc5"><td class="mdescLeft">&#160;</td><td class="mdescRight">Compress header cache data.  <a href="#afcd449d25adc8048e2b7cdb591a37dc5">More...</a><br /></td></tr>
 <tr class="separator:afcd449d25adc8048e2b7cdb591a37dc5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a30b3fdd9d1888551aaa5444441134f16"><td class="memItemLeft" align="right" valign="top">void *(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structComprOps.html#a30b3fdd9d1888551aaa5444441134f16">decompress</a> )(void *cctx, const char *cbuf, size_t clen)</td></tr>
-<tr class="memdesc:a30b3fdd9d1888551aaa5444441134f16"><td class="mdescLeft">&#160;</td><td class="mdescRight">Decompress header cache data.  <a href="#a30b3fdd9d1888551aaa5444441134f16">More...</a><br /></td></tr>
 <tr class="separator:a30b3fdd9d1888551aaa5444441134f16"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a08526f624659b9b4d638928490d65d9c"><td class="memItemLeft" align="right" valign="top">void(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structComprOps.html#a08526f624659b9b4d638928490d65d9c">close</a> )(void **cctx)</td></tr>
-<tr class="memdesc:a08526f624659b9b4d638928490d65d9c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Close a compression context.  <a href="#a08526f624659b9b4d638928490d65d9c">More...</a><br /></td></tr>
 <tr class="separator:a08526f624659b9b4d638928490d65d9c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p>Header Cache Compression API. </p>
-
-<p class="definition">Definition at line <a class="el" href="compress_2lib_8h_source.html#l00055">55</a> of file <a class="el" href="compress_2lib_8h_source.html">lib.h</a>.</p>
+<div class="textblock">
+<p class="definition">Definition at line <a class="el" href="compress_2lib_8h_source.html#l00059">59</a> of file <a class="el" href="compress_2lib_8h_source.html">lib.h</a>.</p>
 </div><h2 class="groupheader">Field Documentation</h2>
 <a id="a52489ce87a6b242c311a7a2c5e359aaf"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a52489ce87a6b242c311a7a2c5e359aaf">&#9670;&nbsp;</a></span>name</h2>
@@ -142,7 +134,7 @@ Data Fields</h2></td></tr>
 
 <p>Compression name. </p>
 
-<p class="definition">Definition at line <a class="el" href="compress_2lib_8h_source.html#l00057">57</a> of file <a class="el" href="compress_2lib_8h_source.html">lib.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="compress_2lib_8h_source.html#l00061">61</a> of file <a class="el" href="compress_2lib_8h_source.html">lib.h</a>.</p>
 
 </div>
 </div>
@@ -160,7 +152,7 @@ Data Fields</h2></td></tr>
 
 <p>Minimum compression level. </p>
 
-<p class="definition">Definition at line <a class="el" href="compress_2lib_8h_source.html#l00058">58</a> of file <a class="el" href="compress_2lib_8h_source.html">lib.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="compress_2lib_8h_source.html#l00062">62</a> of file <a class="el" href="compress_2lib_8h_source.html">lib.h</a>.</p>
 
 </div>
 </div>
@@ -178,7 +170,7 @@ Data Fields</h2></td></tr>
 
 <p>Maximum compression level. </p>
 
-<p class="definition">Definition at line <a class="el" href="compress_2lib_8h_source.html#l00059">59</a> of file <a class="el" href="compress_2lib_8h_source.html">lib.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="compress_2lib_8h_source.html#l00063">63</a> of file <a class="el" href="compress_2lib_8h_source.html">lib.h</a>.</p>
 
 </div>
 </div>
@@ -194,22 +186,7 @@ Data Fields</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Open a compression context. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramdir">[in]</td><td class="paramname">level</td><td>The compression level </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="retval"><dt>Return values</dt><dd>
-  <table class="retval">
-    <tr><td class="paramname">ptr</td><td>Success, backend-specific context </td></tr>
-    <tr><td class="paramname">NULL</td><td>Otherwise </td></tr>
-  </table>
-  </dd>
-</dl>
-
-<p class="definition">Definition at line <a class="el" href="compress_2lib_8h_source.html#l00067">67</a> of file <a class="el" href="compress_2lib_8h_source.html">lib.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="compress_2lib_8h_source.html#l00074">74</a> of file <a class="el" href="compress_2lib_8h_source.html">lib.h</a>.</p>
 
 </div>
 </div>
@@ -225,26 +202,7 @@ Data Fields</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Compress header cache data. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramdir">[in]</td><td class="paramname">cctx</td><td>Compression context </td></tr>
-    <tr><td class="paramdir">[in]</td><td class="paramname">data</td><td>Data to be compressed </td></tr>
-    <tr><td class="paramdir">[in]</td><td class="paramname">dlen</td><td>Length of the uncompressed data </td></tr>
-    <tr><td class="paramdir">[out]</td><td class="paramname">clen</td><td>Length of returned compressed data </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="retval"><dt>Return values</dt><dd>
-  <table class="retval">
-    <tr><td class="paramname">ptr</td><td>Success, pointer to compressed data </td></tr>
-    <tr><td class="paramname">NULL</td><td>Otherwise</td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="section note"><dt>Note</dt><dd>This function returns a pointer to data, which will be freed by the <a class="el" href="structComprOps.html#a08526f624659b9b4d638928490d65d9c" title="Close a compression context. ">close()</a> function. </dd></dl>
-
-<p class="definition">Definition at line <a class="el" href="compress_2lib_8h_source.html#l00081">81</a> of file <a class="el" href="compress_2lib_8h_source.html">lib.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="compress_2lib_8h_source.html#l00091">91</a> of file <a class="el" href="compress_2lib_8h_source.html">lib.h</a>.</p>
 
 </div>
 </div>
@@ -260,25 +218,7 @@ Data Fields</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Decompress header cache data. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramdir">[in]</td><td class="paramname">cctx</td><td>Compression context </td></tr>
-    <tr><td class="paramdir">[in]</td><td class="paramname">cbuf</td><td>Data to be decompressed </td></tr>
-    <tr><td class="paramdir">[in]</td><td class="paramname">clen</td><td>Length of the compressed input data </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="retval"><dt>Return values</dt><dd>
-  <table class="retval">
-    <tr><td class="paramname">ptr</td><td>Success, pointer to decompressed data </td></tr>
-    <tr><td class="paramname">NULL</td><td>Otherwise</td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="section note"><dt>Note</dt><dd>This function returns a pointer to data, which will be freed by the <a class="el" href="structComprOps.html#a08526f624659b9b4d638928490d65d9c" title="Close a compression context. ">close()</a> function. </dd></dl>
-
-<p class="definition">Definition at line <a class="el" href="compress_2lib_8h_source.html#l00094">94</a> of file <a class="el" href="compress_2lib_8h_source.html">lib.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="compress_2lib_8h_source.html#l00107">107</a> of file <a class="el" href="compress_2lib_8h_source.html">lib.h</a>.</p>
 
 </div>
 </div>
@@ -294,16 +234,7 @@ Data Fields</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Close a compression context. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramdir">[out]</td><td class="paramname">cctx</td><td>Backend-specific context retrieved via <a class="el" href="structComprOps.html#a777771ea8c2281fe2af43adcd798c0ff" title="Open a compression context. ">open()</a></td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="section note"><dt>Note</dt><dd>This function will free all allocated resources, which were allocated by <a class="el" href="structComprOps.html#a777771ea8c2281fe2af43adcd798c0ff" title="Open a compression context. ">open()</a>, <a class="el" href="structComprOps.html#afcd449d25adc8048e2b7cdb591a37dc5" title="Compress header cache data. ">compress()</a> or <a class="el" href="structComprOps.html#a30b3fdd9d1888551aaa5444441134f16" title="Decompress header cache data. ">decompress()</a> </dd></dl>
-
-<p class="definition">Definition at line <a class="el" href="compress_2lib_8h_source.html#l00103">103</a> of file <a class="el" href="compress_2lib_8h_source.html">lib.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="compress_2lib_8h_source.html#l00119">119</a> of file <a class="el" href="compress_2lib_8h_source.html">lib.h</a>.</p>
 
 </div>
 </div>

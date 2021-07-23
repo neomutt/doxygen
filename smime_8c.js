@@ -7,7 +7,7 @@ var smime_8c =
     [ "smime_copy_key", "smime_8c.html#a0d53f5a314a25f777d3bf039318a3c68", null ],
     [ "smime_class_void_passphrase", "smime_8c.html#adb364b3c8158f09603b981b70bbee2eb", null ],
     [ "smime_class_valid_passphrase", "smime_8c.html#aaa50dd72a9aae26aa62d0510121d41f9", null ],
-    [ "smime_command_format_str", "smime_8c.html#aae48c05dc7a86cb6e8992a7a186c4d34", null ],
+    [ "smime_command_format_str", "group__expando__api.html#gaae48c05dc7a86cb6e8992a7a186c4d34", null ],
     [ "smime_command", "smime_8c.html#a61cdf32d1db4e2725b27a3576505eaef", null ],
     [ "smime_invoke", "smime_8c.html#aee830a36c5114c8737a196fc888eb015", null ],
     [ "smime_parse_key", "smime_8c.html#ace7fb82ca4df0c946a43d7ab10f237a8", null ],

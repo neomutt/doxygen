@@ -9,90 +9,90 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 176)">
 <title>mutt_window_addnstr</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-176 442,-176 442,4 -4,4"/>
-<!-- Node9177 -->
+<!-- Node10014 -->
 <g id="node1" class="node">
-<title>Node9177</title>
+<title>Node10014</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-76.5 0,-95.5 125,-95.5 125,-76.5 0,-76.5"/>
 <text text-anchor="middle" x="62.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_window_addnstr</text>
 </g>
-<!-- Node9178 -->
+<!-- Node10015 -->
 <g id="node2" class="node">
-<title>Node9178</title>
+<title>Node10015</title>
 <g id="a_node2"><a xlink:href="curs__lib_8h.html#a861e3d2f47099563f8c21a1bb0eb2092" target="_top" xlink:title="Display a string on screen, padded if necessary. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="179.5,-152.5 179.5,-171.5 261.5,-171.5 261.5,-152.5 179.5,-152.5"/>
 <text text-anchor="middle" x="220.5" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_paddstr</text>
 </a>
 </g>
 </g>
-<!-- Node9177&#45;&gt;Node9178 -->
+<!-- Node10014&#45;&gt;Node10015 -->
 <g id="edge1" class="edge">
-<title>Node9177&#45;&gt;Node9178</title>
+<title>Node10014&#45;&gt;Node10015</title>
 <path fill="none" stroke="#191970" d="M88.2591,-100.5283C107.9219,-111.3895 135.8273,-126.3159 161,-138 172.0125,-143.1116 184.4339,-148.2213 195.068,-152.404"/>
 <polygon fill="#191970" stroke="#191970" points="89.7572,-97.3567 79.3167,-95.555 86.3549,-103.4742 89.7572,-97.3567"/>
 </g>
-<!-- Node9759 -->
+<!-- Node10650 -->
 <g id="node3" class="node">
-<title>Node9759</title>
+<title>Node10650</title>
 <g id="a_node3"><a xlink:href="index_2lib_8h.html#a74ec708393189456506dcb292698f3e0" target="_top" xlink:title="Draw a highlighted status bar. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="316,-133.5 316,-152.5 438,-152.5 438,-133.5 316,-133.5"/>
 <text text-anchor="middle" x="377" y="-140.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_draw_statusline</text>
 </a>
 </g>
 </g>
-<!-- Node9177&#45;&gt;Node9759 -->
+<!-- Node10014&#45;&gt;Node10650 -->
 <g id="edge3" class="edge">
-<title>Node9177&#45;&gt;Node9759</title>
+<title>Node10014&#45;&gt;Node10650</title>
 <path fill="none" stroke="#191970" d="M120.9598,-97.4404C134.1232,-99.9708 148.0342,-102.6091 161,-105 215.4819,-115.0463 277.8082,-125.948 321.4626,-133.4875"/>
 <polygon fill="#191970" stroke="#191970" points="121.5494,-93.9897 111.0675,-95.5324 120.2236,-100.863 121.5494,-93.9897"/>
 </g>
-<!-- Node9452 -->
+<!-- Node10319 -->
 <g id="node4" class="node">
-<title>Node9452</title>
+<title>Node10319</title>
 <g id="a_node4"><a xlink:href="draw_8c.html#ad039781b7e77461d9c5bac167ccbd2ce" target="_top" xlink:title="Display a string with embedded colours and graphics. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="161,-76.5 161,-95.5 280,-95.5 280,-76.5 161,-76.5"/>
 <text text-anchor="middle" x="220.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">print_enriched_string</text>
 </a>
 </g>
 </g>
-<!-- Node9177&#45;&gt;Node9452 -->
+<!-- Node10014&#45;&gt;Node10319 -->
 <g id="edge4" class="edge">
-<title>Node9177&#45;&gt;Node9452</title>
+<title>Node10014&#45;&gt;Node10319</title>
 <path fill="none" stroke="#191970" d="M135.6463,-86C144.1046,-86 152.653,-86 160.9007,-86"/>
 <polygon fill="#191970" stroke="#191970" points="135.3998,-82.5001 125.3998,-86 135.3997,-89.5001 135.3998,-82.5001"/>
 </g>
-<!-- Node9766 -->
+<!-- Node10657 -->
 <g id="node5" class="node">
-<title>Node9766</title>
+<title>Node10657</title>
 <g id="a_node5"><a xlink:href="question_8c.html#a95d1cd189641185a743df0397ea072c8" target="_top" xlink:title="Offer the user a multiple choice question. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="167,-38.5 167,-57.5 274,-57.5 274,-38.5 167,-38.5"/>
 <text text-anchor="middle" x="220.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_multi_choice</text>
 </a>
 </g>
 </g>
-<!-- Node9177&#45;&gt;Node9766 -->
+<!-- Node10014&#45;&gt;Node10657 -->
 <g id="edge5" class="edge">
-<title>Node9177&#45;&gt;Node9766</title>
+<title>Node10014&#45;&gt;Node10657</title>
 <path fill="none" stroke="#191970" d="M112.2616,-74.032C134.4029,-68.7069 160.1116,-62.5238 180.9166,-57.5201"/>
 <polygon fill="#191970" stroke="#191970" points="111.2744,-70.6696 102.3701,-76.411 112.9113,-77.4755 111.2744,-70.6696"/>
 </g>
-<!-- Node9769 -->
+<!-- Node10660 -->
 <g id="node6" class="node">
-<title>Node9769</title>
+<title>Node10660</title>
 <g id="a_node6"><a xlink:href="question_8c.html#a67a4f6d2c21c9de420130089bb20505c" target="_top" xlink:title="Ask the user a Yes/No question. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="178.5,-.5 178.5,-19.5 262.5,-19.5 262.5,-.5 178.5,-.5"/>
 <text text-anchor="middle" x="220.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_yesorno</text>
 </a>
 </g>
 </g>
-<!-- Node9177&#45;&gt;Node9769 -->
+<!-- Node10014&#45;&gt;Node10660 -->
 <g id="edge6" class="edge">
-<title>Node9177&#45;&gt;Node9769</title>
+<title>Node10014&#45;&gt;Node10660</title>
 <path fill="none" stroke="#191970" d="M85.1576,-70.9994C104.6597,-58.5554 133.8633,-41.0159 161,-29 169.0313,-25.4438 177.937,-22.2358 186.3598,-19.5118"/>
 <polygon fill="#191970" stroke="#191970" points="83.1672,-68.1184 76.6686,-76.4861 86.967,-73.9973 83.1672,-68.1184"/>
 </g>
-<!-- Node9178&#45;&gt;Node9759 -->
+<!-- Node10015&#45;&gt;Node10650 -->
 <g id="edge2" class="edge">
-<title>Node9178&#45;&gt;Node9759</title>
+<title>Node10015&#45;&gt;Node10650</title>
 <path fill="none" stroke="#191970" d="M271.6292,-155.7926C285.7461,-154.0787 301.207,-152.2017 315.8311,-150.4263"/>
 <polygon fill="#191970" stroke="#191970" points="271.1238,-152.3282 261.6185,-157.008 271.9675,-159.2772 271.1238,-152.3282"/>
 </g>

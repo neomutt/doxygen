@@ -9,237 +9,237 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 518)">
 <title>nntp_check_msgid</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-518 437,-518 437,4 -4,4"/>
-<!-- Node41329 -->
+<!-- Node36738 -->
 <g id="node1" class="node">
-<title>Node41329</title>
+<title>Node36738</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-247.5 0,-266.5 107,-266.5 107,-247.5 0,-247.5"/>
 <text text-anchor="middle" x="53.5" y="-254.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nntp_check_msgid</text>
 </g>
-<!-- Node41330 -->
+<!-- Node36739 -->
 <g id="node2" class="node">
-<title>Node41330</title>
+<title>Node36739</title>
 <g id="a_node2"><a xlink:href="nntp_8c.html#aac2507d416301d774b449353d2e8af52" target="_top" xlink:title="Read lines, calling a callback function for each. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="165.5,-494.5 165.5,-513.5 262.5,-513.5 262.5,-494.5 165.5,-494.5"/>
 <text text-anchor="middle" x="214" y="-501.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nntp_fetch_lines</text>
 </a>
 </g>
 </g>
-<!-- Node41329&#45;&gt;Node41330 -->
+<!-- Node36738&#45;&gt;Node36739 -->
 <g id="edge1" class="edge">
-<title>Node41329&#45;&gt;Node41330</title>
+<title>Node36738&#45;&gt;Node36739</title>
 <path fill="none" stroke="#191970" d="M54.5194,-266.6186C58.6534,-300.8169 77.231,-417.7957 143,-480 147.2997,-484.0667 152.3129,-487.4459 157.6502,-490.2536"/>
 <polygon fill="#191970" stroke="#191970" points="156.3192,-493.4933 166.8698,-494.4596 159.2245,-487.1247 156.3192,-493.4933"/>
 </g>
-<!-- Node41332 -->
+<!-- Node36741 -->
 <g id="node3" class="node">
-<title>Node41332</title>
+<title>Node36741</title>
 <g id="a_node3"><a xlink:href="nntp_8c.html#a91a111632ed65df68e26ff839265c801" target="_top" xlink:title="Send data from buffer and receive answer to same buffer. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="341.5,-475.5 341.5,-494.5 412.5,-494.5 412.5,-475.5 341.5,-475.5"/>
 <text text-anchor="middle" x="377" y="-482.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nntp_query</text>
 </a>
 </g>
 </g>
-<!-- Node41329&#45;&gt;Node41332 -->
+<!-- Node36738&#45;&gt;Node36741 -->
 <g id="edge14" class="edge">
-<title>Node41329&#45;&gt;Node41332</title>
+<title>Node36738&#45;&gt;Node36741</title>
 <path fill="none" stroke="#191970" d="M54.9045,-266.8723C60.0104,-298.8208 80.683,-400.0399 143,-447 171.9146,-468.7891 271.6078,-478.577 331.1373,-482.568"/>
 <polygon fill="#191970" stroke="#191970" points="331.1982,-486.079 341.4016,-483.2256 331.6458,-479.0934 331.1982,-486.079"/>
 </g>
-<!-- Node43023 -->
+<!-- Node38741 -->
 <g id="node4" class="node">
-<title>Node43023</title>
+<title>Node38741</title>
 <g id="a_node4"><a xlink:href="nntp_8c.html#aaf413f6c5603eab3efd124f2c56df842" target="_top" xlink:title="Write line to temporary file. ">
 <polygon fill="#ffffff" stroke="#000000" points="170.5,-418.5 170.5,-437.5 257.5,-437.5 257.5,-418.5 170.5,-418.5"/>
 <text text-anchor="middle" x="214" y="-425.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">fetch_tempfile</text>
 </a>
 </g>
 </g>
-<!-- Node41329&#45;&gt;Node43023 -->
+<!-- Node36738&#45;&gt;Node38741 -->
 <g id="edge3" class="edge">
-<title>Node41329&#45;&gt;Node43023</title>
+<title>Node36738&#45;&gt;Node38741</title>
 <path fill="none" stroke="#191970" d="M56.2905,-266.5719C64.6384,-293.4653 92.0502,-370.2629 143,-409 148.1995,-412.9531 154.1582,-416.085 160.3648,-418.5661"/>
 <polygon fill="#191970" stroke="#191970" points="159.6539,-422.0222 170.2485,-421.9536 161.9235,-415.4003 159.6539,-422.0222"/>
 </g>
-<!-- Node41506 -->
+<!-- Node36915 -->
 <g id="node5" class="node">
-<title>Node41506</title>
+<title>Node36915</title>
 <g id="a_node5"><a xlink:href="file_8c.html#a31f49795ff5b9558db5476e5777e63b6" target="_top" xlink:title="Close a FILE handle (and NULL the pointer) ">
 <polygon fill="#ffffff" stroke="#000000" points="166.5,-380.5 166.5,-399.5 261.5,-399.5 261.5,-380.5 166.5,-380.5"/>
 <text text-anchor="middle" x="214" y="-387.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_file_fclose</text>
 </a>
 </g>
 </g>
-<!-- Node41329&#45;&gt;Node41506 -->
+<!-- Node36738&#45;&gt;Node36915 -->
 <g id="edge4" class="edge">
-<title>Node41329&#45;&gt;Node41506</title>
+<title>Node36738&#45;&gt;Node36915</title>
 <path fill="none" stroke="#191970" d="M58.8732,-266.6853C71.0671,-287.8004 102.9129,-338.3007 143,-366 149.1819,-370.2716 156.1879,-373.8373 163.3315,-376.7982"/>
 <polygon fill="#191970" stroke="#191970" points="162.5016,-380.2254 173.0936,-380.4705 164.9662,-373.6736 162.5016,-380.2254"/>
 </g>
-<!-- Node41408 -->
+<!-- Node36817 -->
 <g id="node6" class="node">
-<title>Node41408</title>
+<title>Node36817</title>
 <g id="a_node6"><a xlink:href="mutt_2string_8c.html#a9bf968304f4f9b49e24215cb2e28d22d" target="_top" xlink:title="Check whether a string starts with a prefix. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="321,-247.5 321,-266.5 433,-266.5 433,-247.5 321,-247.5"/>
 <text text-anchor="middle" x="377" y="-254.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_str_startswith</text>
 </a>
 </g>
 </g>
-<!-- Node41329&#45;&gt;Node41408 -->
+<!-- Node36738&#45;&gt;Node36817 -->
 <g id="edge5" class="edge">
-<title>Node41329&#45;&gt;Node41408</title>
+<title>Node36738&#45;&gt;Node36817</title>
 <path fill="none" stroke="#191970" d="M60.8113,-266.6145C74.6202,-283.8774 106.4529,-319.5762 143,-333 202.2414,-354.7594 225.6124,-354.3572 285,-333 317.29,-321.3877 346.309,-292.9872 362.7726,-274.3836"/>
 <polygon fill="#191970" stroke="#191970" points="365.5741,-276.493 369.4201,-266.6209 360.2572,-271.9399 365.5741,-276.493"/>
 </g>
-<!-- Node41566 -->
+<!-- Node36975 -->
 <g id="node7" class="node">
-<title>Node41566</title>
+<title>Node36975</title>
 <g id="a_node7"><a xlink:href="mx_8c.html#acd0bf144d7c5ae05d86d8fb5e0058780" target="_top" xlink:title="Create storage for the emails. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="160.5,-304.5 160.5,-323.5 267.5,-323.5 267.5,-304.5 160.5,-304.5"/>
 <text text-anchor="middle" x="214" y="-311.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mx_alloc_memory</text>
 </a>
 </g>
 </g>
-<!-- Node41329&#45;&gt;Node41566 -->
+<!-- Node36738&#45;&gt;Node36975 -->
 <g id="edge6" class="edge">
-<title>Node41329&#45;&gt;Node41566</title>
+<title>Node36738&#45;&gt;Node36975</title>
 <path fill="none" stroke="#191970" d="M73.7991,-266.5842C91.7351,-274.8184 118.7383,-286.6491 143,-295 149.8848,-297.3697 157.228,-299.6271 164.4831,-301.7043"/>
 <polygon fill="#191970" stroke="#191970" points="163.6989,-305.1189 174.2706,-304.419 165.5698,-298.3735 163.6989,-305.1189"/>
 </g>
-<!-- Node41584 -->
+<!-- Node36993 -->
 <g id="node8" class="node">
-<title>Node41584</title>
+<title>Node36993</title>
 <g id="a_node8"><a xlink:href="email_2email_8c.html#a77c9ecff4b23001b81177ffe398bad44" target="_top" xlink:title="Create a new Email. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="179,-266.5 179,-285.5 249,-285.5 249,-266.5 179,-266.5"/>
 <text text-anchor="middle" x="214" y="-273.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">email_new</text>
 </a>
 </g>
 </g>
-<!-- Node41329&#45;&gt;Node41584 -->
+<!-- Node36738&#45;&gt;Node36993 -->
 <g id="edge7" class="edge">
-<title>Node41329&#45;&gt;Node41584</title>
+<title>Node36738&#45;&gt;Node36993</title>
 <path fill="none" stroke="#191970" d="M107.3907,-263.3796C127.3069,-265.7373 149.6597,-268.3834 168.734,-270.6414"/>
 <polygon fill="#191970" stroke="#191970" points="168.3253,-274.1174 178.6674,-271.8173 169.1483,-267.1659 168.3253,-274.1174"/>
 </g>
-<!-- Node43024 -->
+<!-- Node38742 -->
 <g id="node9" class="node">
-<title>Node43024</title>
+<title>Node38742</title>
 <g id="a_node9"><a xlink:href="nntp_2edata_8c.html#a5377538a3451b3bd5a3198477edba2e6" target="_top" xlink:title="Create a new NntpEmailData for an Email. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="165.5,-228.5 165.5,-247.5 262.5,-247.5 262.5,-228.5 165.5,-228.5"/>
 <text text-anchor="middle" x="214" y="-235.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nntp_edata_new</text>
 </a>
 </g>
 </g>
-<!-- Node41329&#45;&gt;Node43024 -->
+<!-- Node36738&#45;&gt;Node38742 -->
 <g id="edge8" class="edge">
-<title>Node41329&#45;&gt;Node43024</title>
+<title>Node36738&#45;&gt;Node38742</title>
 <path fill="none" stroke="#191970" d="M107.3907,-250.6204C122.7798,-248.7987 139.6237,-246.8047 155.2858,-244.9506"/>
 <polygon fill="#191970" stroke="#191970" points="155.861,-248.407 165.3802,-243.7556 155.038,-241.4556 155.861,-248.407"/>
 </g>
-<!-- Node43025 -->
+<!-- Node38743 -->
 <g id="node10" class="node">
-<title>Node43025</title>
+<title>Node38743</title>
 <g id="a_node10"><a xlink:href="nntp_2edata_8c.html#abde0fac585d1a21a6a7677d489e6b41d" target="_top" xlink:title="Free the private Email data &#45; Implements Email::edata_free() ">
 <polygon fill="#ffffff" stroke="#000000" points="166,-190.5 166,-209.5 262,-209.5 262,-190.5 166,-190.5"/>
 <text text-anchor="middle" x="214" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nntp_edata_free</text>
 </a>
 </g>
 </g>
-<!-- Node41329&#45;&gt;Node43025 -->
+<!-- Node36738&#45;&gt;Node38743 -->
 <g id="edge9" class="edge">
-<title>Node41329&#45;&gt;Node43025</title>
+<title>Node36738&#45;&gt;Node38743</title>
 <path fill="none" stroke="#191970" d="M73.7991,-247.4158C91.7351,-239.1816 118.7383,-227.3509 143,-219 149.8848,-216.6303 157.228,-214.3729 164.4831,-212.2957"/>
 <polygon fill="#191970" stroke="#191970" points="165.5698,-215.6265 174.2706,-209.581 163.6989,-208.8811 165.5698,-215.6265"/>
 </g>
-<!-- Node41793 -->
+<!-- Node37202 -->
 <g id="node11" class="node">
-<title>Node41793</title>
+<title>Node37202</title>
 <g id="a_node11"><a xlink:href="parse_8c.html#a32cd9ed48d31f100bd8525018e1450da" target="_top" xlink:title="parses an RFC822 header ">
 <polygon fill="#ffffff" stroke="#ff0000" points="143,-152.5 143,-171.5 285,-171.5 285,-152.5 143,-152.5"/>
 <text text-anchor="middle" x="214" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_rfc822_read_header</text>
 </a>
 </g>
 </g>
-<!-- Node41329&#45;&gt;Node41793 -->
+<!-- Node36738&#45;&gt;Node37202 -->
 <g id="edge10" class="edge">
-<title>Node41329&#45;&gt;Node41793</title>
+<title>Node36738&#45;&gt;Node37202</title>
 <path fill="none" stroke="#191970" d="M62.1425,-247.2693C77.0438,-231.0913 109.237,-198.6953 143,-181 147.4766,-178.6538 152.2677,-176.5788 157.1687,-174.7471"/>
 <polygon fill="#191970" stroke="#191970" points="158.3327,-178.0483 166.6754,-171.5176 156.081,-171.4203 158.3327,-178.0483"/>
 </g>
-<!-- Node43026 -->
+<!-- Node38744 -->
 <g id="node12" class="node">
-<title>Node43026</title>
+<title>Node38744</title>
 <g id="a_node12"><a xlink:href="nntp_8c.html#aba0b869ad5244bb92012df19edef7bd5" target="_top" xlink:title="Parse cross&#45;reference. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="166.5,-114.5 166.5,-133.5 261.5,-133.5 261.5,-114.5 166.5,-114.5"/>
 <text text-anchor="middle" x="214" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nntp_parse_xref</text>
 </a>
 </g>
 </g>
-<!-- Node41329&#45;&gt;Node43026 -->
+<!-- Node36738&#45;&gt;Node38744 -->
 <g id="edge12" class="edge">
-<title>Node41329&#45;&gt;Node43026</title>
+<title>Node36738&#45;&gt;Node38744</title>
 <path fill="none" stroke="#191970" d="M58.273,-247.3327C69.6878,-225.2481 100.7877,-170.8585 143,-143 147.2833,-140.1732 151.9731,-137.7657 156.836,-135.7154"/>
 <polygon fill="#191970" stroke="#191970" points="158.1771,-138.9512 166.3397,-132.1967 155.7466,-132.3866 158.1771,-138.9512"/>
 </g>
-<!-- Node42382 -->
+<!-- Node37799 -->
 <g id="node13" class="node">
-<title>Node42382</title>
+<title>Node37799</title>
 <g id="a_node13"><a xlink:href="nntp_2edata_8c.html#af8254ee05551fd9c812a24ee01d72eae" target="_top" xlink:title="Get the private data for this Email. ">
 <polygon fill="#ffffff" stroke="#000000" points="331,-95.5 331,-114.5 423,-114.5 423,-95.5 331,-95.5"/>
 <text text-anchor="middle" x="377" y="-102.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nntp_edata_get</text>
 </a>
 </g>
 </g>
-<!-- Node41329&#45;&gt;Node42382 -->
+<!-- Node36738&#45;&gt;Node37799 -->
 <g id="edge16" class="edge">
-<title>Node41329&#45;&gt;Node42382</title>
+<title>Node36738&#45;&gt;Node37799</title>
 <path fill="none" stroke="#191970" d="M55.7228,-247.1321C62.7101,-218.7526 87.1691,-136.9163 143,-105 202.3922,-71.0478 284.9012,-81.7636 334.4147,-93.073"/>
 <polygon fill="#191970" stroke="#191970" points="333.6201,-96.4816 344.16,-95.4044 335.2489,-89.6737 333.6201,-96.4816"/>
 </g>
-<!-- Node41385 -->
+<!-- Node36794 -->
 <g id="node14" class="node">
-<title>Node41385</title>
+<title>Node36794</title>
 <g id="a_node14"><a xlink:href="email_2email_8c.html#ae9f719d3fc31d00b92bcf9f77d56ee67" target="_top" xlink:title="Free an Email. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="179.5,-38.5 179.5,-57.5 248.5,-57.5 248.5,-38.5 179.5,-38.5"/>
 <text text-anchor="middle" x="214" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">email_free</text>
 </a>
 </g>
 </g>
-<!-- Node41329&#45;&gt;Node41385 -->
+<!-- Node36738&#45;&gt;Node36794 -->
 <g id="edge15" class="edge">
-<title>Node41329&#45;&gt;Node41385</title>
+<title>Node36738&#45;&gt;Node36794</title>
 <path fill="none" stroke="#191970" d="M55.4043,-247.3513C61.8997,-216.9644 86.0203,-122.2872 143,-72 150.6094,-65.2844 160.1731,-60.433 169.7937,-56.9334"/>
 <polygon fill="#191970" stroke="#191970" points="170.9091,-60.2514 179.3631,-53.8653 168.7719,-53.5856 170.9091,-60.2514"/>
 </g>
-<!-- Node41564 -->
+<!-- Node36973 -->
 <g id="node15" class="node">
-<title>Node41564</title>
+<title>Node36973</title>
 <g id="a_node15"><a xlink:href="mailbox_8c.html#af09ac36728ca3255523cd3b0bfd1f172" target="_top" xlink:title="Notify observers of a change to a Mailbox. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="162.5,-.5 162.5,-19.5 265.5,-19.5 265.5,-.5 162.5,-.5"/>
 <text text-anchor="middle" x="214" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mailbox_changed</text>
 </a>
 </g>
 </g>
-<!-- Node41329&#45;&gt;Node41564 -->
+<!-- Node36738&#45;&gt;Node36973 -->
 <g id="edge17" class="edge">
-<title>Node41329&#45;&gt;Node41564</title>
+<title>Node36738&#45;&gt;Node36973</title>
 <path fill="none" stroke="#191970" d="M54.3072,-247.0178C57.7246,-211.5535 74.1828,-90.4751 143,-29 146.0184,-26.3036 149.3788,-23.9838 152.9501,-21.9885"/>
 <polygon fill="#191970" stroke="#191970" points="154.6121,-25.0751 162.1871,-17.6677 151.6461,-18.7345 154.6121,-25.0751"/>
 </g>
-<!-- Node41330&#45;&gt;Node41332 -->
+<!-- Node36739&#45;&gt;Node36741 -->
 <g id="edge2" class="edge">
-<title>Node41330&#45;&gt;Node41332</title>
+<title>Node36739&#45;&gt;Node36741</title>
 <path fill="none" stroke="#191970" d="M262.9054,-498.2994C284.5835,-495.7725 309.9451,-492.8162 331.2448,-490.3334"/>
 <polygon fill="#191970" stroke="#191970" points="331.8132,-493.791 341.3407,-489.1566 331.0027,-486.838 331.8132,-493.791"/>
 </g>
-<!-- Node41793&#45;&gt;Node41408 -->
+<!-- Node37202&#45;&gt;Node36817 -->
 <g id="edge11" class="edge">
-<title>Node41793&#45;&gt;Node41408</title>
+<title>Node37202&#45;&gt;Node36817</title>
 <path fill="none" stroke="#191970" d="M261.2813,-171.6009C269.422,-174.1043 277.6278,-177.1997 285,-181 314.8618,-196.3935 343.8077,-222.7809 361.0156,-240.0571"/>
 <polygon fill="#191970" stroke="#191970" points="358.5708,-242.5632 368.0571,-247.2814 363.5836,-237.6773 358.5708,-242.5632"/>
 </g>
-<!-- Node43026&#45;&gt;Node42382 -->
+<!-- Node38744&#45;&gt;Node37799 -->
 <g id="edge13" class="edge">
-<title>Node43026&#45;&gt;Node42382</title>
+<title>Node38744&#45;&gt;Node37799</title>
 <path fill="none" stroke="#191970" d="M261.5845,-118.4533C280.064,-116.2993 301.3748,-113.8152 320.6157,-111.5724"/>
 <polygon fill="#191970" stroke="#191970" points="321.2333,-115.0242 330.7608,-110.3898 320.4227,-108.0713 321.2333,-115.0242"/>
 </g>

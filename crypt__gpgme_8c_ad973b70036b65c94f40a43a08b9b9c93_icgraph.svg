@@ -9,45 +9,45 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 43)">
 <title>crypt_getkeybystr</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-43 350,-43 350,4 -4,4"/>
-<!-- Node57343 -->
+<!-- Node57091 -->
 <g id="node1" class="node">
-<title>Node57343</title>
+<title>Node57091</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-.5 0,-19.5 105,-19.5 105,-.5 0,-.5"/>
 <text text-anchor="middle" x="52.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">crypt_getkeybystr</text>
 </g>
-<!-- Node57344 -->
+<!-- Node57092 -->
 <g id="node2" class="node">
-<title>Node57344</title>
+<title>Node57092</title>
 <g id="a_node2"><a xlink:href="crypt__gpgme_8c.html#ad4d211dd6072df61ecfc4c7311f1aaec" target="_top" xlink:title="Ask the user for a key. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="141,-19.5 141,-38.5 247,-38.5 247,-19.5 141,-19.5"/>
 <text text-anchor="middle" x="194" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">crypt_ask_for_key</text>
 </a>
 </g>
 </g>
-<!-- Node57343&#45;&gt;Node57344 -->
+<!-- Node57091&#45;&gt;Node57092 -->
 <g id="edge1" class="edge">
-<title>Node57343&#45;&gt;Node57344</title>
+<title>Node57091&#45;&gt;Node57092</title>
 <path fill="none" stroke="#191970" d="M115.1364,-18.4105C123.6987,-19.5603 132.4217,-20.7315 140.7947,-21.8558"/>
 <polygon fill="#191970" stroke="#191970" points="115.5662,-14.9369 105.1894,-17.0749 114.6346,-21.8747 115.5662,-14.9369"/>
 </g>
-<!-- Node57345 -->
+<!-- Node57093 -->
 <g id="node3" class="node">
-<title>Node57345</title>
+<title>Node57093</title>
 <g id="a_node3"><a xlink:href="crypt__gpgme_8c.html#aa15024a537ac84b348d4f4dd7e3fc7bf" target="_top" xlink:title="Find keys of the recipients of the message. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="283,-.5 283,-19.5 346,-19.5 346,-.5 283,-.5"/>
 <text text-anchor="middle" x="314.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">find_keys</text>
 </a>
 </g>
 </g>
-<!-- Node57343&#45;&gt;Node57345 -->
+<!-- Node57091&#45;&gt;Node57093 -->
 <g id="edge3" class="edge">
-<title>Node57343&#45;&gt;Node57345</title>
+<title>Node57091&#45;&gt;Node57093</title>
 <path fill="none" stroke="#191970" d="M115.4822,-10C168.3104,-10 241.5611,-10 282.8661,-10"/>
 <polygon fill="#191970" stroke="#191970" points="115.2045,-6.5001 105.2044,-10 115.2044,-13.5001 115.2045,-6.5001"/>
 </g>
-<!-- Node57344&#45;&gt;Node57345 -->
+<!-- Node57092&#45;&gt;Node57093 -->
 <g id="edge2" class="edge">
-<title>Node57344&#45;&gt;Node57345</title>
+<title>Node57092&#45;&gt;Node57093</title>
 <path fill="none" stroke="#191970" d="M257.1794,-19.0381C266.0192,-17.6443 274.7747,-16.2637 282.6824,-15.0169"/>
 <polygon fill="#191970" stroke="#191970" points="256.5366,-15.5961 247.2038,-20.611 257.6269,-22.5107 256.5366,-15.5961"/>
 </g>

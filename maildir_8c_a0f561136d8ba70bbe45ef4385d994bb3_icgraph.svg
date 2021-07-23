@@ -9,30 +9,30 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 112)">
 <title>maildir_hcache_keylen</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-112 315,-112 315,4 -4,4"/>
-<!-- Node5749 -->
+<!-- Node5521 -->
 <g id="node1" class="node">
-<title>Node5749</title>
+<title>Node5521</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-44.5 0,-63.5 129,-63.5 129,-44.5 0,-44.5"/>
 <text text-anchor="middle" x="64.5" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">maildir_hcache_keylen</text>
 </g>
-<!-- Node5750 -->
+<!-- Node5522 -->
 <g id="node2" class="node">
-<title>Node5750</title>
+<title>Node5522</title>
 <g id="a_node2"><a xlink:href="maildir_8c.html#adc6b83c9f03a35c0069a66bb739bf199" target="_top" xlink:title="This function does the second parsing pass. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="169.5,-88.5 169.5,-107.5 306.5,-107.5 306.5,-88.5 169.5,-88.5"/>
 <text text-anchor="middle" x="238" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">maildir_delayed_parsing</text>
 </a>
 </g>
 </g>
-<!-- Node5749&#45;&gt;Node5750 -->
+<!-- Node5521&#45;&gt;Node5522 -->
 <g id="edge1" class="edge">
-<title>Node5749&#45;&gt;Node5750</title>
+<title>Node5521&#45;&gt;Node5522</title>
 <path fill="none" stroke="#191970" d="M112.0617,-66.0617C139.8877,-73.1185 174.5243,-81.9024 200.4266,-88.4713"/>
 <polygon fill="#191970" stroke="#191970" points="112.7005,-62.613 102.1469,-63.5473 110.9797,-69.3982 112.7005,-62.613"/>
 </g>
-<!-- Node5755 -->
+<!-- Node5527 -->
 <g id="node3" class="node">
-<title>Node5755</title>
+<title>Node5527</title>
 <g id="a_node3"><a xlink:href="maildir_8c.html#aeff23625cc9421f1facd69a05888a879" target="_top" xlink:title="Save changes to the mailbox. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="176,-39 176,-69 300,-69 300,-39 176,-39"/>
 <text text-anchor="start" x="184" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">maildir_sync_mailbox</text>
@@ -40,24 +40,24 @@
 </a>
 </g>
 </g>
-<!-- Node5749&#45;&gt;Node5755 -->
+<!-- Node5521&#45;&gt;Node5527 -->
 <g id="edge2" class="edge">
-<title>Node5749&#45;&gt;Node5755</title>
+<title>Node5521&#45;&gt;Node5527</title>
 <path fill="none" stroke="#191970" d="M139.2778,-54C151.505,-54 164.0556,-54 175.9329,-54"/>
 <polygon fill="#191970" stroke="#191970" points="139.105,-50.5001 129.105,-54 139.105,-57.5001 139.105,-50.5001"/>
 </g>
-<!-- Node5757 -->
+<!-- Node5529 -->
 <g id="node4" class="node">
-<title>Node5757</title>
-<g id="a_node4"><a xlink:href="maildir_8c.html#ab70335fde06bb79ef5f98c1e85a040b0" target="_top" xlink:title="Save message to the header cache &#45; Implements MxOps::msg_save_hcache() ">
+<title>Node5529</title>
+<g id="a_node4"><a xlink:href="group__mx__msg__save__hcache.html#gab70335fde06bb79ef5f98c1e85a040b0" target="_top" xlink:title="Save message to the header cache &#45; Implements MxOps::msg_save_hcache() &#45;. ">
 <polygon fill="#ffffff" stroke="#000000" points="165,-.5 165,-19.5 311,-19.5 311,-.5 165,-.5"/>
 <text text-anchor="middle" x="238" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">maildir_msg_save_hcache</text>
 </a>
 </g>
 </g>
-<!-- Node5749&#45;&gt;Node5757 -->
+<!-- Node5521&#45;&gt;Node5529 -->
 <g id="edge3" class="edge">
-<title>Node5749&#45;&gt;Node5757</title>
+<title>Node5521&#45;&gt;Node5529</title>
 <path fill="none" stroke="#191970" d="M112.0617,-41.9383C139.8877,-34.8815 174.5243,-26.0976 200.4266,-19.5287"/>
 <polygon fill="#191970" stroke="#191970" points="110.9797,-38.6018 102.1469,-44.4527 112.7005,-45.387 110.9797,-38.6018"/>
 </g>

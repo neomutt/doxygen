@@ -9,54 +9,54 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 100)">
 <title>imap_hcache_put</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-100 252,-100 252,4 -4,4"/>
-<!-- Node47691 -->
+<!-- Node42381 -->
 <g id="node1" class="node">
-<title>Node47691</title>
+<title>Node42381</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-38.5 0,-57.5 102,-57.5 102,-38.5 0,-38.5"/>
 <text text-anchor="middle" x="51" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">imap_hcache_put</text>
 </g>
-<!-- Node47692 -->
+<!-- Node42382 -->
 <g id="node2" class="node">
-<title>Node47692</title>
+<title>Node42382</title>
 <g id="a_node2"><a xlink:href="imap_2edata_8c.html#a849b9e42b71ec60e252b9fdb9c8edfbc" target="_top" xlink:title="Get the private data for this Email. ">
 <polygon fill="#ffffff" stroke="#000000" points="145.5,-76.5 145.5,-95.5 240.5,-95.5 240.5,-76.5 145.5,-76.5"/>
 <text text-anchor="middle" x="193" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">imap_edata_get</text>
 </a>
 </g>
 </g>
-<!-- Node47691&#45;&gt;Node47692 -->
+<!-- Node42381&#45;&gt;Node42382 -->
 <g id="edge1" class="edge">
-<title>Node47691&#45;&gt;Node47692</title>
+<title>Node42381&#45;&gt;Node42382</title>
 <path fill="none" stroke="#191970" d="M86.8326,-57.589C105.1634,-62.4944 127.6784,-68.5196 147.2501,-73.7571"/>
 <polygon fill="#191970" stroke="#191970" points="146.614,-77.2099 157.1789,-76.4141 148.4236,-70.4479 146.614,-77.2099"/>
 </g>
-<!-- Node47693 -->
+<!-- Node42383 -->
 <g id="node3" class="node">
-<title>Node47693</title>
+<title>Node42383</title>
 <g id="a_node3"><a xlink:href="hcache_8c.html#a225d343735b371a451a47a392a1247d7" target="_top" xlink:title="Multiplexor for StoreOps::store. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="138,-38.5 138,-57.5 248,-57.5 248,-38.5 138,-38.5"/>
 <text text-anchor="middle" x="193" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_hcache_store</text>
 </a>
 </g>
 </g>
-<!-- Node47691&#45;&gt;Node47693 -->
+<!-- Node42381&#45;&gt;Node42383 -->
 <g id="edge2" class="edge">
-<title>Node47691&#45;&gt;Node47693</title>
+<title>Node42381&#45;&gt;Node42383</title>
 <path fill="none" stroke="#191970" d="M102.2653,-48C110.6017,-48 119.3324,-48 127.9456,-48"/>
 <polygon fill="#191970" stroke="#191970" points="127.9721,-51.5001 137.9721,-48 127.972,-44.5001 127.9721,-51.5001"/>
 </g>
-<!-- Node47746 -->
+<!-- Node42436 -->
 <g id="node4" class="node">
-<title>Node47746</title>
+<title>Node42436</title>
 <g id="a_node4"><a xlink:href="mutt_2string_8c.html#acca6786b903b22a5924219f9db96e10d" target="_top" xlink:title="Calculate the length of a string, safely. ">
 <polygon fill="#ffffff" stroke="#000000" points="154,-.5 154,-19.5 232,-19.5 232,-.5 154,-.5"/>
 <text text-anchor="middle" x="193" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_str_len</text>
 </a>
 </g>
 </g>
-<!-- Node47691&#45;&gt;Node47746 -->
+<!-- Node42381&#45;&gt;Node42436 -->
 <g id="edge3" class="edge">
-<title>Node47691&#45;&gt;Node47746</title>
+<title>Node42381&#45;&gt;Node42436</title>
 <path fill="none" stroke="#191970" d="M86.8326,-38.411C105.1634,-33.5056 127.6784,-27.4804 147.2501,-22.2429"/>
 <polygon fill="#191970" stroke="#191970" points="148.4236,-25.5521 157.1789,-19.5859 146.614,-18.7901 148.4236,-25.5521"/>
 </g>

@@ -9,45 +9,45 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 43)">
 <title>maildir_parse_stream</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-43 434,-43 434,4 -4,4"/>
-<!-- Node6689 -->
+<!-- Node4744 -->
 <g id="node1" class="node">
-<title>Node6689</title>
+<title>Node4744</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-.5 0,-19.5 123,-19.5 123,-.5 0,-.5"/>
 <text text-anchor="middle" x="61.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">maildir_parse_stream</text>
 </g>
-<!-- Node6690 -->
+<!-- Node4745 -->
 <g id="node2" class="node">
-<title>Node6690</title>
+<title>Node4745</title>
 <g id="a_node2"><a xlink:href="maildir_8c.html#a8fc323eb62e562ccedcba11e29a39631" target="_top" xlink:title="Actually parse a maildir message. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="159,-19.5 159,-38.5 292,-38.5 292,-19.5 159,-19.5"/>
 <text text-anchor="middle" x="225.5" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">maildir_parse_message</text>
 </a>
 </g>
 </g>
-<!-- Node6689&#45;&gt;Node6690 -->
+<!-- Node4744&#45;&gt;Node4745 -->
 <g id="edge1" class="edge">
-<title>Node6689&#45;&gt;Node6690</title>
+<title>Node4744&#45;&gt;Node4745</title>
 <path fill="none" stroke="#191970" d="M133.0452,-18.2888C141.6541,-19.2862 150.4193,-20.3016 158.9529,-21.2903"/>
 <polygon fill="#191970" stroke="#191970" points="133.3705,-14.8031 123.0341,-17.129 132.5649,-21.7566 133.3705,-14.8031"/>
 </g>
-<!-- Node6696 -->
+<!-- Node4751 -->
 <g id="node3" class="node">
-<title>Node6696</title>
+<title>Node4751</title>
 <g id="a_node3"><a xlink:href="notmuch_8c.html#afda128ba745fba822ebb49441a35d8e3" target="_top" xlink:title="Associate a message. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="328,-.5 328,-19.5 430,-19.5 430,-.5 328,-.5"/>
 <text text-anchor="middle" x="379" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">append_message</text>
 </a>
 </g>
 </g>
-<!-- Node6689&#45;&gt;Node6696 -->
+<!-- Node4744&#45;&gt;Node4751 -->
 <g id="edge3" class="edge">
-<title>Node6689&#45;&gt;Node6696</title>
+<title>Node4744&#45;&gt;Node4751</title>
 <path fill="none" stroke="#191970" d="M133.1278,-10C192.3595,-10 275.0327,-10 327.7935,-10"/>
 <polygon fill="#191970" stroke="#191970" points="133.0937,-6.5001 123.0937,-10 133.0936,-13.5001 133.0937,-6.5001"/>
 </g>
-<!-- Node6690&#45;&gt;Node6696 -->
+<!-- Node4745&#45;&gt;Node4751 -->
 <g id="edge2" class="edge">
-<title>Node6690&#45;&gt;Node6696</title>
+<title>Node4745&#45;&gt;Node4751</title>
 <path fill="none" stroke="#191970" d="M302.383,-19.4835C310.924,-18.4263 319.4629,-17.3694 327.5765,-16.3651"/>
 <polygon fill="#191970" stroke="#191970" points="301.8751,-16.0196 292.3808,-20.7216 302.735,-22.9666 301.8751,-16.0196"/>
 </g>

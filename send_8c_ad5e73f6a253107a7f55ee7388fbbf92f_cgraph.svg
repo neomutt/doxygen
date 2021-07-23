@@ -9,39 +9,39 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 62)">
 <title>fix_end_of_file</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-62 222,-62 222,4 -4,4"/>
-<!-- Node49140 -->
+<!-- Node48846 -->
 <g id="node1" class="node">
-<title>Node49140</title>
+<title>Node48846</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-19.5 0,-38.5 87,-38.5 87,-19.5 0,-19.5"/>
 <text text-anchor="middle" x="43.5" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">fix_end_of_file</text>
 </g>
-<!-- Node49141 -->
+<!-- Node48847 -->
 <g id="node2" class="node">
-<title>Node49141</title>
+<title>Node48847</title>
 <g id="a_node2"><a xlink:href="file_8c.html#ae1c0c19fec03274220b3ca065ad1e2e5" target="_top" xlink:title="Call fopen() safely. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="124,-38.5 124,-57.5 217,-57.5 217,-38.5 124,-38.5"/>
 <text text-anchor="middle" x="170.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_file_fopen</text>
 </a>
 </g>
 </g>
-<!-- Node49140&#45;&gt;Node49141 -->
+<!-- Node48846&#45;&gt;Node48847 -->
 <g id="edge1" class="edge">
-<title>Node49140&#45;&gt;Node49141</title>
+<title>Node48846&#45;&gt;Node48847</title>
 <path fill="none" stroke="#191970" d="M87.2062,-35.5387C95.7558,-36.8178 104.8373,-38.1764 113.7401,-39.5084"/>
 <polygon fill="#191970" stroke="#191970" points="113.2699,-42.9769 123.6777,-40.9951 114.3057,-36.0539 113.2699,-42.9769"/>
 </g>
-<!-- Node49162 -->
+<!-- Node48868 -->
 <g id="node3" class="node">
-<title>Node49162</title>
+<title>Node48868</title>
 <g id="a_node3"><a xlink:href="file_8c.html#a31f49795ff5b9558db5476e5777e63b6" target="_top" xlink:title="Close a FILE handle (and NULL the pointer) ">
 <polygon fill="#ffffff" stroke="#000000" points="123,-.5 123,-19.5 218,-19.5 218,-.5 123,-.5"/>
 <text text-anchor="middle" x="170.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_file_fclose</text>
 </a>
 </g>
 </g>
-<!-- Node49140&#45;&gt;Node49162 -->
+<!-- Node48846&#45;&gt;Node48868 -->
 <g id="edge2" class="edge">
-<title>Node49140&#45;&gt;Node49162</title>
+<title>Node48846&#45;&gt;Node48868</title>
 <path fill="none" stroke="#191970" d="M87.2062,-22.4613C95.4576,-21.2268 104.2044,-19.9182 112.8078,-18.6311"/>
 <polygon fill="#191970" stroke="#191970" points="113.4313,-22.0769 122.8034,-17.1357 112.3955,-15.1539 113.4313,-22.0769"/>
 </g>

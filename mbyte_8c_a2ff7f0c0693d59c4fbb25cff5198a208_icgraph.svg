@@ -9,60 +9,60 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 118)">
 <title>mutt_mb_filter_unprintable</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-118 344,-118 344,4 -4,4"/>
-<!-- Node6354 -->
+<!-- Node6948 -->
 <g id="node1" class="node">
-<title>Node6354</title>
+<title>Node6948</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-56.5 0,-75.5 149,-75.5 149,-56.5 0,-56.5"/>
 <text text-anchor="middle" x="74.5" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_mb_filter_unprintable</text>
 </g>
-<!-- Node6355 -->
+<!-- Node6949 -->
 <g id="node2" class="node">
-<title>Node6355</title>
+<title>Node6949</title>
 <g id="a_node2"><a xlink:href="rfc2047_8c.html#afef686b50d1bc6030d76a2c1c5dbb6c4" target="_top" xlink:title="Perform charset conversion and filtering. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="219.5,-94.5 219.5,-113.5 305.5,-113.5 305.5,-94.5 219.5,-94.5"/>
 <text text-anchor="middle" x="262.5" y="-101.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">finalize_chunk</text>
 </a>
 </g>
 </g>
-<!-- Node6354&#45;&gt;Node6355 -->
+<!-- Node6948&#45;&gt;Node6949 -->
 <g id="edge1" class="edge">
-<title>Node6354&#45;&gt;Node6355</title>
+<title>Node6948&#45;&gt;Node6949</title>
 <path fill="none" stroke="#191970" d="M132.0346,-77.6293C160.1277,-83.3077 193.3633,-90.0256 219.2584,-95.2597"/>
 <polygon fill="#191970" stroke="#191970" points="132.4356,-74.1397 121.9403,-75.589 131.0487,-81.0009 132.4356,-74.1397"/>
 </g>
-<!-- Node6941 -->
+<!-- Node7589 -->
 <g id="node3" class="node">
-<title>Node6941</title>
+<title>Node7589</title>
 <g id="a_node3"><a xlink:href="rfc2231_8h.html#a95eb6a825f563e45d47c100ea43954c6" target="_top" xlink:title="Decode a Parameter list. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="185,-56.5 185,-75.5 340,-75.5 340,-56.5 185,-56.5"/>
 <text text-anchor="middle" x="262.5" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">rfc2231_decode_parameters</text>
 </a>
 </g>
 </g>
-<!-- Node6354&#45;&gt;Node6941 -->
+<!-- Node6948&#45;&gt;Node7589 -->
 <g id="edge2" class="edge">
-<title>Node6354&#45;&gt;Node6941</title>
+<title>Node6948&#45;&gt;Node7589</title>
 <path fill="none" stroke="#191970" d="M159.1036,-66C167.7049,-66 176.4121,-66 184.9335,-66"/>
 <polygon fill="#191970" stroke="#191970" points="159.0726,-62.5001 149.0726,-66 159.0726,-69.5001 159.0726,-62.5001"/>
 </g>
-<!-- Node6948 -->
+<!-- Node7596 -->
 <g id="node4" class="node">
-<title>Node6948</title>
-<g id="a_node4"><a xlink:href="nntp_2lib_8h.html#a23b0e33bd83d40e2e27d61c38c9fea39" target="_top" xlink:title="Format a string for the newsgroup menu &#45; Implements format_t. ">
+<title>Node7596</title>
+<g id="a_node4"><a xlink:href="group__expando__api.html#ga23b0e33bd83d40e2e27d61c38c9fea39" target="_top" xlink:title="Format a string for the newsgroup menu &#45; Implements format_t &#45;Expando Description &#160;%C Current newsgro...">
 <polygon fill="#ffffff" stroke="#ff0000" points="196,-.5 196,-19.5 329,-19.5 329,-.5 196,-.5"/>
 <text text-anchor="middle" x="262.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">group_index_format_str</text>
 </a>
 </g>
 </g>
-<!-- Node6354&#45;&gt;Node6948 -->
+<!-- Node6948&#45;&gt;Node7596 -->
 <g id="edge3" class="edge">
-<title>Node6354&#45;&gt;Node6948</title>
+<title>Node6948&#45;&gt;Node7596</title>
 <path fill="none" stroke="#191970" d="M116.6117,-53.4561C151.1218,-43.1765 199.2199,-28.8494 230.6034,-19.5011"/>
 <polygon fill="#191970" stroke="#191970" points="115.403,-50.1641 106.8184,-56.3733 117.4014,-56.8728 115.403,-50.1641"/>
 </g>
-<!-- Node6948&#45;&gt;Node6948 -->
+<!-- Node7596&#45;&gt;Node7596 -->
 <g id="edge4" class="edge">
-<title>Node6948&#45;&gt;Node6948</title>
+<title>Node7596&#45;&gt;Node7596</title>
 <path fill="none" stroke="#191970" d="M227.2678,-27.8913C227.7838,-33.5406 239.5278,-38 262.5,-38 295.9141,-38 305.5728,-28.5653 291.4763,-19.7571"/>
 <polygon fill="#191970" stroke="#191970" points="230.2017,-29.8176 233.5237,-19.7571 224.6529,-25.5501 230.2017,-29.8176"/>
 </g>

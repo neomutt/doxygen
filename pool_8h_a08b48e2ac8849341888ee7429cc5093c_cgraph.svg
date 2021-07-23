@@ -9,54 +9,54 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 100)">
 <title>mutt_buffer_pool_release</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-100 290,-100 290,4 -4,4"/>
-<!-- Node800 -->
+<!-- Node855 -->
 <g id="node1" class="node">
-<title>Node800</title>
+<title>Node855</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-38.5 0,-57.5 141,-57.5 141,-38.5 0,-38.5"/>
 <text text-anchor="middle" x="70.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_buffer_pool_release</text>
 </g>
-<!-- Node801 -->
+<!-- Node856 -->
 <g id="node2" class="node">
-<title>Node801</title>
+<title>Node856</title>
 <g id="a_node2"><a xlink:href="pool_8c.html#a1694d94291a60e5400c60600cdbb70a2" target="_top" xlink:title="Release a Buffer and its contents. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="196.5,-76.5 196.5,-95.5 266.5,-95.5 266.5,-76.5 196.5,-76.5"/>
 <text text-anchor="middle" x="231.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">buffer_free</text>
 </a>
 </g>
 </g>
-<!-- Node800&#45;&gt;Node801 -->
+<!-- Node855&#45;&gt;Node856 -->
 <g id="edge1" class="edge">
-<title>Node800&#45;&gt;Node801</title>
+<title>Node855&#45;&gt;Node856</title>
 <path fill="none" stroke="#191970" d="M111.1271,-57.589C134.1129,-63.0142 162.9012,-69.809 186.5606,-75.3932"/>
 <polygon fill="#191970" stroke="#191970" points="185.8178,-78.814 196.3544,-77.7048 187.4258,-72.0011 185.8178,-78.814"/>
 </g>
-<!-- Node803 -->
+<!-- Node858 -->
 <g id="node3" class="node">
-<title>Node803</title>
+<title>Node858</title>
 <g id="a_node3"><a xlink:href="memory_8c.html#af778eb8166966fc0666c64849f6c7c5b" target="_top" xlink:title="Resize a block of memory on the heap. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="177,-38.5 177,-57.5 286,-57.5 286,-38.5 177,-38.5"/>
 <text text-anchor="middle" x="231.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_mem_realloc</text>
 </a>
 </g>
 </g>
-<!-- Node800&#45;&gt;Node803 -->
+<!-- Node855&#45;&gt;Node858 -->
 <g id="edge2" class="edge">
-<title>Node800&#45;&gt;Node803</title>
+<title>Node855&#45;&gt;Node858</title>
 <path fill="none" stroke="#191970" d="M141.1169,-48C149.6464,-48 158.3262,-48 166.7654,-48"/>
 <polygon fill="#191970" stroke="#191970" points="166.9138,-51.5001 176.9138,-48 166.9138,-44.5001 166.9138,-51.5001"/>
 </g>
-<!-- Node805 -->
+<!-- Node860 -->
 <g id="node4" class="node">
-<title>Node805</title>
+<title>Node860</title>
 <g id="a_node4"><a xlink:href="buffer_8c.html#adb26acff5f6b9bb7c322669bcb7c48e3" target="_top" xlink:title="Reset an existing Buffer. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="179.5,-.5 179.5,-19.5 283.5,-19.5 283.5,-.5 179.5,-.5"/>
 <text text-anchor="middle" x="231.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_buffer_reset</text>
 </a>
 </g>
 </g>
-<!-- Node800&#45;&gt;Node805 -->
+<!-- Node855&#45;&gt;Node860 -->
 <g id="edge3" class="edge">
-<title>Node800&#45;&gt;Node805</title>
+<title>Node855&#45;&gt;Node860</title>
 <path fill="none" stroke="#191970" d="M111.1271,-38.411C132.4685,-33.3739 158.8119,-27.1562 181.4081,-21.8229"/>
 <polygon fill="#191970" stroke="#191970" points="182.2365,-25.2237 191.165,-19.5201 180.6284,-18.4109 182.2365,-25.2237"/>
 </g>

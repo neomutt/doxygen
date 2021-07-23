@@ -9,132 +9,132 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 252.5366)">
 <title>pgp_gpgme_encrypt_message</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-252.5366 595,-252.5366 595,4 -4,4"/>
-<!-- Node24340 -->
+<!-- Node25126 -->
 <g id="node1" class="node">
-<title>Node24340</title>
+<title>Node25126</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-97.0366 0,-116.0366 165,-116.0366 165,-97.0366 0,-97.0366"/>
 <text text-anchor="middle" x="82.5" y="-104.0366" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pgp_gpgme_encrypt_message</text>
 </g>
-<!-- Node24341 -->
+<!-- Node25127 -->
 <g id="node2" class="node">
-<title>Node24341</title>
+<title>Node25127</title>
 <g id="a_node2"><a xlink:href="crypt_8c.html#a7321a72cf7c00a3a126fdba74a648191" target="_top" xlink:title="Convert an email to 7bit encoding. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="210,-211.0366 210,-230.0366 332,-230.0366 332,-211.0366 210,-211.0366"/>
 <text text-anchor="middle" x="271" y="-218.0366" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">crypt_convert_to_7bit</text>
 </a>
 </g>
 </g>
-<!-- Node24340&#45;&gt;Node24341 -->
+<!-- Node25126&#45;&gt;Node25127 -->
 <g id="edge1" class="edge">
-<title>Node24340&#45;&gt;Node24341</title>
+<title>Node25126&#45;&gt;Node25127</title>
 <path fill="none" stroke="#191970" d="M91.6713,-116.1782C110.4023,-135.31 155.1673,-178.2318 201,-201.5366 205.5829,-203.8669 210.4844,-205.9372 215.4864,-207.7711"/>
 <polygon fill="#191970" stroke="#191970" points="214.5782,-211.1579 225.172,-211.0127 216.7999,-204.5198 214.5782,-211.1579"/>
 </g>
-<!-- Node26421 -->
+<!-- Node26935 -->
 <g id="node3" class="node">
-<title>Node26421</title>
+<title>Node26935</title>
 <g id="a_node3"><a xlink:href="crypt__gpgme_8c.html#a5f88576e041b52a5e0196a77d808ad74" target="_top" xlink:title="Create GPGME object from the mail body. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="212,-173.0366 212,-192.0366 330,-192.0366 330,-173.0366 212,-173.0366"/>
 <text text-anchor="middle" x="271" y="-180.0366" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">body_to_data_object</text>
 </a>
 </g>
 </g>
-<!-- Node24340&#45;&gt;Node26421 -->
+<!-- Node25126&#45;&gt;Node26935 -->
 <g id="edge3" class="edge">
-<title>Node24340&#45;&gt;Node26421</title>
+<title>Node25126&#45;&gt;Node26935</title>
 <path fill="none" stroke="#191970" d="M99.7284,-116.0655C122.4103,-128.3184 163.7775,-149.6664 201,-163.5366 207.4217,-165.9296 214.2766,-168.1638 221.0902,-170.1986"/>
 <polygon fill="#191970" stroke="#191970" points="220.4111,-173.6447 230.9883,-173.0324 222.3379,-166.9151 220.4111,-173.6447"/>
 </g>
-<!-- Node26507 -->
+<!-- Node27125 -->
 <g id="node4" class="node">
-<title>Node26507</title>
+<title>Node27125</title>
 <g id="a_node4"><a xlink:href="crypt__gpgme_8c.html#ae42a1cf42ee414b6492aab77874a842c" target="_top" xlink:title="Encrypt the GPGPME data object. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="207,-135.0366 207,-154.0366 335,-154.0366 335,-135.0366 207,-135.0366"/>
 <text text-anchor="middle" x="271" y="-142.0366" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">encrypt_gpgme_object</text>
 </a>
 </g>
 </g>
-<!-- Node24340&#45;&gt;Node26507 -->
+<!-- Node25126&#45;&gt;Node27125 -->
 <g id="edge4" class="edge">
-<title>Node24340&#45;&gt;Node26507</title>
+<title>Node25126&#45;&gt;Node27125</title>
 <path fill="none" stroke="#191970" d="M130.0665,-116.1256C155.5014,-121.2531 187.0046,-127.6039 213.7714,-132.9998"/>
 <polygon fill="#191970" stroke="#191970" points="213.2811,-136.4713 223.7755,-135.0166 214.6644,-129.6094 213.2811,-136.4713"/>
 </g>
-<!-- Node24389 -->
+<!-- Node25175 -->
 <g id="node5" class="node">
-<title>Node24389</title>
+<title>Node25175</title>
 <g id="a_node5"><a xlink:href="email_2body_8c.html#aee001296b775e82e3988b5a81e53e30c" target="_top" xlink:title="Create a new Body. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="223.5,-97.0366 223.5,-116.0366 318.5,-116.0366 318.5,-97.0366 223.5,-97.0366"/>
 <text text-anchor="middle" x="271" y="-104.0366" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_body_new</text>
 </a>
 </g>
 </g>
-<!-- Node24340&#45;&gt;Node24389 -->
+<!-- Node25126&#45;&gt;Node25175 -->
 <g id="edge5" class="edge">
-<title>Node24340&#45;&gt;Node24389</title>
+<title>Node25126&#45;&gt;Node25175</title>
 <path fill="none" stroke="#191970" d="M165.1788,-106.5366C181.3339,-106.5366 197.9494,-106.5366 213.088,-106.5366"/>
 <polygon fill="#191970" stroke="#191970" points="213.3089,-110.0367 223.3088,-106.5366 213.3088,-103.0367 213.3089,-110.0367"/>
 </g>
-<!-- Node24352 -->
+<!-- Node25138 -->
 <g id="node6" class="node">
-<title>Node24352</title>
+<title>Node25138</title>
 <g id="a_node6"><a xlink:href="mutt_2string_8c.html#a4c2560f787bd1226b977992c16860c98" target="_top" xlink:title="Copy a string, safely. ">
 <polygon fill="#ffffff" stroke="#000000" points="510,-40.0366 510,-59.0366 591,-59.0366 591,-40.0366 510,-40.0366"/>
 <text text-anchor="middle" x="550.5" y="-47.0366" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_str_dup</text>
 </a>
 </g>
 </g>
-<!-- Node24340&#45;&gt;Node24352 -->
+<!-- Node25126&#45;&gt;Node25138 -->
 <g id="edge6" class="edge">
-<title>Node24340&#45;&gt;Node24352</title>
+<title>Node25126&#45;&gt;Node25138</title>
 <path fill="none" stroke="#191970" d="M138.1754,-97.0133C157.9772,-93.7843 180.4534,-90.299 201,-87.5366 307.0116,-73.284 431.6704,-60.7367 499.7625,-54.2395"/>
 <polygon fill="#191970" stroke="#191970" points="500.1671,-57.7169 509.7915,-53.2873 499.5055,-50.7482 500.1671,-57.7169"/>
 </g>
-<!-- Node25933 -->
+<!-- Node26726 -->
 <g id="node7" class="node">
-<title>Node25933</title>
+<title>Node26726</title>
 <g id="a_node7"><a xlink:href="multipart_8c.html#af4c3a6ae771ff84860d31fbd54325af3" target="_top" xlink:title="Create a unique boundary id for a MIME part. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="201,-21.0366 201,-40.0366 341,-40.0366 341,-21.0366 201,-21.0366"/>
 <text text-anchor="middle" x="271" y="-28.0366" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_generate_boundary</text>
 </a>
 </g>
 </g>
-<!-- Node24340&#45;&gt;Node25933 -->
+<!-- Node25126&#45;&gt;Node26726 -->
 <g id="edge7" class="edge">
-<title>Node24340&#45;&gt;Node25933</title>
+<title>Node25126&#45;&gt;Node26726</title>
 <path fill="none" stroke="#191970" d="M102.8347,-96.9954C126.268,-86.1454 166.0458,-68.1708 201,-54.5366 210.8744,-50.6851 221.6543,-46.8234 231.7305,-43.3582"/>
 <polygon fill="#191970" stroke="#191970" points="233.1669,-46.5669 241.5127,-40.0402 230.9183,-39.9379 233.1669,-46.5669"/>
 </g>
-<!-- Node24478 -->
+<!-- Node25264 -->
 <g id="node8" class="node">
-<title>Node24478</title>
+<title>Node25264</title>
 <g id="a_node8"><a xlink:href="parameter_8c.html#a42249fc15b1e52df046a0a10de29da44" target="_top" xlink:title="Set a Parameter. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="377,-21.0366 377,-40.0366 474,-40.0366 474,-21.0366 377,-21.0366"/>
 <text text-anchor="middle" x="425.5" y="-28.0366" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_param_set</text>
 </a>
 </g>
 </g>
-<!-- Node24340&#45;&gt;Node24478 -->
+<!-- Node25126&#45;&gt;Node25264 -->
 <g id="edge10" class="edge">
-<title>Node24340&#45;&gt;Node24478</title>
+<title>Node25126&#45;&gt;Node25264</title>
 <path fill="none" stroke="#191970" d="M90.4067,-96.7821C107.7933,-76.2083 151.7435,-28.8433 201,-11.5366 263.7848,10.5233 342.2729,-5.1297 387.862,-18.1122"/>
 <polygon fill="#191970" stroke="#191970" points="387.0383,-21.5183 397.6202,-20.9945 389.0213,-14.805 387.0383,-21.5183"/>
 </g>
-<!-- Node24341&#45;&gt;Node24341 -->
+<!-- Node25127&#45;&gt;Node25127 -->
 <g id="edge2" class="edge">
-<title>Node24341&#45;&gt;Node24341</title>
+<title>Node25127&#45;&gt;Node25127</title>
 <path fill="none" stroke="#191970" d="M247.2641,-230.2937C235.7169,-239.1019 243.6289,-248.5366 271,-248.5366 288.9623,-248.5366 298.5442,-244.4734 299.7458,-239.1906"/>
 <polygon fill="#191970" stroke="#191970" points="302.6923,-237.2899 294.7359,-230.2937 296.5928,-240.7245 302.6923,-237.2899"/>
 </g>
-<!-- Node25933&#45;&gt;Node24478 -->
+<!-- Node26726&#45;&gt;Node25264 -->
 <g id="edge8" class="edge">
-<title>Node25933&#45;&gt;Node24478</title>
+<title>Node26726&#45;&gt;Node25264</title>
 <path fill="none" stroke="#191970" d="M341.0172,-30.5366C349.6451,-30.5366 358.3943,-30.5366 366.8294,-30.5366"/>
 <polygon fill="#191970" stroke="#191970" points="366.9333,-34.0367 376.9332,-30.5366 366.9332,-27.0367 366.9333,-34.0367"/>
 </g>
-<!-- Node24478&#45;&gt;Node24352 -->
+<!-- Node25264&#45;&gt;Node25138 -->
 <g id="edge9" class="edge">
-<title>Node24478&#45;&gt;Node24352</title>
+<title>Node25264&#45;&gt;Node25138</title>
 <path fill="none" stroke="#191970" d="M474.1862,-37.9369C482.5686,-39.2111 491.3001,-40.5383 499.7356,-41.8205"/>
 <polygon fill="#191970" stroke="#191970" points="499.4227,-45.313 509.8351,-43.3556 500.4746,-38.3925 499.4227,-45.313"/>
 </g>

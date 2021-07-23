@@ -9,66 +9,66 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 100)">
 <title>cbar_color_observer</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-100 382,-100 382,4 -4,4"/>
-<!-- Node2478 -->
+<!-- Node1979 -->
 <g id="node1" class="node">
-<title>Node2478</title>
+<title>Node1979</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-38.5 0,-57.5 115,-57.5 115,-38.5 0,-38.5"/>
 <text text-anchor="middle" x="57.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cbar_color_observer</text>
 </g>
-<!-- Node2479 -->
+<!-- Node1980 -->
 <g id="node2" class="node">
-<title>Node2479</title>
+<title>Node1980</title>
 <g id="a_node2"><a xlink:href="cbar_8c.html#ae5b78f964f8f281d274abff5c6f8eee9" target="_top" xlink:title="Notification that a Window has changed &#45; Implements observer_t. ">
 <polygon fill="#ffffff" stroke="#000000" points="151,-76.5 151,-95.5 279,-95.5 279,-76.5 151,-76.5"/>
 <text text-anchor="middle" x="215" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cbar_window_observer</text>
 </a>
 </g>
 </g>
-<!-- Node2478&#45;&gt;Node2479 -->
+<!-- Node1979&#45;&gt;Node1980 -->
 <g id="edge1" class="edge">
-<title>Node2478&#45;&gt;Node2479</title>
+<title>Node1979&#45;&gt;Node1980</title>
 <path fill="none" stroke="#191970" d="M107.1041,-59.968C129.1753,-65.2931 154.8027,-71.4762 175.5419,-76.4799"/>
 <polygon fill="#191970" stroke="#191970" points="107.7859,-56.5321 97.2439,-57.589 106.1441,-63.3369 107.7859,-56.5321"/>
 </g>
-<!-- Node2480 -->
+<!-- Node1981 -->
 <g id="node3" class="node">
-<title>Node2480</title>
+<title>Node1981</title>
 <g id="a_node3"><a xlink:href="cbar_8h.html#aa35a00e7d4e3a5011d095a2434c7edb1" target="_top" xlink:title="Create the Compose Bar (status) ">
 <polygon fill="#ffffff" stroke="#ff0000" points="315,-38.5 315,-57.5 378,-57.5 378,-38.5 315,-38.5"/>
 <text text-anchor="middle" x="346.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cbar_new</text>
 </a>
 </g>
 </g>
-<!-- Node2478&#45;&gt;Node2480 -->
+<!-- Node1979&#45;&gt;Node1981 -->
 <g id="edge3" class="edge">
-<title>Node2478&#45;&gt;Node2480</title>
+<title>Node1979&#45;&gt;Node1981</title>
 <path fill="none" stroke="#191970" d="M125.3971,-48C185.1322,-48 269.435,-48 314.7409,-48"/>
 <polygon fill="#191970" stroke="#191970" points="125.2889,-44.5001 115.2889,-48 125.2888,-51.5001 125.2889,-44.5001"/>
 </g>
-<!-- Node3046 -->
+<!-- Node2601 -->
 <g id="node4" class="node">
-<title>Node3046</title>
+<title>Node2601</title>
 <g id="a_node4"><a xlink:href="cbar__data_8h.html#ae403f2b8a1280c5b30a1bab5e4344b8b" target="_top" xlink:title="Free the private data attached to the MuttWindow &#45; Implements MuttWindow::wdata_free() ...">
 <polygon fill="#ffffff" stroke="#000000" points="170.5,-.5 170.5,-19.5 259.5,-19.5 259.5,-.5 170.5,-.5"/>
 <text text-anchor="middle" x="215" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cbar_data_free</text>
 </a>
 </g>
 </g>
-<!-- Node2478&#45;&gt;Node3046 -->
+<!-- Node1979&#45;&gt;Node2601 -->
 <g id="edge4" class="edge">
-<title>Node2478&#45;&gt;Node3046</title>
+<title>Node1979&#45;&gt;Node2601</title>
 <path fill="none" stroke="#191970" d="M107.1041,-36.032C129.1753,-30.7069 154.8027,-24.5238 175.5419,-19.5201"/>
 <polygon fill="#191970" stroke="#191970" points="106.1441,-32.6631 97.2439,-38.411 107.7859,-39.4679 106.1441,-32.6631"/>
 </g>
-<!-- Node2479&#45;&gt;Node2480 -->
+<!-- Node1980&#45;&gt;Node1981 -->
 <g id="edge2" class="edge">
-<title>Node2479&#45;&gt;Node2480</title>
+<title>Node1980&#45;&gt;Node1981</title>
 <path fill="none" stroke="#191970" d="M257.8511,-73.6172C276.3545,-68.2702 297.6228,-62.1242 314.6885,-57.1927"/>
 <polygon fill="#191970" stroke="#191970" points="256.8183,-70.2724 248.183,-76.411 258.7616,-76.9972 256.8183,-70.2724"/>
 </g>
-<!-- Node3046&#45;&gt;Node2480 -->
+<!-- Node2601&#45;&gt;Node1981 -->
 <g id="edge5" class="edge">
-<title>Node3046&#45;&gt;Node2480</title>
+<title>Node2601&#45;&gt;Node1981</title>
 <path fill="none" stroke="#191970" d="M257.8511,-22.3828C276.3545,-27.7298 297.6228,-33.8758 314.6885,-38.8073"/>
 <polygon fill="#191970" stroke="#191970" points="258.7616,-19.0028 248.183,-19.589 256.8183,-25.7276 258.7616,-19.0028"/>
 </g>

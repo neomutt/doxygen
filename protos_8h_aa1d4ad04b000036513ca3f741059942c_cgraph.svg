@@ -9,69 +9,69 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 138)">
 <title>mutt_system</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-138 265,-138 265,4 -4,4"/>
-<!-- Node2736 -->
+<!-- Node2007 -->
 <g id="node1" class="node">
-<title>Node2736</title>
+<title>Node2007</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-57.5 0,-76.5 81,-76.5 81,-57.5 0,-57.5"/>
 <text text-anchor="middle" x="40.5" y="-64.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_system</text>
 </g>
-<!-- Node2737 -->
+<!-- Node2008 -->
 <g id="node2" class="node">
-<title>Node2737</title>
+<title>Node2008</title>
 <g id="a_node2"><a xlink:href="signal_8c.html#a8f760c89850a7fdab70f3e084dae29ea" target="_top" xlink:title="Block signals before calling exec() ">
 <polygon fill="#ffffff" stroke="#000000" points="123,-114.5 123,-133.5 255,-133.5 255,-114.5 123,-114.5"/>
 <text text-anchor="middle" x="189" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_sig_block_system</text>
 </a>
 </g>
 </g>
-<!-- Node2736&#45;&gt;Node2737 -->
+<!-- Node2007&#45;&gt;Node2008 -->
 <g id="edge1" class="edge">
-<title>Node2736&#45;&gt;Node2737</title>
+<title>Node2007&#45;&gt;Node2008</title>
 <path fill="none" stroke="#191970" d="M57.3721,-76.6277C72.5843,-85.0032 95.7614,-97.0174 117,-105 123.4232,-107.4142 130.278,-109.644 137.1094,-111.6622"/>
 <polygon fill="#191970" stroke="#191970" points="136.4737,-115.1194 147.0483,-114.4645 138.3734,-108.3821 136.4737,-115.1194"/>
 </g>
-<!-- Node2738 -->
+<!-- Node2009 -->
 <g id="node3" class="node">
-<title>Node2738</title>
+<title>Node2009</title>
 <g id="a_node3"><a xlink:href="signal_8c.html#ad44b8fd5380fa4749911e9f1792af99d" target="_top" xlink:title="Restore previously blocked signals. ">
 <polygon fill="#ffffff" stroke="#000000" points="117,-76.5 117,-95.5 261,-95.5 261,-76.5 117,-76.5"/>
 <text text-anchor="middle" x="189" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_sig_unblock_system</text>
 </a>
 </g>
 </g>
-<!-- Node2736&#45;&gt;Node2738 -->
+<!-- Node2007&#45;&gt;Node2009 -->
 <g id="edge2" class="edge">
-<title>Node2736&#45;&gt;Node2738</title>
+<title>Node2007&#45;&gt;Node2009</title>
 <path fill="none" stroke="#191970" d="M81.0783,-72.1918C89.1271,-73.2216 97.8456,-74.3371 106.7189,-75.4725"/>
 <polygon fill="#191970" stroke="#191970" points="106.4122,-78.9617 116.7755,-76.7592 107.3006,-72.0183 106.4122,-78.9617"/>
 </g>
-<!-- Node2739 -->
+<!-- Node2010 -->
 <g id="node4" class="node">
-<title>Node2739</title>
+<title>Node2010</title>
 <g id="a_node4"><a xlink:href="envlist_8c.html#ad8cfe2adb63b9459b335af87364bb7f0" target="_top" xlink:title="Get the private environment. ">
 <polygon fill="#ffffff" stroke="#000000" points="132,-38.5 132,-57.5 246,-57.5 246,-38.5 132,-38.5"/>
 <text text-anchor="middle" x="189" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_envlist_getlist</text>
 </a>
 </g>
 </g>
-<!-- Node2736&#45;&gt;Node2739 -->
+<!-- Node2007&#45;&gt;Node2010 -->
 <g id="edge3" class="edge">
-<title>Node2736&#45;&gt;Node2739</title>
+<title>Node2007&#45;&gt;Node2010</title>
 <path fill="none" stroke="#191970" d="M81.0783,-61.8082C93.655,-60.199 107.8669,-58.3807 121.7495,-56.6044"/>
 <polygon fill="#191970" stroke="#191970" points="122.297,-60.063 131.7719,-55.3221 121.4085,-53.1196 122.297,-60.063"/>
 </g>
-<!-- Node2740 -->
+<!-- Node2011 -->
 <g id="node5" class="node">
-<title>Node2740</title>
+<title>Node2011</title>
 <g id="a_node5"><a xlink:href="imap_2lib_8h.html#a6a2f8aba182b573c023386320bd3593f" target="_top" xlink:title="Wait for a process to change state. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="128.5,-.5 128.5,-19.5 249.5,-19.5 249.5,-.5 128.5,-.5"/>
 <text text-anchor="middle" x="189" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">imap_wait_keepalive</text>
 </a>
 </g>
 </g>
-<!-- Node2736&#45;&gt;Node2740 -->
+<!-- Node2007&#45;&gt;Node2011 -->
 <g id="edge4" class="edge">
-<title>Node2736&#45;&gt;Node2740</title>
+<title>Node2007&#45;&gt;Node2011</title>
 <path fill="none" stroke="#191970" d="M57.3721,-57.3723C72.5843,-48.9968 95.7614,-36.9826 117,-29 123.4232,-26.5858 130.278,-24.356 137.1094,-22.3378"/>
 <polygon fill="#191970" stroke="#191970" points="138.3734,-25.6179 147.0483,-19.5355 136.4737,-18.8806 138.3734,-25.6179"/>
 </g>

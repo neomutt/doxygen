@@ -9,54 +9,54 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 100)">
 <title>mbox_reset_atime</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-100 240,-100 240,4 -4,4"/>
-<!-- Node11521 -->
+<!-- Node10735 -->
 <g id="node1" class="node">
-<title>Node11521</title>
+<title>Node10735</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-38.5 0,-57.5 108,-57.5 108,-38.5 0,-38.5"/>
 <text text-anchor="middle" x="54" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mbox_reset_atime</text>
 </g>
-<!-- Node11522 -->
+<!-- Node10736 -->
 <g id="node2" class="node">
-<title>Node11522</title>
+<title>Node10736</title>
 <g id="a_node2"><a xlink:href="mailbox_8h.html#a04aa11207205b6778388dfc8ed56ee0d" target="_top" xlink:title="Get the Mailbox&#39;s path string. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="148.5,-76.5 148.5,-95.5 231.5,-95.5 231.5,-76.5 148.5,-76.5"/>
 <text text-anchor="middle" x="190" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mailbox_path</text>
 </a>
 </g>
 </g>
-<!-- Node11521&#45;&gt;Node11522 -->
+<!-- Node10735&#45;&gt;Node10736 -->
 <g id="edge1" class="edge">
-<title>Node11521&#45;&gt;Node11522</title>
+<title>Node10735&#45;&gt;Node10736</title>
 <path fill="none" stroke="#191970" d="M88.3185,-57.589C105.7943,-62.4719 127.2407,-68.4643 145.9251,-73.685"/>
 <polygon fill="#191970" stroke="#191970" points="145.1194,-77.0938 155.6924,-76.4141 147.0032,-70.3521 145.1194,-77.0938"/>
 </g>
-<!-- Node11524 -->
+<!-- Node10738 -->
 <g id="node3" class="node">
-<title>Node11524</title>
+<title>Node10738</title>
 <g id="a_node3"><a xlink:href="helpers_8c.html#ae50f679dd6c5bd1ba820884c8602f038" target="_top" xlink:title="Get a boolean config item by name. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="144.5,-38.5 144.5,-57.5 235.5,-57.5 235.5,-38.5 144.5,-38.5"/>
 <text text-anchor="middle" x="190" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_subset_bool</text>
 </a>
 </g>
 </g>
-<!-- Node11521&#45;&gt;Node11524 -->
+<!-- Node10735&#45;&gt;Node10738 -->
 <g id="edge2" class="edge">
-<title>Node11521&#45;&gt;Node11524</title>
+<title>Node10735&#45;&gt;Node10738</title>
 <path fill="none" stroke="#191970" d="M108.1416,-48C116.7666,-48 125.7023,-48 134.3612,-48"/>
 <polygon fill="#191970" stroke="#191970" points="134.3638,-51.5001 144.3637,-48 134.3637,-44.5001 134.3638,-51.5001"/>
 </g>
-<!-- Node11547 -->
+<!-- Node10761 -->
 <g id="node4" class="node">
-<title>Node11547</title>
+<title>Node10761</title>
 <g id="a_node4"><a xlink:href="mbox_8c.html#a1b48e889cb30d3c7d9c4eacc3fddd936" target="_top" xlink:title="Does the mailbox have new mail. ">
 <polygon fill="#ffffff" stroke="#000000" points="144,-.5 144,-19.5 236,-19.5 236,-.5 144,-.5"/>
 <text text-anchor="middle" x="190" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mbox_has_new</text>
 </a>
 </g>
 </g>
-<!-- Node11521&#45;&gt;Node11547 -->
+<!-- Node10735&#45;&gt;Node10761 -->
 <g id="edge3" class="edge">
-<title>Node11521&#45;&gt;Node11547</title>
+<title>Node10735&#45;&gt;Node10761</title>
 <path fill="none" stroke="#191970" d="M88.3185,-38.411C105.7943,-33.5281 127.2407,-27.5357 145.9251,-22.315"/>
 <polygon fill="#191970" stroke="#191970" points="147.0032,-25.6479 155.6924,-19.5859 145.1194,-18.9062 147.0032,-25.6479"/>
 </g>

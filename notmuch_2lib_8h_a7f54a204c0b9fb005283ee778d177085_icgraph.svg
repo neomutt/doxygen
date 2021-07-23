@@ -9,45 +9,45 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 150)">
 <title>nm_email_get_folder</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-150 280,-150 280,4 -4,4"/>
-<!-- Node1777 -->
+<!-- Node1941 -->
 <g id="node1" class="node">
-<title>Node1777</title>
+<title>Node1941</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-66.5 0,-85.5 120,-85.5 120,-66.5 0,-66.5"/>
 <text text-anchor="middle" x="60" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nm_email_get_folder</text>
 </g>
-<!-- Node1778 -->
+<!-- Node1942 -->
 <g id="node2" class="node">
-<title>Node1778</title>
+<title>Node1942</title>
 <g id="a_node2"><a xlink:href="copy_8h.html#a468898ce77840c5f79455b1f95643ab4" target="_top" xlink:title="Copy Email header. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="162.5,-126.5 162.5,-145.5 269.5,-145.5 269.5,-126.5 162.5,-126.5"/>
 <text text-anchor="middle" x="216" y="-133.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_copy_header</text>
 </a>
 </g>
 </g>
-<!-- Node1777&#45;&gt;Node1778 -->
+<!-- Node1941&#45;&gt;Node1942 -->
 <g id="edge1" class="edge">
-<title>Node1777&#45;&gt;Node1778</title>
+<title>Node1941&#45;&gt;Node1942</title>
 <path fill="none" stroke="#191970" d="M89.9669,-89.6857C108.7509,-98.0419 133.5719,-108.6818 156,-117 164.9128,-120.3056 174.6973,-123.5588 183.7316,-126.4134"/>
 <polygon fill="#191970" stroke="#191970" points="91.2958,-86.4459 80.739,-85.5485 88.432,-92.8333 91.2958,-86.4459"/>
 </g>
-<!-- Node2344 -->
+<!-- Node2562 -->
 <g id="node3" class="node">
-<title>Node2344</title>
+<title>Node2562</title>
 <g id="a_node3"><a xlink:href="notmuch_8c.html#afc35975154974867ca13ae101449daab" target="_top" xlink:title="Get the full path of an email. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="162,-88.5 162,-107.5 270,-107.5 270,-88.5 162,-88.5"/>
 <text text-anchor="middle" x="216" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">email_get_fullpath</text>
 </a>
 </g>
 </g>
-<!-- Node1777&#45;&gt;Node2344 -->
+<!-- Node1941&#45;&gt;Node2562 -->
 <g id="edge2" class="edge">
-<title>Node1777&#45;&gt;Node2344</title>
+<title>Node1941&#45;&gt;Node2562</title>
 <path fill="none" stroke="#191970" d="M130.3905,-85.9269C140.9883,-87.4214 151.7751,-88.9426 161.9586,-90.3788"/>
 <polygon fill="#191970" stroke="#191970" points="130.7045,-82.4366 120.3137,-84.5058 129.7269,-89.368 130.7045,-82.4366"/>
 </g>
-<!-- Node2349 -->
+<!-- Node2567 -->
 <g id="node4" class="node">
-<title>Node2349</title>
+<title>Node2567</title>
 <g id="a_node4"><a xlink:href="notmuch_8c.html#a4c16724879983f9b127cf1ec90e698bc" target="_top" xlink:title="Get the folder for a Email from the same level as the notmuch database. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="156,-39 156,-69 276,-69 276,-39 156,-39"/>
 <text text-anchor="start" x="164" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nm_email_get_folder</text>
@@ -55,24 +55,24 @@
 </a>
 </g>
 </g>
-<!-- Node1777&#45;&gt;Node2349 -->
+<!-- Node1941&#45;&gt;Node2567 -->
 <g id="edge3" class="edge">
-<title>Node1777&#45;&gt;Node2349</title>
+<title>Node1941&#45;&gt;Node2567</title>
 <path fill="none" stroke="#191970" d="M130.2594,-66.0916C138.8019,-64.8869 147.4694,-63.6646 155.8467,-62.4832"/>
 <polygon fill="#191970" stroke="#191970" points="129.7269,-62.632 120.3137,-67.4942 130.7045,-69.5634 129.7269,-62.632"/>
 </g>
-<!-- Node2350 -->
+<!-- Node2568 -->
 <g id="node5" class="node">
-<title>Node2350</title>
-<g id="a_node5"><a xlink:href="notmuch_8c.html#aa1bfcac1bfcc68048430c30e68852e44" target="_top" xlink:title="Open an email message in a Mailbox &#45; Implements MxOps::msg_open() ">
+<title>Node2568</title>
+<g id="a_node5"><a xlink:href="group__mx__msg__open.html#gaa1bfcac1bfcc68048430c30e68852e44" target="_top" xlink:title="Open an email message in a Mailbox &#45; Implements MxOps::msg_open() &#45;. ">
 <polygon fill="#ffffff" stroke="#000000" points="172,-.5 172,-19.5 260,-19.5 260,-.5 172,-.5"/>
 <text text-anchor="middle" x="216" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nm_msg_open</text>
 </a>
 </g>
 </g>
-<!-- Node1777&#45;&gt;Node2350 -->
+<!-- Node1941&#45;&gt;Node2568 -->
 <g id="edge4" class="edge">
-<title>Node1777&#45;&gt;Node2350</title>
+<title>Node1941&#45;&gt;Node2568</title>
 <path fill="none" stroke="#191970" d="M87.0745,-61.9065C106.0856,-52.2889 132.2557,-39.6023 156,-30 165.2631,-26.254 175.5222,-22.644 184.8988,-19.5466"/>
 <polygon fill="#191970" stroke="#191970" points="85.4135,-58.8247 78.0981,-66.4886 88.5961,-65.0594 85.4135,-58.8247"/>
 </g>

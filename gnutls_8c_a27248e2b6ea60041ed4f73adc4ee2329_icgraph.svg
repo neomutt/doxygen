@@ -9,60 +9,60 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 100)">
 <title>tls_socket_close</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-100 400,-100 400,4 -4,4"/>
-<!-- Node16347 -->
+<!-- Node16377 -->
 <g id="node1" class="node">
-<title>Node16347</title>
+<title>Node16377</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-38.5 0,-57.5 97,-57.5 97,-38.5 0,-38.5"/>
 <text text-anchor="middle" x="48.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">tls_socket_close</text>
 </g>
-<!-- Node16348 -->
+<!-- Node16378 -->
 <g id="node2" class="node">
-<title>Node16348</title>
+<title>Node16378</title>
 <g id="a_node2"><a xlink:href="gnutls_8c.html#a5e452ed3f45c2f6d728e8674cbc14171" target="_top" xlink:title="Open a TLS socket &#45; Implements Connection::open() ">
 <polygon fill="#ffffff" stroke="#000000" points="135,-76.5 135,-95.5 230,-95.5 230,-76.5 135,-76.5"/>
 <text text-anchor="middle" x="182.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">tls_socket_open</text>
 </a>
 </g>
 </g>
-<!-- Node16347&#45;&gt;Node16348 -->
+<!-- Node16377&#45;&gt;Node16378 -->
 <g id="edge1" class="edge">
-<title>Node16347&#45;&gt;Node16348</title>
+<title>Node16377&#45;&gt;Node16378</title>
 <path fill="none" stroke="#191970" d="M91.9383,-60.3183C110.3491,-65.5393 131.4798,-71.5316 148.697,-76.4141"/>
 <polygon fill="#191970" stroke="#191970" points="92.8894,-56.9501 82.3139,-57.589 90.9796,-63.6845 92.8894,-56.9501"/>
 </g>
-<!-- Node16349 -->
+<!-- Node16379 -->
 <g id="node3" class="node">
-<title>Node16349</title>
+<title>Node16379</title>
 <g id="a_node3"><a xlink:href="ssl_8h.html#ae6341b74ebed0751e68285e6bf379fab" target="_top" xlink:title="Set up SSL socket mulitplexor. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="268,-57.5 268,-76.5 396,-76.5 396,-57.5 268,-57.5"/>
 <text text-anchor="middle" x="332" y="-64.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_ssl_socket_setup</text>
 </a>
 </g>
 </g>
-<!-- Node16347&#45;&gt;Node16349 -->
+<!-- Node16377&#45;&gt;Node16379 -->
 <g id="edge4" class="edge">
-<title>Node16347&#45;&gt;Node16349</title>
+<title>Node16377&#45;&gt;Node16379</title>
 <path fill="none" stroke="#191970" d="M107.2413,-51.9368C154.1343,-55.0795 219.7408,-59.4765 267.9711,-62.7088"/>
 <polygon fill="#191970" stroke="#191970" points="107.4471,-48.4428 97.2354,-51.2662 106.9789,-55.4272 107.4471,-48.4428"/>
 </g>
-<!-- Node16913 -->
+<!-- Node16997 -->
 <g id="node4" class="node">
-<title>Node16913</title>
+<title>Node16997</title>
 <g id="a_node4"><a xlink:href="gnutls_8c.html#a0c11cb8253f1e3cd4df8ba1a92ef3252" target="_top" xlink:title="Close a TLS connection &#45; Implements Connection::close() ">
 <polygon fill="#ffffff" stroke="#ff0000" points="133,-.5 133,-19.5 232,-19.5 232,-.5 133,-.5"/>
 <text text-anchor="middle" x="182.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">tls_starttls_close</text>
 </a>
 </g>
 </g>
-<!-- Node16347&#45;&gt;Node16913 -->
+<!-- Node16377&#45;&gt;Node16997 -->
 <g id="edge3" class="edge">
-<title>Node16347&#45;&gt;Node16913</title>
+<title>Node16377&#45;&gt;Node16997</title>
 <path fill="none" stroke="#191970" d="M91.9383,-35.6817C110.3491,-30.4607 131.4798,-24.4684 148.697,-19.5859"/>
 <polygon fill="#191970" stroke="#191970" points="90.9796,-32.3155 82.3139,-38.411 92.8894,-39.0499 90.9796,-32.3155"/>
 </g>
-<!-- Node16348&#45;&gt;Node16349 -->
+<!-- Node16378&#45;&gt;Node16379 -->
 <g id="edge2" class="edge">
-<title>Node16348&#45;&gt;Node16349</title>
+<title>Node16378&#45;&gt;Node16379</title>
 <path fill="none" stroke="#191970" d="M240.2369,-78.6622C249.2731,-77.5138 258.6596,-76.3209 267.8293,-75.1555"/>
 <polygon fill="#191970" stroke="#191970" points="239.6927,-75.2031 230.2138,-79.936 240.5753,-82.1473 239.6927,-75.2031"/>
 </g>

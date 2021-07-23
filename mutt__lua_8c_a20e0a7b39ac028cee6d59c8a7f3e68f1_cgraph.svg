@@ -9,54 +9,54 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 100)">
 <title>luaopen_mutt</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-100 255,-100 255,4 -4,4"/>
-<!-- Node2317 -->
+<!-- Node2149 -->
 <g id="node1" class="node">
-<title>Node2317</title>
+<title>Node2149</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-38.5 0,-57.5 84,-57.5 84,-38.5 0,-38.5"/>
 <text text-anchor="middle" x="42" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">luaopen_mutt</text>
 </g>
-<!-- Node2318 -->
+<!-- Node2150 -->
 <g id="node2" class="node">
-<title>Node2318</title>
+<title>Node2150</title>
 <g id="a_node2"><a xlink:href="mutt__lua_8c.html#ae56f5cd7bf675c8c68d1094f7b0daea1" target="_top" xlink:title="Declare some NeoMutt types to the Lua interpreter. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="130.5,-76.5 130.5,-95.5 240.5,-95.5 240.5,-76.5 130.5,-76.5"/>
 <text text-anchor="middle" x="185.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">luaopen_mutt_decl</text>
 </a>
 </g>
 </g>
-<!-- Node2317&#45;&gt;Node2318 -->
+<!-- Node2149&#45;&gt;Node2150 -->
 <g id="edge1" class="edge">
-<title>Node2317&#45;&gt;Node2318</title>
+<title>Node2149&#45;&gt;Node2150</title>
 <path fill="none" stroke="#191970" d="M78.2111,-57.589C96.8206,-62.5169 119.6972,-68.5749 139.5389,-73.8291"/>
 <polygon fill="#191970" stroke="#191970" points="138.7377,-77.2375 149.3005,-76.4141 140.5296,-70.4708 138.7377,-77.2375"/>
 </g>
-<!-- Node2320 -->
+<!-- Node2152 -->
 <g id="node3" class="node">
-<title>Node2320</title>
+<title>Node2152</title>
 <g id="a_node3"><a xlink:href="mutt__commands_8c.html#a4946a635036d6bc6a8018624849855bb" target="_top" xlink:title="Run a callback function on every Command. ">
 <polygon fill="#ffffff" stroke="#000000" points="120,-38.5 120,-57.5 251,-57.5 251,-38.5 120,-38.5"/>
 <text text-anchor="middle" x="185.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_commands_apply</text>
 </a>
 </g>
 </g>
-<!-- Node2317&#45;&gt;Node2320 -->
+<!-- Node2149&#45;&gt;Node2152 -->
 <g id="edge2" class="edge">
-<title>Node2317&#45;&gt;Node2320</title>
+<title>Node2149&#45;&gt;Node2152</title>
 <path fill="none" stroke="#191970" d="M84.2786,-48C92.3005,-48 100.9174,-48 109.6155,-48"/>
 <polygon fill="#191970" stroke="#191970" points="109.8329,-51.5001 119.8329,-48 109.8328,-44.5001 109.8329,-51.5001"/>
 </g>
-<!-- Node2321 -->
+<!-- Node2153 -->
 <g id="node4" class="node">
-<title>Node2321</title>
+<title>Node2153</title>
 <g id="a_node4"><a xlink:href="mutt__lua_8c.html#a92e9eb237ab2c2e4a5c78a60fe04447b" target="_top" xlink:title="Expose a NeoMutt command to the Lua interpreter. ">
 <polygon fill="#ffffff" stroke="#000000" points="122.5,-.5 122.5,-19.5 248.5,-19.5 248.5,-.5 122.5,-.5"/>
 <text text-anchor="middle" x="185.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">lua_expose_command</text>
 </a>
 </g>
 </g>
-<!-- Node2317&#45;&gt;Node2321 -->
+<!-- Node2149&#45;&gt;Node2153 -->
 <g id="edge3" class="edge">
-<title>Node2317&#45;&gt;Node2321</title>
+<title>Node2149&#45;&gt;Node2153</title>
 <path fill="none" stroke="#191970" d="M78.2111,-38.411C96.8206,-33.4831 119.6972,-27.4251 139.5389,-22.1709"/>
 <polygon fill="#191970" stroke="#191970" points="140.5296,-25.5292 149.3005,-19.5859 138.7377,-18.7625 140.5296,-25.5292"/>
 </g>

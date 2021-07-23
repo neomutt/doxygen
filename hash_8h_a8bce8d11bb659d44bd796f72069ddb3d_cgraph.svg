@@ -9,84 +9,84 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 176)">
 <title>mutt_hash_new</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-176 258,-176 258,4 -4,4"/>
-<!-- Node6587 -->
+<!-- Node7178 -->
 <g id="node1" class="node">
-<title>Node6587</title>
+<title>Node7178</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-76.5 0,-95.5 94,-95.5 94,-76.5 0,-76.5"/>
 <text text-anchor="middle" x="47" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_hash_new</text>
 </g>
-<!-- Node6588 -->
+<!-- Node7179 -->
 <g id="node2" class="node">
-<title>Node6588</title>
+<title>Node7179</title>
 <g id="a_node2"><a xlink:href="hash_8c.html#abb3f4f9c02823fad0d722a0d28b24259" target="_top" xlink:title="Create a new Hash Table. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="159.5,-152.5 159.5,-171.5 224.5,-171.5 224.5,-152.5 159.5,-152.5"/>
 <text text-anchor="middle" x="192" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">hash_new</text>
 </a>
 </g>
 </g>
-<!-- Node6587&#45;&gt;Node6588 -->
+<!-- Node7178&#45;&gt;Node7179 -->
 <g id="edge1" class="edge">
-<title>Node6587&#45;&gt;Node6588</title>
+<title>Node7178&#45;&gt;Node7179</title>
 <path fill="none" stroke="#191970" d="M58.3952,-95.5155C73.7793,-107.9512 102.4488,-129.7059 130,-143 136.1992,-145.9913 142.9738,-148.6375 149.6953,-150.9329"/>
 <polygon fill="#191970" stroke="#191970" points="148.8411,-154.3342 159.432,-154.0441 150.9718,-147.6663 148.8411,-154.3342"/>
 </g>
-<!-- Node6591 -->
+<!-- Node7182 -->
 <g id="node3" class="node">
-<title>Node6591</title>
+<title>Node7182</title>
 <g id="a_node3"><a xlink:href="hash_8c.html#a06edd29ca46927cfefe74fb8fb61bce6" target="_top" xlink:title="Generate a hash from a string (ignore the case) &#45; Implements hash_gen_hash_t. ">
 <polygon fill="#ffffff" stroke="#000000" points="130,-114.5 130,-133.5 254,-133.5 254,-114.5 130,-114.5"/>
 <text text-anchor="middle" x="192" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">gen_case_string_hash</text>
 </a>
 </g>
 </g>
-<!-- Node6587&#45;&gt;Node6591 -->
+<!-- Node7178&#45;&gt;Node7182 -->
 <g id="edge2" class="edge">
-<title>Node6587&#45;&gt;Node6591</title>
+<title>Node7178&#45;&gt;Node7182</title>
 <path fill="none" stroke="#191970" d="M83.5896,-95.589C102.4654,-100.5358 125.6859,-106.6211 145.7879,-111.8892"/>
 <polygon fill="#191970" stroke="#191970" points="145.1129,-115.3305 155.6735,-114.4799 146.8875,-108.5591 145.1129,-115.3305"/>
 </g>
-<!-- Node6592 -->
+<!-- Node7183 -->
 <g id="node4" class="node">
-<title>Node6592</title>
+<title>Node7183</title>
 <g id="a_node4"><a xlink:href="hash_8c.html#ab4bb73821de24c67d5bbd408dd0b532d" target="_top" xlink:title="Compare two string keys (ignore case) &#45; Implements hash_cmp_key_t. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="131,-76.5 131,-95.5 253,-95.5 253,-76.5 131,-76.5"/>
 <text text-anchor="middle" x="192" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cmp_case_string_key</text>
 </a>
 </g>
 </g>
-<!-- Node6587&#45;&gt;Node6592 -->
+<!-- Node7178&#45;&gt;Node7183 -->
 <g id="edge3" class="edge">
-<title>Node6587&#45;&gt;Node6592</title>
+<title>Node7178&#45;&gt;Node7183</title>
 <path fill="none" stroke="#191970" d="M94.0773,-86C102.609,-86 111.6784,-86 120.7225,-86"/>
 <polygon fill="#191970" stroke="#191970" points="120.8928,-89.5001 130.8927,-86 120.8927,-82.5001 120.8928,-89.5001"/>
 </g>
-<!-- Node6594 -->
+<!-- Node7185 -->
 <g id="node5" class="node">
-<title>Node6594</title>
+<title>Node7185</title>
 <g id="a_node5"><a xlink:href="hash_8c.html#a145bffd967cf163cb6f48dd0961faa28" target="_top" xlink:title="Generate a hash from a string &#45; Implements hash_gen_hash_t. ">
 <polygon fill="#ffffff" stroke="#000000" points="144,-38.5 144,-57.5 240,-57.5 240,-38.5 144,-38.5"/>
 <text text-anchor="middle" x="192" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">gen_string_hash</text>
 </a>
 </g>
 </g>
-<!-- Node6587&#45;&gt;Node6594 -->
+<!-- Node7178&#45;&gt;Node7185 -->
 <g id="edge4" class="edge">
-<title>Node6587&#45;&gt;Node6594</title>
+<title>Node7178&#45;&gt;Node7185</title>
 <path fill="none" stroke="#191970" d="M83.5896,-76.411C102.4654,-71.4642 125.6859,-65.3789 145.7879,-60.1108"/>
 <polygon fill="#191970" stroke="#191970" points="146.8875,-63.4409 155.6735,-57.5201 145.1129,-56.6695 146.8875,-63.4409"/>
 </g>
-<!-- Node6595 -->
+<!-- Node7186 -->
 <g id="node6" class="node">
-<title>Node6595</title>
+<title>Node7186</title>
 <g id="a_node6"><a xlink:href="hash_8c.html#af725d05cd3ceef42e227b5ad563ba0eb" target="_top" xlink:title="Compare two string keys &#45; Implements hash_cmp_key_t. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="145,-.5 145,-19.5 239,-19.5 239,-.5 145,-.5"/>
 <text text-anchor="middle" x="192" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cmp_string_key</text>
 </a>
 </g>
 </g>
-<!-- Node6587&#45;&gt;Node6595 -->
+<!-- Node7178&#45;&gt;Node7186 -->
 <g id="edge5" class="edge">
-<title>Node6587&#45;&gt;Node6595</title>
+<title>Node7178&#45;&gt;Node7186</title>
 <path fill="none" stroke="#191970" d="M58.3952,-76.4845C73.7793,-64.0488 102.4488,-42.2941 130,-29 134.634,-26.764 139.5895,-24.7208 144.6039,-22.8728"/>
 <polygon fill="#191970" stroke="#191970" points="145.9295,-26.1183 154.2507,-19.5603 143.6561,-19.4977 145.9295,-26.1183"/>
 </g>

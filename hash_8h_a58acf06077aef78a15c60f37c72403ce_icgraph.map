@@ -6,24 +6,25 @@
 <area shape="rect" id="node6" href="$context_8h.html#a9388581d0baec70c2962fdb99fd1a35c" title="Update the Context&#39;s message counts. " alt="" coords="237,208,331,235"/>
 <area shape="rect" id="node7" href="$parse_8h.html#a2a830caa65e6f462ab0ecae77bce746b" title="Check if user is subscribed to mailing list. " alt="" coords="205,259,363,285"/>
 <area shape="rect" id="node8" href="$tags_8h.html#af7008a8faa159d9187bd04ea0fcfccd5" title="Add a tag to header. " alt="" coords="221,309,347,336"/>
-<area shape="rect" id="node9" href="$hdrline_8c.html#afa87b03d9a383088d6db0c417f79da92" title="Format a string for the index list &#45; Implements format_t. " alt="" coords="468,411,601,437"/>
-<area shape="rect" id="node10" href="$hook_8h.html#a006e34e81efbb903f3eba1c8887f0d87" title="Parse the &#39;index&#45;format&#45;hook&#39; command &#45; Implements Command::parse() " alt="" coords="191,411,377,437"/>
-<area shape="rect" id="node11" href="$hook_8h.html#a23f48f56f7a277b90c9e0c7e3a1ed867" title="Get index&#45;format&#45;hook format string. " alt="" coords="213,360,355,387"/>
-<area shape="rect" id="node12" href="$index_2lib_8h.html#a99aec648e9fb9eeee0d0154211b428da" title="Display a list of emails. " alt="" coords="677,816,817,843"/>
-<area shape="rect" id="node13" href="$maildir_8c.html#a9c83b6e969c6eced44ccaa2fc21360ec" title="Check for new mail &#45; Implements MxOps::mbox_check() " alt="" coords="205,563,363,589"/>
-<area shape="rect" id="node14" href="$mh_8c.html#a4be54a995c195a42265f6ac32d80355a" title="Check for new mail &#45; Implements MxOps::mbox_check() " alt="" coords="218,613,350,640"/>
-<area shape="rect" id="node15" href="$draw_8c.html#a950cc3355862be82cbe07d94f6207fc5" title="Choose a colour for a line of the index. " alt="" coords="243,664,325,691"/>
-<area shape="rect" id="node16" href="$mutt__thread_8h.html#ac7bcb788cdd39c241efce4af04d2f3dc" title="Sort email threads. " alt="" coords="213,715,355,741"/>
-<area shape="rect" id="node17" href="$newsrc_8c.html#ad95047455c17e74059e350654359062a" title="Find NntpMboxData for given newsgroup or add it. " alt="" coords="237,765,331,792"/>
-<area shape="rect" id="node18" href="$newsrc_8c.html#a0e57436b35d68983c6fe44815f3ad505" title="Clear the NNTP cache. " alt="" coords="217,867,351,893"/>
-<area shape="rect" id="node19" href="$newsrc_8c.html#ac4e2953e3c6f9d6d57467cb5e2856d1e" title="Open a connection to an NNTP server. " alt="" coords="462,892,607,919"/>
-<area shape="rect" id="node20" href="$nntp_8c.html#a958364186e337ca6168094e57f038296" title="Open a Mailbox &#45; Implements MxOps::mbox_open() " alt="" coords="680,968,815,995"/>
-<area shape="rect" id="node21" href="$nntp_2private_8h.html#a3a2a364d853a786fb0b224c379d28eab" title="Get status of articles from .newsrc. " alt="" coords="211,968,357,995"/>
-<area shape="rect" id="node22" href="$newsrc_8c.html#aea2d7fb63b1b73a6815a0ad8cd8ae07e" title="Unsubscribe newsgroup. " alt="" coords="176,1019,392,1045"/>
-<area shape="rect" id="node23" href="$newsrc_8c.html#a5f67ac08e3719a644d03b62e22127100" title="Catchup newsgroup. " alt="" coords="440,639,629,665"/>
-<area shape="rect" id="node24" href="$newsrc_8c.html#a16c66587ba5ca1cde6cc7408dfc3e66e" title="Uncatchup newsgroup. " alt="" coords="181,1120,387,1147"/>
-<area shape="rect" id="node25" href="$nntp_8c.html#ae79240002fd35ab8a9331bcd4e8a6e90" title="Parse newsgroup description. " alt="" coords="217,1171,351,1197"/>
-<area shape="rect" id="node26" href="$nntp_8c.html#a42193de3e305ffe8cddf243a87d3fd68" title="Close a Mailbox &#45; Implements MxOps::mbox_close() " alt="" coords="216,1221,352,1248"/>
-<area shape="rect" id="node27" href="$notmuch_8c.html#af785de5c861971b9a7767e94b5b0a04b" title="Get the Email of a Notmuch message. " alt="" coords="221,1272,347,1299"/>
-<area shape="rect" id="node28" href="$protos_8h.html#aacde94d20e952e822eac92e0fbf74682" title="Recall a postponed message. " alt="" coords="206,1323,362,1349"/>
+<area shape="rect" id="node9" href="$index_2functions_8c.html#a7b6e6ede76315a771d222535f5e8c3db" title="get all children of the current message &#45; Implements index_function_t " alt="" coords="221,360,347,387"/>
+<area shape="rect" id="node10" href="$index_2functions_8c.html#a60890f5c89b02740798da0cb14d29f4d" title="get parent of the current message &#45; Implements index_function_t " alt="" coords="218,411,350,437"/>
+<area shape="rect" id="node11" href="$group__expando__api.html#gafa87b03d9a383088d6db0c417f79da92" title="Format a string for the index list &#45; Implements format_t &#45;Expando Description &#160;%a Address of the auth..." alt="" coords="446,512,579,539"/>
+<area shape="rect" id="node12" href="$hook_8h.html#a006e34e81efbb903f3eba1c8887f0d87" title="Parse the &#39;index&#45;format&#45;hook&#39; command &#45; Implements Command::parse() " alt="" coords="191,512,377,539"/>
+<area shape="rect" id="node13" href="$hook_8h.html#a23f48f56f7a277b90c9e0c7e3a1ed867" title="Get index&#45;format&#45;hook format string. " alt="" coords="213,563,355,589"/>
+<area shape="rect" id="node14" href="$group__mx__mbox__check.html#ga9c83b6e969c6eced44ccaa2fc21360ec" title="Check for new mail &#45; Implements MxOps::mbox_check() &#45;This function handles arrival of new mail and re..." alt="" coords="205,613,363,640"/>
+<area shape="rect" id="node15" href="$group__mx__mbox__check.html#ga4be54a995c195a42265f6ac32d80355a" title="Check for new mail &#45; Implements MxOps::mbox_check() &#45;This function handles arrival of new mail and re..." alt="" coords="218,664,350,691"/>
+<area shape="rect" id="node16" href="$draw_8c.html#a950cc3355862be82cbe07d94f6207fc5" title="Choose a colour for a line of the index. " alt="" coords="243,715,325,741"/>
+<area shape="rect" id="node17" href="$mutt__thread_8h.html#ac7bcb788cdd39c241efce4af04d2f3dc" title="Sort email threads. " alt="" coords="213,765,355,792"/>
+<area shape="rect" id="node18" href="$newsrc_8c.html#ad95047455c17e74059e350654359062a" title="Find NntpMboxData for given newsgroup or add it. " alt="" coords="237,816,331,843"/>
+<area shape="rect" id="node19" href="$newsrc_8c.html#a0e57436b35d68983c6fe44815f3ad505" title="Clear the NNTP cache. " alt="" coords="217,867,351,893"/>
+<area shape="rect" id="node20" href="$newsrc_8c.html#ac4e2953e3c6f9d6d57467cb5e2856d1e" title="Open a connection to an NNTP server. " alt="" coords="440,917,585,944"/>
+<area shape="rect" id="node21" href="$group__mx__mbox__open.html#ga958364186e337ca6168094e57f038296" title="Open a Mailbox &#45; Implements MxOps::mbox_open() &#45;. " alt="" coords="633,943,768,969"/>
+<area shape="rect" id="node22" href="$nntp_2private_8h.html#a3a2a364d853a786fb0b224c379d28eab" title="Get status of articles from .newsrc. " alt="" coords="211,1019,357,1045"/>
+<area shape="rect" id="node23" href="$newsrc_8c.html#aea2d7fb63b1b73a6815a0ad8cd8ae07e" title="Unsubscribe newsgroup. " alt="" coords="176,1069,392,1096"/>
+<area shape="rect" id="node24" href="$newsrc_8c.html#a5f67ac08e3719a644d03b62e22127100" title="Catchup newsgroup. " alt="" coords="189,1120,379,1147"/>
+<area shape="rect" id="node25" href="$newsrc_8c.html#a16c66587ba5ca1cde6cc7408dfc3e66e" title="Uncatchup newsgroup. " alt="" coords="181,1171,387,1197"/>
+<area shape="rect" id="node26" href="$nntp_8c.html#ae79240002fd35ab8a9331bcd4e8a6e90" title="Parse newsgroup description. " alt="" coords="217,1221,351,1248"/>
+<area shape="rect" id="node27" href="$group__mx__mbox__close.html#ga42193de3e305ffe8cddf243a87d3fd68" title="Close a Mailbox &#45; Implements MxOps::mbox_close() &#45;. " alt="" coords="216,1272,352,1299"/>
+<area shape="rect" id="node28" href="$notmuch_8c.html#af785de5c861971b9a7767e94b5b0a04b" title="Get the Email of a Notmuch message. " alt="" coords="221,1323,347,1349"/>
+<area shape="rect" id="node29" href="$protos_8h.html#aacde94d20e952e822eac92e0fbf74682" title="Recall a postponed message. " alt="" coords="206,1373,362,1400"/>
 </map>

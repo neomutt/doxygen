@@ -9,70 +9,70 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 138)">
 <title>mutt_is_valid_multipart_pgp_encrypted</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-138 323,-138 323,4 -4,4"/>
-<!-- Node5070 -->
+<!-- Node5173 -->
 <g id="node1" class="node">
-<title>Node5070</title>
+<title>Node5173</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-52 0,-82 133,-82 133,-52 0,-52"/>
 <text text-anchor="start" x="8" y="-70" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_is_valid_multipart</text>
 <text text-anchor="middle" x="66.5" y="-59" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">_pgp_encrypted</text>
 </g>
-<!-- Node5071 -->
+<!-- Node5174 -->
 <g id="node2" class="node">
-<title>Node5071</title>
+<title>Node5174</title>
 <g id="a_node2"><a xlink:href="commands_8c.html#a72d3cb8212a486f5f5db50e1f87565fc" target="_top" xlink:title="Get the protected header and update the index. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="169,-114.5 169,-133.5 319,-133.5 319,-114.5 169,-114.5"/>
 <text text-anchor="middle" x="244" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">process_protected_headers</text>
 </a>
 </g>
 </g>
-<!-- Node5070&#45;&gt;Node5071 -->
+<!-- Node5173&#45;&gt;Node5174 -->
 <g id="edge1" class="edge">
-<title>Node5070&#45;&gt;Node5071</title>
+<title>Node5173&#45;&gt;Node5174</title>
 <path fill="none" stroke="#191970" d="M113.949,-85.7945C131.1508,-92.2876 150.8212,-99.3454 169,-105 179.9021,-108.3912 191.8329,-111.625 202.9073,-114.4322"/>
 <polygon fill="#191970" stroke="#191970" points="114.7268,-82.3453 104.136,-82.0516 112.2321,-88.8857 114.7268,-82.3453"/>
 </g>
-<!-- Node5102 -->
+<!-- Node5177 -->
 <g id="node3" class="node">
-<title>Node5102</title>
+<title>Node5177</title>
 <g id="a_node3"><a xlink:href="handler_8h.html#adae8bf0eec9bee0bd62f639bbcf8599f" target="_top" xlink:title="Handler for the Body of an email. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="188.5,-76.5 188.5,-95.5 299.5,-95.5 299.5,-76.5 188.5,-76.5"/>
 <text text-anchor="middle" x="244" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_body_handler</text>
 </a>
 </g>
 </g>
-<!-- Node5070&#45;&gt;Node5102 -->
+<!-- Node5173&#45;&gt;Node5177 -->
 <g id="edge2" class="edge">
-<title>Node5070&#45;&gt;Node5102</title>
+<title>Node5173&#45;&gt;Node5177</title>
 <path fill="none" stroke="#191970" d="M143.4543,-75.2374C158.55,-76.8532 174.1092,-78.5187 188.343,-80.0423"/>
 <polygon fill="#191970" stroke="#191970" points="143.4152,-71.7133 133.0995,-74.129 142.6701,-78.6735 143.4152,-71.7133"/>
 </g>
-<!-- Node5365 -->
+<!-- Node5492 -->
 <g id="node4" class="node">
-<title>Node5365</title>
+<title>Node5492</title>
 <g id="a_node4"><a xlink:href="crypt__gpgme_8h.html#a473ba915ca379bb659a754b8792f2cfa" target="_top" xlink:title="Implements CryptModuleSpecs::decrypt_mime() ">
 <polygon fill="#ffffff" stroke="#ff0000" points="169.5,-38.5 169.5,-57.5 318.5,-57.5 318.5,-38.5 169.5,-38.5"/>
 <text text-anchor="middle" x="244" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pgp_gpgme_decrypt_mime</text>
 </a>
 </g>
 </g>
-<!-- Node5070&#45;&gt;Node5365 -->
+<!-- Node5173&#45;&gt;Node5492 -->
 <g id="edge3" class="edge">
-<title>Node5070&#45;&gt;Node5365</title>
+<title>Node5173&#45;&gt;Node5492</title>
 <path fill="none" stroke="#191970" d="M143.1719,-58.7929C151.8305,-57.866 160.6454,-56.9225 169.2786,-55.9983"/>
 <polygon fill="#191970" stroke="#191970" points="142.6701,-55.3265 133.0995,-59.871 143.4152,-62.2867 142.6701,-55.3265"/>
 </g>
-<!-- Node5371 -->
+<!-- Node5504 -->
 <g id="node5" class="node">
-<title>Node5371</title>
+<title>Node5504</title>
 <g id="a_node5"><a xlink:href="pgp_8h.html#aa949718827381a0e6229ef3eb2abc928" target="_top" xlink:title="Implements CryptModuleSpecs::decrypt_mime() ">
 <polygon fill="#ffffff" stroke="#000000" points="174,-.5 174,-19.5 314,-19.5 314,-.5 174,-.5"/>
 <text text-anchor="middle" x="244" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pgp_class_decrypt_mime</text>
 </a>
 </g>
 </g>
-<!-- Node5070&#45;&gt;Node5371 -->
+<!-- Node5173&#45;&gt;Node5504 -->
 <g id="edge4" class="edge">
-<title>Node5070&#45;&gt;Node5371</title>
+<title>Node5173&#45;&gt;Node5504</title>
 <path fill="none" stroke="#191970" d="M113.949,-48.2055C131.1508,-41.7124 150.8212,-34.6546 169,-29 179.9021,-25.6088 191.8329,-22.375 202.9073,-19.5678"/>
 <polygon fill="#191970" stroke="#191970" points="112.2321,-45.1143 104.136,-51.9484 114.7268,-51.6547 112.2321,-45.1143"/>
 </g>

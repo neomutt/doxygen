@@ -9,96 +9,96 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 176)">
 <title>text_enriched_handler</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-176 395,-176 395,4 -4,4"/>
-<!-- Node2874 -->
+<!-- Node3144 -->
 <g id="node1" class="node">
-<title>Node2874</title>
+<title>Node3144</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-76.5 0,-95.5 125,-95.5 125,-76.5 0,-76.5"/>
 <text text-anchor="middle" x="62.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">text_enriched_handler</text>
 </g>
-<!-- Node2875 -->
+<!-- Node3145 -->
 <g id="node2" class="node">
-<title>Node2875</title>
+<title>Node3145</title>
 <g id="a_node2"><a xlink:href="memory_8c.html#a4c1612d209c7825d55e6a014df352f03" target="_top" xlink:title="Allocate zeroed memory on the heap. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="162.5,-152.5 162.5,-171.5 266.5,-171.5 266.5,-152.5 162.5,-152.5"/>
 <text text-anchor="middle" x="214.5" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_mem_calloc</text>
 </a>
 </g>
 </g>
-<!-- Node2874&#45;&gt;Node2875 -->
+<!-- Node3144&#45;&gt;Node3145 -->
 <g id="edge1" class="edge">
-<title>Node2874&#45;&gt;Node2875</title>
+<title>Node3144&#45;&gt;Node3145</title>
 <path fill="none" stroke="#191970" d="M77.0638,-95.5679C95.8978,-107.6709 129.9728,-128.6604 161,-143 165.4624,-145.0624 170.2167,-147.0423 174.9798,-148.8936"/>
 <polygon fill="#191970" stroke="#191970" points="174.0855,-152.2951 184.6784,-152.4984 176.5243,-145.7337 174.0855,-152.2951"/>
 </g>
-<!-- Node2877 -->
+<!-- Node3147 -->
 <g id="node3" class="node">
-<title>Node2877</title>
+<title>Node3147</title>
 <g id="a_node3"><a xlink:href="mutt_2string_8c.html#acca6786b903b22a5924219f9db96e10d" target="_top" xlink:title="Calculate the length of a string, safely. ">
 <polygon fill="#ffffff" stroke="#000000" points="175.5,-114.5 175.5,-133.5 253.5,-133.5 253.5,-114.5 175.5,-114.5"/>
 <text text-anchor="middle" x="214.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_str_len</text>
 </a>
 </g>
 </g>
-<!-- Node2874&#45;&gt;Node2877 -->
+<!-- Node3144&#45;&gt;Node3147 -->
 <g id="edge2" class="edge">
-<title>Node2874&#45;&gt;Node2877</title>
+<title>Node3144&#45;&gt;Node3147</title>
 <path fill="none" stroke="#191970" d="M100.856,-95.589C120.8237,-100.5809 145.4295,-106.7324 166.6334,-112.0334"/>
 <polygon fill="#191970" stroke="#191970" points="165.8695,-115.45 176.4198,-114.4799 167.5673,-108.659 165.8695,-115.45"/>
 </g>
-<!-- Node2878 -->
+<!-- Node3148 -->
 <g id="node4" class="node">
-<title>Node2878</title>
+<title>Node3148</title>
 <g id="a_node4"><a xlink:href="enriched_8c.html#a418154b29b6bf2ba99e7d765a4799eac" target="_top" xlink:title="Write enriched text to the State. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="304,-38.5 304,-57.5 391,-57.5 391,-38.5 304,-38.5"/>
 <text text-anchor="middle" x="347.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">enriched_flush</text>
 </a>
 </g>
 </g>
-<!-- Node2874&#45;&gt;Node2878 -->
+<!-- Node3144&#45;&gt;Node3148 -->
 <g id="edge3" class="edge">
-<title>Node2874&#45;&gt;Node2878</title>
+<title>Node3144&#45;&gt;Node3148</title>
 <path fill="none" stroke="#191970" d="M125.2986,-82.5203C166.1408,-79.6856 220.4515,-74.839 268,-67 279.2561,-65.1443 291.2825,-62.5804 302.4853,-59.9361"/>
 <polygon fill="#191970" stroke="#191970" points="303.6059,-63.2658 312.4965,-57.5031 301.9527,-56.4638 303.6059,-63.2658"/>
 </g>
-<!-- Node2883 -->
+<!-- Node3153 -->
 <g id="node5" class="node">
-<title>Node2883</title>
+<title>Node3153</title>
 <g id="a_node5"><a xlink:href="enriched_8c.html#a5e33ab7f80a1f52fb127f6b73c763e92" target="_top" xlink:title="Write one wide character to the state. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="168,-38.5 168,-57.5 261,-57.5 261,-38.5 168,-38.5"/>
 <text text-anchor="middle" x="214.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">enriched_putwc</text>
 </a>
 </g>
 </g>
-<!-- Node2874&#45;&gt;Node2883 -->
+<!-- Node3144&#45;&gt;Node3153 -->
 <g id="edge4" class="edge">
-<title>Node2874&#45;&gt;Node2883</title>
+<title>Node3144&#45;&gt;Node3153</title>
 <path fill="none" stroke="#191970" d="M100.856,-76.411C120.8237,-71.4191 145.4295,-65.2676 166.6334,-59.9666"/>
 <polygon fill="#191970" stroke="#191970" points="167.5673,-63.341 176.4198,-57.5201 165.8695,-56.55 167.5673,-63.341"/>
 </g>
-<!-- Node2884 -->
+<!-- Node3154 -->
 <g id="node6" class="node">
-<title>Node2884</title>
+<title>Node3154</title>
 <g id="a_node6"><a xlink:href="enriched_8c.html#adbdf225700fa264865bf9df7464a5895" target="_top" xlink:title="Set flags on the enriched text state. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="161,-.5 161,-19.5 268,-19.5 268,-.5 161,-.5"/>
 <text text-anchor="middle" x="214.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">enriched_set_flags</text>
 </a>
 </g>
 </g>
-<!-- Node2874&#45;&gt;Node2884 -->
+<!-- Node3144&#45;&gt;Node3154 -->
 <g id="edge6" class="edge">
-<title>Node2874&#45;&gt;Node2884</title>
+<title>Node3144&#45;&gt;Node3154</title>
 <path fill="none" stroke="#191970" d="M77.0638,-76.4321C95.8978,-64.3291 129.9728,-43.3396 161,-29 165.4624,-26.9376 170.2167,-24.9577 174.9798,-23.1064"/>
 <polygon fill="#191970" stroke="#191970" points="176.5243,-26.2663 184.6784,-19.5016 174.0855,-19.7049 176.5243,-26.2663"/>
 </g>
-<!-- Node2883&#45;&gt;Node2878 -->
+<!-- Node3153&#45;&gt;Node3148 -->
 <g id="edge5" class="edge">
-<title>Node2883&#45;&gt;Node2878</title>
+<title>Node3153&#45;&gt;Node3148</title>
 <path fill="none" stroke="#191970" d="M261.0169,-48C271.5756,-48 282.8752,-48 293.7075,-48"/>
 <polygon fill="#191970" stroke="#191970" points="293.9106,-51.5001 303.9105,-48 293.9105,-44.5001 293.9106,-51.5001"/>
 </g>
-<!-- Node2884&#45;&gt;Node2878 -->
+<!-- Node3154&#45;&gt;Node3148 -->
 <g id="edge7" class="edge">
-<title>Node2884&#45;&gt;Node2878</title>
+<title>Node3154&#45;&gt;Node3148</title>
 <path fill="none" stroke="#191970" d="M248.0615,-19.589C265.073,-24.4494 285.9319,-30.4091 304.1446,-35.6127"/>
 <polygon fill="#191970" stroke="#191970" points="303.3724,-39.0321 313.9492,-38.4141 305.2955,-32.3014 303.3724,-39.0321"/>
 </g>

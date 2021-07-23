@@ -11,6 +11,7 @@ var mutt__thread_8h =
     [ "mutt_thread_contains_unread", "mutt__thread_8h.html#ab24bca6a05e2a2ff5b79baff6f3d22c2", null ],
     [ "mutt_thread_contains_flagged", "mutt__thread_8h.html#a1fc59e208b421c84cf02c848eb262f64", null ],
     [ "mutt_thread_next_unread", "mutt__thread_8h.html#a2a0b1aa9237bc42ba38e95677de31128", null ],
+    [ "mutt_using_threads", "mutt__thread_8h.html#a3c51d7064c28996bbe6fed52eec84857", null ],
     [ "mutt_next_thread", "mutt__thread_8h.html#ac941eae0535cf6db5c202181cf5b4fb9", null ],
     [ "mutt_previous_thread", "mutt__thread_8h.html#a55fed9e48b9cc9087788cce5c1604514", null ],
     [ "mutt_next_subthread", "mutt__thread_8h.html#ab0d08057e3d24753ee0aff2faa13fcaa", null ],
@@ -37,7 +38,16 @@ var mutt__thread_8h =
       [ "MIT_NUM_MESSAGES", "mutt__thread_8h.html#a7fd1879ba8179c12165019a4f005e1f4a4f4aff892a97ab76ab1d1448a4145a49", null ],
       [ "MIT_POSITION", "mutt__thread_8h.html#a7fd1879ba8179c12165019a4f005e1f4a6d32c349dacb6fbee74cfff06dd3b621", null ]
     ] ],
+    [ "UseThreads", "mutt__thread_8h.html#a317428aabc925e6a974638673629ddd6", [
+      [ "UT_UNSET", "mutt__thread_8h.html#a317428aabc925e6a974638673629ddd6a69e1ab6f934441ddba20025a3721de18", null ],
+      [ "UT_FLAT", "mutt__thread_8h.html#a317428aabc925e6a974638673629ddd6a0adb411bb3e8d03cc8e40ac83f869935", null ],
+      [ "UT_THREADS", "mutt__thread_8h.html#a317428aabc925e6a974638673629ddd6a7bfb9746c433e5df2aa2ac63688c31ee", null ],
+      [ "UT_REVERSE", "mutt__thread_8h.html#a317428aabc925e6a974638673629ddd6ae067005ba82a03c5d5d8f5c2ef6a17ef", null ]
+    ] ],
     [ "mutt_traverse_thread", "mutt__thread_8h.html#a6279a78ec582855fb16ab4eecc7eaf08", null ],
+    [ "mutt_thread_style", "mutt__thread_8h.html#aa7ffe096f2973f3d0cd486f8e8b4228b", null ],
+    [ "get_use_threads_str", "mutt__thread_8h.html#a40c0be1170795cf828e8ee33df7f5f90", null ],
+    [ "sort_validator", "mutt__thread_8h.html#a595f9f1861a0be3ae65a4c2eadc4bec5", null ],
     [ "mutt_aside_thread", "mutt__thread_8h.html#adb66f40987e98d64c631d45ee1bda645", null ],
     [ "mutt_thread_ctx_init", "mutt__thread_8h.html#a26ac1ee40c54bc5c63295741a2fc7a5a", null ],
     [ "mutt_thread_ctx_free", "mutt__thread_8h.html#a250ee23d642f1879947f87a16a2d4af5", null ],
@@ -51,5 +61,6 @@ var mutt__thread_8h =
     [ "mutt_messages_in_thread", "mutt__thread_8h.html#a7ea1d8cc762023c88ee9152f9d0a7ce0", null ],
     [ "mutt_parent_message", "mutt__thread_8h.html#ae021dae3b838ebc7f688d4c9204a2308", null ],
     [ "mutt_set_vnum", "mutt__thread_8h.html#ad208699eb4bc42837530572fbe4caf8d", null ],
-    [ "mutt_sort_threads", "mutt__thread_8h.html#ac7bcb788cdd39c241efce4af04d2f3dc", null ]
+    [ "mutt_sort_threads", "mutt__thread_8h.html#ac7bcb788cdd39c241efce4af04d2f3dc", null ],
+    [ "UseThreadsTypeDef", "mutt__thread_8h.html#acd8062518a14249dc049bc3ac762b6d7", null ]
 ];

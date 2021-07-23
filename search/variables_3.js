@@ -34,7 +34,6 @@ var searchData=
   ['divider_5fwidth',['divider_width',['../structSidebarWindowData.html#a1e1817de3a49bd62735693c267742cf2',1,'SidebarWindowData']]],
   ['do_5fmailbox_5fnotify',['do_mailbox_notify',['../structIndexPrivateData.html#a5c89672876da1e1500b5e7ed2a228bb7',1,'IndexPrivateData']]],
   ['docs',['docs',['../structConfigDef.html#aa892d688b347ab80a37a7b52a5f07ab7',1,'ConfigDef']]],
-  ['done',['done',['../structIndexPrivateData.html#a601a5c9ec322d05accc85efb21465811',1,'IndexPrivateData']]],
   ['dontwrite',['dontwrite',['../structMailbox.html#abbb602789f2c49a97aaa5d18978c2b34',1,'Mailbox']]],
   ['dot',['dot',['../structContent.html#af37982ce536c02caf0206b7392a3fbaa',1,'Content::dot()'],['../structContentState.html#aed50bb041501875696784e6626ca9ac6',1,'ContentState::dot()']]],
   ['down',['down',['../structSeqsetIterator.html#a49d324f002891ea71e91c11b3fb8d443',1,'SeqsetIterator::down()'],['../structQClass.html#a6ab9317e1fd7242902e1052e56d7c27d',1,'QClass::down()']]],

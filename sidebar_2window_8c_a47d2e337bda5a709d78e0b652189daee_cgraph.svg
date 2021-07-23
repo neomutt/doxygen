@@ -9,75 +9,75 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 138)">
 <title>update_entries_visibility</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-138 394,-138 394,4 -4,4"/>
-<!-- Node340 -->
+<!-- Node260 -->
 <g id="node1" class="node">
-<title>Node340</title>
+<title>Node260</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-57.5 0,-76.5 137,-76.5 137,-57.5 0,-57.5"/>
 <text text-anchor="middle" x="68.5" y="-64.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">update_entries_visibility</text>
 </g>
-<!-- Node341 -->
+<!-- Node261 -->
 <g id="node2" class="node">
-<title>Node341</title>
+<title>Node261</title>
 <g id="a_node2"><a xlink:href="helpers_8c.html#ae50f679dd6c5bd1ba820884c8602f038" target="_top" xlink:title="Get a boolean config item by name. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="173,-114.5 173,-133.5 264,-133.5 264,-114.5 173,-114.5"/>
 <text text-anchor="middle" x="218.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_subset_bool</text>
 </a>
 </g>
 </g>
-<!-- Node340&#45;&gt;Node341 -->
+<!-- Node260&#45;&gt;Node261 -->
 <g id="edge1" class="edge">
-<title>Node340&#45;&gt;Node341</title>
+<title>Node260&#45;&gt;Node261</title>
 <path fill="none" stroke="#191970" d="M93.6066,-76.5405C118.2673,-85.9116 156.099,-100.2876 183.6639,-110.7623"/>
 <polygon fill="#191970" stroke="#191970" points="182.7203,-114.1479 193.3115,-114.4284 185.2069,-107.6044 182.7203,-114.1479"/>
 </g>
-<!-- Node364 -->
+<!-- Node284 -->
 <g id="node3" class="node">
-<title>Node364</title>
+<title>Node284</title>
 <g id="a_node3"><a xlink:href="mutt_2string_8c.html#a6b6a50296dd2a31863a43379ef4a343d" target="_top" xlink:title="Compare two strings. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="300,-57.5 300,-76.5 390,-76.5 390,-57.5 300,-57.5"/>
 <text text-anchor="middle" x="345" y="-64.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_str_equal</text>
 </a>
 </g>
 </g>
-<!-- Node340&#45;&gt;Node364 -->
+<!-- Node260&#45;&gt;Node284 -->
 <g id="edge2" class="edge">
-<title>Node340&#45;&gt;Node364</title>
+<title>Node260&#45;&gt;Node284</title>
 <path fill="none" stroke="#191970" d="M137.2036,-67C184.1414,-67 245.5413,-67 289.4031,-67"/>
 <polygon fill="#191970" stroke="#191970" points="289.5975,-70.5001 299.5975,-67 289.5975,-63.5001 289.5975,-70.5001"/>
 </g>
-<!-- Node366 -->
+<!-- Node286 -->
 <g id="node4" class="node">
-<title>Node366</title>
+<title>Node286</title>
 <g id="a_node4"><a xlink:href="list_8c.html#a4a88586627792b16d55bd2e164a59e0a" target="_top" xlink:title="Find a string in a List. ">
 <polygon fill="#ffffff" stroke="#000000" points="177,-38.5 177,-57.5 260,-57.5 260,-38.5 177,-38.5"/>
 <text text-anchor="middle" x="218.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_list_find</text>
 </a>
 </g>
 </g>
-<!-- Node340&#45;&gt;Node366 -->
+<!-- Node260&#45;&gt;Node286 -->
 <g id="edge3" class="edge">
-<title>Node340&#45;&gt;Node366</title>
+<title>Node260&#45;&gt;Node286</title>
 <path fill="none" stroke="#191970" d="M137.3538,-58.2785C147.1951,-57.032 157.1784,-55.7674 166.62,-54.5715"/>
 <polygon fill="#191970" stroke="#191970" points="167.1392,-58.0338 176.6201,-53.3048 166.2595,-51.0892 167.1392,-58.0338"/>
 </g>
-<!-- Node367 -->
+<!-- Node287 -->
 <g id="node5" class="node">
-<title>Node367</title>
+<title>Node287</title>
 <g id="a_node5"><a xlink:href="mailbox_8h.html#a04aa11207205b6778388dfc8ed56ee0d" target="_top" xlink:title="Get the Mailbox&#39;s path string. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="177,-.5 177,-19.5 260,-19.5 260,-.5 177,-.5"/>
 <text text-anchor="middle" x="218.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mailbox_path</text>
 </a>
 </g>
 </g>
-<!-- Node340&#45;&gt;Node367 -->
+<!-- Node260&#45;&gt;Node287 -->
 <g id="edge5" class="edge">
-<title>Node340&#45;&gt;Node367</title>
+<title>Node260&#45;&gt;Node287</title>
 <path fill="none" stroke="#191970" d="M93.6066,-57.4595C118.2673,-48.0884 156.099,-33.7124 183.6639,-23.2377"/>
 <polygon fill="#191970" stroke="#191970" points="185.2069,-26.3956 193.3115,-19.5716 182.7203,-19.8521 185.2069,-26.3956"/>
 </g>
-<!-- Node366&#45;&gt;Node364 -->
+<!-- Node286&#45;&gt;Node284 -->
 <g id="edge4" class="edge">
-<title>Node366&#45;&gt;Node364</title>
+<title>Node286&#45;&gt;Node284</title>
 <path fill="none" stroke="#191970" d="M260.2714,-54.274C269.672,-55.6859 279.7908,-57.2057 289.6496,-58.6865"/>
 <polygon fill="#191970" stroke="#191970" points="289.3793,-62.1851 299.7883,-60.2093 290.4191,-55.2627 289.3793,-62.1851"/>
 </g>

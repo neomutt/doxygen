@@ -9,69 +9,69 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 138)">
 <title>mutt_set_header_color</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-138 290,-138 290,4 -4,4"/>
-<!-- Node10963 -->
+<!-- Node10507 -->
 <g id="node1" class="node">
-<title>Node10963</title>
+<title>Node10507</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-57.5 0,-76.5 128,-76.5 128,-57.5 0,-57.5"/>
 <text text-anchor="middle" x="64" y="-64.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_set_header_color</text>
 </g>
-<!-- Node10964 -->
+<!-- Node10508 -->
 <g id="node2" class="node">
-<title>Node10964</title>
+<title>Node10508</title>
 <g id="a_node2"><a xlink:href="protos_8h.html#a26b14edeb6581f75b6fcc1011a459cd6" target="_top" xlink:title="Set a flag on an email. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="164,-114.5 164,-133.5 286,-133.5 286,-114.5 164,-114.5"/>
 <text text-anchor="middle" x="225" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_set_flag_update</text>
 </a>
 </g>
 </g>
-<!-- Node10963&#45;&gt;Node10964 -->
+<!-- Node10507&#45;&gt;Node10508 -->
 <g id="edge1" class="edge">
-<title>Node10963&#45;&gt;Node10964</title>
+<title>Node10507&#45;&gt;Node10508</title>
 <path fill="none" stroke="#191970" d="M97.6562,-80.3779C116.966,-87.9051 141.726,-97.3071 164,-105 173.3311,-108.2227 183.547,-111.5011 192.9045,-114.4069"/>
 <polygon fill="#191970" stroke="#191970" points="98.6848,-77.0219 88.0972,-76.6316 96.1305,-83.5392 98.6848,-77.0219"/>
 </g>
-<!-- Node11526 -->
+<!-- Node11124 -->
 <g id="node3" class="node">
-<title>Node11526</title>
+<title>Node11124</title>
 <g id="a_node3"><a xlink:href="index_2lib_8h.html#a9939353c798dcfa5590f25a4589689e3" target="_top" xlink:title="Calculate the colour for a line of the index &#45; Implements Menu::color() ">
 <polygon fill="#ffffff" stroke="#ff0000" points="188.5,-76.5 188.5,-95.5 261.5,-95.5 261.5,-76.5 188.5,-76.5"/>
 <text text-anchor="middle" x="225" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">index_color</text>
 </a>
 </g>
 </g>
-<!-- Node10963&#45;&gt;Node11526 -->
+<!-- Node10507&#45;&gt;Node11124 -->
 <g id="edge2" class="edge">
-<title>Node10963&#45;&gt;Node11526</title>
+<title>Node10507&#45;&gt;Node11124</title>
 <path fill="none" stroke="#191970" d="M138.2886,-75.767C155.7222,-77.8244 173.5465,-79.9279 188.465,-81.6884"/>
 <polygon fill="#191970" stroke="#191970" points="138.4354,-72.2601 128.0941,-74.5639 137.6149,-79.2119 138.4354,-72.2601"/>
 </g>
-<!-- Node11508 -->
+<!-- Node11097 -->
 <g id="node4" class="node">
-<title>Node11508</title>
+<title>Node11097</title>
 <g id="a_node4"><a xlink:href="mutt__header_8h.html#abddc5347ce93b1d3e74c273a3927448a" target="_top" xlink:title="Let the user label a message. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="165.5,-38.5 165.5,-57.5 284.5,-57.5 284.5,-38.5 165.5,-38.5"/>
 <text text-anchor="middle" x="225" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_label_message</text>
 </a>
 </g>
 </g>
-<!-- Node10963&#45;&gt;Node11508 -->
+<!-- Node10507&#45;&gt;Node11097 -->
 <g id="edge3" class="edge">
-<title>Node10963&#45;&gt;Node11508</title>
+<title>Node10507&#45;&gt;Node11097</title>
 <path fill="none" stroke="#191970" d="M138.2594,-58.2365C147.3247,-57.1666 156.4963,-56.0843 165.3105,-55.0441"/>
 <polygon fill="#191970" stroke="#191970" points="137.6149,-54.7881 128.0941,-59.4361 138.4354,-61.7399 137.6149,-54.7881"/>
 </g>
-<!-- Node11527 -->
+<!-- Node11125 -->
 <g id="node5" class="node">
-<title>Node11527</title>
-<g id="a_node5"><a xlink:href="notmuch_8c.html#a077d62a65a036f3cacc562db56582ab4" target="_top" xlink:title="Save the tags to a message &#45; Implements MxOps::tags_commit() ">
+<title>Node11125</title>
+<g id="a_node5"><a xlink:href="group__mx__tags__commit.html#ga077d62a65a036f3cacc562db56582ab4" target="_top" xlink:title="Save the tags to a message &#45; Implements MxOps::tags_commit() &#45;. ">
 <polygon fill="#ffffff" stroke="#000000" points="174.5,-.5 174.5,-19.5 275.5,-19.5 275.5,-.5 174.5,-.5"/>
 <text text-anchor="middle" x="225" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nm_tags_commit</text>
 </a>
 </g>
 </g>
-<!-- Node10963&#45;&gt;Node11527 -->
+<!-- Node10507&#45;&gt;Node11125 -->
 <g id="edge4" class="edge">
-<title>Node10963&#45;&gt;Node11527</title>
+<title>Node10507&#45;&gt;Node11125</title>
 <path fill="none" stroke="#191970" d="M97.6562,-53.6221C116.966,-46.0949 141.726,-36.6929 164,-29 173.3311,-25.7773 183.547,-22.4989 192.9045,-19.5931"/>
 <polygon fill="#191970" stroke="#191970" points="96.1305,-50.4608 88.0972,-57.3684 98.6848,-56.9781 96.1305,-50.4608"/>
 </g>

@@ -9,81 +9,81 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 138)">
 <title>nntp_edata_new</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-138 529,-138 529,4 -4,4"/>
-<!-- Node570 -->
+<!-- Node15 -->
 <g id="node1" class="node">
-<title>Node570</title>
+<title>Node15</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-57.5 0,-76.5 97,-76.5 97,-57.5 0,-57.5"/>
 <text text-anchor="middle" x="48.5" y="-64.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nntp_edata_new</text>
 </g>
-<!-- Node571 -->
+<!-- Node16 -->
 <g id="node2" class="node">
-<title>Node571</title>
+<title>Node16</title>
 <g id="a_node2"><a xlink:href="nntp_8c.html#a5e39d9fec82ed686b26efe2aef42d906" target="_top" xlink:title="Parse overview line. ">
 <polygon fill="#ffffff" stroke="#000000" points="133,-114.5 133,-133.5 250,-133.5 250,-114.5 133,-114.5"/>
 <text text-anchor="middle" x="191.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">parse_overview_line</text>
 </a>
 </g>
 </g>
-<!-- Node570&#45;&gt;Node571 -->
+<!-- Node15&#45;&gt;Node16 -->
 <g id="edge1" class="edge">
-<title>Node570&#45;&gt;Node571</title>
+<title>Node15&#45;&gt;Node16</title>
 <path fill="none" stroke="#191970" d="M81.9693,-80.3409C108.1962,-90.795 144.0526,-105.0874 167.4869,-114.4284"/>
 <polygon fill="#191970" stroke="#191970" points="83.0202,-76.992 72.435,-76.5405 80.4283,-83.4945 83.0202,-76.992"/>
 </g>
-<!-- Node572 -->
+<!-- Node17 -->
 <g id="node3" class="node">
-<title>Node572</title>
+<title>Node17</title>
 <g id="a_node3"><a xlink:href="nntp_8c.html#aee3d5be3d80d56eaa5f16865db0e22c6" target="_top" xlink:title="Fetch headers. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="286,-76.5 286,-95.5 399,-95.5 399,-76.5 286,-76.5"/>
 <text text-anchor="middle" x="342.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nntp_fetch_headers</text>
 </a>
 </g>
 </g>
-<!-- Node570&#45;&gt;Node572 -->
+<!-- Node15&#45;&gt;Node17 -->
 <g id="edge4" class="edge">
-<title>Node570&#45;&gt;Node572</title>
+<title>Node15&#45;&gt;Node17</title>
 <path fill="none" stroke="#191970" d="M107.1132,-70.7879C159.0708,-74.1457 234.4605,-79.0179 285.8247,-82.3373"/>
 <polygon fill="#191970" stroke="#191970" points="107.2531,-67.2898 97.0481,-70.1375 106.8016,-74.2752 107.2531,-67.2898"/>
 </g>
-<!-- Node573 -->
+<!-- Node18 -->
 <g id="node4" class="node">
-<title>Node573</title>
+<title>Node18</title>
 <g id="a_node4"><a xlink:href="nntp_8c.html#a7976c474921669134da49b0c5fcdc8d6" target="_top" xlink:title="Check current newsgroup for new articles. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="435,-57.5 435,-76.5 525,-76.5 525,-57.5 435,-57.5"/>
 <text text-anchor="middle" x="480" y="-64.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">check_mailbox</text>
 </a>
 </g>
 </g>
-<!-- Node570&#45;&gt;Node573 -->
+<!-- Node15&#45;&gt;Node18 -->
 <g id="edge5" class="edge">
-<title>Node570&#45;&gt;Node573</title>
+<title>Node15&#45;&gt;Node18</title>
 <path fill="none" stroke="#191970" d="M107.4163,-67C194.6297,-67 356.2188,-67 434.7739,-67"/>
 <polygon fill="#191970" stroke="#191970" points="107.1598,-63.5001 97.1598,-67 107.1597,-70.5001 107.1598,-63.5001"/>
 </g>
-<!-- Node942 -->
+<!-- Node24 -->
 <g id="node5" class="node">
-<title>Node942</title>
+<title>Node24</title>
 <g id="a_node5"><a xlink:href="nntp_8c.html#a0e31da3560e7296a47d444775b42b8f3" target="_top" xlink:title="Fetch article by Message&#45;ID. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="138,-.5 138,-19.5 245,-19.5 245,-.5 138,-.5"/>
 <text text-anchor="middle" x="191.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nntp_check_msgid</text>
 </a>
 </g>
 </g>
-<!-- Node570&#45;&gt;Node942 -->
+<!-- Node15&#45;&gt;Node24 -->
 <g id="edge6" class="edge">
-<title>Node570&#45;&gt;Node942</title>
+<title>Node15&#45;&gt;Node24</title>
 <path fill="none" stroke="#191970" d="M81.9693,-53.6591C108.1962,-43.205 144.0526,-28.9126 167.4869,-19.5716"/>
 <polygon fill="#191970" stroke="#191970" points="80.4283,-50.5055 72.435,-57.4595 83.0202,-57.008 80.4283,-50.5055"/>
 </g>
-<!-- Node571&#45;&gt;Node572 -->
+<!-- Node16&#45;&gt;Node17 -->
 <g id="edge2" class="edge">
-<title>Node571&#45;&gt;Node572</title>
+<title>Node16&#45;&gt;Node17</title>
 <path fill="none" stroke="#191970" d="M239.3431,-111.96C260.4386,-106.6512 284.8766,-100.5012 304.6703,-95.5201"/>
 <polygon fill="#191970" stroke="#191970" points="238.4471,-108.5763 229.6037,-114.411 240.1555,-115.3646 238.4471,-108.5763"/>
 </g>
-<!-- Node572&#45;&gt;Node573 -->
+<!-- Node17&#45;&gt;Node18 -->
 <g id="edge3" class="edge">
-<title>Node572&#45;&gt;Node573</title>
+<title>Node17&#45;&gt;Node18</title>
 <path fill="none" stroke="#191970" d="M409.2912,-76.7707C417.9138,-75.5792 426.5775,-74.382 434.7393,-73.2542"/>
 <polygon fill="#191970" stroke="#191970" points="408.6471,-73.3263 399.2204,-78.1623 409.6053,-80.2604 408.6471,-73.3263"/>
 </g>

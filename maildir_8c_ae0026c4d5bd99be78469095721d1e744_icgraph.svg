@@ -9,60 +9,60 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 100)">
 <title>maildir_canon_filename</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-100 534,-100 534,4 -4,4"/>
-<!-- Node10132 -->
+<!-- Node9576 -->
 <g id="node1" class="node">
-<title>Node10132</title>
+<title>Node9576</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-38.5 0,-57.5 134,-57.5 134,-38.5 0,-38.5"/>
 <text text-anchor="middle" x="67" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">maildir_canon_filename</text>
 </g>
-<!-- Node10133 -->
+<!-- Node9577 -->
 <g id="node2" class="node">
-<title>Node10133</title>
+<title>Node9577</title>
 <g id="a_node2"><a xlink:href="maildir_8c.html#a284dba53528b008832801c93d142ed2f" target="_top" xlink:title="Find a message in a maildir folder. ">
 <polygon fill="#ffffff" stroke="#000000" points="170,-76.5 170,-95.5 341,-95.5 341,-76.5 170,-76.5"/>
 <text text-anchor="middle" x="255.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">maildir_open_find_message_dir</text>
 </a>
 </g>
 </g>
-<!-- Node10132&#45;&gt;Node10133 -->
+<!-- Node9576&#45;&gt;Node9577 -->
 <g id="edge1" class="edge">
-<title>Node10132&#45;&gt;Node10133</title>
+<title>Node9576&#45;&gt;Node9577</title>
 <path fill="none" stroke="#191970" d="M124.5893,-59.6095C151.3983,-65.014 182.8954,-71.3635 208.2755,-76.4799"/>
 <polygon fill="#191970" stroke="#191970" points="125.061,-56.1343 114.5665,-57.589 123.6776,-62.9962 125.061,-56.1343"/>
 </g>
-<!-- Node10134 -->
+<!-- Node9578 -->
 <g id="node3" class="node">
-<title>Node10134</title>
+<title>Node9578</title>
 <g id="a_node3"><a xlink:href="maildir_8c.html#a8c1dd82fc41fced471926501135b95d4" target="_top" xlink:title="Find a new. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="377,-57.5 377,-76.5 530,-76.5 530,-57.5 377,-57.5"/>
 <text text-anchor="middle" x="453.5" y="-64.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">maildir_open_find_message</text>
 </a>
 </g>
 </g>
-<!-- Node10132&#45;&gt;Node10134 -->
+<!-- Node9576&#45;&gt;Node9578 -->
 <g id="edge3" class="edge">
-<title>Node10132&#45;&gt;Node10134</title>
+<title>Node9576&#45;&gt;Node9578</title>
 <path fill="none" stroke="#191970" d="M144.4759,-51.8086C211.986,-55.1274 309.3521,-59.9138 376.6707,-63.2231"/>
 <polygon fill="#191970" stroke="#191970" points="144.483,-48.3049 134.3232,-51.3095 144.1392,-55.2964 144.483,-48.3049"/>
 </g>
-<!-- Node10564 -->
+<!-- Node9590 -->
 <g id="node4" class="node">
-<title>Node10564</title>
-<g id="a_node4"><a xlink:href="maildir_8c.html#a9c83b6e969c6eced44ccaa2fc21360ec" target="_top" xlink:title="Check for new mail &#45; Implements MxOps::mbox_check() ">
+<title>Node9590</title>
+<g id="a_node4"><a xlink:href="group__mx__mbox__check.html#ga9c83b6e969c6eced44ccaa2fc21360ec" target="_top" xlink:title="Check for new mail &#45; Implements MxOps::mbox_check() &#45;This function handles arrival of new mail and re...">
 <polygon fill="#ffffff" stroke="#ff0000" points="196.5,-.5 196.5,-19.5 314.5,-19.5 314.5,-.5 196.5,-.5"/>
 <text text-anchor="middle" x="255.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">maildir_mbox_check</text>
 </a>
 </g>
 </g>
-<!-- Node10132&#45;&gt;Node10564 -->
+<!-- Node9576&#45;&gt;Node9590 -->
 <g id="edge4" class="edge">
-<title>Node10132&#45;&gt;Node10564</title>
+<title>Node9576&#45;&gt;Node9590</title>
 <path fill="none" stroke="#191970" d="M124.5893,-36.3905C151.3983,-30.986 182.8954,-24.6365 208.2755,-19.5201"/>
 <polygon fill="#191970" stroke="#191970" points="123.6776,-33.0038 114.5665,-38.411 125.061,-39.8657 123.6776,-33.0038"/>
 </g>
-<!-- Node10133&#45;&gt;Node10134 -->
+<!-- Node9577&#45;&gt;Node9578 -->
 <g id="edge2" class="edge">
-<title>Node10133&#45;&gt;Node10134</title>
+<title>Node9577&#45;&gt;Node9578</title>
 <path fill="none" stroke="#191970" d="M351.2047,-76.8162C359.7582,-75.9954 368.3445,-75.1715 376.7078,-74.3689"/>
 <polygon fill="#191970" stroke="#191970" points="350.814,-73.3375 341.1941,-77.7768 351.4827,-80.3055 350.814,-73.3375"/>
 </g>

@@ -9,60 +9,60 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 100)">
 <title>log_file_open</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-100 320,-100 320,4 -4,4"/>
-<!-- Node641 -->
+<!-- Node44 -->
 <g id="node1" class="node">
-<title>Node641</title>
+<title>Node44</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-38.5 0,-57.5 81,-57.5 81,-38.5 0,-38.5"/>
 <text text-anchor="middle" x="40.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">log_file_open</text>
 </g>
-<!-- Node642 -->
+<!-- Node45 -->
 <g id="node2" class="node">
-<title>Node642</title>
+<title>Node45</title>
 <g id="a_node2"><a xlink:href="logging_8c.html#ad17b384128d5803b107ecded67cc4077" target="_top" xlink:title="Close the log file. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="122,-76.5 122,-95.5 205,-95.5 205,-76.5 122,-76.5"/>
 <text text-anchor="middle" x="163.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">log_file_close</text>
 </a>
 </g>
 </g>
-<!-- Node641&#45;&gt;Node642 -->
+<!-- Node44&#45;&gt;Node45 -->
 <g id="edge1" class="edge">
-<title>Node641&#45;&gt;Node642</title>
+<title>Node44&#45;&gt;Node45</title>
 <path fill="none" stroke="#191970" d="M71.5381,-57.589C86.9792,-62.3594 105.8478,-68.1888 122.4661,-73.3229"/>
 <polygon fill="#191970" stroke="#191970" points="121.8843,-76.8063 132.4718,-76.4141 123.9506,-70.1182 121.8843,-76.8063"/>
 </g>
-<!-- Node643 -->
+<!-- Node46 -->
 <g id="node3" class="node">
-<title>Node643</title>
+<title>Node46</title>
 <g id="a_node3"><a xlink:href="logging_8c.html#af9938fdef10f182d183be56a773e6ae4" target="_top" xlink:title="Create a YYYY&#45;MM&#45;DD HH:MM:SS timestamp. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="246,-57.5 246,-76.5 316,-76.5 316,-57.5 246,-57.5"/>
 <text text-anchor="middle" x="281" y="-64.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">timestamp</text>
 </a>
 </g>
 </g>
-<!-- Node641&#45;&gt;Node643 -->
+<!-- Node44&#45;&gt;Node46 -->
 <g id="edge4" class="edge">
-<title>Node641&#45;&gt;Node643</title>
+<title>Node44&#45;&gt;Node46</title>
 <path fill="none" stroke="#191970" d="M81.0256,-51.2016C123.7824,-54.5795 191.014,-59.8909 235.5461,-63.409"/>
 <polygon fill="#191970" stroke="#191970" points="235.5497,-66.9202 245.7943,-64.2187 236.1011,-59.9419 235.5497,-66.9202"/>
 </g>
-<!-- Node649 -->
+<!-- Node52 -->
 <g id="node4" class="node">
-<title>Node649</title>
+<title>Node52</title>
 <g id="a_node4"><a xlink:href="file_8c.html#ae1c0c19fec03274220b3ca065ad1e2e5" target="_top" xlink:title="Call fopen() safely. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="117,-.5 117,-19.5 210,-19.5 210,-.5 117,-.5"/>
 <text text-anchor="middle" x="163.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_file_fopen</text>
 </a>
 </g>
 </g>
-<!-- Node641&#45;&gt;Node649 -->
+<!-- Node44&#45;&gt;Node52 -->
 <g id="edge3" class="edge">
-<title>Node641&#45;&gt;Node649</title>
+<title>Node44&#45;&gt;Node52</title>
 <path fill="none" stroke="#191970" d="M71.5381,-38.411C86.9792,-33.6406 105.8478,-27.8112 122.4661,-22.6771"/>
 <polygon fill="#191970" stroke="#191970" points="123.9506,-25.8818 132.4718,-19.5859 121.8843,-19.1937 123.9506,-25.8818"/>
 </g>
-<!-- Node642&#45;&gt;Node643 -->
+<!-- Node45&#45;&gt;Node46 -->
 <g id="edge2" class="edge">
-<title>Node642&#45;&gt;Node643</title>
+<title>Node45&#45;&gt;Node46</title>
 <path fill="none" stroke="#191970" d="M205.2569,-79.2478C215.2503,-77.6319 225.9614,-75.8999 236.0904,-74.262"/>
 <polygon fill="#191970" stroke="#191970" points="236.6643,-77.7147 245.9773,-72.6632 235.5468,-70.8045 236.6643,-77.7147"/>
 </g>

@@ -9,96 +9,96 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 176)">
 <title>nntp_hcache_open</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-176 400,-176 400,4 -4,4"/>
-<!-- Node14150 -->
+<!-- Node14348 -->
 <g id="node1" class="node">
-<title>Node14150</title>
+<title>Node14348</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-76.5 0,-95.5 107,-95.5 107,-76.5 0,-76.5"/>
 <text text-anchor="middle" x="53.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nntp_hcache_open</text>
 </g>
-<!-- Node14151 -->
+<!-- Node14349 -->
 <g id="node2" class="node">
-<title>Node14151</title>
+<title>Node14349</title>
 <g id="a_node2"><a xlink:href="newsrc_8c.html#ac4e2953e3c6f9d6d57467cb5e2856d1e" target="_top" xlink:title="Open a connection to an NNTP server. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="146.5,-152.5 146.5,-171.5 255.5,-171.5 255.5,-152.5 146.5,-152.5"/>
 <text text-anchor="middle" x="201" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nntp_select_server</text>
 </a>
 </g>
 </g>
-<!-- Node14150&#45;&gt;Node14151 -->
+<!-- Node14348&#45;&gt;Node14349 -->
 <g id="edge1" class="edge">
-<title>Node14150&#45;&gt;Node14151</title>
+<title>Node14348&#45;&gt;Node14349</title>
 <path fill="none" stroke="#191970" d="M77.251,-100.9723C95.0172,-111.8808 120.0931,-126.6697 143,-138 153.5493,-143.218 165.5204,-148.3048 175.8361,-152.4424"/>
 <polygon fill="#191970" stroke="#191970" points="79.0211,-97.9517 68.677,-95.6605 75.3345,-103.9023 79.0211,-97.9517"/>
 </g>
-<!-- Node14337 -->
+<!-- Node14555 -->
 <g id="node3" class="node">
-<title>Node14337</title>
-<g id="a_node3"><a xlink:href="nntp_8c.html#a958364186e337ca6168094e57f038296" target="_top" xlink:title="Open a Mailbox &#45; Implements MxOps::mbox_open() ">
+<title>Node14555</title>
+<g id="a_node3"><a xlink:href="group__mx__mbox__open.html#ga958364186e337ca6168094e57f038296" target="_top" xlink:title="Open a Mailbox &#45; Implements MxOps::mbox_open() &#45;. ">
 <polygon fill="#ffffff" stroke="#000000" points="295,-123.5 295,-142.5 396,-142.5 396,-123.5 295,-123.5"/>
 <text text-anchor="middle" x="345.5" y="-130.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nntp_mbox_open</text>
 </a>
 </g>
 </g>
-<!-- Node14150&#45;&gt;Node14337 -->
+<!-- Node14348&#45;&gt;Node14555 -->
 <g id="edge6" class="edge">
-<title>Node14150&#45;&gt;Node14337</title>
+<title>Node14348&#45;&gt;Node14555</title>
 <path fill="none" stroke="#191970" d="M105.3771,-97.6724C117.6778,-100.257 130.7761,-102.8602 143,-105 194.5648,-114.0263 253.9339,-121.9465 294.996,-127.0387"/>
 <polygon fill="#191970" stroke="#191970" points="105.7791,-94.1794 95.2689,-95.5163 104.3188,-101.0254 105.7791,-94.1794"/>
 </g>
-<!-- Node14332 -->
+<!-- Node14550 -->
 <g id="node4" class="node">
-<title>Node14332</title>
+<title>Node14550</title>
 <g id="a_node4"><a xlink:href="nntp_8c.html#a7976c474921669134da49b0c5fcdc8d6" target="_top" xlink:title="Check current newsgroup for new articles. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="156,-76.5 156,-95.5 246,-95.5 246,-76.5 156,-76.5"/>
 <text text-anchor="middle" x="201" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">check_mailbox</text>
 </a>
 </g>
 </g>
-<!-- Node14150&#45;&gt;Node14332 -->
+<!-- Node14348&#45;&gt;Node14550 -->
 <g id="edge3" class="edge">
-<title>Node14150&#45;&gt;Node14332</title>
+<title>Node14348&#45;&gt;Node14550</title>
 <path fill="none" stroke="#191970" d="M117.431,-86C130.3767,-86 143.7333,-86 155.8668,-86"/>
 <polygon fill="#191970" stroke="#191970" points="117.1682,-82.5001 107.1681,-86 117.1681,-89.5001 117.1682,-82.5001"/>
 </g>
-<!-- Node14334 -->
+<!-- Node14552 -->
 <g id="node5" class="node">
-<title>Node14334</title>
-<g id="a_node5"><a xlink:href="nntp_8c.html#a64573e1bd7aca7ae22829562a82ae730" target="_top" xlink:title="Save changes to the Mailbox &#45; Implements MxOps::mbox_sync() ">
+<title>Node14552</title>
+<g id="a_node5"><a xlink:href="group__mx__mbox__sync.html#ga64573e1bd7aca7ae22829562a82ae730" target="_top" xlink:title="Save changes to the Mailbox &#45; Implements MxOps::mbox_sync() &#45;. ">
 <polygon fill="#ffffff" stroke="#000000" points="296,-66.5 296,-85.5 395,-85.5 395,-66.5 296,-66.5"/>
 <text text-anchor="middle" x="345.5" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nntp_mbox_sync</text>
 </a>
 </g>
 </g>
-<!-- Node14150&#45;&gt;Node14334 -->
+<!-- Node14348&#45;&gt;Node14552 -->
 <g id="edge7" class="edge">
-<title>Node14150&#45;&gt;Node14334</title>
+<title>Node14348&#45;&gt;Node14552</title>
 <path fill="none" stroke="#191970" d="M99.6,-74.289C113.4569,-71.2917 128.7624,-68.4946 143,-67 194.973,-61.5441 254.7885,-65.4463 295.8596,-69.6856"/>
 <polygon fill="#191970" stroke="#191970" points="98.7911,-70.8834 89.802,-76.4911 100.3262,-77.713 98.7911,-70.8834"/>
 </g>
-<!-- Node14513 -->
+<!-- Node14756 -->
 <g id="node6" class="node">
-<title>Node14513</title>
+<title>Node14756</title>
 <g id="a_node6"><a xlink:href="nntp_8c.html#a17459a2b096832129b7878bfea7300c9" target="_top" xlink:title="Fetch children of article with the Message&#45;ID. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="143,-.5 143,-19.5 259,-19.5 259,-.5 143,-.5"/>
 <text text-anchor="middle" x="201" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nntp_check_children</text>
 </a>
 </g>
 </g>
-<!-- Node14150&#45;&gt;Node14513 -->
+<!-- Node14348&#45;&gt;Node14756 -->
 <g id="edge5" class="edge">
-<title>Node14150&#45;&gt;Node14513</title>
+<title>Node14348&#45;&gt;Node14756</title>
 <path fill="none" stroke="#191970" d="M77.251,-71.0277C95.0172,-60.1192 120.0931,-45.3303 143,-34 153.5493,-28.782 165.5204,-23.6952 175.8361,-19.5576"/>
 <polygon fill="#191970" stroke="#191970" points="75.3345,-68.0977 68.677,-76.3395 79.0211,-74.0483 75.3345,-68.0977"/>
 </g>
-<!-- Node14151&#45;&gt;Node14337 -->
+<!-- Node14349&#45;&gt;Node14555 -->
 <g id="edge2" class="edge">
-<title>Node14151&#45;&gt;Node14337</title>
+<title>Node14349&#45;&gt;Node14555</title>
 <path fill="none" stroke="#191970" d="M258.523,-150.4556C271.5577,-147.8396 285.2603,-145.0896 297.8349,-142.566"/>
 <polygon fill="#191970" stroke="#191970" points="257.831,-147.0246 248.7152,-152.4239 259.2084,-153.8878 257.831,-147.0246"/>
 </g>
-<!-- Node14332&#45;&gt;Node14334 -->
+<!-- Node14550&#45;&gt;Node14552 -->
 <g id="edge4" class="edge">
-<title>Node14332&#45;&gt;Node14334</title>
+<title>Node14550&#45;&gt;Node14552</title>
 <path fill="none" stroke="#191970" d="M256.5067,-82.1587C269.4487,-81.2631 283.1493,-80.3149 295.8203,-79.438"/>
 <polygon fill="#191970" stroke="#191970" points="256.0587,-78.6812 246.3242,-82.8634 256.542,-85.6645 256.0587,-78.6812"/>
 </g>

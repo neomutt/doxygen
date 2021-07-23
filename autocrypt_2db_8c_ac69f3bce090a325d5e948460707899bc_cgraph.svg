@@ -9,54 +9,54 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 100)">
 <title>copy_normalize_addr</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-100 351,-100 351,4 -4,4"/>
-<!-- Node5120 -->
+<!-- Node4607 -->
 <g id="node1" class="node">
-<title>Node5120</title>
+<title>Node4607</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-38.5 0,-57.5 121,-57.5 121,-38.5 0,-38.5"/>
 <text text-anchor="middle" x="60.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">copy_normalize_addr</text>
 </g>
-<!-- Node5121 -->
+<!-- Node4608 -->
 <g id="node2" class="node">
-<title>Node5121</title>
+<title>Node4608</title>
 <g id="a_node2"><a xlink:href="address_2address_8c.html#ac9b323dadeb2a55ce6e9cd4763b9d832" target="_top" xlink:title="Create a new Address. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="206,-76.5 206,-95.5 298,-95.5 298,-76.5 206,-76.5"/>
 <text text-anchor="middle" x="252" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_addr_new</text>
 </a>
 </g>
 </g>
-<!-- Node5120&#45;&gt;Node5121 -->
+<!-- Node4607&#45;&gt;Node4608 -->
 <g id="edge1" class="edge">
-<title>Node5120&#45;&gt;Node5121</title>
+<title>Node4607&#45;&gt;Node4608</title>
 <path fill="none" stroke="#191970" d="M108.8235,-57.589C135.2704,-62.837 168.1755,-69.3664 195.7696,-74.842"/>
 <polygon fill="#191970" stroke="#191970" points="195.1837,-78.2939 205.6737,-76.8073 196.5462,-71.4278 195.1837,-78.2939"/>
 </g>
-<!-- Node5124 -->
+<!-- Node4611 -->
 <g id="node3" class="node">
-<title>Node5124</title>
+<title>Node4611</title>
 <g id="a_node3"><a xlink:href="mutt_2string_8c.html#a4c2560f787bd1226b977992c16860c98" target="_top" xlink:title="Copy a string, safely. ">
 <polygon fill="#ffffff" stroke="#000000" points="211.5,-38.5 211.5,-57.5 292.5,-57.5 292.5,-38.5 211.5,-38.5"/>
 <text text-anchor="middle" x="252" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_str_dup</text>
 </a>
 </g>
 </g>
-<!-- Node5120&#45;&gt;Node5124 -->
+<!-- Node4607&#45;&gt;Node4611 -->
 <g id="edge2" class="edge">
-<title>Node5120&#45;&gt;Node5124</title>
+<title>Node4607&#45;&gt;Node4611</title>
 <path fill="none" stroke="#191970" d="M121.0918,-48C146.8835,-48 176.6276,-48 201.2392,-48"/>
 <polygon fill="#191970" stroke="#191970" points="201.4464,-51.5001 211.4463,-48 201.4463,-44.5001 201.4464,-51.5001"/>
 </g>
-<!-- Node5125 -->
+<!-- Node4612 -->
 <g id="node4" class="node">
-<title>Node5125</title>
+<title>Node4612</title>
 <g id="a_node4"><a xlink:href="autocrypt_2db_8c.html#a7a1ba8370247983cbe31e79557e3e1e9" target="_top" xlink:title="Normalise an Email Address. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="157,-.5 157,-19.5 347,-19.5 347,-.5 157,-.5"/>
 <text text-anchor="middle" x="252" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_autocrypt_db_normalize_addr</text>
 </a>
 </g>
 </g>
-<!-- Node5120&#45;&gt;Node5125 -->
+<!-- Node4607&#45;&gt;Node4612 -->
 <g id="edge3" class="edge">
-<title>Node5120&#45;&gt;Node5125</title>
+<title>Node4607&#45;&gt;Node4612</title>
 <path fill="none" stroke="#191970" d="M108.8235,-38.411C134.6632,-33.2835 166.6678,-26.9328 193.8606,-21.5368"/>
 <polygon fill="#191970" stroke="#191970" points="194.8965,-24.8996 204.024,-19.5201 193.5339,-18.0334 194.8965,-24.8996"/>
 </g>

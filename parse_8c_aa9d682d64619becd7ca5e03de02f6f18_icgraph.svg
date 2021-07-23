@@ -9,66 +9,66 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 100)">
 <title>parse_part</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-100 237,-100 237,4 -4,4"/>
-<!-- Node2170 -->
+<!-- Node2002 -->
 <g id="node1" class="node">
-<title>Node2170</title>
+<title>Node2002</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-38.5 0,-57.5 68,-57.5 68,-38.5 0,-38.5"/>
 <text text-anchor="middle" x="34" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">parse_part</text>
 </g>
-<!-- Node2171 -->
+<!-- Node2003 -->
 <g id="node2" class="node">
-<title>Node2171</title>
+<title>Node2003</title>
 <g id="a_node2"><a xlink:href="parse_8c.html#ac20b6c54dff7929453167e30d9dcc1a3" target="_top" xlink:title="Parse a multipart structure. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="121.5,-76.5 121.5,-95.5 215.5,-95.5 215.5,-76.5 121.5,-76.5"/>
 <text text-anchor="middle" x="168.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">parse_multipart</text>
 </a>
 </g>
 </g>
-<!-- Node2170&#45;&gt;Node2171 -->
+<!-- Node2002&#45;&gt;Node2003 -->
 <g id="edge1" class="edge">
-<title>Node2170&#45;&gt;Node2171</title>
+<title>Node2002&#45;&gt;Node2003</title>
 <path fill="none" stroke="#191970" d="M78.2572,-54.1175C103.1353,-60.3295 132.786,-69.2658 151.1296,-76.3835"/>
 <polygon fill="#191970" stroke="#191970" points="78.8296,-50.6554 68.288,-51.7169 77.1907,-57.4608 78.8296,-50.6554"/>
 </g>
-<!-- Node2202 -->
+<!-- Node2035 -->
 <g id="node3" class="node">
-<title>Node2202</title>
+<title>Node2035</title>
 <g id="a_node3"><a xlink:href="parse_8c.html#a6f9e27e3cd898ef0935029da9c3dcefd" target="_top" xlink:title="parse a Message/RFC822 body ">
 <polygon fill="#ffffff" stroke="#ff0000" points="104,-38.5 104,-57.5 233,-57.5 233,-38.5 104,-38.5"/>
 <text text-anchor="middle" x="168.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">rfc822_parse_message</text>
 </a>
 </g>
 </g>
-<!-- Node2170&#45;&gt;Node2202 -->
+<!-- Node2002&#45;&gt;Node2035 -->
 <g id="edge3" class="edge">
-<title>Node2170&#45;&gt;Node2202</title>
+<title>Node2002&#45;&gt;Node2035</title>
 <path fill="none" stroke="#191970" d="M78.3548,-41.6104C86.554,-41.3426 95.2689,-41.224 103.9246,-41.2547"/>
 <polygon fill="#191970" stroke="#191970" points="78.1337,-38.1165 68.288,-42.0296 78.425,-45.1104 78.1337,-38.1165"/>
 </g>
-<!-- Node2721 -->
+<!-- Node2606 -->
 <g id="node4" class="node">
-<title>Node2721</title>
+<title>Node2606</title>
 <g id="a_node4"><a xlink:href="parse_8h.html#a0b38ac4f44b3414d0e18d26324861369" target="_top" xlink:title="Parse a MIME part. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="120,-.5 120,-19.5 217,-19.5 217,-.5 120,-.5"/>
 <text text-anchor="middle" x="168.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_parse_part</text>
 </a>
 </g>
 </g>
-<!-- Node2170&#45;&gt;Node2721 -->
+<!-- Node2002&#45;&gt;Node2606 -->
 <g id="edge5" class="edge">
-<title>Node2170&#45;&gt;Node2721</title>
+<title>Node2002&#45;&gt;Node2606</title>
 <path fill="none" stroke="#191970" d="M77.6004,-35.6817C96.0798,-30.4607 117.2895,-24.4684 134.5708,-19.5859"/>
 <polygon fill="#191970" stroke="#191970" points="76.6117,-32.3239 67.94,-38.411 78.515,-39.0602 76.6117,-32.3239"/>
 </g>
-<!-- Node2171&#45;&gt;Node2170 -->
+<!-- Node2003&#45;&gt;Node2002 -->
 <g id="edge2" class="edge">
-<title>Node2171&#45;&gt;Node2170</title>
+<title>Node2003&#45;&gt;Node2002</title>
 <path fill="none" stroke="#191970" d="M111.6275,-76.61C89.8704,-70.7668 66.6283,-63.5417 51.3082,-57.5924"/>
 <polygon fill="#191970" stroke="#191970" points="110.9255,-80.044 121.4857,-79.1879 112.6965,-73.2718 110.9255,-80.044"/>
 </g>
-<!-- Node2202&#45;&gt;Node2170 -->
+<!-- Node2035&#45;&gt;Node2002 -->
 <g id="edge4" class="edge">
-<title>Node2202&#45;&gt;Node2170</title>
+<title>Node2035&#45;&gt;Node2002</title>
 <path fill="none" stroke="#191970" d="M93.8332,-54.7134C84.9313,-54.6251 76.2048,-54.3775 68.288,-53.9704"/>
 <polygon fill="#191970" stroke="#191970" points="93.9135,-58.2136 103.9246,-54.7453 93.9357,-51.2136 93.9135,-58.2136"/>
 </g>

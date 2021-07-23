@@ -9,69 +9,69 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 138)">
 <title>maildir_parse_flags</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-138 289,-138 289,4 -4,4"/>
-<!-- Node11325 -->
+<!-- Node9659 -->
 <g id="node1" class="node">
-<title>Node11325</title>
+<title>Node9659</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-57.5 0,-76.5 112,-76.5 112,-57.5 0,-57.5"/>
 <text text-anchor="middle" x="56" y="-64.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">maildir_parse_flags</text>
 </g>
-<!-- Node11326 -->
+<!-- Node9660 -->
 <g id="node2" class="node">
-<title>Node11326</title>
+<title>Node9660</title>
 <g id="a_node2"><a xlink:href="maildir_8c.html#a3998b182ec8b6420eda0d014a473b1ef" target="_top" xlink:title="Read a Maildir mailbox. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="166,-114.5 166,-133.5 267,-133.5 267,-114.5 166,-114.5"/>
 <text text-anchor="middle" x="216.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">maildir_parse_dir</text>
 </a>
 </g>
 </g>
-<!-- Node11325&#45;&gt;Node11326 -->
+<!-- Node9659&#45;&gt;Node9660 -->
 <g id="edge1" class="edge">
-<title>Node11325&#45;&gt;Node11326</title>
+<title>Node9659&#45;&gt;Node9660</title>
 <path fill="none" stroke="#191970" d="M86.5591,-80.7137C104.2953,-88.3966 127.1789,-97.8419 148,-105 157.9203,-108.4105 168.8046,-111.6509 178.9192,-114.4581"/>
 <polygon fill="#191970" stroke="#191970" points="87.8453,-77.4561 77.281,-76.6524 85.0383,-83.8687 87.8453,-77.4561"/>
 </g>
-<!-- Node11331 -->
+<!-- Node9665 -->
 <g id="node3" class="node">
-<title>Node11331</title>
+<title>Node9665</title>
 <g id="a_node3"><a xlink:href="maildir_8c.html#adc6b83c9f03a35c0069a66bb739bf199" target="_top" xlink:title="This function does the second parsing pass. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="148,-76.5 148,-95.5 285,-95.5 285,-76.5 148,-76.5"/>
 <text text-anchor="middle" x="216.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">maildir_delayed_parsing</text>
 </a>
 </g>
 </g>
-<!-- Node11325&#45;&gt;Node11331 -->
+<!-- Node9659&#45;&gt;Node9665 -->
 <g id="edge2" class="edge">
-<title>Node11325&#45;&gt;Node11331</title>
+<title>Node9659&#45;&gt;Node9665</title>
 <path fill="none" stroke="#191970" d="M122.3277,-74.8519C130.7921,-75.8539 139.4696,-76.8811 147.968,-77.8872"/>
 <polygon fill="#191970" stroke="#191970" points="122.4773,-71.3452 112.1351,-73.6453 121.6543,-78.2967 122.4773,-71.3452"/>
 </g>
-<!-- Node11332 -->
+<!-- Node9666 -->
 <g id="node4" class="node">
-<title>Node11332</title>
+<title>Node9666</title>
 <g id="a_node4"><a xlink:href="maildir_8c.html#a0f75c9821ec9e4b65add4260c35e61d4" target="_top" xlink:title="Parse a Maildir message. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="155,-38.5 155,-57.5 278,-57.5 278,-38.5 155,-38.5"/>
 <text text-anchor="middle" x="216.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">maildir_parse_stream</text>
 </a>
 </g>
 </g>
-<!-- Node11325&#45;&gt;Node11332 -->
+<!-- Node9659&#45;&gt;Node9666 -->
 <g id="edge3" class="edge">
-<title>Node11325&#45;&gt;Node11332</title>
+<title>Node9659&#45;&gt;Node9666</title>
 <path fill="none" stroke="#191970" d="M122.343,-59.1463C133.128,-57.8696 144.2586,-56.5519 154.9234,-55.2894"/>
 <polygon fill="#191970" stroke="#191970" points="121.6543,-55.7033 112.1351,-60.3547 122.4773,-62.6548 121.6543,-55.7033"/>
 </g>
-<!-- Node11891 -->
+<!-- Node9676 -->
 <g id="node5" class="node">
-<title>Node11891</title>
-<g id="a_node5"><a xlink:href="notmuch_8c.html#afd9ac1fea250b07e3ea64493021aaa06" target="_top" xlink:title="Check for new mail &#45; Implements MxOps::mbox_check() ">
+<title>Node9676</title>
+<g id="a_node5"><a xlink:href="group__mx__mbox__check.html#gafd9ac1fea250b07e3ea64493021aaa06" target="_top" xlink:title="Check for new mail &#45; Implements MxOps::mbox_check() &#45;. ">
 <polygon fill="#ffffff" stroke="#000000" points="167,-.5 167,-19.5 266,-19.5 266,-.5 167,-.5"/>
 <text text-anchor="middle" x="216.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nm_mbox_check</text>
 </a>
 </g>
 </g>
-<!-- Node11325&#45;&gt;Node11891 -->
+<!-- Node9659&#45;&gt;Node9676 -->
 <g id="edge4" class="edge">
-<title>Node11325&#45;&gt;Node11891</title>
+<title>Node9659&#45;&gt;Node9676</title>
 <path fill="none" stroke="#191970" d="M86.5591,-53.2863C104.2953,-45.6034 127.1789,-36.1581 148,-29 157.9203,-25.5895 168.8046,-22.3491 178.9192,-19.5419"/>
 <polygon fill="#191970" stroke="#191970" points="85.0383,-50.1313 77.281,-57.3476 87.8453,-56.5439 85.0383,-50.1313"/>
 </g>

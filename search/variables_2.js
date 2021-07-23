@@ -2,6 +2,7 @@ var searchData=
 [
   ['c',['C',['../structMd5Ctx.html#a7b66ed94ceb2590938cfabee8f56f778',1,'Md5Ctx::C()'],['../structCoord.html#ae3229fe8d3e6e785da3b00d56928138f',1,'Coord::c()']]],
   ['c_5fsort',['c_sort',['../structThreadsContext.html#ad00c094de53c6deddd87c98cddbd0fc2',1,'ThreadsContext']]],
+  ['c_5fsort_5faux',['c_sort_aux',['../structThreadsContext.html#a7182f39bee0fcce663d0083a43d8d73d',1,'ThreadsContext']]],
   ['cache',['cache',['../structPopAccountData.html#ab48530831910c2608351d9ccfbafc459',1,'PopAccountData']]],
   ['cacheable',['cacheable',['../structNntpAccountData.html#ab1119d6a97b21d5015bef09d4debc002',1,'NntpAccountData']]],
   ['callback',['callback',['../structObserver.html#a2ff2c9789976421fdde1ffaedb011482',1,'Observer']]],
@@ -112,7 +113,7 @@ var searchData=
   ['cst_5fslist',['cst_slist',['../config_2slist_8c.html#af50c49b77fc7ebfc15a36a2c8dc5c814',1,'slist.c']]],
   ['cst_5fsort',['cst_sort',['../config_2sort_8c.html#a1a92ed4f3c7c83037ae9f32c6cb35712',1,'sort.c']]],
   ['cst_5fstring',['cst_string',['../config_2string_8c.html#a67426d642d0f2763de39ce3e3b9028fd',1,'string.c']]],
-  ['ctx',['ctx',['../structEventContext.html#ac4196ba3a370ca6560b89857a17b409f',1,'EventContext::ctx()'],['../structHeaderCache.html#a3b8f9ac26ea8678bf8cc90b4969e086d',1,'HeaderCache::ctx()'],['../structIndexSharedData.html#a4a0b76be85fef371154e91a070c29f92',1,'IndexSharedData::ctx()'],['../structPagerData.html#a327cc9553d2009c746988c031a85eb3f',1,'PagerData::ctx()']]],
+  ['ctx',['ctx',['../structEventContext.html#ac4196ba3a370ca6560b89857a17b409f',1,'EventContext::ctx()'],['../structHeaderCache.html#a3b8f9ac26ea8678bf8cc90b4969e086d',1,'HeaderCache::ctx()'],['../structIndexSharedData.html#a4a0b76be85fef371154e91a070c29f92',1,'IndexSharedData::ctx()']]],
   ['cur',['cur',['../structHistory.html#a1d6f19dfb70d55a01f7238903eb7c0e7',1,'History']]],
   ['curline',['curline',['../structPagerPrivateData.html#a681d4534086d4b2d37de12f6da56e580',1,'PagerPrivateData']]],
   ['curpos',['curpos',['../structEnterState.html#a1f5daab31c407100c8ed9266b4d8e5f8',1,'EnterState']]],

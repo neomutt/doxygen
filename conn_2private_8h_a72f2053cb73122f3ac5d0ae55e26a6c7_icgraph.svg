@@ -9,30 +9,30 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 112)">
 <title>raw_socket_read</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-112 261,-112 261,4 -4,4"/>
-<!-- Node1838 -->
+<!-- Node2000 -->
 <g id="node1" class="node">
-<title>Node1838</title>
+<title>Node2000</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-44.5 0,-63.5 99,-63.5 99,-44.5 0,-44.5"/>
 <text text-anchor="middle" x="49.5" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">raw_socket_read</text>
 </g>
-<!-- Node1839 -->
+<!-- Node2001 -->
 <g id="node2" class="node">
-<title>Node1839</title>
+<title>Node2001</title>
 <g id="a_node2"><a xlink:href="gnutls_8c.html#a0c11cb8253f1e3cd4df8ba1a92ef3252" target="_top" xlink:title="Close a TLS connection &#45; Implements Connection::close() ">
 <polygon fill="#ffffff" stroke="#ff0000" points="146.5,-88.5 146.5,-107.5 245.5,-107.5 245.5,-88.5 146.5,-88.5"/>
 <text text-anchor="middle" x="196" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">tls_starttls_close</text>
 </a>
 </g>
 </g>
-<!-- Node1838&#45;&gt;Node1839 -->
+<!-- Node2000&#45;&gt;Node2001 -->
 <g id="edge1" class="edge">
-<title>Node1838&#45;&gt;Node1839</title>
+<title>Node2000&#45;&gt;Node2001</title>
 <path fill="none" stroke="#191970" d="M90.902,-66.4347C114.1798,-73.426 142.7861,-82.0177 164.2737,-88.4713"/>
 <polygon fill="#191970" stroke="#191970" points="91.8725,-63.0718 81.2883,-63.5473 89.8589,-69.776 91.8725,-63.0718"/>
 </g>
-<!-- Node2405 -->
+<!-- Node2621 -->
 <g id="node3" class="node">
-<title>Node2405</title>
+<title>Node2621</title>
 <g id="a_node3"><a xlink:href="openssl_8c.html#a580181fa12ad95a66805761f701e7cd2" target="_top" xlink:title="Close an SSL Connection and restore Connection callbacks &#45; Implements Connection::close() ...">
 <polygon fill="#ffffff" stroke="#ff0000" points="135,-39 135,-69 257,-69 257,-39 135,-39"/>
 <text text-anchor="start" x="143" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">ssl_socket_close_and</text>
@@ -40,24 +40,24 @@
 </a>
 </g>
 </g>
-<!-- Node1838&#45;&gt;Node2405 -->
+<!-- Node2000&#45;&gt;Node2621 -->
 <g id="edge2" class="edge">
-<title>Node1838&#45;&gt;Node2405</title>
+<title>Node2000&#45;&gt;Node2621</title>
 <path fill="none" stroke="#191970" d="M109.2175,-54C117.6397,-54 126.3091,-54 134.7594,-54"/>
 <polygon fill="#191970" stroke="#191970" points="109.0983,-50.5001 99.0982,-54 109.0982,-57.5001 109.0983,-50.5001"/>
 </g>
-<!-- Node1879 -->
+<!-- Node2065 -->
 <g id="node4" class="node">
-<title>Node1879</title>
+<title>Node2065</title>
 <g id="a_node4"><a xlink:href="socket_8h.html#a1e3195d6b1472777b64d1d9633e3b2cc" target="_top" xlink:title="allocate and initialise a new connection ">
 <polygon fill="#ffffff" stroke="#ff0000" points="144.5,-.5 144.5,-19.5 247.5,-19.5 247.5,-.5 144.5,-.5"/>
 <text text-anchor="middle" x="196" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_socket_new</text>
 </a>
 </g>
 </g>
-<!-- Node1838&#45;&gt;Node1879 -->
+<!-- Node2000&#45;&gt;Node2065 -->
 <g id="edge3" class="edge">
-<title>Node1838&#45;&gt;Node1879</title>
+<title>Node2000&#45;&gt;Node2065</title>
 <path fill="none" stroke="#191970" d="M90.902,-41.5653C114.1798,-34.574 142.7861,-25.9823 164.2737,-19.5287"/>
 <polygon fill="#191970" stroke="#191970" points="89.8589,-38.224 81.2883,-44.4527 91.8725,-44.9282 89.8589,-38.224"/>
 </g>

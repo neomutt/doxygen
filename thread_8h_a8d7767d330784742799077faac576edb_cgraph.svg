@@ -9,45 +9,45 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 80)">
 <title>mutt_break_thread</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-80 250,-80 250,4 -4,4"/>
-<!-- Node1715 -->
+<!-- Node1260 -->
 <g id="node1" class="node">
-<title>Node1715</title>
+<title>Node1260</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-28.5 0,-47.5 110,-47.5 110,-28.5 0,-28.5"/>
 <text text-anchor="middle" x="55" y="-35.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_break_thread</text>
 </g>
-<!-- Node1716 -->
+<!-- Node1261 -->
 <g id="node2" class="node">
-<title>Node1716</title>
+<title>Node1261</title>
 <g id="a_node2"><a xlink:href="list_8c.html#ab5c53ce94cc2aafa4299dbc81a37f4a4" target="_top" xlink:title="Free a List AND its strings. ">
 <polygon fill="#ffffff" stroke="#000000" points="153.5,-56.5 153.5,-75.5 238.5,-75.5 238.5,-56.5 153.5,-56.5"/>
 <text text-anchor="middle" x="196" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_list_free</text>
 </a>
 </g>
 </g>
-<!-- Node1715&#45;&gt;Node1716 -->
+<!-- Node1260&#45;&gt;Node1261 -->
 <g id="edge1" class="edge">
-<title>Node1715&#45;&gt;Node1716</title>
+<title>Node1260&#45;&gt;Node1261</title>
 <path fill="none" stroke="#191970" d="M103.1298,-47.5577C116.0988,-50.1331 130.1946,-52.9323 143.3942,-55.5535"/>
 <polygon fill="#191970" stroke="#191970" points="142.7896,-59.0017 153.2798,-57.5166 144.1531,-52.1357 142.7896,-59.0017"/>
 </g>
-<!-- Node1717 -->
+<!-- Node1262 -->
 <g id="node3" class="node">
-<title>Node1717</title>
+<title>Node1262</title>
 <g id="a_node3"><a xlink:href="thread_8c.html#af02dc29a28917627295ccfa102d6103a" target="_top" xlink:title="Update email references for a broken Thread. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="146,-.5 146,-19.5 246,-19.5 246,-.5 146,-.5"/>
 <text text-anchor="middle" x="196" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">clean_references</text>
 </a>
 </g>
 </g>
-<!-- Node1715&#45;&gt;Node1717 -->
+<!-- Node1260&#45;&gt;Node1262 -->
 <g id="edge2" class="edge">
-<title>Node1715&#45;&gt;Node1717</title>
+<title>Node1260&#45;&gt;Node1262</title>
 <path fill="none" stroke="#191970" d="M103.1298,-28.4423C114.3599,-26.2122 126.4348,-23.8144 138.0412,-21.5096"/>
 <polygon fill="#191970" stroke="#191970" points="138.9604,-24.8955 148.0871,-19.5146 137.5968,-18.0295 138.9604,-24.8955"/>
 </g>
-<!-- Node1717&#45;&gt;Node1717 -->
+<!-- Node1262&#45;&gt;Node1262 -->
 <g id="edge3" class="edge">
-<title>Node1717&#45;&gt;Node1717</title>
+<title>Node1262&#45;&gt;Node1262</title>
 <path fill="none" stroke="#191970" d="M174.4219,-19.7571C163.9245,-28.5653 171.1172,-38 196,-38 211.9406,-38 220.6211,-34.128 222.0416,-29.0292"/>
 <polygon fill="#191970" stroke="#191970" points="225.0692,-27.2493 217.5781,-19.7571 218.762,-30.2855 225.0692,-27.2493"/>
 </g>

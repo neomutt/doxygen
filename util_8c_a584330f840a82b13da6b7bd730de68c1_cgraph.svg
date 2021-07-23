@@ -9,54 +9,54 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 100)">
 <title>imap_mdata_cache_reset</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-100 292,-100 292,4 -4,4"/>
-<!-- Node689 -->
+<!-- Node743 -->
 <g id="node1" class="node">
-<title>Node689</title>
+<title>Node743</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-38.5 0,-57.5 142,-57.5 142,-38.5 0,-38.5"/>
 <text text-anchor="middle" x="71" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">imap_mdata_cache_reset</text>
 </g>
-<!-- Node690 -->
+<!-- Node744 -->
 <g id="node2" class="node">
-<title>Node690</title>
+<title>Node744</title>
 <g id="a_node2"><a xlink:href="hash_8c.html#afa22b7f78bbf1b59a4a2bd4bdd20948b" target="_top" xlink:title="Free a hash table. ">
 <polygon fill="#ffffff" stroke="#000000" points="186.5,-76.5 186.5,-95.5 279.5,-95.5 279.5,-76.5 186.5,-76.5"/>
 <text text-anchor="middle" x="233" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_hash_free</text>
 </a>
 </g>
 </g>
-<!-- Node689&#45;&gt;Node690 -->
+<!-- Node743&#45;&gt;Node744 -->
 <g id="edge1" class="edge">
-<title>Node689&#45;&gt;Node690</title>
+<title>Node743&#45;&gt;Node744</title>
 <path fill="none" stroke="#191970" d="M111.8794,-57.589C133.3534,-62.6261 159.8605,-68.8438 182.597,-74.1771"/>
 <polygon fill="#191970" stroke="#191970" points="181.8795,-77.6037 192.4145,-76.4799 183.4781,-70.7887 181.8795,-77.6037"/>
 </g>
-<!-- Node691 -->
+<!-- Node745 -->
 <g id="node3" class="node">
-<title>Node691</title>
+<title>Node745</title>
 <g id="a_node3"><a xlink:href="msn_8c.html#a4d4285f78365f8a9bccb278d71ade680" target="_top" xlink:title="Free the cache. ">
 <polygon fill="#ffffff" stroke="#000000" points="187,-38.5 187,-57.5 279,-57.5 279,-38.5 187,-38.5"/>
 <text text-anchor="middle" x="233" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">imap_msn_free</text>
 </a>
 </g>
 </g>
-<!-- Node689&#45;&gt;Node691 -->
+<!-- Node743&#45;&gt;Node745 -->
 <g id="edge2" class="edge">
-<title>Node689&#45;&gt;Node691</title>
+<title>Node743&#45;&gt;Node745</title>
 <path fill="none" stroke="#191970" d="M142.0556,-48C153.6414,-48 165.5029,-48 176.6724,-48"/>
 <polygon fill="#191970" stroke="#191970" points="176.7078,-51.5001 186.7078,-48 176.7077,-44.5001 176.7078,-51.5001"/>
 </g>
-<!-- Node692 -->
+<!-- Node746 -->
 <g id="node4" class="node">
-<title>Node692</title>
+<title>Node746</title>
 <g id="a_node4"><a xlink:href="bcache_8c.html#af3a22202fb2135dfb1081cb6e6c5fecb" target="_top" xlink:title="Close an Email&#45;Body Cache. ">
 <polygon fill="#ffffff" stroke="#000000" points="178,-.5 178,-19.5 288,-19.5 288,-.5 178,-.5"/>
 <text text-anchor="middle" x="233" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_bcache_close</text>
 </a>
 </g>
 </g>
-<!-- Node689&#45;&gt;Node692 -->
+<!-- Node743&#45;&gt;Node746 -->
 <g id="edge3" class="edge">
-<title>Node689&#45;&gt;Node692</title>
+<title>Node743&#45;&gt;Node746</title>
 <path fill="none" stroke="#191970" d="M111.8794,-38.411C133.3534,-33.3739 159.8605,-27.1562 182.597,-21.8229"/>
 <polygon fill="#191970" stroke="#191970" points="183.4781,-25.2113 192.4145,-19.5201 181.8795,-18.3963 183.4781,-25.2113"/>
 </g>

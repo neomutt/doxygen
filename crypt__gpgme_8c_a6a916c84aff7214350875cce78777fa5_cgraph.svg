@@ -9,61 +9,61 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 309.6801)">
 <title>smime_gpgme_application_handler</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-309.6801 470,-309.6801 470,4 -4,4"/>
-<!-- Node47963 -->
+<!-- Node47945 -->
 <g id="node1" class="node">
-<title>Node47963</title>
+<title>Node47945</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-149 0,-179 149,-179 149,-149 0,-149"/>
 <text text-anchor="start" x="8" y="-167" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">smime_gpgme_application</text>
 <text text-anchor="middle" x="74.5" y="-156" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">_handler</text>
 </g>
-<!-- Node47964 -->
+<!-- Node47946 -->
 <g id="node2" class="node">
-<title>Node47964</title>
+<title>Node47946</title>
 <g id="a_node2"><a xlink:href="email_2envelope_8c.html#a244dacf9b1001c9ce1dbd473e001381f" target="_top" xlink:title="Free an Envelope. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="370,-129.5 370,-148.5 458,-148.5 458,-129.5 370,-129.5"/>
 <text text-anchor="middle" x="414" y="-136.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_env_free</text>
 </a>
 </g>
 </g>
-<!-- Node47963&#45;&gt;Node47964 -->
+<!-- Node47945&#45;&gt;Node47946 -->
 <g id="edge1" class="edge">
-<title>Node47963&#45;&gt;Node47964</title>
+<title>Node47945&#45;&gt;Node47946</title>
 <path fill="none" stroke="#191970" d="M102.1432,-179.1148C123.9273,-190.1222 155.4533,-204.0956 185,-210 246.4517,-222.2801 266.9091,-230.8656 326,-210 356.0647,-199.3839 383.4032,-173.6584 399.3726,-156.2696"/>
 <polygon fill="#191970" stroke="#191970" points="402.2423,-158.3088 406.2609,-148.5057 397.0061,-153.6631 402.2423,-158.3088"/>
 </g>
-<!-- Node47970 -->
+<!-- Node47952 -->
 <g id="node3" class="node">
-<title>Node47970</title>
+<title>Node47952</title>
 <g id="a_node3"><a xlink:href="state_8c.html#a8d8c6b5b8e9a2427e68fab5f5403cb63" target="_top" xlink:title="Write a string to the state. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="362,-277.5 362,-296.5 466,-296.5 466,-277.5 362,-277.5"/>
 <text text-anchor="middle" x="414" y="-284.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">state_attach_puts</text>
 </a>
 </g>
 </g>
-<!-- Node47963&#45;&gt;Node47970 -->
+<!-- Node47945&#45;&gt;Node47952 -->
 <g id="edge2" class="edge">
-<title>Node47963&#45;&gt;Node47970</title>
+<title>Node47945&#45;&gt;Node47952</title>
 <path fill="none" stroke="#191970" d="M82.3273,-179.0102C97.6749,-206.5897 134.6623,-264.5543 185,-287 242.1206,-312.4701 315.5117,-306.6378 363.6082,-298.3557"/>
 <polygon fill="#191970" stroke="#191970" points="364.2603,-301.7946 373.4726,-296.5616 363.0077,-294.9076 364.2603,-301.7946"/>
 </g>
-<!-- Node48000 -->
+<!-- Node47982 -->
 <g id="node4" class="node">
-<title>Node48000</title>
+<title>Node47982</title>
 <g id="a_node4"><a xlink:href="crypt__gpgme_8c.html#a06057059d161b58e6b17c6b00fe54ab6" target="_top" xlink:title="Decrypt a PGP or SMIME message. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="216.5,-258.5 216.5,-277.5 294.5,-277.5 294.5,-258.5 216.5,-258.5"/>
 <text text-anchor="middle" x="255.5" y="-265.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">decrypt_part</text>
 </a>
 </g>
 </g>
-<!-- Node47963&#45;&gt;Node48000 -->
+<!-- Node47945&#45;&gt;Node47982 -->
 <g id="edge3" class="edge">
-<title>Node47963&#45;&gt;Node48000</title>
+<title>Node47945&#45;&gt;Node47982</title>
 <path fill="none" stroke="#191970" d="M91.7942,-179.0667C112.6798,-196.636 149.449,-225.61 185,-244 193.1805,-248.2316 202.2671,-251.9666 211.1221,-255.1536"/>
 <polygon fill="#191970" stroke="#191970" points="209.9914,-258.4659 220.586,-258.3943 212.2592,-251.8434 209.9914,-258.4659"/>
 </g>
-<!-- Node48811 -->
+<!-- Node48797 -->
 <g id="node5" class="node">
-<title>Node48811</title>
+<title>Node48797</title>
 <g id="a_node5"><a xlink:href="crypt_8c.html#aced59da2579d14e9b136b372ce683bc5" target="_top" xlink:title="Process a protected header &#45; Implements handler_t. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="187.5,-171 187.5,-201 323.5,-201 323.5,-171 187.5,-171"/>
 <text text-anchor="start" x="195.5" y="-189" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_protected_headers</text>
@@ -71,87 +71,87 @@
 </a>
 </g>
 </g>
-<!-- Node47963&#45;&gt;Node48811 -->
+<!-- Node47945&#45;&gt;Node48797 -->
 <g id="edge5" class="edge">
-<title>Node47963&#45;&gt;Node48811</title>
+<title>Node47945&#45;&gt;Node48797</title>
 <path fill="none" stroke="#191970" d="M149.1646,-173.0753C158.4614,-174.2052 167.9882,-175.3632 177.3361,-176.4994"/>
 <polygon fill="#191970" stroke="#191970" points="177.0407,-179.9892 187.39,-177.7214 177.8854,-173.0403 177.0407,-179.9892"/>
 </g>
-<!-- Node48689 -->
+<!-- Node48673 -->
 <g id="node6" class="node">
-<title>Node48689</title>
+<title>Node48673</title>
 <g id="a_node6"><a xlink:href="handler_8c.html#adae8bf0eec9bee0bd62f639bbcf8599f" target="_top" xlink:title="Handler for the Body of an email. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="200,-132.5 200,-151.5 311,-151.5 311,-132.5 200,-132.5"/>
 <text text-anchor="middle" x="255.5" y="-139.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_body_handler</text>
 </a>
 </g>
 </g>
-<!-- Node47963&#45;&gt;Node48689 -->
+<!-- Node47945&#45;&gt;Node48673 -->
 <g id="edge6" class="edge">
-<title>Node47963&#45;&gt;Node48689</title>
+<title>Node47945&#45;&gt;Node48673</title>
 <path fill="none" stroke="#191970" d="M149.1646,-154.9247C162.6669,-153.2836 176.6547,-151.5834 189.8746,-149.9766"/>
 <polygon fill="#191970" stroke="#191970" points="190.309,-153.4496 199.8136,-148.7685 189.4643,-146.5008 190.309,-153.4496"/>
 </g>
-<!-- Node48684 -->
+<!-- Node48668 -->
 <g id="node7" class="node">
-<title>Node48684</title>
+<title>Node48668</title>
 <g id="a_node7"><a xlink:href="crypt_8c.html#a345fb1ff241b3fc778632947c2b08d37" target="_top" xlink:title="Is a message signed? ">
 <polygon fill="#ffffff" stroke="#ff0000" points="185,-94.5 185,-113.5 326,-113.5 326,-94.5 185,-94.5"/>
 <text text-anchor="middle" x="255.5" y="-101.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_is_multipart_signed</text>
 </a>
 </g>
 </g>
-<!-- Node47963&#45;&gt;Node48684 -->
+<!-- Node47945&#45;&gt;Node48668 -->
 <g id="edge7" class="edge">
-<title>Node47963&#45;&gt;Node48684</title>
+<title>Node47945&#45;&gt;Node48668</title>
 <path fill="none" stroke="#191970" d="M112.2987,-148.9927C133.5044,-140.8222 160.5386,-130.816 185,-123 192.3043,-120.6661 200.0932,-118.3743 207.7297,-116.235"/>
 <polygon fill="#191970" stroke="#191970" points="208.9095,-119.5407 217.6273,-113.5198 207.0576,-112.7901 208.9095,-119.5407"/>
 </g>
-<!-- Node48172 -->
+<!-- Node48154 -->
 <g id="node8" class="node">
-<title>Node48172</title>
+<title>Node48154</title>
 <g id="a_node8"><a xlink:href="email_2body_8c.html#a129af1c316fcbc26b55fb48957bab2cb" target="_top" xlink:title="Free a Body. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="208.5,-38.5 208.5,-57.5 302.5,-57.5 302.5,-38.5 208.5,-38.5"/>
 <text text-anchor="middle" x="255.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_body_free</text>
 </a>
 </g>
 </g>
-<!-- Node47963&#45;&gt;Node48172 -->
+<!-- Node47945&#45;&gt;Node48154 -->
 <g id="edge8" class="edge">
-<title>Node47963&#45;&gt;Node48172</title>
+<title>Node47945&#45;&gt;Node48154</title>
 <path fill="none" stroke="#191970" d="M93.9016,-148.8847C115.5412,-132.3245 151.8679,-105.4044 185,-85 198.3542,-76.7758 213.7195,-68.5737 226.6901,-61.9895"/>
 <polygon fill="#191970" stroke="#191970" points="228.2737,-65.1109 235.6485,-57.504 225.1397,-58.8516 228.2737,-65.1109"/>
 </g>
-<!-- Node48368 -->
+<!-- Node48350 -->
 <g id="node9" class="node">
-<title>Node48368</title>
+<title>Node48350</title>
 <g id="a_node9"><a xlink:href="file_8c.html#a31f49795ff5b9558db5476e5777e63b6" target="_top" xlink:title="Close a FILE handle (and NULL the pointer) ">
 <polygon fill="#ffffff" stroke="#000000" points="208,-.5 208,-19.5 303,-19.5 303,-.5 208,-.5"/>
 <text text-anchor="middle" x="255.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_file_fclose</text>
 </a>
 </g>
 </g>
-<!-- Node47963&#45;&gt;Node48368 -->
+<!-- Node47945&#45;&gt;Node48350 -->
 <g id="edge11" class="edge">
-<title>Node47963&#45;&gt;Node48368</title>
+<title>Node47945&#45;&gt;Node48350</title>
 <path fill="none" stroke="#191970" d="M82.6099,-148.8274C98.4284,-120.7271 136.1692,-60.5792 185,-29 189.108,-26.3433 193.5798,-24.0558 198.2121,-22.0866"/>
 <polygon fill="#191970" stroke="#191970" points="199.738,-25.2529 207.8812,-18.4751 197.2887,-18.6954 199.738,-25.2529"/>
 </g>
-<!-- Node48000&#45;&gt;Node47970 -->
+<!-- Node47982&#45;&gt;Node47952 -->
 <g id="edge4" class="edge">
-<title>Node48000&#45;&gt;Node47970</title>
+<title>Node47982&#45;&gt;Node47952</title>
 <path fill="none" stroke="#191970" d="M294.6798,-272.6966C311.853,-274.7552 332.4329,-277.2222 351.6276,-279.5232"/>
 <polygon fill="#191970" stroke="#191970" points="351.4692,-283.0292 361.8147,-280.7444 352.3024,-276.0789 351.4692,-283.0292"/>
 </g>
-<!-- Node48172&#45;&gt;Node47964 -->
+<!-- Node48154&#45;&gt;Node47946 -->
 <g id="edge9" class="edge">
-<title>Node48172&#45;&gt;Node47964</title>
+<title>Node48154&#45;&gt;Node47946</title>
 <path fill="none" stroke="#191970" d="M274.5373,-57.5536C288.8312,-64.8321 308.8153,-75.2325 326,-85 348.1615,-97.5962 372.8573,-112.8618 390.4328,-123.9439"/>
 <polygon fill="#191970" stroke="#191970" points="388.6026,-126.9276 398.9235,-129.3215 392.348,-121.0139 388.6026,-126.9276"/>
 </g>
-<!-- Node48172&#45;&gt;Node48172 -->
+<!-- Node48154&#45;&gt;Node48154 -->
 <g id="edge10" class="edge">
-<title>Node48172&#45;&gt;Node48172</title>
+<title>Node48154&#45;&gt;Node48154</title>
 <path fill="none" stroke="#191970" d="M231.1476,-57.7571C219.3005,-66.5653 227.418,-76 255.5,-76 273.9288,-76 283.7596,-71.9368 284.9924,-66.6539"/>
 <polygon fill="#191970" stroke="#191970" points="287.8855,-64.665 279.8524,-57.7571 281.8243,-68.1668 287.8855,-64.665"/>
 </g>

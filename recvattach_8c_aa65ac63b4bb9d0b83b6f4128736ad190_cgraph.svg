@@ -9,66 +9,66 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 118)">
 <title>can_print</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-118 334,-118 334,4 -4,4"/>
-<!-- Node34679 -->
+<!-- Node31235 -->
 <g id="node1" class="node">
-<title>Node34679</title>
+<title>Node31235</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-56.5 0,-75.5 62,-75.5 62,-56.5 0,-56.5"/>
 <text text-anchor="middle" x="31" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">can_print</text>
 </g>
-<!-- Node34680 -->
+<!-- Node31236 -->
 <g id="node2" class="node">
-<title>Node34680</title>
+<title>Node31236</title>
 <g id="a_node2"><a xlink:href="mailcap_8c.html#a412989a4828da86db98c88a087b2217c" target="_top" xlink:title="Find given type in the list of mailcap files. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="102.5,-94.5 102.5,-113.5 196.5,-113.5 196.5,-94.5 102.5,-94.5"/>
 <text text-anchor="middle" x="149.5" y="-101.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mailcap_lookup</text>
 </a>
 </g>
 </g>
-<!-- Node34679&#45;&gt;Node34680 -->
+<!-- Node31235&#45;&gt;Node31236 -->
 <g id="edge1" class="edge">
-<title>Node34679&#45;&gt;Node34680</title>
+<title>Node31235&#45;&gt;Node31236</title>
 <path fill="none" stroke="#191970" d="M60.9026,-75.589C75.7787,-80.3594 93.9571,-86.1888 109.9674,-91.3229"/>
 <polygon fill="#191970" stroke="#191970" points="109.0159,-94.6932 119.607,-94.4141 111.1534,-88.0276 109.0159,-94.6932"/>
 </g>
-<!-- Node34707 -->
+<!-- Node31263 -->
 <g id="node3" class="node">
-<title>Node34707</title>
+<title>Node31263</title>
 <g id="a_node3"><a xlink:href="mutt_2string_8c.html#a29db81d6f5a7dd216cbea75ecf8a5885" target="_top" xlink:title="Compare two strings, ignoring case. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="237,-28.5 237,-47.5 330,-47.5 330,-28.5 237,-28.5"/>
 <text text-anchor="middle" x="283.5" y="-35.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_istr_equal</text>
 </a>
 </g>
 </g>
-<!-- Node34679&#45;&gt;Node34707 -->
+<!-- Node31235&#45;&gt;Node31263 -->
 <g id="edge2" class="edge">
-<title>Node34679&#45;&gt;Node34707</title>
+<title>Node31235&#45;&gt;Node31263</title>
 <path fill="none" stroke="#191970" d="M62.2147,-62.5386C103.1975,-57.9939 175.893,-49.9327 226.7423,-44.2939"/>
 <polygon fill="#191970" stroke="#191970" points="227.37,-47.7459 236.9233,-43.1649 226.5984,-40.7885 227.37,-47.7459"/>
 </g>
-<!-- Node35886 -->
+<!-- Node32449 -->
 <g id="node4" class="node">
-<title>Node35886</title>
+<title>Node32449</title>
 <g id="a_node4"><a xlink:href="handler_8c.html#ad8ffd2d9dd15e18644b821ec35c7ce52" target="_top" xlink:title="Will decoding the attachment produce any output. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="98,-.5 98,-19.5 201,-19.5 201,-.5 98,-.5"/>
 <text text-anchor="middle" x="149.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_can_decode</text>
 </a>
 </g>
 </g>
-<!-- Node34679&#45;&gt;Node35886 -->
+<!-- Node31235&#45;&gt;Node32449 -->
 <g id="edge3" class="edge">
-<title>Node34679&#45;&gt;Node35886</title>
+<title>Node31235&#45;&gt;Node32449</title>
 <path fill="none" stroke="#191970" d="M51.3709,-56.3733C70.3079,-47.4241 98.7318,-33.9917 120.1215,-23.8835"/>
 <polygon fill="#191970" stroke="#191970" points="121.8491,-26.9383 129.3949,-19.5011 118.8582,-20.6094 121.8491,-26.9383"/>
 </g>
-<!-- Node35886&#45;&gt;Node34707 -->
+<!-- Node32449&#45;&gt;Node31263 -->
 <g id="edge4" class="edge">
-<title>Node35886&#45;&gt;Node34707</title>
+<title>Node32449&#45;&gt;Node31263</title>
 <path fill="none" stroke="#191970" d="M195.2404,-19.5577C205.8052,-21.7653 217.1567,-24.1372 228.0842,-26.4206"/>
 <polygon fill="#191970" stroke="#191970" points="227.4612,-29.8659 237.9657,-28.4854 228.8931,-23.0139 227.4612,-29.8659"/>
 </g>
-<!-- Node35886&#45;&gt;Node35886 -->
+<!-- Node32449&#45;&gt;Node32449 -->
 <g id="edge5" class="edge">
-<title>Node35886&#45;&gt;Node35886</title>
+<title>Node32449&#45;&gt;Node32449</title>
 <path fill="none" stroke="#191970" d="M131.3128,-19.7571C122.4649,-28.5653 128.5273,-38 149.5,-38 162.9356,-38 170.252,-34.128 171.4493,-29.0292"/>
 <polygon fill="#191970" stroke="#191970" points="174.6902,-27.7074 167.6872,-19.7571 168.2038,-30.3393 174.6902,-27.7074"/>
 </g>

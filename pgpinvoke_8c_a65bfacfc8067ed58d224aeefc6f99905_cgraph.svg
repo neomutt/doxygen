@@ -9,45 +9,45 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 43)">
 <title>pgp_invoke_verify</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-43 354,-43 354,4 -4,4"/>
-<!-- Node381 -->
+<!-- Node278 -->
 <g id="node1" class="node">
-<title>Node381</title>
+<title>Node278</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-19.5 0,-38.5 107,-38.5 107,-19.5 0,-19.5"/>
 <text text-anchor="middle" x="53.5" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pgp_invoke_verify</text>
 </g>
-<!-- Node382 -->
+<!-- Node279 -->
 <g id="node2" class="node">
-<title>Node382</title>
+<title>Node279</title>
 <g id="a_node2"><a xlink:href="helpers_8c.html#ac477c591155aa4ae0452bbabc0affffe" target="_top" xlink:title="Get a string config item by name. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="252,-19.5 252,-38.5 350,-38.5 350,-19.5 252,-19.5"/>
 <text text-anchor="middle" x="301" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_subset_string</text>
 </a>
 </g>
 </g>
-<!-- Node381&#45;&gt;Node382 -->
+<!-- Node278&#45;&gt;Node279 -->
 <g id="edge1" class="edge">
-<title>Node381&#45;&gt;Node382</title>
+<title>Node278&#45;&gt;Node279</title>
 <path fill="none" stroke="#191970" d="M107.2038,-29C146.7852,-29 200.622,-29 241.5078,-29"/>
 <polygon fill="#191970" stroke="#191970" points="241.6069,-32.5001 251.6069,-29 241.6069,-25.5001 241.6069,-32.5001"/>
 </g>
-<!-- Node405 -->
+<!-- Node302 -->
 <g id="node3" class="node">
-<title>Node405</title>
+<title>Node302</title>
 <g id="a_node3"><a xlink:href="pgpinvoke_8c.html#a02757286e56ae36d0d9a29d5e814e1f2" target="_top" xlink:title="Run a PGP command. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="143,-.5 143,-19.5 216,-19.5 216,-.5 143,-.5"/>
 <text text-anchor="middle" x="179.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pgp_invoke</text>
 </a>
 </g>
 </g>
-<!-- Node381&#45;&gt;Node405 -->
+<!-- Node278&#45;&gt;Node302 -->
 <g id="edge2" class="edge">
-<title>Node381&#45;&gt;Node405</title>
+<title>Node278&#45;&gt;Node302</title>
 <path fill="none" stroke="#191970" d="M107.3008,-20.8872C115.8603,-19.5965 124.6514,-18.2708 133.0235,-17.0084"/>
 <polygon fill="#191970" stroke="#191970" points="133.6179,-20.4584 142.9842,-15.5064 132.5741,-13.5366 133.6179,-20.4584"/>
 </g>
-<!-- Node405&#45;&gt;Node382 -->
+<!-- Node302&#45;&gt;Node279 -->
 <g id="edge3" class="edge">
-<title>Node405&#45;&gt;Node382</title>
+<title>Node302&#45;&gt;Node279</title>
 <path fill="none" stroke="#191970" d="M216.2837,-15.7522C224.3159,-17.0082 233.0137,-18.3684 241.673,-19.7225"/>
 <polygon fill="#191970" stroke="#191970" points="241.3576,-23.2157 251.7783,-21.3028 242.4392,-16.2997 241.3576,-23.2157"/>
 </g>

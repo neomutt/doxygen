@@ -9,129 +9,129 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 290)">
 <title>sb_win_add_observers</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-290 297,-290 297,4 -4,4"/>
-<!-- Node3422 -->
+<!-- Node3364 -->
 <g id="node1" class="node">
-<title>Node3422</title>
+<title>Node3364</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-133.5 0,-152.5 127,-152.5 127,-133.5 0,-133.5"/>
 <text text-anchor="middle" x="63.5" y="-140.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">sb_win_add_observers</text>
 </g>
-<!-- Node3423 -->
+<!-- Node3365 -->
 <g id="node2" class="node">
-<title>Node3423</title>
+<title>Node3365</title>
 <g id="a_node2"><a xlink:href="mutt_2notify_8c.html#a67c25689b9f61f36d922c2b8e21685be" target="_top" xlink:title="Add an observer to an object. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="170,-266.5 170,-285.5 286,-285.5 286,-266.5 170,-266.5"/>
 <text text-anchor="middle" x="228" y="-273.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">notify_observer_add</text>
 </a>
 </g>
 </g>
-<!-- Node3422&#45;&gt;Node3423 -->
+<!-- Node3364&#45;&gt;Node3365 -->
 <g id="edge1" class="edge">
-<title>Node3422&#45;&gt;Node3423</title>
+<title>Node3364&#45;&gt;Node3365</title>
 <path fill="none" stroke="#191970" d="M69.1442,-152.5867C82.5449,-174.5018 118.5112,-228.5595 163,-257 166.3045,-259.1125 169.8516,-260.9971 173.5218,-262.6772"/>
 <polygon fill="#191970" stroke="#191970" points="172.2482,-265.9375 182.8308,-266.4461 174.8751,-259.4491 172.2482,-265.9375"/>
 </g>
-<!-- Node3426 -->
+<!-- Node3368 -->
 <g id="node3" class="node">
-<title>Node3426</title>
+<title>Node3368</title>
 <g id="a_node3"><a xlink:href="sidebar_2observer_8c.html#a47c346bee156d2f0b76a06dbdb1edf4a" target="_top" xlink:title="Notification that an Account has changed &#45; Implements observer_t. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="168.5,-228.5 168.5,-247.5 287.5,-247.5 287.5,-228.5 168.5,-228.5"/>
 <text text-anchor="middle" x="228" y="-235.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">sb_account_observer</text>
 </a>
 </g>
 </g>
-<!-- Node3422&#45;&gt;Node3426 -->
+<!-- Node3364&#45;&gt;Node3368 -->
 <g id="edge2" class="edge">
-<title>Node3422&#45;&gt;Node3426</title>
+<title>Node3364&#45;&gt;Node3368</title>
 <path fill="none" stroke="#191970" d="M73.3836,-152.5884C90.3559,-168.5565 126.7289,-200.6514 163,-219 167.539,-221.2962 172.4003,-223.3589 177.3454,-225.2015"/>
 <polygon fill="#191970" stroke="#191970" points="176.301,-228.5434 186.8957,-228.4771 178.5722,-221.922 176.301,-228.5434"/>
 </g>
-<!-- Node3431 -->
+<!-- Node3373 -->
 <g id="node4" class="node">
-<title>Node3431</title>
+<title>Node3373</title>
 <g id="a_node4"><a xlink:href="sidebar_2observer_8c.html#acc9fa75d476f7cc2be1994183be81e01" target="_top" xlink:title="Notification that a Color has changed &#45; Implements observer_t. ">
 <polygon fill="#ffffff" stroke="#000000" points="175.5,-190.5 175.5,-209.5 280.5,-209.5 280.5,-190.5 175.5,-190.5"/>
 <text text-anchor="middle" x="228" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">sb_color_observer</text>
 </a>
 </g>
 </g>
-<!-- Node3422&#45;&gt;Node3431 -->
+<!-- Node3364&#45;&gt;Node3373 -->
 <g id="edge3" class="edge">
-<title>Node3422&#45;&gt;Node3431</title>
+<title>Node3364&#45;&gt;Node3373</title>
 <path fill="none" stroke="#191970" d="M87.0289,-152.5999C107.0693,-160.6281 136.7116,-172.1539 163,-181 169.5883,-183.217 176.6005,-185.4234 183.4895,-187.5058"/>
 <polygon fill="#191970" stroke="#191970" points="182.8481,-190.9663 193.4306,-190.455 184.839,-184.2554 182.8481,-190.9663"/>
 </g>
-<!-- Node3432 -->
+<!-- Node3374 -->
 <g id="node5" class="node">
-<title>Node3432</title>
+<title>Node3374</title>
 <g id="a_node5"><a xlink:href="sidebar_2observer_8c.html#a873e646a71e7944594d2ae3dae0cec94" target="_top" xlink:title="Notification that a Command has occurred &#45; Implements observer_t. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="163,-152.5 163,-171.5 293,-171.5 293,-152.5 163,-152.5"/>
 <text text-anchor="middle" x="228" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">sb_command_observer</text>
 </a>
 </g>
 </g>
-<!-- Node3422&#45;&gt;Node3432 -->
+<!-- Node3364&#45;&gt;Node3374 -->
 <g id="edge4" class="edge">
-<title>Node3422&#45;&gt;Node3432</title>
+<title>Node3364&#45;&gt;Node3374</title>
 <path fill="none" stroke="#191970" d="M127.1,-150.3459C135.5477,-151.3216 144.2726,-152.3294 152.892,-153.3249"/>
 <polygon fill="#191970" stroke="#191970" points="152.6035,-156.8148 162.9391,-154.4854 153.4068,-149.861 152.6035,-156.8148"/>
 </g>
-<!-- Node5601 -->
+<!-- Node5375 -->
 <g id="node6" class="node">
-<title>Node5601</title>
+<title>Node5375</title>
 <g id="a_node6"><a xlink:href="sidebar_2observer_8c.html#af7b7affabc479bee3da3d1ff6e8e6703" target="_top" xlink:title="Notification that a Config Variable has changed &#45; Implements observer_t. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="173,-114.5 173,-133.5 283,-133.5 283,-114.5 173,-114.5"/>
 <text text-anchor="middle" x="228" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">sb_config_observer</text>
 </a>
 </g>
 </g>
-<!-- Node3422&#45;&gt;Node5601 -->
+<!-- Node3364&#45;&gt;Node5375 -->
 <g id="edge5" class="edge">
-<title>Node3422&#45;&gt;Node5601</title>
+<title>Node3364&#45;&gt;Node5375</title>
 <path fill="none" stroke="#191970" d="M127.1,-135.6541C138.7778,-134.3053 150.9851,-132.8953 162.7115,-131.5409"/>
 <polygon fill="#191970" stroke="#191970" points="163.335,-134.9923 172.8673,-130.3679 162.5318,-128.0385 163.335,-134.9923"/>
 </g>
-<!-- Node5603 -->
+<!-- Node5377 -->
 <g id="node7" class="node">
-<title>Node5603</title>
+<title>Node5377</title>
 <g id="a_node7"><a xlink:href="sidebar_2observer_8c.html#aef6d97eb61f8f304873347c697a6dd65" target="_top" xlink:title="Notification that the Index has changed &#45; Implements observer_t. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="174,-76.5 174,-95.5 282,-95.5 282,-76.5 174,-76.5"/>
 <text text-anchor="middle" x="228" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">sb_index_observer</text>
 </a>
 </g>
 </g>
-<!-- Node3422&#45;&gt;Node5603 -->
+<!-- Node3364&#45;&gt;Node5377 -->
 <g id="edge6" class="edge">
-<title>Node3422&#45;&gt;Node5603</title>
+<title>Node3364&#45;&gt;Node5377</title>
 <path fill="none" stroke="#191970" d="M87.0289,-133.4001C107.0693,-125.3719 136.7116,-113.8461 163,-105 169.5883,-102.783 176.6005,-100.5766 183.4895,-98.4942"/>
 <polygon fill="#191970" stroke="#191970" points="184.839,-101.7446 193.4306,-95.545 182.8481,-95.0337 184.839,-101.7446"/>
 </g>
-<!-- Node5605 -->
+<!-- Node5379 -->
 <g id="node8" class="node">
-<title>Node5605</title>
+<title>Node5379</title>
 <g id="a_node8"><a xlink:href="sidebar_2observer_8c.html#a0f5bc69d8eb06b0bd5f33eb5b5a1e2fe" target="_top" xlink:title="Notification that a Mailbox has changed &#45; Implements observer_t. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="167.5,-38.5 167.5,-57.5 288.5,-57.5 288.5,-38.5 167.5,-38.5"/>
 <text text-anchor="middle" x="228" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">sb_mailbox_observer</text>
 </a>
 </g>
 </g>
-<!-- Node3422&#45;&gt;Node5605 -->
+<!-- Node3364&#45;&gt;Node5379 -->
 <g id="edge7" class="edge">
-<title>Node3422&#45;&gt;Node5605</title>
+<title>Node3364&#45;&gt;Node5379</title>
 <path fill="none" stroke="#191970" d="M73.3836,-133.4116C90.3559,-117.4435 126.7289,-85.3486 163,-67 167.539,-64.7038 172.4003,-62.6411 177.3454,-60.7985"/>
 <polygon fill="#191970" stroke="#191970" points="178.5722,-64.078 186.8957,-57.5229 176.301,-57.4566 178.5722,-64.078"/>
 </g>
-<!-- Node5607 -->
+<!-- Node5381 -->
 <g id="node9" class="node">
-<title>Node5607</title>
+<title>Node5381</title>
 <g id="a_node9"><a xlink:href="sidebar_2observer_8c.html#a0722aa70bc2c6450daccb2651e0b61e7" target="_top" xlink:title="Notification that a Window has changed &#45; Implements observer_t. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="168.5,-.5 168.5,-19.5 287.5,-19.5 287.5,-.5 168.5,-.5"/>
 <text text-anchor="middle" x="228" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">sb_window_observer</text>
 </a>
 </g>
 </g>
-<!-- Node3422&#45;&gt;Node5607 -->
+<!-- Node3364&#45;&gt;Node5381 -->
 <g id="edge8" class="edge">
-<title>Node3422&#45;&gt;Node5607</title>
+<title>Node3364&#45;&gt;Node5381</title>
 <path fill="none" stroke="#191970" d="M69.1442,-133.4133C82.5449,-111.4982 118.5112,-57.4405 163,-29 166.3045,-26.8875 169.8516,-25.0029 173.5218,-23.3228"/>
 <polygon fill="#191970" stroke="#191970" points="174.8751,-26.5509 182.8308,-19.5539 172.2482,-20.0625 174.8751,-26.5509"/>
 </g>

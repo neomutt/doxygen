@@ -9,69 +9,69 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 138)">
 <title>index_make_entry</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-138 263,-138 263,4 -4,4"/>
-<!-- Node26476 -->
+<!-- Node20499 -->
 <g id="node1" class="node">
-<title>Node26476</title>
+<title>Node20499</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-57.5 0,-76.5 107,-76.5 107,-57.5 0,-57.5"/>
 <text text-anchor="middle" x="53.5" y="-64.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">index_make_entry</text>
 </g>
-<!-- Node26477 -->
+<!-- Node20500 -->
 <g id="node2" class="node">
-<title>Node26477</title>
+<title>Node20500</title>
 <g id="a_node2"><a xlink:href="context_8c.html#a0882b6875e05115e47a09836c63b5bf9" target="_top" xlink:title="Get a virtual Email. ">
 <polygon fill="#ffffff" stroke="#000000" points="143,-114.5 143,-133.5 259,-133.5 259,-114.5 143,-114.5"/>
 <text text-anchor="middle" x="201" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_get_virt_email</text>
 </a>
 </g>
 </g>
-<!-- Node26476&#45;&gt;Node26477 -->
+<!-- Node20499&#45;&gt;Node20500 -->
 <g id="edge1" class="edge">
-<title>Node26476&#45;&gt;Node26477</title>
+<title>Node20499&#45;&gt;Node20500</title>
 <path fill="none" stroke="#191970" d="M74.6332,-76.5735C92.6407,-84.5857 119.2935,-96.1027 143,-105 148.5926,-107.0989 154.5347,-109.1949 160.4012,-111.1873"/>
 <polygon fill="#191970" stroke="#191970" points="159.5341,-114.5874 170.1277,-114.4249 161.745,-107.9457 159.5341,-114.5874"/>
 </g>
-<!-- Node26478 -->
+<!-- Node20501 -->
 <g id="node3" class="node">
-<title>Node26478</title>
-<g id="a_node3"><a xlink:href="helpers_8c.html#af7f3de51c3c2f5b8f527f40c8397a3fc" target="_top" xlink:title="Get a sort config item by name. ">
-<polygon fill="#ffffff" stroke="#ff0000" points="156.5,-76.5 156.5,-95.5 245.5,-95.5 245.5,-76.5 156.5,-76.5"/>
-<text text-anchor="middle" x="201" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_subset_sort</text>
+<title>Node20501</title>
+<g id="a_node3"><a xlink:href="mutt__thread_8c.html#aa7ffe096f2973f3d0cd486f8e8b4228b" target="_top" xlink:title="Which threading style is active? ">
+<polygon fill="#ffffff" stroke="#ff0000" points="148,-76.5 148,-95.5 254,-95.5 254,-76.5 148,-76.5"/>
+<text text-anchor="middle" x="201" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_thread_style</text>
 </a>
 </g>
 </g>
-<!-- Node26476&#45;&gt;Node26478 -->
+<!-- Node20499&#45;&gt;Node20501 -->
 <g id="edge2" class="edge">
-<title>Node26476&#45;&gt;Node26478</title>
-<path fill="none" stroke="#191970" d="M107.1681,-73.9132C119.9073,-75.5542 133.5118,-77.3066 146.2966,-78.9535"/>
-<polygon fill="#191970" stroke="#191970" points="145.9765,-82.4411 156.3417,-80.2474 146.8709,-75.4984 145.9765,-82.4411"/>
+<title>Node20499&#45;&gt;Node20501</title>
+<path fill="none" stroke="#191970" d="M107.1681,-73.9132C117.0526,-75.1864 127.4581,-76.5268 137.5974,-77.8329"/>
+<polygon fill="#191970" stroke="#191970" points="137.2536,-81.3174 147.6188,-79.1238 138.1479,-74.3748 137.2536,-81.3174"/>
 </g>
-<!-- Node26501 -->
+<!-- Node20526 -->
 <g id="node4" class="node">
-<title>Node26501</title>
+<title>Node20526</title>
 <g id="a_node4"><a xlink:href="helpers_8c.html#ac477c591155aa4ae0452bbabc0affffe" target="_top" xlink:title="Get a string config item by name. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="152,-38.5 152,-57.5 250,-57.5 250,-38.5 152,-38.5"/>
 <text text-anchor="middle" x="201" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_subset_string</text>
 </a>
 </g>
 </g>
-<!-- Node26476&#45;&gt;Node26501 -->
+<!-- Node20499&#45;&gt;Node20526 -->
 <g id="edge3" class="edge">
-<title>Node26476&#45;&gt;Node26501</title>
+<title>Node20499&#45;&gt;Node20526</title>
 <path fill="none" stroke="#191970" d="M107.1681,-60.0868C118.2676,-58.6571 130.024,-57.1427 141.3227,-55.6872"/>
 <polygon fill="#191970" stroke="#191970" points="142.0676,-59.1203 151.5385,-54.3713 141.1732,-52.1777 142.0676,-59.1203"/>
 </g>
-<!-- Node26502 -->
+<!-- Node20527 -->
 <g id="node5" class="node">
-<title>Node26502</title>
+<title>Node20527</title>
 <g id="a_node5"><a xlink:href="hdrline_8c.html#a5ff2b7d1b1e2dbd345801cdda1e3af14" target="_top" xlink:title="Create formatted strings using mailbox expandos. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="148,-.5 148,-19.5 254,-19.5 254,-.5 148,-.5"/>
 <text text-anchor="middle" x="201" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_make_string</text>
 </a>
 </g>
 </g>
-<!-- Node26476&#45;&gt;Node26502 -->
+<!-- Node20499&#45;&gt;Node20527 -->
 <g id="edge4" class="edge">
-<title>Node26476&#45;&gt;Node26502</title>
+<title>Node20499&#45;&gt;Node20527</title>
 <path fill="none" stroke="#191970" d="M74.6332,-57.4265C92.6407,-49.4143 119.2935,-37.8973 143,-29 148.5926,-26.9011 154.5347,-24.8051 160.4012,-22.8127"/>
 <polygon fill="#191970" stroke="#191970" points="161.745,-26.0543 170.1277,-19.5751 159.5341,-19.4126 161.745,-26.0543"/>
 </g>

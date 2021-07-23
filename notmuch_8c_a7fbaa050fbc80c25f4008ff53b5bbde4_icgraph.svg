@@ -9,39 +9,39 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 62)">
 <title>nm2mutt_message_id</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-62 259,-62 259,4 -4,4"/>
-<!-- Node9050 -->
+<!-- Node3113 -->
 <g id="node1" class="node">
-<title>Node9050</title>
+<title>Node3113</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-19.5 0,-38.5 125,-38.5 125,-19.5 0,-19.5"/>
 <text text-anchor="middle" x="62.5" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nm2mutt_message_id</text>
 </g>
-<!-- Node9051 -->
+<!-- Node3114 -->
 <g id="node2" class="node">
-<title>Node9051</title>
+<title>Node3114</title>
 <g id="a_node2"><a xlink:href="notmuch_8c.html#a61864e0bbe54304156a22768894a95e3" target="_top" xlink:title="Set up an email&#39;s Notmuch data. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="175.5,-38.5 175.5,-57.5 240.5,-57.5 240.5,-38.5 175.5,-38.5"/>
 <text text-anchor="middle" x="208" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">init_email</text>
 </a>
 </g>
 </g>
-<!-- Node9050&#45;&gt;Node9051 -->
+<!-- Node3113&#45;&gt;Node3114 -->
 <g id="edge1" class="edge">
-<title>Node9050&#45;&gt;Node9051</title>
+<title>Node3113&#45;&gt;Node3114</title>
 <path fill="none" stroke="#191970" d="M135.2184,-38.4959C149.2248,-40.3249 163.2327,-42.1541 175.1655,-43.7123"/>
 <polygon fill="#191970" stroke="#191970" points="135.4185,-34.9924 125.0495,-37.168 134.5121,-41.9334 135.4185,-34.9924"/>
 </g>
-<!-- Node9617 -->
+<!-- Node3124 -->
 <g id="node3" class="node">
-<title>Node9617</title>
+<title>Node3124</title>
 <g id="a_node3"><a xlink:href="notmuch_8c.html#af785de5c861971b9a7767e94b5b0a04b" target="_top" xlink:title="Get the Email of a Notmuch message. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="161,-.5 161,-19.5 255,-19.5 255,-.5 161,-.5"/>
 <text text-anchor="middle" x="208" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">get_mutt_email</text>
 </a>
 </g>
 </g>
-<!-- Node9050&#45;&gt;Node9617 -->
+<!-- Node3113&#45;&gt;Node3124 -->
 <g id="edge2" class="edge">
-<title>Node9050&#45;&gt;Node9617</title>
+<title>Node3113&#45;&gt;Node3124</title>
 <path fill="none" stroke="#191970" d="M135.2475,-19.5003C143.9602,-18.3626 152.673,-17.2248 160.8859,-16.1524"/>
 <polygon fill="#191970" stroke="#191970" points="134.5121,-16.0666 125.0495,-20.832 135.4185,-23.0076 134.5121,-16.0666"/>
 </g>

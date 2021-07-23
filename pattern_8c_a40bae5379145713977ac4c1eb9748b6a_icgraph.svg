@@ -9,75 +9,75 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 138)">
 <title>mutt_pattern_alias_func</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-138 418,-138 418,4 -4,4"/>
-<!-- Node4484 -->
+<!-- Node3296 -->
 <g id="node1" class="node">
-<title>Node4484</title>
+<title>Node3296</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-57.5 0,-76.5 135,-76.5 135,-57.5 0,-57.5"/>
 <text text-anchor="middle" x="67.5" y="-64.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_pattern_alias_func</text>
 </g>
-<!-- Node4485 -->
+<!-- Node3297 -->
 <g id="node2" class="node">
-<title>Node4485</title>
+<title>Node3297</title>
 <g id="a_node2"><a xlink:href="dlgalias_8c.html#a230376c620f1455b426ee0ed169899b1" target="_top" xlink:title="Notification that an Alias has changed &#45; Implements observer_t. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="171,-114.5 171,-133.5 287,-133.5 287,-114.5 171,-114.5"/>
 <text text-anchor="middle" x="229" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">alias_alias_observer</text>
 </a>
 </g>
 </g>
-<!-- Node4484&#45;&gt;Node4485 -->
+<!-- Node3296&#45;&gt;Node3297 -->
 <g id="edge1" class="edge">
-<title>Node4484&#45;&gt;Node4485</title>
+<title>Node3296&#45;&gt;Node3297</title>
 <path fill="none" stroke="#191970" d="M102.5477,-80.217C122.5414,-87.6691 148.106,-97.0501 171,-105 180.1088,-108.163 190.0706,-111.4781 199.1279,-114.4375"/>
 <polygon fill="#191970" stroke="#191970" points="103.5231,-76.8451 92.9306,-76.6213 101.0716,-83.4018 103.5231,-76.8451"/>
 </g>
-<!-- Node4488 -->
+<!-- Node3300 -->
 <g id="node3" class="node">
-<title>Node4488</title>
+<title>Node3300</title>
 <g id="a_node3"><a xlink:href="dlgalias_8c.html#a1d5a00b1918958b68db7f29a30c66a53" target="_top" xlink:title="Display a menu of Aliases. ">
 <polygon fill="#ffffff" stroke="#000000" points="181.5,-76.5 181.5,-95.5 276.5,-95.5 276.5,-76.5 181.5,-76.5"/>
 <text text-anchor="middle" x="229" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">dlg_select_alias</text>
 </a>
 </g>
 </g>
-<!-- Node4484&#45;&gt;Node4488 -->
+<!-- Node3296&#45;&gt;Node3300 -->
 <g id="edge2" class="edge">
-<title>Node4484&#45;&gt;Node4488</title>
+<title>Node3296&#45;&gt;Node3300</title>
 <path fill="none" stroke="#191970" d="M145.3364,-76.1572C157.6315,-77.6037 170.0168,-79.0608 181.3501,-80.3941"/>
 <polygon fill="#191970" stroke="#191970" points="145.3953,-72.6401 135.0548,-74.9476 144.5773,-79.5921 145.3953,-72.6401"/>
 </g>
-<!-- Node4489 -->
+<!-- Node3301 -->
 <g id="node4" class="node">
-<title>Node4489</title>
+<title>Node3301</title>
 <g id="a_node4"><a xlink:href="alias_2lib_8h.html#ac497f221c91e788faa8c110f70d26aee" target="_top" xlink:title="alias completion routine ">
 <polygon fill="#ffffff" stroke="#ff0000" points="323,-57.5 323,-76.5 414,-76.5 414,-57.5 323,-57.5"/>
 <text text-anchor="middle" x="368.5" y="-64.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">alias_complete</text>
 </a>
 </g>
 </g>
-<!-- Node4484&#45;&gt;Node4489 -->
+<!-- Node3296&#45;&gt;Node3301 -->
 <g id="edge4" class="edge">
-<title>Node4484&#45;&gt;Node4489</title>
+<title>Node3296&#45;&gt;Node3301</title>
 <path fill="none" stroke="#191970" d="M145.3334,-67C201.5717,-67 275.6225,-67 322.6593,-67"/>
 <polygon fill="#191970" stroke="#191970" points="145.0503,-63.5001 135.0503,-67 145.0502,-70.5001 145.0503,-63.5001"/>
 </g>
-<!-- Node4496 -->
+<!-- Node3314 -->
 <g id="node5" class="node">
-<title>Node4496</title>
+<title>Node3314</title>
 <g id="a_node5"><a xlink:href="dlgquery_8c.html#a1b14278ee062936035f5b41babab18da" target="_top" xlink:title="Get the user to enter an Address Query. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="179.5,-.5 179.5,-19.5 278.5,-19.5 278.5,-.5 179.5,-.5"/>
 <text text-anchor="middle" x="229" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">dlg_select_query</text>
 </a>
 </g>
 </g>
-<!-- Node4484&#45;&gt;Node4496 -->
+<!-- Node3296&#45;&gt;Node3314 -->
 <g id="edge5" class="edge">
-<title>Node4484&#45;&gt;Node4496</title>
+<title>Node3296&#45;&gt;Node3314</title>
 <path fill="none" stroke="#191970" d="M104.1306,-54.0715C133.8464,-43.5836 175.0645,-29.0361 201.8803,-19.5716"/>
 <polygon fill="#191970" stroke="#191970" points="102.7965,-50.8307 94.5315,-57.4595 105.1263,-57.4317 102.7965,-50.8307"/>
 </g>
-<!-- Node4488&#45;&gt;Node4489 -->
+<!-- Node3300&#45;&gt;Node3301 -->
 <g id="edge3" class="edge">
-<title>Node4488&#45;&gt;Node4489</title>
+<title>Node3300&#45;&gt;Node3301</title>
 <path fill="none" stroke="#191970" d="M286.6445,-78.1488C298.7617,-76.4984 311.3817,-74.7796 322.9808,-73.1997"/>
 <polygon fill="#191970" stroke="#191970" points="286.054,-74.6968 276.6178,-79.5144 286.9987,-81.6328 286.054,-74.6968"/>
 </g>

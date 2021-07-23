@@ -7,7 +7,7 @@ var sidebar_2window_8c =
     [ "add_indent", "sidebar_2window_8c.html#aae58ea58e66c04c21e3f4b96a55b43ec", null ],
     [ "calc_color", "sidebar_2window_8c.html#a4fcf2bb233ffd2fec28814c2fa655e30", null ],
     [ "calc_path_depth", "sidebar_2window_8c.html#ab3c4643d10cb335f27654df87e28c38d", null ],
-    [ "sidebar_format_str", "sidebar_2window_8c.html#acdb913511681b13bbee3c6e44787eb07", null ],
+    [ "sidebar_format_str", "group__expando__api.html#gacdb913511681b13bbee3c6e44787eb07", null ],
     [ "make_sidebar_entry", "sidebar_2window_8c.html#ad5221bb6030b36213c744a68fd46c87d", null ],
     [ "update_entries_visibility", "sidebar_2window_8c.html#a47d2e337bda5a709d78e0b652189daee", null ],
     [ "prepare_sidebar", "sidebar_2window_8c.html#ab8a9af911d8a1bb904a3dc3cb8b5edee", null ],

@@ -9,54 +9,54 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 100)">
 <title>pgp_invoke</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-100 230,-100 230,4 -4,4"/>
-<!-- Node206 -->
+<!-- Node103 -->
 <g id="node1" class="node">
-<title>Node206</title>
+<title>Node103</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-38.5 0,-57.5 73,-57.5 73,-38.5 0,-38.5"/>
 <text text-anchor="middle" x="36.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pgp_invoke</text>
 </g>
-<!-- Node207 -->
+<!-- Node104 -->
 <g id="node2" class="node">
-<title>Node207</title>
+<title>Node104</title>
 <g id="a_node2"><a xlink:href="helpers_8c.html#ac477c591155aa4ae0452bbabc0affffe" target="_top" xlink:title="Get a string config item by name. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="118.5,-76.5 118.5,-95.5 216.5,-95.5 216.5,-76.5 118.5,-76.5"/>
 <text text-anchor="middle" x="167.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_subset_string</text>
 </a>
 </g>
 </g>
-<!-- Node206&#45;&gt;Node207 -->
+<!-- Node103&#45;&gt;Node104 -->
 <g id="edge1" class="edge">
-<title>Node206&#45;&gt;Node207</title>
+<title>Node103&#45;&gt;Node104</title>
 <path fill="none" stroke="#191970" d="M69.5568,-57.589C86.3125,-62.4494 106.8577,-68.4091 124.7965,-73.6127"/>
 <polygon fill="#191970" stroke="#191970" points="123.8745,-76.9895 134.4537,-76.4141 125.8247,-70.2666 123.8745,-76.9895"/>
 </g>
-<!-- Node230 -->
+<!-- Node127 -->
 <g id="node3" class="node">
-<title>Node230</title>
+<title>Node127</title>
 <g id="a_node3"><a xlink:href="pgpinvoke_8c.html#a678575e9a2c4c11d950da5ed1ba03740" target="_top" xlink:title="Prepare a PGP Command. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="109,-38.5 109,-57.5 226,-57.5 226,-38.5 109,-38.5"/>
 <text text-anchor="middle" x="167.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_pgp_command</text>
 </a>
 </g>
 </g>
-<!-- Node206&#45;&gt;Node230 -->
+<!-- Node103&#45;&gt;Node127 -->
 <g id="edge2" class="edge">
-<title>Node206&#45;&gt;Node230</title>
+<title>Node103&#45;&gt;Node127</title>
 <path fill="none" stroke="#191970" d="M73.3394,-48C81.2808,-48 89.9222,-48 98.6433,-48"/>
 <polygon fill="#191970" stroke="#191970" points="98.8804,-51.5001 108.8804,-48 98.8804,-44.5001 98.8804,-51.5001"/>
 </g>
-<!-- Node243 -->
+<!-- Node140 -->
 <g id="node4" class="node">
-<title>Node243</title>
+<title>Node140</title>
 <g id="a_node4"><a xlink:href="filter_8c.html#ab135f1182014687e686263f6e9613be5" target="_top" xlink:title="Run a command on a pipe (optionally connect stdin/stdout) ">
 <polygon fill="#ffffff" stroke="#ff0000" points="122.5,-.5 122.5,-19.5 212.5,-19.5 212.5,-.5 122.5,-.5"/>
 <text text-anchor="middle" x="167.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">filter_create_fd</text>
 </a>
 </g>
 </g>
-<!-- Node206&#45;&gt;Node243 -->
+<!-- Node103&#45;&gt;Node140 -->
 <g id="edge3" class="edge">
-<title>Node206&#45;&gt;Node243</title>
+<title>Node103&#45;&gt;Node140</title>
 <path fill="none" stroke="#191970" d="M69.5568,-38.411C86.3125,-33.5506 106.8577,-27.5909 124.7965,-22.3873"/>
 <polygon fill="#191970" stroke="#191970" points="125.8247,-25.7334 134.4537,-19.5859 123.8745,-19.0105 125.8247,-25.7334"/>
 </g>

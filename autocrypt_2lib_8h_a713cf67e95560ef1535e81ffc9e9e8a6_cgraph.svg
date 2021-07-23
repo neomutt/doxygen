@@ -9,61 +9,61 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 81)">
 <title>mutt_autocrypt_write_gossip_headers</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-81 444,-81 444,4 -4,4"/>
-<!-- Node21892 -->
+<!-- Node19763 -->
 <g id="node1" class="node">
-<title>Node21892</title>
+<title>Node19763</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-33 0,-63 122,-63 122,-33 0,-33"/>
 <text text-anchor="start" x="8" y="-51" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_autocrypt_write</text>
 <text text-anchor="middle" x="61" y="-40" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">_gossip_headers</text>
 </g>
-<!-- Node21893 -->
+<!-- Node19764 -->
 <g id="node2" class="node">
-<title>Node21893</title>
+<title>Node19764</title>
 <g id="a_node2"><a xlink:href="helpers_8c.html#ae50f679dd6c5bd1ba820884c8602f038" target="_top" xlink:title="Get a boolean config item by name. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="349,-57.5 349,-76.5 440,-76.5 440,-57.5 349,-57.5"/>
 <text text-anchor="middle" x="394.5" y="-64.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_subset_bool</text>
 </a>
 </g>
 </g>
-<!-- Node21892&#45;&gt;Node21893 -->
+<!-- Node19763&#45;&gt;Node19764 -->
 <g id="edge1" class="edge">
-<title>Node21892&#45;&gt;Node21893</title>
+<title>Node19763&#45;&gt;Node19764</title>
 <path fill="none" stroke="#191970" d="M122.0527,-61.8202C133.9165,-63.9769 146.3001,-65.8649 158,-67 219.4887,-72.9654 290.3939,-71.9187 338.4067,-70.0417"/>
 <polygon fill="#191970" stroke="#191970" points="338.7473,-73.5306 348.5931,-69.6176 338.4561,-66.5367 338.7473,-73.5306"/>
 </g>
-<!-- Node21916 -->
+<!-- Node19787 -->
 <g id="node3" class="node">
-<title>Node21916</title>
+<title>Node19787</title>
 <g id="a_node3"><a xlink:href="autocrypt_8c.html#aa23563598fe15db0b1c4a4d313acba30" target="_top" xlink:title="Initialise Autocrypt. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="179,-38.5 179,-57.5 292,-57.5 292,-38.5 179,-38.5"/>
 <text text-anchor="middle" x="235.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_autocrypt_init</text>
 </a>
 </g>
 </g>
-<!-- Node21892&#45;&gt;Node21916 -->
+<!-- Node19763&#45;&gt;Node19787 -->
 <g id="edge2" class="edge">
-<title>Node21892&#45;&gt;Node21916</title>
+<title>Node19763&#45;&gt;Node19787</title>
 <path fill="none" stroke="#191970" d="M122.0316,-48C137.0443,-48 153.1987,-48 168.4773,-48"/>
 <polygon fill="#191970" stroke="#191970" points="168.8901,-51.5001 178.8901,-48 168.89,-44.5001 168.8901,-51.5001"/>
 </g>
-<!-- Node22575 -->
+<!-- Node20448 -->
 <g id="node4" class="node">
-<title>Node22575</title>
+<title>Node20448</title>
 <g id="a_node4"><a xlink:href="autocrypt_8c.html#a5a11d5de380fab330d5f37e7ef018da1" target="_top" xlink:title="Write an Autocrypt header to a file. ">
 <polygon fill="#ffffff" stroke="#000000" points="158,-.5 158,-19.5 313,-19.5 313,-.5 158,-.5"/>
 <text text-anchor="middle" x="235.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">write_autocrypt_header_line</text>
 </a>
 </g>
 </g>
-<!-- Node21892&#45;&gt;Node22575 -->
+<!-- Node19763&#45;&gt;Node20448 -->
 <g id="edge4" class="edge">
-<title>Node21892&#45;&gt;Node22575</title>
+<title>Node19763&#45;&gt;Node20448</title>
 <path fill="none" stroke="#191970" d="M122.0316,-34.7094C141.5262,-30.4642 162.9458,-25.7998 181.8731,-21.6781"/>
 <polygon fill="#191970" stroke="#191970" points="182.7848,-25.0616 191.811,-19.5139 181.2953,-18.2219 182.7848,-25.0616"/>
 </g>
-<!-- Node21916&#45;&gt;Node21893 -->
+<!-- Node19787&#45;&gt;Node19764 -->
 <g id="edge3" class="edge">
-<title>Node21916&#45;&gt;Node21893</title>
+<title>Node19787&#45;&gt;Node19764</title>
 <path fill="none" stroke="#191970" d="M292.0051,-54.7522C307.1626,-56.5635 323.5403,-58.5205 338.6614,-60.3275"/>
 <polygon fill="#191970" stroke="#191970" points="338.554,-63.8395 348.8987,-61.5508 339.3847,-56.8889 338.554,-63.8395"/>
 </g>

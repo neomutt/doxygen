@@ -9,54 +9,54 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 100)">
 <title>nntp_group_poll</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-100 269,-100 269,4 -4,4"/>
-<!-- Node22170 -->
+<!-- Node18986 -->
 <g id="node1" class="node">
-<title>Node22170</title>
+<title>Node18986</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-38.5 0,-57.5 95,-57.5 95,-38.5 0,-38.5"/>
 <text text-anchor="middle" x="47.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nntp_group_poll</text>
 </g>
-<!-- Node22171 -->
+<!-- Node18987 -->
 <g id="node2" class="node">
-<title>Node22171</title>
+<title>Node18987</title>
 <g id="a_node2"><a xlink:href="nntp_8c.html#a91a111632ed65df68e26ff839265c801" target="_top" xlink:title="Send data from buffer and receive answer to same buffer. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="162.5,-76.5 162.5,-95.5 233.5,-95.5 233.5,-76.5 162.5,-76.5"/>
 <text text-anchor="middle" x="198" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nntp_query</text>
 </a>
 </g>
 </g>
-<!-- Node22170&#45;&gt;Node22171 -->
+<!-- Node18986&#45;&gt;Node18987 -->
 <g id="edge1" class="edge">
-<title>Node22170&#45;&gt;Node22171</title>
+<title>Node18986&#45;&gt;Node18987</title>
 <path fill="none" stroke="#191970" d="M85.4775,-57.589C105.8495,-62.7328 131.0975,-69.1077 152.5121,-74.5147"/>
 <polygon fill="#191970" stroke="#191970" points="151.8108,-77.9474 162.3634,-77.0021 153.5245,-71.1604 151.8108,-77.9474"/>
 </g>
-<!-- Node22197 -->
+<!-- Node19013 -->
 <g id="node3" class="node">
-<title>Node22197</title>
+<title>Node19013</title>
 <g id="a_node3"><a xlink:href="memory_8c.html#af778eb8166966fc0666c64849f6c7c5b" target="_top" xlink:title="Resize a block of memory on the heap. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="143.5,-38.5 143.5,-57.5 252.5,-57.5 252.5,-38.5 143.5,-38.5"/>
 <text text-anchor="middle" x="198" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_mem_realloc</text>
 </a>
 </g>
 </g>
-<!-- Node22170&#45;&gt;Node22197 -->
+<!-- Node18986&#45;&gt;Node19013 -->
 <g id="edge2" class="edge">
-<title>Node22170&#45;&gt;Node22197</title>
+<title>Node18986&#45;&gt;Node19013</title>
 <path fill="none" stroke="#191970" d="M95.1191,-48C107.2145,-48 120.4159,-48 133.2063,-48"/>
 <polygon fill="#191970" stroke="#191970" points="133.3468,-51.5001 143.3468,-48 133.3468,-44.5001 133.3468,-51.5001"/>
 </g>
-<!-- Node23350 -->
+<!-- Node20174 -->
 <g id="node4" class="node">
-<title>Node23350</title>
+<title>Node20174</title>
 <g id="a_node4"><a xlink:href="newsrc_8c.html#ab375e79092001683947b61e4079db8c0" target="_top" xlink:title="Count number of unread articles using .newsrc data. ">
 <polygon fill="#ffffff" stroke="#000000" points="131,-.5 131,-19.5 265,-19.5 265,-.5 131,-.5"/>
 <text text-anchor="middle" x="198" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nntp_group_unread_stat</text>
 </a>
 </g>
 </g>
-<!-- Node22170&#45;&gt;Node23350 -->
+<!-- Node18986&#45;&gt;Node20174 -->
 <g id="edge3" class="edge">
-<title>Node22170&#45;&gt;Node23350</title>
+<title>Node18986&#45;&gt;Node20174</title>
 <path fill="none" stroke="#191970" d="M85.4775,-38.411C105.1587,-33.4417 129.3907,-27.3233 150.3206,-22.0387"/>
 <polygon fill="#191970" stroke="#191970" points="151.4567,-25.3617 160.2956,-19.5201 149.743,-18.5747 151.4567,-25.3617"/>
 </g>

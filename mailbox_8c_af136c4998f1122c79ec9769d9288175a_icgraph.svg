@@ -9,75 +9,75 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 118.0802)">
 <title>mailbox_find</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-118.0802 402,-118.0802 402,4 -4,4"/>
-<!-- Node1755 -->
+<!-- Node1917 -->
 <g id="node1" class="node">
-<title>Node1755</title>
+<title>Node1917</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-57.5 0,-76.5 80,-76.5 80,-57.5 0,-57.5"/>
 <text text-anchor="middle" x="40" y="-64.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mailbox_find</text>
 </g>
-<!-- Node1756 -->
+<!-- Node1918 -->
 <g id="node2" class="node">
-<title>Node1756</title>
+<title>Node1918</title>
 <g id="a_node2"><a xlink:href="commands_8h.html#a5d95c39ad429339ec0cdc9524ce8023b" target="_top" xlink:title="Save an email. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="280,-57.5 280,-76.5 398,-76.5 398,-57.5 280,-57.5"/>
 <text text-anchor="middle" x="339" y="-64.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_save_message</text>
 </a>
 </g>
 </g>
-<!-- Node1755&#45;&gt;Node1756 -->
+<!-- Node1917&#45;&gt;Node1918 -->
 <g id="edge1" class="edge">
-<title>Node1755&#45;&gt;Node1756</title>
+<title>Node1917&#45;&gt;Node1918</title>
 <path fill="none" stroke="#191970" d="M62.8569,-81.947C77.4138,-90.5523 97.0384,-100.5238 116,-105 171.3671,-118.0704 188.1376,-115.7581 244,-105 272.0833,-99.5916 302.4178,-85.9561 321.0643,-76.5808"/>
 <polygon fill="#191970" stroke="#191970" points="64.4344,-78.8085 54.0807,-76.5608 60.7728,-84.7746 64.4344,-78.8085"/>
 </g>
-<!-- Node1801 -->
+<!-- Node1963 -->
 <g id="node3" class="node">
-<title>Node1801</title>
-<g id="a_node3"><a xlink:href="mbox_8c.html#a47a65cbf57a70eb1db4e5aed167ec3d7" target="_top" xlink:title="Save changes to the Mailbox &#45; Implements MxOps::mbox_sync() ">
+<title>Node1963</title>
+<g id="a_node3"><a xlink:href="group__mx__mbox__sync.html#ga47a65cbf57a70eb1db4e5aed167ec3d7" target="_top" xlink:title="Save changes to the Mailbox &#45; Implements MxOps::mbox_sync() &#45;. ">
 <polygon fill="#ffffff" stroke="#000000" points="127.5,-76.5 127.5,-95.5 232.5,-95.5 232.5,-76.5 127.5,-76.5"/>
 <text text-anchor="middle" x="180" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mbox_mbox_sync</text>
 </a>
 </g>
 </g>
-<!-- Node1755&#45;&gt;Node1801 -->
+<!-- Node1917&#45;&gt;Node1963 -->
 <g id="edge2" class="edge">
-<title>Node1755&#45;&gt;Node1801</title>
+<title>Node1917&#45;&gt;Node1963</title>
 <path fill="none" stroke="#191970" d="M90.0443,-73.7917C102.1464,-75.4342 115.1169,-77.1944 127.3354,-78.8527"/>
 <polygon fill="#191970" stroke="#191970" points="90.4983,-70.3213 80.1184,-72.4446 89.5568,-77.2577 90.4983,-70.3213"/>
 </g>
-<!-- Node2321 -->
+<!-- Node2537 -->
 <g id="node4" class="node">
-<title>Node2321</title>
+<title>Node2537</title>
 <g id="a_node4"><a xlink:href="monitor_8h.html#aef5faecfb2a44f33cf3c205aadafd33b" target="_top" xlink:title="Remove a watch for a mailbox. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="117,-38.5 117,-57.5 243,-57.5 243,-38.5 117,-38.5"/>
 <text text-anchor="middle" x="180" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_monitor_remove</text>
 </a>
 </g>
 </g>
-<!-- Node1755&#45;&gt;Node2321 -->
+<!-- Node1917&#45;&gt;Node2537 -->
 <g id="edge3" class="edge">
-<title>Node1755&#45;&gt;Node2321</title>
+<title>Node1917&#45;&gt;Node2537</title>
 <path fill="none" stroke="#191970" d="M90.0763,-60.2039C98.7643,-59.0248 107.899,-57.7851 116.8811,-56.5661"/>
 <polygon fill="#191970" stroke="#191970" points="89.5568,-56.7423 80.1184,-61.5554 90.4983,-63.6787 89.5568,-56.7423"/>
 </g>
-<!-- Node2324 -->
+<!-- Node2540 -->
 <g id="node5" class="node">
-<title>Node2324</title>
+<title>Node2540</title>
 <g id="a_node5"><a xlink:href="mutt__mailbox_8h.html#abf8c2a3fe001e431c5f0dd76e7e4e114" target="_top" xlink:title="Restore the timestamp of a mailbox. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="116,-.5 116,-19.5 244,-19.5 244,-.5 116,-.5"/>
 <text text-anchor="middle" x="180" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_mailbox_cleanup</text>
 </a>
 </g>
 </g>
-<!-- Node1755&#45;&gt;Node2324 -->
+<!-- Node1917&#45;&gt;Node2540 -->
 <g id="edge4" class="edge">
-<title>Node1755&#45;&gt;Node2324</title>
+<title>Node1917&#45;&gt;Node2540</title>
 <path fill="none" stroke="#191970" d="M65.9711,-52.5954C80.42,-44.9457 98.8921,-35.7562 116,-29 124.8398,-25.509 134.583,-22.305 143.7439,-19.5624"/>
 <polygon fill="#191970" stroke="#191970" points="64.2619,-49.5406 57.1119,-57.359 67.577,-55.7058 64.2619,-49.5406"/>
 </g>
-<!-- Node2324&#45;&gt;Node1756 -->
+<!-- Node2540&#45;&gt;Node1918 -->
 <g id="edge5" class="edge">
-<title>Node2324&#45;&gt;Node1756</title>
+<title>Node2540&#45;&gt;Node1918</title>
 <path fill="none" stroke="#191970" d="M224.0818,-22.5068C230.787,-24.5763 237.6007,-26.7755 244,-29 269.1681,-37.7488 297.458,-49.2913 316.5706,-57.3501"/>
 <polygon fill="#191970" stroke="#191970" points="224.9815,-19.1224 214.3965,-19.5796 222.9563,-25.823 224.9815,-19.1224"/>
 </g>

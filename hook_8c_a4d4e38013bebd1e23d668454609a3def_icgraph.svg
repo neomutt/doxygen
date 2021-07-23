@@ -9,69 +9,69 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 138)">
 <title>mutt_account_hook</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-138 254,-138 254,4 -4,4"/>
-<!-- Node17883 -->
+<!-- Node17307 -->
 <g id="node1" class="node">
-<title>Node17883</title>
+<title>Node17307</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-57.5 0,-76.5 113,-76.5 113,-57.5 0,-57.5"/>
 <text text-anchor="middle" x="56.5" y="-64.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_account_hook</text>
 </g>
-<!-- Node17884 -->
+<!-- Node17308 -->
 <g id="node2" class="node">
-<title>Node17884</title>
-<g id="a_node2"><a xlink:href="imap_8c.html#a17c8a7069e5923662f22fe1e475a0bdf" target="_top" xlink:title="Add a Mailbox to an Account &#45; Implements MxOps::ac_add() ">
+<title>Node17308</title>
+<g id="a_node2"><a xlink:href="group__mx__ac__add.html#ga17c8a7069e5923662f22fe1e475a0bdf" target="_top" xlink:title="Add a Mailbox to an Account &#45; Implements MxOps::ac_add() &#45;. ">
 <polygon fill="#ffffff" stroke="#000000" points="159,-114.5 159,-133.5 240,-133.5 240,-114.5 159,-114.5"/>
 <text text-anchor="middle" x="199.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">imap_ac_add</text>
 </a>
 </g>
 </g>
-<!-- Node17883&#45;&gt;Node17884 -->
+<!-- Node17307&#45;&gt;Node17308 -->
 <g id="edge1" class="edge">
-<title>Node17883&#45;&gt;Node17884</title>
+<title>Node17307&#45;&gt;Node17308</title>
 <path fill="none" stroke="#191970" d="M88.5645,-80.4485C106.323,-87.8272 128.8252,-97.0628 149,-105 157.0196,-108.1551 165.7973,-111.4963 173.7523,-114.4824"/>
 <polygon fill="#191970" stroke="#191970" points="89.8085,-77.1753 79.2315,-76.5604 87.1165,-83.6369 89.8085,-77.1753"/>
 </g>
-<!-- Node17885 -->
+<!-- Node17309 -->
 <g id="node3" class="node">
-<title>Node17885</title>
+<title>Node17309</title>
 <g id="a_node3"><a xlink:href="mutt__socket_8h.html#a13f8f3e477fc3cb5bd816d35fff4b3db" target="_top" xlink:title="Find a connection from a list. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="153.5,-76.5 153.5,-95.5 245.5,-95.5 245.5,-76.5 153.5,-76.5"/>
 <text text-anchor="middle" x="199.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_conn_find</text>
 </a>
 </g>
 </g>
-<!-- Node17883&#45;&gt;Node17885 -->
+<!-- Node17307&#45;&gt;Node17309 -->
 <g id="edge2" class="edge">
-<title>Node17883&#45;&gt;Node17885</title>
+<title>Node17307&#45;&gt;Node17309</title>
 <path fill="none" stroke="#191970" d="M123.076,-75.8458C133.209,-77.1921 143.4746,-78.5561 153.0535,-79.8288"/>
 <polygon fill="#191970" stroke="#191970" points="123.3913,-72.357 113.0174,-74.5093 122.4693,-79.296 123.3913,-72.357"/>
 </g>
-<!-- Node18072 -->
+<!-- Node17516 -->
 <g id="node4" class="node">
-<title>Node18072</title>
-<g id="a_node4"><a xlink:href="nntp_8c.html#a958364186e337ca6168094e57f038296" target="_top" xlink:title="Open a Mailbox &#45; Implements MxOps::mbox_open() ">
+<title>Node17516</title>
+<g id="a_node4"><a xlink:href="group__mx__mbox__open.html#ga958364186e337ca6168094e57f038296" target="_top" xlink:title="Open a Mailbox &#45; Implements MxOps::mbox_open() &#45;. ">
 <polygon fill="#ffffff" stroke="#000000" points="149,-38.5 149,-57.5 250,-57.5 250,-38.5 149,-38.5"/>
 <text text-anchor="middle" x="199.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nntp_mbox_open</text>
 </a>
 </g>
 </g>
-<!-- Node17883&#45;&gt;Node18072 -->
+<!-- Node17307&#45;&gt;Node17516 -->
 <g id="edge3" class="edge">
-<title>Node17883&#45;&gt;Node18072</title>
+<title>Node17307&#45;&gt;Node17516</title>
 <path fill="none" stroke="#191970" d="M123.1356,-58.1463C131.8187,-56.9926 140.5979,-55.8262 148.9578,-54.7154"/>
 <polygon fill="#191970" stroke="#191970" points="122.4693,-54.704 113.0174,-59.4907 123.3913,-61.643 122.4693,-54.704"/>
 </g>
-<!-- Node18263 -->
+<!-- Node17733 -->
 <g id="node5" class="node">
-<title>Node18263</title>
-<g id="a_node5"><a xlink:href="pop_8c.html#a0de2de1958a22ca0679ea67f4f434db2" target="_top" xlink:title="Open a Mailbox &#45; Implements MxOps::mbox_open() ">
+<title>Node17733</title>
+<g id="a_node5"><a xlink:href="group__mx__mbox__open.html#ga0de2de1958a22ca0679ea67f4f434db2" target="_top" xlink:title="Open a Mailbox &#45; Implements MxOps::mbox_open() &#45;Fetch only headers. ">
 <polygon fill="#ffffff" stroke="#000000" points="151,-.5 151,-19.5 248,-19.5 248,-.5 151,-.5"/>
 <text text-anchor="middle" x="199.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pop_mbox_open</text>
 </a>
 </g>
 </g>
-<!-- Node17883&#45;&gt;Node18263 -->
+<!-- Node17307&#45;&gt;Node17733 -->
 <g id="edge4" class="edge">
-<title>Node17883&#45;&gt;Node18263</title>
+<title>Node17307&#45;&gt;Node17733</title>
 <path fill="none" stroke="#191970" d="M88.5645,-53.5515C106.323,-46.1728 128.8252,-36.9372 149,-29 157.0196,-25.8449 165.7973,-22.5037 173.7523,-19.5176"/>
 <polygon fill="#191970" stroke="#191970" points="87.1165,-50.3631 79.2315,-57.4396 89.8085,-56.8247 87.1165,-50.3631"/>
 </g>

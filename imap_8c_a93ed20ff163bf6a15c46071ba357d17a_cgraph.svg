@@ -9,213 +9,213 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 442)">
 <title>imap_open_connection</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-442 536,-442 536,4 -4,4"/>
-<!-- Node26647 -->
+<!-- Node24938 -->
 <g id="node1" class="node">
-<title>Node26647</title>
+<title>Node24938</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-209.5 0,-228.5 129,-228.5 129,-209.5 0,-209.5"/>
 <text text-anchor="middle" x="64.5" y="-216.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">imap_open_connection</text>
 </g>
-<!-- Node26648 -->
+<!-- Node24939 -->
 <g id="node2" class="node">
-<title>Node26648</title>
+<title>Node24939</title>
 <g id="a_node2"><a xlink:href="socket_8c.html#ada78f2615db2775bb7ccd042e6df2774" target="_top" xlink:title="Simple wrapper. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="177,-418.5 177,-437.5 284,-437.5 284,-418.5 177,-418.5"/>
 <text text-anchor="middle" x="230.5" y="-425.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_socket_open</text>
 </a>
 </g>
 </g>
-<!-- Node26647&#45;&gt;Node26648 -->
+<!-- Node24938&#45;&gt;Node24939 -->
 <g id="edge1" class="edge">
-<title>Node26647&#45;&gt;Node26648</title>
+<title>Node24938&#45;&gt;Node24939</title>
 <path fill="none" stroke="#191970" d="M67.0659,-228.5988C75.6293,-258.8374 106.0694,-353.1229 165,-404 169.7526,-408.1031 175.2665,-411.5286 181.0385,-414.3827"/>
 <polygon fill="#191970" stroke="#191970" points="179.6845,-417.6106 190.2489,-418.4126 182.4905,-411.1976 179.6845,-417.6106"/>
 </g>
-<!-- Node26741 -->
+<!-- Node25032 -->
 <g id="node3" class="node">
-<title>Node26741</title>
+<title>Node25032</title>
 <g id="a_node3"><a xlink:href="command_8c.html#a8b9d7c9333e35981d94074e9dcc28e6f" target="_top" xlink:title="Reads server responses from an IMAP command. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="438,-323.5 438,-342.5 532,-342.5 532,-323.5 438,-323.5"/>
 <text text-anchor="middle" x="485" y="-330.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">imap_cmd_step</text>
 </a>
 </g>
 </g>
-<!-- Node26647&#45;&gt;Node26741 -->
+<!-- Node24938&#45;&gt;Node25032 -->
 <g id="edge2" class="edge">
-<title>Node26647&#45;&gt;Node26741</title>
+<title>Node24938&#45;&gt;Node25032</title>
 <path fill="none" stroke="#191970" d="M67.2744,-228.5087C76.0574,-256.6284 106.2075,-339.3912 165,-371 261.4227,-422.8401 397.4049,-373.2276 456.1336,-346.9695"/>
 <polygon fill="#191970" stroke="#191970" points="457.8909,-350.0144 465.5279,-342.6709 454.9783,-343.6491 457.8909,-350.0144"/>
 </g>
-<!-- Node26732 -->
+<!-- Node25023 -->
 <g id="node4" class="node">
-<title>Node26732</title>
+<title>Node25023</title>
 <g id="a_node4"><a xlink:href="imap_8c.html#a14b36ce07a1b1b0fbe046f9e0e192119" target="_top" xlink:title="Close an IMAP connection. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="165,-342.5 165,-361.5 296,-361.5 296,-342.5 165,-342.5"/>
 <text text-anchor="middle" x="230.5" y="-349.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">imap_close_connection</text>
 </a>
 </g>
 </g>
-<!-- Node26647&#45;&gt;Node26732 -->
+<!-- Node24938&#45;&gt;Node25023 -->
 <g id="edge3" class="edge">
-<title>Node26647&#45;&gt;Node26732</title>
+<title>Node24938&#45;&gt;Node25023</title>
 <path fill="none" stroke="#191970" d="M70.2221,-228.5913C83.8022,-250.516 120.2174,-304.5924 165,-333 168.3354,-335.1158 171.9137,-337.0028 175.6151,-338.6847"/>
 <polygon fill="#191970" stroke="#191970" points="174.4168,-341.9751 185.0007,-342.4565 177.0271,-335.48 174.4168,-341.9751"/>
 </g>
-<!-- Node26746 -->
+<!-- Node25037 -->
 <g id="node5" class="node">
-<title>Node26746</title>
+<title>Node25037</title>
 <g id="a_node5"><a xlink:href="mutt_2string_8c.html#aebd2a8a3f8a30062c31fa1474d87cc41" target="_top" xlink:title="Check whether a string starts with a prefix, ignoring case. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="173,-304.5 173,-323.5 288,-323.5 288,-304.5 173,-304.5"/>
 <text text-anchor="middle" x="230.5" y="-311.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_istr_startswith</text>
 </a>
 </g>
 </g>
-<!-- Node26647&#45;&gt;Node26746 -->
+<!-- Node24938&#45;&gt;Node25037 -->
 <g id="edge4" class="edge">
-<title>Node26647&#45;&gt;Node26746</title>
+<title>Node24938&#45;&gt;Node25037</title>
 <path fill="none" stroke="#191970" d="M75.9104,-228.597C93.9005,-243.3612 130.3807,-271.8385 165,-290 172.7084,-294.0438 181.2515,-297.7088 189.553,-300.8889"/>
 <polygon fill="#191970" stroke="#191970" points="188.529,-304.2412 199.1227,-304.393 190.9359,-297.668 188.529,-304.2412"/>
 </g>
-<!-- Node28816 -->
+<!-- Node26939 -->
 <g id="node6" class="node">
-<title>Node28816</title>
+<title>Node26939</title>
 <g id="a_node6"><a xlink:href="imap_8c.html#aaecd74a7bdcaae43f8a404d59607bb0b" target="_top" xlink:title="Make sure we can log in to this server. ">
 <polygon fill="#ffffff" stroke="#000000" points="177,-228.5 177,-247.5 284,-247.5 284,-228.5 177,-228.5"/>
 <text text-anchor="middle" x="230.5" y="-235.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">check_capabilities</text>
 </a>
 </g>
 </g>
-<!-- Node26647&#45;&gt;Node28816 -->
+<!-- Node24938&#45;&gt;Node26939 -->
 <g id="edge5" class="edge">
-<title>Node26647&#45;&gt;Node28816</title>
+<title>Node24938&#45;&gt;Node26939</title>
 <path fill="none" stroke="#191970" d="M129.1553,-226.4003C141.4592,-227.8086 154.3294,-229.2817 166.6094,-230.6872"/>
 <polygon fill="#191970" stroke="#191970" points="166.4272,-234.1891 176.7604,-231.8491 167.2233,-227.2345 166.4272,-234.1891"/>
 </g>
-<!-- Node26738 -->
+<!-- Node25029 -->
 <g id="node7" class="node">
-<title>Node26738</title>
+<title>Node25029</title>
 <g id="a_node7"><a xlink:href="command_8c.html#adeef1f9ecc4cb80dbddee9264200d7bd" target="_top" xlink:title="Execute a command and wait for the response from the server. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="332,-266.5 332,-285.5 402,-285.5 402,-266.5 332,-266.5"/>
 <text text-anchor="middle" x="367" y="-273.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">imap_exec</text>
 </a>
 </g>
 </g>
-<!-- Node26647&#45;&gt;Node26738 -->
+<!-- Node24938&#45;&gt;Node25029 -->
 <g id="edge13" class="edge">
-<title>Node26647&#45;&gt;Node26738</title>
+<title>Node24938&#45;&gt;Node25029</title>
 <path fill="none" stroke="#191970" d="M84.7845,-228.5185C104.7347,-237.4326 136.2878,-250.3487 165,-257 217.988,-269.2749 280.5463,-273.6545 321.8512,-275.1975"/>
 <polygon fill="#191970" stroke="#191970" points="321.7647,-278.6965 331.8758,-275.5318 321.998,-271.7004 321.7647,-278.6965"/>
 </g>
-<!-- Node27082 -->
+<!-- Node25373 -->
 <g id="node8" class="node">
-<title>Node27082</title>
+<title>Node25373</title>
 <g id="a_node8"><a xlink:href="imap_2private_8h.html#aab316d8524d30a8813bab633aa9505e6" target="_top" xlink:title="show an error and abort ">
 <polygon fill="#ffffff" stroke="#000000" points="332,-209.5 332,-228.5 402,-228.5 402,-209.5 332,-209.5"/>
 <text text-anchor="middle" x="367" y="-216.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">imap_error</text>
 </a>
 </g>
 </g>
-<!-- Node26647&#45;&gt;Node27082 -->
+<!-- Node24938&#45;&gt;Node25373 -->
 <g id="edge16" class="edge">
-<title>Node26647&#45;&gt;Node27082</title>
+<title>Node24938&#45;&gt;Node25373</title>
 <path fill="none" stroke="#191970" d="M129.0228,-219C186.9759,-219 270.5864,-219 321.7197,-219"/>
 <polygon fill="#191970" stroke="#191970" points="321.8066,-222.5001 331.8065,-219 321.8065,-215.5001 321.8066,-222.5001"/>
 </g>
-<!-- Node26678 -->
+<!-- Node24969 -->
 <g id="node9" class="node">
-<title>Node26678</title>
+<title>Node24969</title>
 <g id="a_node9"><a xlink:href="helpers_8c.html#ae50f679dd6c5bd1ba820884c8602f038" target="_top" xlink:title="Get a boolean config item by name. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="185,-152.5 185,-171.5 276,-171.5 276,-152.5 185,-152.5"/>
 <text text-anchor="middle" x="230.5" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_subset_bool</text>
 </a>
 </g>
 </g>
-<!-- Node26647&#45;&gt;Node26678 -->
+<!-- Node24938&#45;&gt;Node24969 -->
 <g id="edge10" class="edge">
-<title>Node26647&#45;&gt;Node26678</title>
+<title>Node24938&#45;&gt;Node24969</title>
 <path fill="none" stroke="#191970" d="M92.2847,-209.4595C119.9349,-199.9651 162.5472,-185.3332 193.1462,-174.8263"/>
 <polygon fill="#191970" stroke="#191970" points="194.3034,-178.1296 202.6247,-171.5716 192.03,-171.509 194.3034,-178.1296"/>
 </g>
-<!-- Node27734 -->
+<!-- Node26033 -->
 <g id="node10" class="node">
-<title>Node27734</title>
+<title>Node26033</title>
 <g id="a_node10"><a xlink:href="helpers_8c.html#a9154ba713ce99b0937f475eec7c61af9" target="_top" xlink:title="Get a quad&#45;value config item by name. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="183.5,-114.5 183.5,-133.5 277.5,-133.5 277.5,-114.5 183.5,-114.5"/>
 <text text-anchor="middle" x="230.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_subset_quad</text>
 </a>
 </g>
 </g>
-<!-- Node26647&#45;&gt;Node27734 -->
+<!-- Node24938&#45;&gt;Node26033 -->
 <g id="edge11" class="edge">
-<title>Node26647&#45;&gt;Node27734</title>
+<title>Node24938&#45;&gt;Node26033</title>
 <path fill="none" stroke="#191970" d="M74.4984,-209.4097C91.6639,-193.4387 128.435,-161.3397 165,-143 169.5791,-140.7033 174.4813,-138.6402 179.4665,-136.7974"/>
 <polygon fill="#191970" stroke="#191970" points="180.7536,-140.0566 189.0928,-133.5214 178.4984,-133.4298 180.7536,-140.0566"/>
 </g>
-<!-- Node27735 -->
+<!-- Node26034 -->
 <g id="node11" class="node">
-<title>Node27735</title>
+<title>Node26034</title>
 <g id="a_node11"><a xlink:href="question_2lib_8h.html#ab02047769214ff014b9a8a1782babadc" target="_top" xlink:title="Ask the user a quad&#45;question. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="178.5,-76.5 178.5,-95.5 282.5,-95.5 282.5,-76.5 178.5,-76.5"/>
 <text text-anchor="middle" x="230.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">query_quadoption</text>
 </a>
 </g>
 </g>
-<!-- Node26647&#45;&gt;Node27735 -->
+<!-- Node24938&#45;&gt;Node26034 -->
 <g id="edge12" class="edge">
-<title>Node26647&#45;&gt;Node27735</title>
+<title>Node24938&#45;&gt;Node26034</title>
 <path fill="none" stroke="#191970" d="M70.2221,-209.4087C83.8022,-187.484 120.2174,-133.4076 165,-105 168.3354,-102.8842 171.9137,-100.9972 175.6151,-99.3153"/>
 <polygon fill="#191970" stroke="#191970" points="177.0271,-102.52 185.0007,-95.5435 174.4168,-96.0249 177.0271,-102.52"/>
 </g>
-<!-- Node27786 -->
+<!-- Node26085 -->
 <g id="node12" class="node">
-<title>Node27786</title>
+<title>Node26085</title>
 <g id="a_node12"><a xlink:href="socket_8c.html#a90c5b50a98f0f9a0b73b82e90c096aba" target="_top" xlink:title="Clear out any queued data. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="173.5,-38.5 173.5,-57.5 287.5,-57.5 287.5,-38.5 173.5,-38.5"/>
 <text text-anchor="middle" x="230.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_socket_empty</text>
 </a>
 </g>
 </g>
-<!-- Node26647&#45;&gt;Node27786 -->
+<!-- Node24938&#45;&gt;Node26085 -->
 <g id="edge14" class="edge">
-<title>Node26647&#45;&gt;Node27786</title>
+<title>Node24938&#45;&gt;Node26085</title>
 <path fill="none" stroke="#191970" d="M68.034,-209.474C78.4618,-182.7014 111.7491,-106.1912 165,-67 167.6224,-65.07 170.4373,-63.3354 173.3729,-61.7764"/>
 <polygon fill="#191970" stroke="#191970" points="174.8381,-64.955 182.4708,-57.607 171.9218,-58.5915 174.8381,-64.955"/>
 </g>
-<!-- Node27788 -->
+<!-- Node26087 -->
 <g id="node13" class="node">
-<title>Node27788</title>
+<title>Node26087</title>
 <g id="a_node13"><a xlink:href="gnutls_8c.html#a23591e82bf992ceb5e62c459fd787b8a" target="_top" xlink:title="Negotiate TLS over an already opened connection. ">
 <polygon fill="#ffffff" stroke="#000000" points="181.5,-.5 181.5,-19.5 279.5,-19.5 279.5,-.5 181.5,-.5"/>
 <text text-anchor="middle" x="230.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_ssl_starttls</text>
 </a>
 </g>
 </g>
-<!-- Node26647&#45;&gt;Node27788 -->
+<!-- Node24938&#45;&gt;Node26087 -->
 <g id="edge15" class="edge">
-<title>Node26647&#45;&gt;Node27788</title>
+<title>Node24938&#45;&gt;Node26087</title>
 <path fill="none" stroke="#191970" d="M66.727,-209.4069C74.451,-178.3137 103.071,-79.4178 165,-29 167.2812,-27.1428 169.7365,-25.4672 172.3106,-23.9553"/>
 <polygon fill="#191970" stroke="#191970" points="174.0413,-27.0037 181.4401,-19.4203 170.9271,-20.7346 174.0413,-27.0037"/>
 </g>
-<!-- Node28816&#45;&gt;Node26738 -->
+<!-- Node26939&#45;&gt;Node25029 -->
 <g id="edge6" class="edge">
-<title>Node28816&#45;&gt;Node26738</title>
+<title>Node26939&#45;&gt;Node25029</title>
 <path fill="none" stroke="#191970" d="M264.9447,-247.589C282.4847,-252.4719 304.01,-258.4643 322.7631,-263.685"/>
 <polygon fill="#191970" stroke="#191970" points="321.994,-267.1039 332.5663,-266.4141 323.8713,-260.3603 321.994,-267.1039"/>
 </g>
-<!-- Node28816&#45;&gt;Node27082 -->
+<!-- Node26939&#45;&gt;Node25373 -->
 <g id="edge9" class="edge">
-<title>Node28816&#45;&gt;Node27082</title>
+<title>Node26939&#45;&gt;Node25373</title>
 <path fill="none" stroke="#191970" d="M284.0566,-230.5452C296.419,-228.8245 309.4565,-227.0097 321.4408,-225.3416"/>
 <polygon fill="#191970" stroke="#191970" points="322.2359,-228.7647 331.6578,-223.9194 321.2708,-221.8316 322.2359,-228.7647"/>
 </g>
-<!-- Node26738&#45;&gt;Node26741 -->
+<!-- Node25029&#45;&gt;Node25032 -->
 <g id="edge8" class="edge">
-<title>Node26738&#45;&gt;Node26741</title>
+<title>Node25029&#45;&gt;Node25032</title>
 <path fill="none" stroke="#191970" d="M386.7505,-285.5405C405.7248,-294.7061 434.6109,-308.6595 456.1575,-319.0676"/>
 <polygon fill="#191970" stroke="#191970" points="454.6581,-322.2302 465.185,-323.4284 457.7029,-315.9271 454.6581,-322.2302"/>
 </g>
-<!-- Node26738&#45;&gt;Node26738 -->
+<!-- Node25029&#45;&gt;Node25029 -->
 <g id="edge7" class="edge">
-<title>Node26738&#45;&gt;Node26738</title>
+<title>Node25029&#45;&gt;Node25029</title>
 <path fill="none" stroke="#191970" d="M348.8128,-285.7571C339.9649,-294.5653 346.0273,-304 367,-304 380.4356,-304 387.752,-300.128 388.9493,-295.0292"/>
 <polygon fill="#191970" stroke="#191970" points="392.1902,-293.7074 385.1872,-285.7571 385.7038,-296.3393 392.1902,-293.7074"/>
 </g>

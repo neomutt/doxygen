@@ -13,7 +13,7 @@ var browser_8c =
     [ "browser_compare", "browser_8c.html#a42c31e21eb059726b468814248ddf7cd", null ],
     [ "browser_sort", "browser_8c.html#a817b5b600b59e87c2fc7d559077b26ed", null ],
     [ "link_is_dir", "browser_8c.html#a14cf9d1783b7b5e2139bb0dbeea2f57d", null ],
-    [ "folder_format_str", "browser_8c.html#a521fce142a7a9c2761988fcfebeceac0", null ],
+    [ "folder_format_str", "group__expando__api.html#ga521fce142a7a9c2761988fcfebeceac0", null ],
     [ "add_folder", "browser_8c.html#ae17c4833a1b46b230e95538991338d1d", null ],
     [ "init_state", "browser_8c.html#a40a157ecde1135a2ddde0a85c0e07150", null ],
     [ "examine_directory", "browser_8c.html#a375816ec72ad018ad8ee41f048a65756", null ],

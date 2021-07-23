@@ -9,39 +9,39 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 62)">
 <title>log_file_close</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-62 218,-62 218,4 -4,4"/>
-<!-- Node624 -->
+<!-- Node27 -->
 <g id="node1" class="node">
-<title>Node624</title>
+<title>Node27</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-19.5 0,-38.5 83,-38.5 83,-19.5 0,-19.5"/>
 <text text-anchor="middle" x="41.5" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">log_file_close</text>
 </g>
-<!-- Node625 -->
+<!-- Node28 -->
 <g id="node2" class="node">
-<title>Node625</title>
+<title>Node28</title>
 <g id="a_node2"><a xlink:href="logging_8c.html#af9938fdef10f182d183be56a773e6ae4" target="_top" xlink:title="Create a YYYY&#45;MM&#45;DD HH:MM:SS timestamp. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="131.5,-38.5 131.5,-57.5 201.5,-57.5 201.5,-38.5 131.5,-38.5"/>
 <text text-anchor="middle" x="166.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">timestamp</text>
 </a>
 </g>
 </g>
-<!-- Node624&#45;&gt;Node625 -->
+<!-- Node27&#45;&gt;Node28 -->
 <g id="edge1" class="edge">
-<title>Node624&#45;&gt;Node625</title>
+<title>Node27&#45;&gt;Node28</title>
 <path fill="none" stroke="#191970" d="M83.1232,-35.3267C95.3299,-37.1821 108.7369,-39.22 121.1628,-41.1087"/>
 <polygon fill="#191970" stroke="#191970" points="120.9094,-44.6104 131.3219,-42.6529 121.9614,-37.6898 120.9094,-44.6104"/>
 </g>
-<!-- Node630 -->
+<!-- Node33 -->
 <g id="node3" class="node">
-<title>Node630</title>
+<title>Node33</title>
 <g id="a_node3"><a xlink:href="file_8c.html#a31f49795ff5b9558db5476e5777e63b6" target="_top" xlink:title="Close a FILE handle (and NULL the pointer) ">
 <polygon fill="#ffffff" stroke="#000000" points="119,-.5 119,-19.5 214,-19.5 214,-.5 119,-.5"/>
 <text text-anchor="middle" x="166.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_file_fclose</text>
 </a>
 </g>
 </g>
-<!-- Node624&#45;&gt;Node630 -->
+<!-- Node27&#45;&gt;Node33 -->
 <g id="edge2" class="edge">
-<title>Node624&#45;&gt;Node630</title>
+<title>Node27&#45;&gt;Node33</title>
 <path fill="none" stroke="#191970" d="M83.1232,-22.6733C91.2906,-21.4318 99.9953,-20.1087 108.584,-18.8032"/>
 <polygon fill="#191970" stroke="#191970" points="109.2134,-22.2478 118.5739,-17.2848 108.1615,-15.3273 109.2134,-22.2478"/>
 </g>

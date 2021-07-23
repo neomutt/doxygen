@@ -9,66 +9,66 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 75.5541)">
 <title>mx_alloc_memory</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-75.5541 356,-75.5541 356,4 -4,4"/>
-<!-- Node18010 -->
+<!-- Node17585 -->
 <g id="node1" class="node">
-<title>Node18010</title>
+<title>Node17585</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-38.5 0,-57.5 107,-57.5 107,-38.5 0,-38.5"/>
 <text text-anchor="middle" x="53.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mx_alloc_memory</text>
 </g>
-<!-- Node18011 -->
+<!-- Node17586 -->
 <g id="node2" class="node">
-<title>Node18011</title>
+<title>Node17586</title>
 <g id="a_node2"><a xlink:href="main_8c.html#a65be75bf998d2462599b7d391676554c" target="_top" xlink:title="Leave NeoMutt NOW. ">
 <polygon fill="#ffffff" stroke="#000000" points="288,-38.5 288,-57.5 352,-57.5 352,-38.5 288,-38.5"/>
 <text text-anchor="middle" x="320" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_exit</text>
 </a>
 </g>
 </g>
-<!-- Node18010&#45;&gt;Node18011 -->
+<!-- Node17585&#45;&gt;Node17586 -->
 <g id="edge1" class="edge">
-<title>Node18010&#45;&gt;Node18011</title>
+<title>Node17585&#45;&gt;Node17586</title>
 <path fill="none" stroke="#191970" d="M89.802,-57.5089C105.9641,-61.2737 125.3066,-65.1426 143,-67 191.1797,-72.0577 204.0044,-73.5793 252,-67 262.0948,-65.6162 272.8035,-63.1278 282.663,-60.398"/>
 <polygon fill="#191970" stroke="#191970" points="283.9528,-63.6676 292.569,-57.5022 281.9886,-56.9488 283.9528,-63.6676"/>
 </g>
-<!-- Node18012 -->
+<!-- Node17587 -->
 <g id="node3" class="node">
-<title>Node18012</title>
+<title>Node17587</title>
 <g id="a_node3"><a xlink:href="memory_8c.html#af778eb8166966fc0666c64849f6c7c5b" target="_top" xlink:title="Resize a block of memory on the heap. ">
 <polygon fill="#ffffff" stroke="#000000" points="143,-38.5 143,-57.5 252,-57.5 252,-38.5 143,-38.5"/>
 <text text-anchor="middle" x="197.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_mem_realloc</text>
 </a>
 </g>
 </g>
-<!-- Node18010&#45;&gt;Node18012 -->
+<!-- Node17585&#45;&gt;Node17587 -->
 <g id="edge2" class="edge">
-<title>Node18010&#45;&gt;Node18012</title>
+<title>Node17585&#45;&gt;Node17587</title>
 <path fill="none" stroke="#191970" d="M107.1203,-48C115.5114,-48 124.2595,-48 132.8658,-48"/>
 <polygon fill="#191970" stroke="#191970" points="132.8737,-51.5001 142.8737,-48 132.8737,-44.5001 132.8737,-51.5001"/>
 </g>
-<!-- Node18013 -->
+<!-- Node17588 -->
 <g id="node4" class="node">
-<title>Node18013</title>
+<title>Node17588</title>
 <g id="a_node4"><a xlink:href="memory_8c.html#a4c1612d209c7825d55e6a014df352f03" target="_top" xlink:title="Allocate zeroed memory on the heap. ">
 <polygon fill="#ffffff" stroke="#000000" points="145.5,-.5 145.5,-19.5 249.5,-19.5 249.5,-.5 145.5,-.5"/>
 <text text-anchor="middle" x="197.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_mem_calloc</text>
 </a>
 </g>
 </g>
-<!-- Node18010&#45;&gt;Node18013 -->
+<!-- Node17585&#45;&gt;Node17588 -->
 <g id="edge4" class="edge">
-<title>Node18010&#45;&gt;Node18013</title>
+<title>Node17585&#45;&gt;Node17588</title>
 <path fill="none" stroke="#191970" d="M89.8373,-38.411C108.5829,-33.4642 131.6432,-27.3789 151.6066,-22.1108"/>
 <polygon fill="#191970" stroke="#191970" points="152.6481,-25.4558 161.424,-19.5201 150.8619,-18.6875 152.6481,-25.4558"/>
 </g>
-<!-- Node18012&#45;&gt;Node18011 -->
+<!-- Node17587&#45;&gt;Node17586 -->
 <g id="edge3" class="edge">
-<title>Node18012&#45;&gt;Node18011</title>
+<title>Node17587&#45;&gt;Node17586</title>
 <path fill="none" stroke="#191970" d="M252.3007,-48C260.8111,-48 269.4894,-48 277.6687,-48"/>
 <polygon fill="#191970" stroke="#191970" points="277.712,-51.5001 287.7119,-48 277.7119,-44.5001 277.712,-51.5001"/>
 </g>
-<!-- Node18013&#45;&gt;Node18011 -->
+<!-- Node17588&#45;&gt;Node17586 -->
 <g id="edge5" class="edge">
-<title>Node18013&#45;&gt;Node18011</title>
+<title>Node17588&#45;&gt;Node17586</title>
 <path fill="none" stroke="#191970" d="M228.4119,-19.589C243.7903,-24.3594 262.5822,-30.1888 279.133,-35.3229"/>
 <polygon fill="#191970" stroke="#191970" points="278.5099,-38.7941 289.098,-38.4141 280.5839,-32.1084 278.5099,-38.7941"/>
 </g>

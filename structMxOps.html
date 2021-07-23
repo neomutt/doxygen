@@ -32,7 +32,7 @@
   <td id="projectalign" style="padding-left: 0.5em;">
    <a style="color: black; text-decoration: none;" href="https://neomutt.org">
    <div id="projectname">NeoMutt
-   &#160;<span id="projectnumber">2021-02-05-584-gb5c7a7</span>
+   &#160;<span id="projectnumber">2021-02-05-647-g5d4e00</span>
    </div>
    <div id="projectbrief">Teaching an old dog new tricks</div>
    </a>
@@ -94,9 +94,6 @@ $(document).ready(function(){initNavTree('structMxOps.html','');});
 </div><!--header-->
 <div class="contents">
 
-<p>The <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> API.  
- <a href="structMxOps.html#details">More...</a></p>
-
 <p><code>#include &quot;<a class="el" href="mxapi_8h_source.html">mxapi.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
@@ -111,74 +108,51 @@ Data Fields</h2></td></tr>
 <tr class="memdesc:a15a6d1b3b3a214b6e23a36e4b82e1353"><td class="mdescLeft">&#160;</td><td class="mdescRight">True, if <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> type has local files/dirs.  <a href="#a15a6d1b3b3a214b6e23a36e4b82e1353">More...</a><br /></td></tr>
 <tr class="separator:a15a6d1b3b3a214b6e23a36e4b82e1353"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8036f191d1b0ace220c5a5ff52f609b4"><td class="memItemLeft" align="right" valign="top">bool(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structMxOps.html#a8036f191d1b0ace220c5a5ff52f609b4">ac_owns_path</a> )(struct <a class="el" href="structAccount.html">Account</a> *a, const char *path)</td></tr>
-<tr class="memdesc:a8036f191d1b0ace220c5a5ff52f609b4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Check whether an <a class="el" href="structAccount.html" title="A group of associated Mailboxes. ">Account</a> owns a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> path.  <a href="#a8036f191d1b0ace220c5a5ff52f609b4">More...</a><br /></td></tr>
 <tr class="separator:a8036f191d1b0ace220c5a5ff52f609b4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac432a4900b0ca5a5ca2dc98319dbf737"><td class="memItemLeft" align="right" valign="top">bool(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structMxOps.html#ac432a4900b0ca5a5ca2dc98319dbf737">ac_add</a> )(struct <a class="el" href="structAccount.html">Account</a> *a, struct <a class="el" href="structMailbox.html">Mailbox</a> *m)</td></tr>
-<tr class="memdesc:ac432a4900b0ca5a5ca2dc98319dbf737"><td class="mdescLeft">&#160;</td><td class="mdescRight">Add a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> to an <a class="el" href="structAccount.html" title="A group of associated Mailboxes. ">Account</a>.  <a href="#ac432a4900b0ca5a5ca2dc98319dbf737">More...</a><br /></td></tr>
 <tr class="separator:ac432a4900b0ca5a5ca2dc98319dbf737"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac504b1095f3ce15cae85466ab6c7bd45"><td class="memItemLeft" align="right" valign="top">enum <a class="el" href="mxapi_8h.html#a95aa6f9d458f82609e795a7f449f4cad">MxOpenReturns</a>(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structMxOps.html#ac504b1095f3ce15cae85466ab6c7bd45">mbox_open</a> )(struct <a class="el" href="structMailbox.html">Mailbox</a> *m)</td></tr>
-<tr class="memdesc:ac504b1095f3ce15cae85466ab6c7bd45"><td class="mdescLeft">&#160;</td><td class="mdescRight">Open a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a>.  <a href="#ac504b1095f3ce15cae85466ab6c7bd45">More...</a><br /></td></tr>
 <tr class="separator:ac504b1095f3ce15cae85466ab6c7bd45"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af201c2c2f87a1253cbaf8ae24f062ef3"><td class="memItemLeft" align="right" valign="top">bool(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structMxOps.html#af201c2c2f87a1253cbaf8ae24f062ef3">mbox_open_append</a> )(struct <a class="el" href="structMailbox.html">Mailbox</a> *m, <a class="el" href="mxapi_8h.html#a12d50555671e01ef64b027974fc5acfa">OpenMailboxFlags</a> flags)</td></tr>
-<tr class="memdesc:af201c2c2f87a1253cbaf8ae24f062ef3"><td class="mdescLeft">&#160;</td><td class="mdescRight">Open a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> for appending.  <a href="#af201c2c2f87a1253cbaf8ae24f062ef3">More...</a><br /></td></tr>
 <tr class="separator:af201c2c2f87a1253cbaf8ae24f062ef3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af72b7c6ef064d1ca86b71ac9aff3e875"><td class="memItemLeft" align="right" valign="top">enum <a class="el" href="mxapi_8h.html#af414aea967025ea4ba10b86268488432">MxStatus</a>(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structMxOps.html#af72b7c6ef064d1ca86b71ac9aff3e875">mbox_check</a> )(struct <a class="el" href="structMailbox.html">Mailbox</a> *m)</td></tr>
-<tr class="memdesc:af72b7c6ef064d1ca86b71ac9aff3e875"><td class="mdescLeft">&#160;</td><td class="mdescRight">Check for new mail.  <a href="#af72b7c6ef064d1ca86b71ac9aff3e875">More...</a><br /></td></tr>
 <tr class="separator:af72b7c6ef064d1ca86b71ac9aff3e875"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af807cc5fe2889a304182e99ec91f7e0c"><td class="memItemLeft" align="right" valign="top">enum <a class="el" href="mxapi_8h.html#af414aea967025ea4ba10b86268488432">MxStatus</a>(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structMxOps.html#af807cc5fe2889a304182e99ec91f7e0c">mbox_check_stats</a> )(struct <a class="el" href="structMailbox.html">Mailbox</a> *m, uint8_t flags)</td></tr>
-<tr class="memdesc:af807cc5fe2889a304182e99ec91f7e0c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Check the <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> statistics.  <a href="#af807cc5fe2889a304182e99ec91f7e0c">More...</a><br /></td></tr>
 <tr class="separator:af807cc5fe2889a304182e99ec91f7e0c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aebbfeec5651637ec053cc47b95c124af"><td class="memItemLeft" align="right" valign="top">enum <a class="el" href="mxapi_8h.html#af414aea967025ea4ba10b86268488432">MxStatus</a>(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structMxOps.html#aebbfeec5651637ec053cc47b95c124af">mbox_sync</a> )(struct <a class="el" href="structMailbox.html">Mailbox</a> *m)</td></tr>
-<tr class="memdesc:aebbfeec5651637ec053cc47b95c124af"><td class="mdescLeft">&#160;</td><td class="mdescRight">Save changes to the <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a>.  <a href="#aebbfeec5651637ec053cc47b95c124af">More...</a><br /></td></tr>
 <tr class="separator:aebbfeec5651637ec053cc47b95c124af"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae97b81d5371def5f6f2e64544cdec5fc"><td class="memItemLeft" align="right" valign="top">enum <a class="el" href="mxapi_8h.html#af414aea967025ea4ba10b86268488432">MxStatus</a>(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structMxOps.html#ae97b81d5371def5f6f2e64544cdec5fc">mbox_close</a> )(struct <a class="el" href="structMailbox.html">Mailbox</a> *m)</td></tr>
-<tr class="memdesc:ae97b81d5371def5f6f2e64544cdec5fc"><td class="mdescLeft">&#160;</td><td class="mdescRight">Close a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a>.  <a href="#ae97b81d5371def5f6f2e64544cdec5fc">More...</a><br /></td></tr>
 <tr class="separator:ae97b81d5371def5f6f2e64544cdec5fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afae8d734bf2f05baf8b45eb69f23a2a8"><td class="memItemLeft" align="right" valign="top">bool(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structMxOps.html#afae8d734bf2f05baf8b45eb69f23a2a8">msg_open</a> )(struct <a class="el" href="structMailbox.html">Mailbox</a> *m, struct <a class="el" href="structMessage.html">Message</a> *msg, int msgno)</td></tr>
-<tr class="memdesc:afae8d734bf2f05baf8b45eb69f23a2a8"><td class="mdescLeft">&#160;</td><td class="mdescRight">Open an email message in a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a>.  <a href="#afae8d734bf2f05baf8b45eb69f23a2a8">More...</a><br /></td></tr>
 <tr class="separator:afae8d734bf2f05baf8b45eb69f23a2a8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ada910d49b8f3d007c32aa8a4adc15637"><td class="memItemLeft" align="right" valign="top">bool(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structMxOps.html#ada910d49b8f3d007c32aa8a4adc15637">msg_open_new</a> )(struct <a class="el" href="structMailbox.html">Mailbox</a> *m, struct <a class="el" href="structMessage.html">Message</a> *msg, const struct <a class="el" href="structEmail.html">Email</a> *e)</td></tr>
-<tr class="memdesc:ada910d49b8f3d007c32aa8a4adc15637"><td class="mdescLeft">&#160;</td><td class="mdescRight">Open a new message in a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a>.  <a href="#ada910d49b8f3d007c32aa8a4adc15637">More...</a><br /></td></tr>
 <tr class="separator:ada910d49b8f3d007c32aa8a4adc15637"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab59dadf81aec5575a1c690caa4822e37"><td class="memItemLeft" align="right" valign="top">int(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structMxOps.html#ab59dadf81aec5575a1c690caa4822e37">msg_commit</a> )(struct <a class="el" href="structMailbox.html">Mailbox</a> *m, struct <a class="el" href="structMessage.html">Message</a> *msg)</td></tr>
-<tr class="memdesc:ab59dadf81aec5575a1c690caa4822e37"><td class="mdescLeft">&#160;</td><td class="mdescRight">Save changes to an email.  <a href="#ab59dadf81aec5575a1c690caa4822e37">More...</a><br /></td></tr>
 <tr class="separator:ab59dadf81aec5575a1c690caa4822e37"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad53e3df1ff124eea52bc0488915e9ae4"><td class="memItemLeft" align="right" valign="top">int(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structMxOps.html#ad53e3df1ff124eea52bc0488915e9ae4">msg_close</a> )(struct <a class="el" href="structMailbox.html">Mailbox</a> *m, struct <a class="el" href="structMessage.html">Message</a> *msg)</td></tr>
-<tr class="memdesc:ad53e3df1ff124eea52bc0488915e9ae4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Close an email.  <a href="#ad53e3df1ff124eea52bc0488915e9ae4">More...</a><br /></td></tr>
 <tr class="separator:ad53e3df1ff124eea52bc0488915e9ae4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a784ae2e2b98208080a641974ce4df834"><td class="memItemLeft" align="right" valign="top">int(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structMxOps.html#a784ae2e2b98208080a641974ce4df834">msg_padding_size</a> )(struct <a class="el" href="structMailbox.html">Mailbox</a> *m)</td></tr>
-<tr class="memdesc:a784ae2e2b98208080a641974ce4df834"><td class="mdescLeft">&#160;</td><td class="mdescRight">Bytes of padding between messages.  <a href="#a784ae2e2b98208080a641974ce4df834">More...</a><br /></td></tr>
 <tr class="separator:a784ae2e2b98208080a641974ce4df834"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4c0ce9432905dfb3f6849c97ae504f84"><td class="memItemLeft" align="right" valign="top">int(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structMxOps.html#a4c0ce9432905dfb3f6849c97ae504f84">msg_save_hcache</a> )(struct <a class="el" href="structMailbox.html">Mailbox</a> *m, struct <a class="el" href="structEmail.html">Email</a> *e)</td></tr>
-<tr class="memdesc:a4c0ce9432905dfb3f6849c97ae504f84"><td class="mdescLeft">&#160;</td><td class="mdescRight">Save message to the header cache.  <a href="#a4c0ce9432905dfb3f6849c97ae504f84">More...</a><br /></td></tr>
 <tr class="separator:a4c0ce9432905dfb3f6849c97ae504f84"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0e3f825e2d93106795c85d5df78874ea"><td class="memItemLeft" align="right" valign="top">int(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structMxOps.html#a0e3f825e2d93106795c85d5df78874ea">tags_edit</a> )(struct <a class="el" href="structMailbox.html">Mailbox</a> *m, const char *tags, char *buf, size_t buflen)</td></tr>
-<tr class="memdesc:a0e3f825e2d93106795c85d5df78874ea"><td class="mdescLeft">&#160;</td><td class="mdescRight">Prompt and validate new messages tags.  <a href="#a0e3f825e2d93106795c85d5df78874ea">More...</a><br /></td></tr>
 <tr class="separator:a0e3f825e2d93106795c85d5df78874ea"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9e996b21c0a4d701020aa632ecc5ae82"><td class="memItemLeft" align="right" valign="top">int(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structMxOps.html#a9e996b21c0a4d701020aa632ecc5ae82">tags_commit</a> )(struct <a class="el" href="structMailbox.html">Mailbox</a> *m, struct <a class="el" href="structEmail.html">Email</a> *e, char *buf)</td></tr>
-<tr class="memdesc:a9e996b21c0a4d701020aa632ecc5ae82"><td class="mdescLeft">&#160;</td><td class="mdescRight">Save the tags to a message.  <a href="#a9e996b21c0a4d701020aa632ecc5ae82">More...</a><br /></td></tr>
 <tr class="separator:a9e996b21c0a4d701020aa632ecc5ae82"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a625a6ea0abfdb6620542e26acc499177"><td class="memItemLeft" align="right" valign="top">enum <a class="el" href="mailbox_8h.html#af65addf714c28dd5d483cb426100921d">MailboxType</a>(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structMxOps.html#a625a6ea0abfdb6620542e26acc499177">path_probe</a> )(const char *path, const struct stat *st)</td></tr>
-<tr class="memdesc:a625a6ea0abfdb6620542e26acc499177"><td class="mdescLeft">&#160;</td><td class="mdescRight">Does this <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> type recognise this path?  <a href="#a625a6ea0abfdb6620542e26acc499177">More...</a><br /></td></tr>
 <tr class="separator:a625a6ea0abfdb6620542e26acc499177"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad7d938f02ba15c08d45128bc2ca00e28"><td class="memItemLeft" align="right" valign="top">int(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structMxOps.html#ad7d938f02ba15c08d45128bc2ca00e28">path_canon</a> )(char *buf, size_t buflen)</td></tr>
-<tr class="memdesc:ad7d938f02ba15c08d45128bc2ca00e28"><td class="mdescLeft">&#160;</td><td class="mdescRight">Canonicalise a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> path.  <a href="#ad7d938f02ba15c08d45128bc2ca00e28">More...</a><br /></td></tr>
 <tr class="separator:ad7d938f02ba15c08d45128bc2ca00e28"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3a85067a3d76652ec0014ce520c565db"><td class="memItemLeft" align="right" valign="top">int(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structMxOps.html#a3a85067a3d76652ec0014ce520c565db">path_pretty</a> )(char *buf, size_t buflen, const char *folder)</td></tr>
-<tr class="memdesc:a3a85067a3d76652ec0014ce520c565db"><td class="mdescLeft">&#160;</td><td class="mdescRight">Abbreviate a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> path.  <a href="#a3a85067a3d76652ec0014ce520c565db">More...</a><br /></td></tr>
 <tr class="separator:a3a85067a3d76652ec0014ce520c565db"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0816dd26eb79c12783e9ac9e7b67ecd9"><td class="memItemLeft" align="right" valign="top">int(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structMxOps.html#a0816dd26eb79c12783e9ac9e7b67ecd9">path_parent</a> )(char *buf, size_t buflen)</td></tr>
-<tr class="memdesc:a0816dd26eb79c12783e9ac9e7b67ecd9"><td class="mdescLeft">&#160;</td><td class="mdescRight">Find the parent of a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> path.  <a href="#a0816dd26eb79c12783e9ac9e7b67ecd9">More...</a><br /></td></tr>
 <tr class="separator:a0816dd26eb79c12783e9ac9e7b67ecd9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6ef058630b8418ae080d17762c26a75d"><td class="memItemLeft" align="right" valign="top">int(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structMxOps.html#a6ef058630b8418ae080d17762c26a75d">path_is_empty</a> )(const char *path)</td></tr>
-<tr class="memdesc:a6ef058630b8418ae080d17762c26a75d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Is the <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> empty?  <a href="#a6ef058630b8418ae080d17762c26a75d">More...</a><br /></td></tr>
 <tr class="separator:a6ef058630b8418ae080d17762c26a75d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p>The <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> API. </p>
-<p>Each backend provides a set of functions through which the <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a>, messages, tags and paths are manipulated. </p>
-
-<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00101">101</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
+<div class="textblock">
+<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00103">103</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
 </div><h2 class="groupheader">Field Documentation</h2>
 <a id="a7426508d3737f8021c01df861f58a997"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a7426508d3737f8021c01df861f58a997">&#9670;&nbsp;</a></span>type</h2>
@@ -194,7 +168,7 @@ Data Fields</h2></td></tr>
 
 <p><a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> type, e.g. <a class="el" href="mailbox_8h.html#af65addf714c28dd5d483cb426100921da7f541a03089370b1a260e344f8d1809b" title="&#39;IMAP&#39; Mailbox type ">MUTT_IMAP</a>. </p>
 
-<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00103">103</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00105">105</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
 
 </div>
 </div>
@@ -212,7 +186,7 @@ Data Fields</h2></td></tr>
 
 <p><a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> name, e.g. "imap". </p>
 
-<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00104">104</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00106">106</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
 
 </div>
 </div>
@@ -230,7 +204,7 @@ Data Fields</h2></td></tr>
 
 <p>True, if <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> type has local files/dirs. </p>
 
-<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00105">105</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00107">107</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
 
 </div>
 </div>
@@ -246,27 +220,7 @@ Data Fields</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Check whether an <a class="el" href="structAccount.html" title="A group of associated Mailboxes. ">Account</a> owns a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> path. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">a</td><td><a class="el" href="structAccount.html" title="A group of associated Mailboxes. ">Account</a> </td></tr>
-    <tr><td class="paramname">path</td><td><a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> Path </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="retval"><dt>Return values</dt><dd>
-  <table class="retval">
-    <tr><td class="paramname">true</td><td><a class="el" href="structAccount.html" title="A group of associated Mailboxes. ">Account</a> handles path </td></tr>
-    <tr><td class="paramname">false</td><td><a class="el" href="structAccount.html" title="A group of associated Mailboxes. ">Account</a> does not handle path</td></tr>
-  </table>
-  </dd>
-</dl>
-<p><b>Contract</b></p><ul>
-<li><em>a</em> is not NULL</li>
-<li><em>path</em> is not NULL </li>
-</ul>
-
-<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00118">118</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00123">123</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
 
 </div>
 </div>
@@ -282,27 +236,7 @@ Data Fields</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Add a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> to an <a class="el" href="structAccount.html" title="A group of associated Mailboxes. ">Account</a>. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">a</td><td><a class="el" href="structAccount.html" title="A group of associated Mailboxes. ">Account</a> to add to </td></tr>
-    <tr><td class="paramname">m</td><td><a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> to add </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="retval"><dt>Return values</dt><dd>
-  <table class="retval">
-    <tr><td class="paramname">true</td><td>Success </td></tr>
-    <tr><td class="paramname">false</td><td>Error</td></tr>
-  </table>
-  </dd>
-</dl>
-<p><b>Contract</b></p><ul>
-<li><em>a</em> is not NULL</li>
-<li><em>m</em> is not NULL </li>
-</ul>
-
-<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00131">131</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00139">139</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
 
 </div>
 </div>
@@ -318,24 +252,7 @@ Data Fields</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Open a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a>. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">m</td><td><a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> to open </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="retval"><dt>Return values</dt><dd>
-  <table class="retval">
-    <tr><td class="paramname">enum</td><td><a class="el" href="mxapi_8h.html#a95aa6f9d458f82609e795a7f449f4cad" title="Return values for mbox_open() ">MxOpenReturns</a></td></tr>
-  </table>
-  </dd>
-</dl>
-<p><b>Contract</b></p><ul>
-<li><em>m</em> is not NULL </li>
-</ul>
-
-<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00141">141</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00152">152</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
 
 </div>
 </div>
@@ -351,26 +268,7 @@ Data Fields</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Open a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> for appending. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">m</td><td><a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> to open </td></tr>
-    <tr><td class="paramname">flags</td><td>Flags, see <a class="el" href="mxapi_8h.html#a12d50555671e01ef64b027974fc5acfa" title="Flags for mutt_open_mailbox(), e.g. MUTT_NOSORT. ">OpenMailboxFlags</a> </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="retval"><dt>Return values</dt><dd>
-  <table class="retval">
-    <tr><td class="paramname">true</td><td>Success </td></tr>
-    <tr><td class="paramname">false</td><td>Failure</td></tr>
-  </table>
-  </dd>
-</dl>
-<p><b>Contract</b></p><ul>
-<li><em>m</em> is not NULL </li>
-</ul>
-
-<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00153">153</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00167">167</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
 
 </div>
 </div>
@@ -386,24 +284,7 @@ Data Fields</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Check for new mail. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">m</td><td><a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="retval"><dt>Return values</dt><dd>
-  <table class="retval">
-    <tr><td class="paramname">enum</td><td><a class="el" href="mxapi_8h.html#af414aea967025ea4ba10b86268488432" title="Return values from mbox_check(), mbox_check_stats(), mbox_snc(), and mbox_close() ...">MxStatus</a></td></tr>
-  </table>
-  </dd>
-</dl>
-<p><b>Contract</b></p><ul>
-<li><em>m</em> is not NULL </li>
-</ul>
-
-<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00163">163</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00180">180</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
 
 </div>
 </div>
@@ -419,25 +300,7 @@ Data Fields</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Check the <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> statistics. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">m</td><td><a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> to check </td></tr>
-    <tr><td class="paramname">flags</td><td>Function flags </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="retval"><dt>Return values</dt><dd>
-  <table class="retval">
-    <tr><td class="paramname">enum</td><td><a class="el" href="mxapi_8h.html#af414aea967025ea4ba10b86268488432" title="Return values from mbox_check(), mbox_check_stats(), mbox_snc(), and mbox_close() ...">MxStatus</a></td></tr>
-  </table>
-  </dd>
-</dl>
-<p><b>Contract</b></p><ul>
-<li><em>m</em> is not NULL </li>
-</ul>
-
-<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00174">174</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00194">194</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
 
 </div>
 </div>
@@ -453,24 +316,7 @@ Data Fields</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Save changes to the <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a>. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">m</td><td><a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> to sync </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="retval"><dt>Return values</dt><dd>
-  <table class="retval">
-    <tr><td class="paramname">enum</td><td><a class="el" href="mxapi_8h.html#af414aea967025ea4ba10b86268488432" title="Return values from mbox_check(), mbox_check_stats(), mbox_snc(), and mbox_close() ...">MxStatus</a></td></tr>
-  </table>
-  </dd>
-</dl>
-<p><b>Contract</b></p><ul>
-<li><em>m</em> is not NULL </li>
-</ul>
-
-<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00184">184</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00207">207</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
 
 </div>
 </div>
@@ -486,24 +332,7 @@ Data Fields</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Close a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a>. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">m</td><td><a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> to close </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="retval"><dt>Return values</dt><dd>
-  <table class="retval">
-    <tr><td class="paramname">enum</td><td><a class="el" href="mxapi_8h.html#af414aea967025ea4ba10b86268488432" title="Return values from mbox_check(), mbox_check_stats(), mbox_snc(), and mbox_close() ...">MxStatus</a></td></tr>
-  </table>
-  </dd>
-</dl>
-<p><b>Contract</b></p><ul>
-<li><em>m</em> is not NULL </li>
-</ul>
-
-<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00194">194</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00220">220</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
 
 </div>
 </div>
@@ -519,29 +348,7 @@ Data Fields</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Open an email message in a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a>. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">m</td><td><a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> </td></tr>
-    <tr><td class="paramname">msg</td><td><a class="el" href="structMessage.html" title="A local copy of an email. ">Message</a> to open </td></tr>
-    <tr><td class="paramname">msgno</td><td>Index of message to open </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="retval"><dt>Return values</dt><dd>
-  <table class="retval">
-    <tr><td class="paramname">true</td><td>Success </td></tr>
-    <tr><td class="paramname">false</td><td>Error</td></tr>
-  </table>
-  </dd>
-</dl>
-<p><b>Contract</b></p><ul>
-<li><em>m</em> is not NULL</li>
-<li><em>msg</em> is not NULL</li>
-<li>0 &lt;= <em>msgno</em> &lt; msg-&gt;msg_count </li>
-</ul>
-
-<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00209">209</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00238">238</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
 
 </div>
 </div>
@@ -557,28 +364,7 @@ Data Fields</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Open a new message in a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a>. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">m</td><td><a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> </td></tr>
-    <tr><td class="paramname">msg</td><td><a class="el" href="structMessage.html" title="A local copy of an email. ">Message</a> to open </td></tr>
-    <tr><td class="paramname">e</td><td><a class="el" href="structEmail.html" title="The envelope/body of an email. ">Email</a> </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="retval"><dt>Return values</dt><dd>
-  <table class="retval">
-    <tr><td class="paramname">true</td><td>Success </td></tr>
-    <tr><td class="paramname">false</td><td>Failure</td></tr>
-  </table>
-  </dd>
-</dl>
-<p><b>Contract</b></p><ul>
-<li><em>m</em> is not NULL</li>
-<li><em>msg</em> is not NULL </li>
-</ul>
-
-<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00223">223</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00255">255</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
 
 </div>
 </div>
@@ -594,27 +380,7 @@ Data Fields</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Save changes to an email. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">m</td><td><a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> </td></tr>
-    <tr><td class="paramname">msg</td><td><a class="el" href="structMessage.html" title="A local copy of an email. ">Message</a> to commit </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="retval"><dt>Return values</dt><dd>
-  <table class="retval">
-    <tr><td class="paramname">0</td><td>Success </td></tr>
-    <tr><td class="paramname">-1</td><td>Failure</td></tr>
-  </table>
-  </dd>
-</dl>
-<p><b>Contract</b></p><ul>
-<li><em>m</em> is not NULL</li>
-<li><em>msg</em> is not NULL </li>
-</ul>
-
-<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00236">236</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00271">271</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
 
 </div>
 </div>
@@ -630,27 +396,7 @@ Data Fields</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Close an email. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">m</td><td><a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> </td></tr>
-    <tr><td class="paramname">msg</td><td><a class="el" href="structMessage.html" title="A local copy of an email. ">Message</a> to close </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="retval"><dt>Return values</dt><dd>
-  <table class="retval">
-    <tr><td class="paramname">0</td><td>Success </td></tr>
-    <tr><td class="paramname">-1</td><td>Failure</td></tr>
-  </table>
-  </dd>
-</dl>
-<p><b>Contract</b></p><ul>
-<li><em>m</em> is not NULL</li>
-<li><em>msg</em> is not NULL </li>
-</ul>
-
-<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00249">249</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00287">287</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
 
 </div>
 </div>
@@ -666,24 +412,7 @@ Data Fields</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Bytes of padding between messages. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">m</td><td><a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="retval"><dt>Return values</dt><dd>
-  <table class="retval">
-    <tr><td class="paramname">num</td><td>Bytes of padding</td></tr>
-  </table>
-  </dd>
-</dl>
-<p><b>Contract</b></p><ul>
-<li><em>m</em> is not NULL </li>
-</ul>
-
-<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00259">259</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00300">300</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
 
 </div>
 </div>
@@ -699,27 +428,7 @@ Data Fields</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Save message to the header cache. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">m</td><td><a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> </td></tr>
-    <tr><td class="paramname">e</td><td><a class="el" href="structEmail.html" title="The envelope/body of an email. ">Email</a> </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="retval"><dt>Return values</dt><dd>
-  <table class="retval">
-    <tr><td class="paramname">0</td><td>Success </td></tr>
-    <tr><td class="paramname">-1</td><td>Failure</td></tr>
-  </table>
-  </dd>
-</dl>
-<p><b>Contract</b></p><ul>
-<li><em>m</em> is not NULL</li>
-<li><em>e</em> is not NULL </li>
-</ul>
-
-<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00272">272</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00316">316</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
 
 </div>
 </div>
@@ -735,30 +444,7 @@ Data Fields</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Prompt and validate new messages tags. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">m</td><td><a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> </td></tr>
-    <tr><td class="paramname">tags</td><td>Existing tags </td></tr>
-    <tr><td class="paramname">buf</td><td><a class="el" href="structBuffer.html" title="String manipulation buffer. ">Buffer</a> to store the tags </td></tr>
-    <tr><td class="paramname">buflen</td><td>Length of buffer </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="retval"><dt>Return values</dt><dd>
-  <table class="retval">
-    <tr><td class="paramname">-1</td><td>Error </td></tr>
-    <tr><td class="paramname">0</td><td>No valid user input </td></tr>
-    <tr><td class="paramname">1</td><td>Buf set</td></tr>
-  </table>
-  </dd>
-</dl>
-<p><b>Contract</b></p><ul>
-<li><em>m</em> is not NULL</li>
-<li><em>buf</em> is not NULL </li>
-</ul>
-
-<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00288">288</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00335">335</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
 
 </div>
 </div>
@@ -774,29 +460,7 @@ Data Fields</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Save the tags to a message. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">m</td><td><a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> </td></tr>
-    <tr><td class="paramname">e</td><td><a class="el" href="structEmail.html" title="The envelope/body of an email. ">Email</a> </td></tr>
-    <tr><td class="paramname">buf</td><td><a class="el" href="structBuffer.html" title="String manipulation buffer. ">Buffer</a> containing tags </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="retval"><dt>Return values</dt><dd>
-  <table class="retval">
-    <tr><td class="paramname">0</td><td>Success </td></tr>
-    <tr><td class="paramname">-1</td><td>Failure</td></tr>
-  </table>
-  </dd>
-</dl>
-<p><b>Contract</b></p><ul>
-<li><em>m</em> is not NULL</li>
-<li><em>e</em> is not NULL</li>
-<li><em>buf</em> is not NULL </li>
-</ul>
-
-<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00303">303</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00353">353</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
 
 </div>
 </div>
@@ -812,25 +476,7 @@ Data Fields</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Does this <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> type recognise this path? </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">path</td><td>Path to examine </td></tr>
-    <tr><td class="paramname">st</td><td>stat buffer (for local filesystems) </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="retval"><dt>Return values</dt><dd>
-  <table class="retval">
-    <tr><td class="paramname">num</td><td>Type, e.g. <a class="el" href="mailbox_8h.html#af65addf714c28dd5d483cb426100921da7f541a03089370b1a260e344f8d1809b" title="&#39;IMAP&#39; Mailbox type ">MUTT_IMAP</a></td></tr>
-  </table>
-  </dd>
-</dl>
-<p><b>Contract</b></p><ul>
-<li><em>path</em> is not NULL </li>
-</ul>
-
-<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00314">314</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00367">367</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
 
 </div>
 </div>
@@ -846,26 +492,7 @@ Data Fields</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Canonicalise a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> path. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">buf</td><td>Path to modify </td></tr>
-    <tr><td class="paramname">buflen</td><td>Length of buffer </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="retval"><dt>Return values</dt><dd>
-  <table class="retval">
-    <tr><td class="paramname">0</td><td>Success </td></tr>
-    <tr><td class="paramname">-1</td><td>Failure</td></tr>
-  </table>
-  </dd>
-</dl>
-<p><b>Contract</b></p><ul>
-<li><em>buf</em> is not NULL </li>
-</ul>
-
-<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00326">326</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00382">382</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
 
 </div>
 </div>
@@ -881,27 +508,7 @@ Data Fields</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Abbreviate a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> path. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">buf</td><td>Path to modify </td></tr>
-    <tr><td class="paramname">buflen</td><td>Length of buffer </td></tr>
-    <tr><td class="paramname">folder</td><td>Base path for '=' substitution </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="retval"><dt>Return values</dt><dd>
-  <table class="retval">
-    <tr><td class="paramname">0</td><td>Success </td></tr>
-    <tr><td class="paramname">-1</td><td>Failure</td></tr>
-  </table>
-  </dd>
-</dl>
-<p><b>Contract</b></p><ul>
-<li><em>buf</em> is not NULL </li>
-</ul>
-
-<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00339">339</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00398">398</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
 
 </div>
 </div>
@@ -917,26 +524,7 @@ Data Fields</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Find the parent of a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> path. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">buf</td><td>Path to modify </td></tr>
-    <tr><td class="paramname">buflen</td><td>Length of buffer </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="retval"><dt>Return values</dt><dd>
-  <table class="retval">
-    <tr><td class="paramname">0</td><td>Success </td></tr>
-    <tr><td class="paramname">-1</td><td>Failure</td></tr>
-  </table>
-  </dd>
-</dl>
-<p><b>Contract</b></p><ul>
-<li><em>buf</em> is not NULL </li>
-</ul>
-
-<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00351">351</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00413">413</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
 
 </div>
 </div>
@@ -952,26 +540,7 @@ Data Fields</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Is the <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> empty? </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">path</td><td><a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> to check </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="retval"><dt>Return values</dt><dd>
-  <table class="retval">
-    <tr><td class="paramname">1</td><td><a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> is empty </td></tr>
-    <tr><td class="paramname">0</td><td><a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> contains mail </td></tr>
-    <tr><td class="paramname">-1</td><td>Error</td></tr>
-  </table>
-  </dd>
-</dl>
-<p><b>Contract</b></p><ul>
-<li><em>path</em> is not NULL and not empty </li>
-</ul>
-
-<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00363">363</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="mxapi_8h_source.html#l00428">428</a> of file <a class="el" href="mxapi_8h_source.html">mxapi.h</a>.</p>
 
 </div>
 </div>

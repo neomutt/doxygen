@@ -32,7 +32,7 @@
   <td id="projectalign" style="padding-left: 0.5em;">
    <a style="color: black; text-decoration: none;" href="https://neomutt.org">
    <div id="projectname">NeoMutt
-   &#160;<span id="projectnumber">2021-02-05-584-gb5c7a7</span>
+   &#160;<span id="projectnumber">2021-02-05-647-g5d4e00</span>
    </div>
    <div id="projectbrief">Teaching an old dog new tricks</div>
    </a>
@@ -91,31 +91,24 @@ $(document).ready(function(){initNavTree('mbox_mbox.html','');});
 <div class="title">Mbox local mailbox type </div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><table class="doxtable">
-<tr>
-<th align="left">Data </th><th align="left">Description  </th></tr>
-<tr>
-<td align="left"><a class="el" href="mbox_8c.html#aad6c863fc1a5e9df89b83c04c78ebadb" title="Mbox Mailbox - Implements MxOps. ">MxMboxOps</a> - Mbox <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> </td><td align="left">Implements <a class="el" href="structMxOps.html" title="The Mailbox API. ">MxOps</a> </td></tr>
-<tr>
-<td align="left"><a class="el" href="mbox_8c.html#a6f5aa20334c61002a91427dec14cc4e3" title="MMDF Mailbox - Implements MxOps. ">MxMmdfOps</a> - MMDF <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> </td><td align="left">Implements <a class="el" href="structMxOps.html" title="The Mailbox API. ">MxOps</a> </td></tr>
-</table>
-<p>Mbox local mailbox type</p>
+<div class="textblock"><p>Mbox local mailbox type</p>
 <p>This file contains code to parse 'mbox' and 'mmdf' style mailboxes.</p>
+<p>Implementation: <a class="el" href="group__mx__api.html#gaad6c863fc1a5e9df89b83c04c78ebadb" title="Mbox Mailbox - Implements MxOps -. ">MxMboxOps</a> Implementation: <a class="el" href="group__mx__api.html#ga6f5aa20334c61002a91427dec14cc4e3" title="MMDF Mailbox - Implements MxOps -. ">MxMmdfOps</a></p>
 <table class="doxtable">
 <tr>
 <th align="left">Data </th><th align="left">Description  </th></tr>
 <tr>
-<td align="left"><a class="el" href="mbox_8c.html#aad6c863fc1a5e9df89b83c04c78ebadb" title="Mbox Mailbox - Implements MxOps. ">MxMboxOps</a> - Mbox <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> </td><td align="left">Implements <a class="el" href="structMxOps.html" title="The Mailbox API. ">MxOps</a> </td></tr>
+<td align="left"><a class="el" href="group__mx__api.html#gaad6c863fc1a5e9df89b83c04c78ebadb" title="Mbox Mailbox - Implements MxOps -. ">MxMboxOps</a> - Mbox <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> - Implements <a class="el" href="structMxOps.html">MxOps</a> </td><td align="left"></td></tr>
 <tr>
-<td align="left"><a class="el" href="mbox_8c.html#a6f5aa20334c61002a91427dec14cc4e3" title="MMDF Mailbox - Implements MxOps. ">MxMmdfOps</a> - MMDF <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> </td><td align="left">Implements <a class="el" href="structMxOps.html" title="The Mailbox API. ">MxOps</a> </td></tr>
+<td align="left"><a class="el" href="group__mx__api.html#ga6f5aa20334c61002a91427dec14cc4e3" title="MMDF Mailbox - Implements MxOps -. ">MxMmdfOps</a> - MMDF <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> - Implements <a class="el" href="structMxOps.html">MxOps</a> </td><td align="left"></td></tr>
 </table>
 <table class="doxtable">
 <tr>
 <th align="left">Function </th><th align="left">Description  </th></tr>
 <tr>
-<td align="left"><a class="el" href="mbox_8c.html#a9cc38c07be94f0fbb631c40bc2d0e767" title="Add a Mailbox to an Account - Implements MxOps::ac_add() ">mbox_ac_add()</a> </td><td align="left">Add a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> to an <a class="el" href="structAccount.html" title="A group of associated Mailboxes. ">Account</a> - Implements <a class="el" href="structMxOps.html#ac432a4900b0ca5a5ca2dc98319dbf737" title="Add a Mailbox to an Account. ">MxOps::ac_add()</a> </td></tr>
+<td align="left">mbox_ac_add - Add a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> to an <a class="el" href="structAccount.html" title="A group of associated Mailboxes. ">Account()</a> </td><td align="left">Implements <a class="el" href="structMxOps.html#ac432a4900b0ca5a5ca2dc98319dbf737">MxOps::ac_add()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="mbox_8c.html#a3ea6a4dc4f07e4f6ef762797023b4646" title="Check whether an Account owns a Mailbox path - Implements MxOps::ac_owns_path() ">mbox_ac_owns_path()</a> </td><td align="left">Check whether an <a class="el" href="structAccount.html" title="A group of associated Mailboxes. ">Account</a> owns a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> path - Implements <a class="el" href="structMxOps.html#a8036f191d1b0ace220c5a5ff52f609b4" title="Check whether an Account owns a Mailbox path. ">MxOps::ac_owns_path()</a> </td></tr>
+<td align="left">mbox_ac_owns_path - Check whether an <a class="el" href="structAccount.html" title="A group of associated Mailboxes. ">Account</a> owns a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> path() </td><td align="left">Implements <a class="el" href="structMxOps.html#a8036f191d1b0ace220c5a5ff52f609b4">MxOps::ac_owns_path()</a> - </td></tr>
 <tr>
 <td align="left"><a class="el" href="mbox_8c.html#adcff03bdb66f7b5c48c4f4ff54df9cfd" title="Free the private Account data - Implements Account::adata_free() ">mbox_adata_free()</a> </td><td align="left">Free the private <a class="el" href="structAccount.html" title="A group of associated Mailboxes. ">Account</a> data - Implements <a class="el" href="structAccount.html#abf7f6da8ea09b773cd7b3eb6faa97b8e" title="Free the private data attached to the Account. ">Account::adata_free()</a> </td></tr>
 <tr>
@@ -127,27 +120,27 @@ $(document).ready(function(){initNavTree('mbox_mbox.html','');});
 <tr>
 <td align="left"><a class="el" href="mbox_8c.html#a1c304c29562f920b2ba11fabcc14c268" title="Lock a mailbox. ">mbox_lock_mailbox()</a> </td><td align="left">Lock a mailbox </td></tr>
 <tr>
-<td align="left"><a class="el" href="mbox_8c.html#afb376aac365fa068eeb370915b2d309d" title="Check for new mail - Implements MxOps::mbox_check() ">mbox_mbox_check()</a> </td><td align="left">Check for new mail - Implements <a class="el" href="structMxOps.html#af72b7c6ef064d1ca86b71ac9aff3e875" title="Check for new mail. ">MxOps::mbox_check()</a> </td></tr>
+<td align="left">mbox_mbox_check - Check for new mail() </td><td align="left">Implements <a class="el" href="structMxOps.html#af72b7c6ef064d1ca86b71ac9aff3e875">MxOps::mbox_check()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="mbox_8c.html#a7c619138e35972d7b2e5eb0c4bd59459" title="Check the Mailbox statistics - Implements MxOps::mbox_check_stats() ">mbox_mbox_check_stats()</a> </td><td align="left">Check the <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> statistics - Implements <a class="el" href="structMxOps.html#af807cc5fe2889a304182e99ec91f7e0c" title="Check the Mailbox statistics. ">MxOps::mbox_check_stats()</a> </td></tr>
+<td align="left">mbox_mbox_check_stats - Check the <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> statistics() </td><td align="left">Implements <a class="el" href="structMxOps.html#af807cc5fe2889a304182e99ec91f7e0c">MxOps::mbox_check_stats()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="mbox_8c.html#a7b6e43b51f47221c35c74d13caa0fd28" title="Close a Mailbox - Implements MxOps::mbox_close() ">mbox_mbox_close()</a> </td><td align="left">Close a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> - Implements <a class="el" href="structMxOps.html#ae97b81d5371def5f6f2e64544cdec5fc" title="Close a Mailbox. ">MxOps::mbox_close()</a> </td></tr>
+<td align="left">mbox_mbox_close - Close a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox()</a> </td><td align="left">Implements <a class="el" href="structMxOps.html#ae97b81d5371def5f6f2e64544cdec5fc">MxOps::mbox_close()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="mbox_8c.html#a48388b5b9b030b8a46b7645f212dce7b" title="Open a Mailbox for appending - Implements MxOps::mbox_open_append() ">mbox_mbox_open_append()</a> </td><td align="left">Open a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> for appending - Implements <a class="el" href="structMxOps.html#af201c2c2f87a1253cbaf8ae24f062ef3" title="Open a Mailbox for appending. ">MxOps::mbox_open_append()</a> </td></tr>
+<td align="left">mbox_mbox_open_append - Open a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> for appending() </td><td align="left">Implements <a class="el" href="structMxOps.html#af201c2c2f87a1253cbaf8ae24f062ef3">MxOps::mbox_open_append()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="mbox_8c.html#aa0908167a905e8a9d3e3541e7c5a416e" title="Open a Mailbox - Implements MxOps::mbox_open() ">mbox_mbox_open()</a> </td><td align="left">Open a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> - Implements <a class="el" href="structMxOps.html#ac504b1095f3ce15cae85466ab6c7bd45" title="Open a Mailbox. ">MxOps::mbox_open()</a> </td></tr>
+<td align="left">mbox_mbox_open - Open a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox()</a> </td><td align="left">Implements <a class="el" href="structMxOps.html#ac504b1095f3ce15cae85466ab6c7bd45">MxOps::mbox_open()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="mbox_8c.html#a47a65cbf57a70eb1db4e5aed167ec3d7" title="Save changes to the Mailbox - Implements MxOps::mbox_sync() ">mbox_mbox_sync()</a> </td><td align="left">Save changes to the <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> - Implements <a class="el" href="structMxOps.html#aebbfeec5651637ec053cc47b95c124af" title="Save changes to the Mailbox. ">MxOps::mbox_sync()</a> </td></tr>
+<td align="left">mbox_mbox_sync - Save changes to the <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox()</a> </td><td align="left">Implements <a class="el" href="structMxOps.html#aebbfeec5651637ec053cc47b95c124af">MxOps::mbox_sync()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="mbox_8c.html#a3e1c4bf2eec19c378d560b462e4023e5" title="Close an email - Implements MxOps::msg_close() ">mbox_msg_close()</a> </td><td align="left">Close an email - Implements <a class="el" href="structMxOps.html#ad53e3df1ff124eea52bc0488915e9ae4" title="Close an email. ">MxOps::msg_close()</a> </td></tr>
+<td align="left">mbox_msg_close - Close an email() </td><td align="left">Implements <a class="el" href="structMxOps.html#ad53e3df1ff124eea52bc0488915e9ae4">MxOps::msg_close()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="mbox_8c.html#a7a43fe686ef124a6429e660fa2ff8753" title="Save changes to an email - Implements MxOps::msg_commit() ">mbox_msg_commit()</a> </td><td align="left">Save changes to an email - Implements <a class="el" href="structMxOps.html#ab59dadf81aec5575a1c690caa4822e37" title="Save changes to an email. ">MxOps::msg_commit()</a> </td></tr>
+<td align="left">mbox_msg_commit - Save changes to an email() </td><td align="left">Implements <a class="el" href="structMxOps.html#ab59dadf81aec5575a1c690caa4822e37">MxOps::msg_commit()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="mbox_8c.html#a946771b1e2201ee9f4b5d01c5e025b9f" title="Open a new message in a Mailbox - Implements MxOps::msg_open_new() ">mbox_msg_open_new()</a> </td><td align="left">Open a new message in a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> - Implements <a class="el" href="structMxOps.html#ada910d49b8f3d007c32aa8a4adc15637" title="Open a new message in a Mailbox. ">MxOps::msg_open_new()</a> </td></tr>
+<td align="left">mbox_msg_open_new - Open a new message in a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox()</a> </td><td align="left">Implements <a class="el" href="structMxOps.html#ada910d49b8f3d007c32aa8a4adc15637">MxOps::msg_open_new()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="mbox_8c.html#ae948428c8944370e6cadd13451a7ca2a" title="Open an email message in a Mailbox - Implements MxOps::msg_open() ">mbox_msg_open()</a> </td><td align="left">Open an email message in a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> - Implements <a class="el" href="structMxOps.html#afae8d734bf2f05baf8b45eb69f23a2a8" title="Open an email message in a Mailbox. ">MxOps::msg_open()</a> </td></tr>
+<td align="left">mbox_msg_open - Open an email message in a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox()</a> </td><td align="left">Implements <a class="el" href="structMxOps.html#afae8d734bf2f05baf8b45eb69f23a2a8">MxOps::msg_open()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="mbox_8c.html#a2c3477e7d5c80d640c6748bc6f39c663" title="Bytes of padding between messages - Implements MxOps::msg_padding_size() ">mbox_msg_padding_size()</a> </td><td align="left">Bytes of padding between messages - Implements <a class="el" href="structMxOps.html#a784ae2e2b98208080a641974ce4df834" title="Bytes of padding between messages. ">MxOps::msg_padding_size()</a> </td></tr>
+<td align="left">mbox_msg_padding_size - Bytes of padding between messages() </td><td align="left">Implements <a class="el" href="structMxOps.html#a784ae2e2b98208080a641974ce4df834">MxOps::msg_padding_size()</a> - </td></tr>
 <tr>
 <td align="left"><a class="el" href="mbox_8c.html#a0349bdfa045d1372ca96e0464c1ea6f8" title="Open an mbox read-only. ">mbox_open_readonly()</a> </td><td align="left">Open an mbox read-only </td></tr>
 <tr>
@@ -155,15 +148,15 @@ $(document).ready(function(){initNavTree('mbox_mbox.html','');});
 <tr>
 <td align="left"><a class="el" href="mbox_8c.html#a0c856532edc1e1040922489ada94cc0d" title="Read a mailbox from disk. ">mbox_parse_mailbox()</a> </td><td align="left">Read a mailbox from disk </td></tr>
 <tr>
-<td align="left"><a class="el" href="mbox_8c.html#a6139f60a0e30c81ce4433f6848ae4f4a" title="Canonicalise a Mailbox path - Implements MxOps::path_canon() ">mbox_path_canon()</a> </td><td align="left">Canonicalise a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> path - Implements <a class="el" href="structMxOps.html#ad7d938f02ba15c08d45128bc2ca00e28" title="Canonicalise a Mailbox path. ">MxOps::path_canon()</a> </td></tr>
+<td align="left">mbox_path_canon - Canonicalise a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> path() </td><td align="left">Implements <a class="el" href="structMxOps.html#ad7d938f02ba15c08d45128bc2ca00e28">MxOps::path_canon()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="mbox_8c.html#abce2cecf1fc968b3af6d8c2ace585f01" title="Is the mailbox empty - Implements MxOps::path_is_empty() ">mbox_path_is_empty()</a> </td><td align="left">Is the mailbox empty - Implements <a class="el" href="structMxOps.html#a6ef058630b8418ae080d17762c26a75d" title="Is the Mailbox empty? ">MxOps::path_is_empty()</a> </td></tr>
+<td align="left">mbox_path_is_empty - Is the mailbox empty() </td><td align="left">Implements <a class="el" href="structMxOps.html#a6ef058630b8418ae080d17762c26a75d">MxOps::path_is_empty()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="mbox_8c.html#a8fd4b20d8b344bcb409de4ea1acebd90" title="Find the parent of a Mailbox path - Implements MxOps::path_parent() ">mbox_path_parent()</a> </td><td align="left">Find the parent of a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> path - Implements <a class="el" href="structMxOps.html#a0816dd26eb79c12783e9ac9e7b67ecd9" title="Find the parent of a Mailbox path. ">MxOps::path_parent()</a> </td></tr>
+<td align="left">mbox_path_parent - Find the parent of a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> path() </td><td align="left">Implements <a class="el" href="structMxOps.html#a0816dd26eb79c12783e9ac9e7b67ecd9">MxOps::path_parent()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="mbox_8c.html#ac72863c90267f09a0a3362d454524fea" title="Abbreviate a Mailbox path - Implements MxOps::path_pretty() ">mbox_path_pretty()</a> </td><td align="left">Abbreviate a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> path - Implements <a class="el" href="structMxOps.html#a3a85067a3d76652ec0014ce520c565db" title="Abbreviate a Mailbox path. ">MxOps::path_pretty()</a> </td></tr>
+<td align="left">mbox_path_pretty - Abbreviate a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> path() </td><td align="left">Implements <a class="el" href="structMxOps.html#a3a85067a3d76652ec0014ce520c565db">MxOps::path_pretty()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="mbox_2lib_8h.html#a927a5f75f0840e1f5aa18ab4e1446a3e" title="Is this an mbox Mailbox? - Implements MxOps::path_probe() ">mbox_path_probe()</a> </td><td align="left">Is this an mbox <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a>? - Implements <a class="el" href="structMxOps.html#a625a6ea0abfdb6620542e26acc499177" title="Does this Mailbox type recognise this path? ">MxOps::path_probe()</a> </td></tr>
+<td align="left">mbox_path_probe - Is this an mbox <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a>?() </td><td align="left">Implements <a class="el" href="structMxOps.html#a625a6ea0abfdb6620542e26acc499177">MxOps::path_probe()</a> - </td></tr>
 <tr>
 <td align="left"><a class="el" href="mbox_2lib_8h.html#adb9d8c2e11532c0b952ad90a44f2b5f9" title="Reset the access time on the mailbox file. ">mbox_reset_atime()</a> </td><td align="left">Reset the access time on the mailbox file </td></tr>
 <tr>
@@ -171,9 +164,9 @@ $(document).ready(function(){initNavTree('mbox_mbox.html','');});
 <tr>
 <td align="left"><a class="el" href="mbox_8c.html#aad6c03c38f626757199e4fd0835253ae" title="Unlock a mailbox. ">mbox_unlock_mailbox()</a> </td><td align="left">Unlock a mailbox </td></tr>
 <tr>
-<td align="left"><a class="el" href="mbox_8c.html#ad2e9163058c555394def8ba457a57dc4" title="Save changes to an email - Implements MxOps::msg_commit() ">mmdf_msg_commit()</a> </td><td align="left">Save changes to an email - Implements <a class="el" href="structMxOps.html#ab59dadf81aec5575a1c690caa4822e37" title="Save changes to an email. ">MxOps::msg_commit()</a> </td></tr>
+<td align="left">mmdf_msg_commit - Save changes to an email() </td><td align="left">Implements <a class="el" href="structMxOps.html#ab59dadf81aec5575a1c690caa4822e37">MxOps::msg_commit()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="mbox_8c.html#a4b926e0929ad5f4be944bc73611210d8" title="Bytes of padding between messages - Implements MxOps::msg_padding_size() ">mmdf_msg_padding_size()</a> </td><td align="left">Bytes of padding between messages - Implements <a class="el" href="structMxOps.html#a784ae2e2b98208080a641974ce4df834" title="Bytes of padding between messages. ">MxOps::msg_padding_size()</a> </td></tr>
+<td align="left">mmdf_msg_padding_size - Bytes of padding between messages() </td><td align="left">Implements <a class="el" href="structMxOps.html#a784ae2e2b98208080a641974ce4df834">MxOps::msg_padding_size()</a> - </td></tr>
 <tr>
 <td align="left"><a class="el" href="mbox_8c.html#ad71d97d10ebedc0dd20050efed3d997c" title="Read a mailbox in MMDF format. ">mmdf_parse_mailbox()</a> </td><td align="left">Read a mailbox in MMDF format </td></tr>
 </table>

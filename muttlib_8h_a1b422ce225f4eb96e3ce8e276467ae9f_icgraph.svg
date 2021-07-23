@@ -9,69 +9,69 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 138)">
 <title>remove_from_stailq</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-138 274,-138 274,4 -4,4"/>
-<!-- Node26862 -->
+<!-- Node26375 -->
 <g id="node1" class="node">
-<title>Node26862</title>
+<title>Node26375</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-57.5 0,-76.5 115,-76.5 115,-57.5 0,-57.5"/>
 <text text-anchor="middle" x="57.5" y="-64.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">remove_from_stailq</text>
 </g>
-<!-- Node26863 -->
+<!-- Node26376 -->
 <g id="node2" class="node">
-<title>Node26863</title>
+<title>Node26376</title>
 <g id="a_node2"><a xlink:href="sidebar_2lib_8h.html#a8f2bb3b173205a5b055df25cbd59d984" target="_top" xlink:title="Parse the &#39;unsidebar_whitelist&#39; command &#45; Implements Command::parse() ">
 <polygon fill="#ffffff" stroke="#ff0000" points="151,-114.5 151,-133.5 270,-133.5 270,-114.5 151,-114.5"/>
 <text text-anchor="middle" x="210.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">sb_parse_unwhitelist</text>
 </a>
 </g>
 </g>
-<!-- Node26862&#45;&gt;Node26863 -->
+<!-- Node26375&#45;&gt;Node26376 -->
 <g id="edge1" class="edge">
-<title>Node26862&#45;&gt;Node26863</title>
+<title>Node26375&#45;&gt;Node26376</title>
 <path fill="none" stroke="#191970" d="M89.0465,-80.5271C107.0626,-88.074 130.1497,-97.4466 151,-105 160.0739,-108.2872 170.03,-111.5851 179.1583,-114.4891"/>
 <polygon fill="#191970" stroke="#191970" points="90.1799,-77.2066 79.6057,-76.5453 87.4596,-83.6564 90.1799,-77.2066"/>
 </g>
-<!-- Node26875 -->
+<!-- Node26388 -->
 <g id="node3" class="node">
-<title>Node26875</title>
+<title>Node26388</title>
 <g id="a_node3"><a xlink:href="command__parse_8h.html#af9fdb8fa1c75d49cdf90529da7b683b7" target="_top" xlink:title="Parse the &#39;ignore&#39; command &#45; Implements Command::parse() ">
 <polygon fill="#ffffff" stroke="#000000" points="170.5,-76.5 170.5,-95.5 250.5,-95.5 250.5,-76.5 170.5,-76.5"/>
 <text text-anchor="middle" x="210.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">parse_ignore</text>
 </a>
 </g>
 </g>
-<!-- Node26862&#45;&gt;Node26875 -->
+<!-- Node26375&#45;&gt;Node26388 -->
 <g id="edge2" class="edge">
-<title>Node26862&#45;&gt;Node26875</title>
+<title>Node26375&#45;&gt;Node26388</title>
 <path fill="none" stroke="#191970" d="M125.3163,-75.4216C140.6366,-77.3242 156.4276,-79.2851 170.1885,-80.994"/>
 <polygon fill="#191970" stroke="#191970" points="125.6979,-71.9422 115.3427,-74.1831 124.8352,-78.8889 125.6979,-71.9422"/>
 </g>
-<!-- Node26876 -->
+<!-- Node26389 -->
 <g id="node4" class="node">
-<title>Node26876</title>
+<title>Node26389</title>
 <g id="a_node4"><a xlink:href="command__parse_8h.html#a5daaca3326b46c2a331585bfdda3a26e" target="_top" xlink:title="Parse the &#39;unignore&#39; command &#45; Implements Command::parse() ">
 <polygon fill="#ffffff" stroke="#000000" points="164.5,-38.5 164.5,-57.5 256.5,-57.5 256.5,-38.5 164.5,-38.5"/>
 <text text-anchor="middle" x="210.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">parse_unignore</text>
 </a>
 </g>
 </g>
-<!-- Node26862&#45;&gt;Node26876 -->
+<!-- Node26375&#45;&gt;Node26389 -->
 <g id="edge3" class="edge">
-<title>Node26862&#45;&gt;Node26876</title>
+<title>Node26375&#45;&gt;Node26389</title>
 <path fill="none" stroke="#191970" d="M125.365,-58.5723C138.5948,-56.9294 152.1735,-55.2432 164.4912,-53.7135"/>
 <polygon fill="#191970" stroke="#191970" points="124.8352,-55.1111 115.3427,-59.8169 125.6979,-62.0578 124.8352,-55.1111"/>
 </g>
-<!-- Node26877 -->
+<!-- Node26390 -->
 <g id="node5" class="node">
-<title>Node26877</title>
+<title>Node26390</title>
 <g id="a_node5"><a xlink:href="command__parse_8h.html#a2246a1378a7b22b8a164077a0522cc07" target="_top" xlink:title="Parse an unlist command &#45; Implements Command::parse() ">
 <polygon fill="#ffffff" stroke="#000000" points="166.5,-.5 166.5,-19.5 254.5,-19.5 254.5,-.5 166.5,-.5"/>
 <text text-anchor="middle" x="210.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">parse_unstailq</text>
 </a>
 </g>
 </g>
-<!-- Node26862&#45;&gt;Node26877 -->
+<!-- Node26375&#45;&gt;Node26390 -->
 <g id="edge4" class="edge">
-<title>Node26862&#45;&gt;Node26877</title>
+<title>Node26375&#45;&gt;Node26390</title>
 <path fill="none" stroke="#191970" d="M89.0465,-53.4729C107.0626,-45.926 130.1497,-36.5534 151,-29 160.0739,-25.7128 170.03,-22.4149 179.1583,-19.5109"/>
 <polygon fill="#191970" stroke="#191970" points="87.4596,-50.3436 79.6057,-57.4547 90.1799,-56.7934 87.4596,-50.3436"/>
 </g>

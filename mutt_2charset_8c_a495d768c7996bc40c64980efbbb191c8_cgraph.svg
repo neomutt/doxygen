@@ -9,54 +9,54 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 100)">
 <title>mutt_ch_lookup_add</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-100 267,-100 267,4 -4,4"/>
-<!-- Node2829 -->
+<!-- Node3047 -->
 <g id="node1" class="node">
-<title>Node2829</title>
+<title>Node3047</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-38.5 0,-57.5 118,-57.5 118,-38.5 0,-38.5"/>
 <text text-anchor="middle" x="59" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_ch_lookup_add</text>
 </g>
-<!-- Node2830 -->
+<!-- Node3048 -->
 <g id="node2" class="node">
-<title>Node2830</title>
+<title>Node3048</title>
 <g id="a_node2"><a xlink:href="memory_8c.html#a264da4dc58e6dc8983285bd1f538f24d" target="_top" xlink:title="Allocate memory on the heap. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="154,-76.5 154,-95.5 263,-95.5 263,-76.5 154,-76.5"/>
 <text text-anchor="middle" x="208.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_mem_malloc</text>
 </a>
 </g>
 </g>
-<!-- Node2829&#45;&gt;Node2830 -->
+<!-- Node3047&#45;&gt;Node3048 -->
 <g id="edge1" class="edge">
-<title>Node2829&#45;&gt;Node2830</title>
+<title>Node3047&#45;&gt;Node3048</title>
 <path fill="none" stroke="#191970" d="M96.7252,-57.589C116.2756,-62.5583 140.3466,-68.6767 161.1374,-73.9613"/>
 <polygon fill="#191970" stroke="#191970" points="160.4921,-77.4085 171.0461,-76.4799 162.2165,-70.6243 160.4921,-77.4085"/>
 </g>
-<!-- Node2832 -->
+<!-- Node3050 -->
 <g id="node3" class="node">
-<title>Node2832</title>
+<title>Node3050</title>
 <g id="a_node3"><a xlink:href="mutt_2charset_8c.html#a48b62a9347e37e654630d036383cb955" target="_top" xlink:title="Create a new Lookup. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="171,-38.5 171,-57.5 246,-57.5 246,-38.5 171,-38.5"/>
 <text text-anchor="middle" x="208.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">lookup_new</text>
 </a>
 </g>
 </g>
-<!-- Node2829&#45;&gt;Node2832 -->
+<!-- Node3047&#45;&gt;Node3050 -->
 <g id="edge2" class="edge">
-<title>Node2829&#45;&gt;Node2832</title>
+<title>Node3047&#45;&gt;Node3050</title>
 <path fill="none" stroke="#191970" d="M118.0864,-48C132.2647,-48 147.2303,-48 160.8167,-48"/>
 <polygon fill="#191970" stroke="#191970" points="160.9015,-51.5001 170.9015,-48 160.9015,-44.5001 160.9015,-51.5001"/>
 </g>
-<!-- Node2834 -->
+<!-- Node3052 -->
 <g id="node4" class="node">
-<title>Node2834</title>
+<title>Node3052</title>
 <g id="a_node4"><a xlink:href="mutt_2string_8c.html#a4c2560f787bd1226b977992c16860c98" target="_top" xlink:title="Copy a string, safely. ">
 <polygon fill="#ffffff" stroke="#000000" points="168,-.5 168,-19.5 249,-19.5 249,-.5 168,-.5"/>
 <text text-anchor="middle" x="208.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_str_dup</text>
 </a>
 </g>
 </g>
-<!-- Node2829&#45;&gt;Node2834 -->
+<!-- Node3047&#45;&gt;Node3052 -->
 <g id="edge3" class="edge">
-<title>Node2829&#45;&gt;Node2834</title>
+<title>Node3047&#45;&gt;Node3052</title>
 <path fill="none" stroke="#191970" d="M96.7252,-38.411C116.2756,-33.4417 140.3466,-27.3233 161.1374,-22.0387"/>
 <polygon fill="#191970" stroke="#191970" points="162.2165,-25.3757 171.0461,-19.5201 160.4921,-18.5915 162.2165,-25.3757"/>
 </g>

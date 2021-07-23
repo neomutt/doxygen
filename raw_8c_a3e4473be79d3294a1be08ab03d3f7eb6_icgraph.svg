@@ -9,45 +9,45 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 252)">
 <title>raw_socket_poll</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-252 401,-252 401,4 -4,4"/>
-<!-- Node2424 -->
+<!-- Node2640 -->
 <g id="node1" class="node">
-<title>Node2424</title>
+<title>Node2640</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-114.5 0,-133.5 95,-133.5 95,-114.5 0,-114.5"/>
 <text text-anchor="middle" x="47.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">raw_socket_poll</text>
 </g>
-<!-- Node2425 -->
+<!-- Node2641 -->
 <g id="node2" class="node">
-<title>Node2425</title>
+<title>Node2641</title>
 <g id="a_node2"><a xlink:href="gnutls_8c.html#a0cca54964bfbb04db3fb0e2a63200477" target="_top" xlink:title="Check whether a socket read would block &#45; Implements Connection::poll() ">
 <polygon fill="#ffffff" stroke="#ff0000" points="140.5,-228.5 140.5,-247.5 229.5,-247.5 229.5,-228.5 140.5,-228.5"/>
 <text text-anchor="middle" x="185" y="-235.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">tls_socket_poll</text>
 </a>
 </g>
 </g>
-<!-- Node2424&#45;&gt;Node2425 -->
+<!-- Node2640&#45;&gt;Node2641 -->
 <g id="edge1" class="edge">
-<title>Node2424&#45;&gt;Node2425</title>
+<title>Node2640&#45;&gt;Node2641</title>
 <path fill="none" stroke="#191970" d="M59.0002,-141.9376C73.4371,-163.1256 100.0904,-198.1235 131,-219 136.6004,-222.7825 143.0356,-225.8962 149.4671,-228.4294"/>
 <polygon fill="#191970" stroke="#191970" points="61.8655,-139.9254 53.4195,-133.529 56.0332,-143.7964 61.8655,-139.9254"/>
 </g>
-<!-- Node2991 -->
+<!-- Node3261 -->
 <g id="node3" class="node">
-<title>Node2991</title>
+<title>Node3261</title>
 <g id="a_node3"><a xlink:href="gnutls_8c.html#a0c11cb8253f1e3cd4df8ba1a92ef3252" target="_top" xlink:title="Close a TLS connection &#45; Implements Connection::close() ">
 <polygon fill="#ffffff" stroke="#ff0000" points="135.5,-190.5 135.5,-209.5 234.5,-209.5 234.5,-190.5 135.5,-190.5"/>
 <text text-anchor="middle" x="185" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">tls_starttls_close</text>
 </a>
 </g>
 </g>
-<!-- Node2424&#45;&gt;Node2991 -->
+<!-- Node2640&#45;&gt;Node3261 -->
 <g id="edge2" class="edge">
-<title>Node2424&#45;&gt;Node2991</title>
+<title>Node2640&#45;&gt;Node3261</title>
 <path fill="none" stroke="#191970" d="M70.0658,-139.2446C86.5875,-150.109 109.7408,-164.7259 131,-176 140.7887,-181.1911 151.929,-186.2737 161.5383,-190.4154"/>
 <polygon fill="#191970" stroke="#191970" points="71.8905,-136.2549 61.6234,-133.64 68.0189,-142.0868 71.8905,-136.2549"/>
 </g>
-<!-- Node2992 -->
+<!-- Node3262 -->
 <g id="node4" class="node">
-<title>Node2992</title>
+<title>Node3262</title>
 <g id="a_node4"><a xlink:href="openssl_8c.html#a580181fa12ad95a66805761f701e7cd2" target="_top" xlink:title="Close an SSL Connection and restore Connection callbacks &#45; Implements Connection::close() ...">
 <polygon fill="#ffffff" stroke="#ff0000" points="275,-109 275,-139 397,-139 397,-109 275,-109"/>
 <text text-anchor="start" x="283" y="-127" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">ssl_socket_close_and</text>
@@ -55,75 +55,75 @@
 </a>
 </g>
 </g>
-<!-- Node2424&#45;&gt;Node2992 -->
+<!-- Node2640&#45;&gt;Node3262 -->
 <g id="edge3" class="edge">
-<title>Node2424&#45;&gt;Node2992</title>
+<title>Node2640&#45;&gt;Node3262</title>
 <path fill="none" stroke="#191970" d="M91.2237,-135.8839C103.9504,-138.8149 117.9433,-141.5333 131,-143 178.7,-148.3585 191.2243,-147.635 239,-143 250.6999,-141.8649 263.0835,-139.9769 274.9473,-137.8202"/>
 <polygon fill="#191970" stroke="#191970" points="91.8715,-132.44 81.3306,-133.5075 90.2365,-139.2464 91.8715,-132.44"/>
 </g>
-<!-- Node2993 -->
+<!-- Node3263 -->
 <g id="node5" class="node">
-<title>Node2993</title>
+<title>Node3263</title>
 <g id="a_node5"><a xlink:href="openssl_8c.html#a30f5a89c44c5daba9413290a83abdd9c" target="_top" xlink:title="Check whether a socket read would block &#45; Implements Connection::poll() ">
 <polygon fill="#ffffff" stroke="#ff0000" points="139.5,-114.5 139.5,-133.5 230.5,-133.5 230.5,-114.5 139.5,-114.5"/>
 <text text-anchor="middle" x="185" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">ssl_socket_poll</text>
 </a>
 </g>
 </g>
-<!-- Node2424&#45;&gt;Node2993 -->
+<!-- Node2640&#45;&gt;Node3263 -->
 <g id="edge4" class="edge">
-<title>Node2424&#45;&gt;Node2993</title>
+<title>Node2640&#45;&gt;Node3263</title>
 <path fill="none" stroke="#191970" d="M105.4245,-124C116.714,-124 128.4031,-124 139.2324,-124"/>
 <polygon fill="#191970" stroke="#191970" points="105.205,-120.5001 95.2049,-124 105.2049,-127.5001 105.205,-120.5001"/>
 </g>
-<!-- Node2994 -->
+<!-- Node3264 -->
 <g id="node6" class="node">
-<title>Node2994</title>
+<title>Node3264</title>
 <g id="a_node6"><a xlink:href="openssl_8c.html#aafcc34fa7bf9d54a9323c36761353e6a" target="_top" xlink:title="Close an SSL connection &#45; Implements Connection::close() ">
 <polygon fill="#ffffff" stroke="#ff0000" points="136,-76.5 136,-95.5 234,-95.5 234,-76.5 136,-76.5"/>
 <text text-anchor="middle" x="185" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">ssl_socket_close</text>
 </a>
 </g>
 </g>
-<!-- Node2424&#45;&gt;Node2994 -->
+<!-- Node2640&#45;&gt;Node3264 -->
 <g id="edge5" class="edge">
-<title>Node2424&#45;&gt;Node2994</title>
+<title>Node2640&#45;&gt;Node3264</title>
 <path fill="none" stroke="#191970" d="M92.0729,-111.6817C110.9645,-106.4607 132.6472,-100.4684 150.314,-95.5859"/>
 <polygon fill="#191970" stroke="#191970" points="90.9034,-108.3736 82.1971,-114.411 92.7681,-115.1207 90.9034,-108.3736"/>
 </g>
-<!-- Node2427 -->
+<!-- Node2643 -->
 <g id="node7" class="node">
-<title>Node2427</title>
+<title>Node2643</title>
 <g id="a_node7"><a xlink:href="socket_8h.html#a1e3195d6b1472777b64d1d9633e3b2cc" target="_top" xlink:title="allocate and initialise a new connection ">
 <polygon fill="#ffffff" stroke="#ff0000" points="133.5,-38.5 133.5,-57.5 236.5,-57.5 236.5,-38.5 133.5,-38.5"/>
 <text text-anchor="middle" x="185" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_socket_new</text>
 </a>
 </g>
 </g>
-<!-- Node2424&#45;&gt;Node2427 -->
+<!-- Node2640&#45;&gt;Node2643 -->
 <g id="edge7" class="edge">
-<title>Node2424&#45;&gt;Node2427</title>
+<title>Node2640&#45;&gt;Node2643</title>
 <path fill="none" stroke="#191970" d="M67.5653,-108.0899C83.9266,-95.6751 108.0097,-78.6393 131,-67 138.0935,-63.4088 146.0269,-60.2066 153.5827,-57.5011"/>
 <polygon fill="#191970" stroke="#191970" points="65.1048,-105.5677 59.3262,-114.4479 69.3813,-111.1095 65.1048,-105.5677"/>
 </g>
-<!-- Node2995 -->
+<!-- Node3265 -->
 <g id="node8" class="node">
-<title>Node2995</title>
+<title>Node3265</title>
 <g id="a_node8"><a xlink:href="tunnel_8c.html#aef546927ab07168c0f1d85ecbd202bf6" target="_top" xlink:title="Checks whether tunnel reads would block &#45; Implements Connection::poll() ">
 <polygon fill="#ffffff" stroke="#ff0000" points="131,-.5 131,-19.5 239,-19.5 239,-.5 131,-.5"/>
 <text text-anchor="middle" x="185" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">tunnel_socket_poll</text>
 </a>
 </g>
 </g>
-<!-- Node2424&#45;&gt;Node2995 -->
+<!-- Node2640&#45;&gt;Node3265 -->
 <g id="edge8" class="edge">
-<title>Node2424&#45;&gt;Node2995</title>
+<title>Node2640&#45;&gt;Node3265</title>
 <path fill="none" stroke="#191970" d="M59.0002,-106.0624C73.4371,-84.8744 100.0904,-49.8765 131,-29 136.6004,-25.2175 143.0356,-22.1038 149.4671,-19.5706"/>
 <polygon fill="#191970" stroke="#191970" points="56.0332,-104.2036 53.4195,-114.471 61.8655,-108.0746 56.0332,-104.2036"/>
 </g>
-<!-- Node2994&#45;&gt;Node2992 -->
+<!-- Node3264&#45;&gt;Node3262 -->
 <g id="edge6" class="edge">
-<title>Node2994&#45;&gt;Node2992</title>
+<title>Node3264&#45;&gt;Node3262</title>
 <path fill="none" stroke="#191970" d="M232.8377,-98.0386C246.5944,-101.5006 261.7729,-105.3203 276.1582,-108.9405"/>
 <polygon fill="#191970" stroke="#191970" points="233.6555,-94.6354 223.1037,-95.589 231.9471,-101.4237 233.6555,-94.6354"/>
 </g>

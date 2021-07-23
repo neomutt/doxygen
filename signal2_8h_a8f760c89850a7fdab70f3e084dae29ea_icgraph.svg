@@ -9,69 +9,69 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 138)">
 <title>mutt_sig_block_system</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-138 286,-138 286,4 -4,4"/>
-<!-- Node607 -->
+<!-- Node662 -->
 <g id="node1" class="node">
-<title>Node607</title>
+<title>Node662</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-57.5 0,-76.5 132,-76.5 132,-57.5 0,-57.5"/>
 <text text-anchor="middle" x="66" y="-64.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_sig_block_system</text>
 </g>
-<!-- Node608 -->
+<!-- Node663 -->
 <g id="node2" class="node">
-<title>Node608</title>
+<title>Node663</title>
 <g id="a_node2"><a xlink:href="tunnel_8c.html#afbb9829f3f988c86ff1a01d9c9ea6e03" target="_top" xlink:title="Open a tunnel socket &#45; Implements Connection::open() ">
 <polygon fill="#ffffff" stroke="#ff0000" points="168,-114.5 168,-133.5 282,-133.5 282,-114.5 168,-114.5"/>
 <text text-anchor="middle" x="225" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">tunnel_socket_open</text>
 </a>
 </g>
 </g>
-<!-- Node607&#45;&gt;Node608 -->
+<!-- Node662&#45;&gt;Node663 -->
 <g id="edge1" class="edge">
-<title>Node607&#45;&gt;Node608</title>
+<title>Node662&#45;&gt;Node663</title>
 <path fill="none" stroke="#191970" d="M100.5394,-80.2088C120.2433,-87.6583 145.4374,-97.0394 168,-105 176.9515,-108.1583 186.7415,-111.472 195.6427,-114.4316"/>
 <polygon fill="#191970" stroke="#191970" points="101.6531,-76.8879 91.0618,-76.6146 99.171,-83.4331 101.6531,-76.8879"/>
 </g>
-<!-- Node1175 -->
+<!-- Node1284 -->
 <g id="node3" class="node">
-<title>Node1175</title>
+<title>Node1284</title>
 <g id="a_node3"><a xlink:href="filter_8h.html#ab135f1182014687e686263f6e9613be5" target="_top" xlink:title="Run a command on a pipe (optionally connect stdin/stdout) ">
 <polygon fill="#ffffff" stroke="#ff0000" points="180,-76.5 180,-95.5 270,-95.5 270,-76.5 180,-76.5"/>
 <text text-anchor="middle" x="225" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">filter_create_fd</text>
 </a>
 </g>
 </g>
-<!-- Node607&#45;&gt;Node1175 -->
+<!-- Node662&#45;&gt;Node1284 -->
 <g id="edge2" class="edge">
-<title>Node607&#45;&gt;Node1175</title>
+<title>Node662&#45;&gt;Node1284</title>
 <path fill="none" stroke="#191970" d="M142.2746,-76.1146C155.0868,-77.6456 168.0109,-79.19 179.7129,-80.5883"/>
 <polygon fill="#191970" stroke="#191970" points="142.3937,-72.604 132.049,-74.8926 141.563,-79.5545 142.3937,-72.604"/>
 </g>
-<!-- Node1291 -->
+<!-- Node1400 -->
 <g id="node4" class="node">
-<title>Node1291</title>
+<title>Node1400</title>
 <g id="a_node4"><a xlink:href="sendmail_8c.html#aa78ecbb2ead95b452496d66de40d31a9" target="_top" xlink:title="invoke sendmail in a subshell ">
 <polygon fill="#ffffff" stroke="#ff0000" points="192,-38.5 192,-57.5 258,-57.5 258,-38.5 192,-38.5"/>
 <text text-anchor="middle" x="225" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">send_msg</text>
 </a>
 </g>
 </g>
-<!-- Node607&#45;&gt;Node1291 -->
+<!-- Node662&#45;&gt;Node1400 -->
 <g id="edge3" class="edge">
-<title>Node607&#45;&gt;Node1291</title>
+<title>Node662&#45;&gt;Node1400</title>
 <path fill="none" stroke="#191970" d="M142.2868,-57.884C159.7589,-55.7961 177.4383,-53.6835 191.942,-51.9503"/>
 <polygon fill="#191970" stroke="#191970" points="141.563,-54.4455 132.049,-59.1074 142.3937,-61.396 141.563,-54.4455"/>
 </g>
-<!-- Node960 -->
+<!-- Node1059 -->
 <g id="node5" class="node">
-<title>Node960</title>
+<title>Node1059</title>
 <g id="a_node5"><a xlink:href="system_8c.html#aa1d4ad04b000036513ca3f741059942c" target="_top" xlink:title="Run an external command. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="184.5,-.5 184.5,-19.5 265.5,-19.5 265.5,-.5 184.5,-.5"/>
 <text text-anchor="middle" x="225" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_system</text>
 </a>
 </g>
 </g>
-<!-- Node607&#45;&gt;Node960 -->
+<!-- Node662&#45;&gt;Node1059 -->
 <g id="edge4" class="edge">
-<title>Node607&#45;&gt;Node960</title>
+<title>Node662&#45;&gt;Node1059</title>
 <path fill="none" stroke="#191970" d="M100.5394,-53.7912C120.2433,-46.3417 145.4374,-36.9606 168,-29 176.9515,-25.8417 186.7415,-22.528 195.6427,-19.5684"/>
 <polygon fill="#191970" stroke="#191970" points="99.171,-50.5669 91.0618,-57.3854 101.6531,-57.1121 99.171,-50.5669"/>
 </g>

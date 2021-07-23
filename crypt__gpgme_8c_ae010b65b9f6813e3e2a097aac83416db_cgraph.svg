@@ -9,105 +9,105 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 253.0968)">
 <title>gpgme_send_menu</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-253.0968 415,-253.0968 415,4 -4,4"/>
-<!-- Node74346 -->
+<!-- Node73464 -->
 <g id="node1" class="node">
-<title>Node74346</title>
+<title>Node73464</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-126 0,-145 112,-145 112,-126 0,-126"/>
 <text text-anchor="middle" x="56" y="-133" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">gpgme_send_menu</text>
 </g>
-<!-- Node74347 -->
+<!-- Node73465 -->
 <g id="node2" class="node">
-<title>Node74347</title>
+<title>Node73465</title>
 <g id="a_node2"><a xlink:href="helpers_8c.html#ae50f679dd6c5bd1ba820884c8602f038" target="_top" xlink:title="Get a boolean config item by name. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="320,-123 320,-142 411,-142 411,-123 320,-123"/>
 <text text-anchor="middle" x="365.5" y="-130" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_subset_bool</text>
 </a>
 </g>
 </g>
-<!-- Node74346&#45;&gt;Node74347 -->
+<!-- Node73464&#45;&gt;Node73465 -->
 <g id="edge1" class="edge">
-<title>Node74346&#45;&gt;Node74347</title>
+<title>Node73464&#45;&gt;Node73465</title>
 <path fill="none" stroke="#191970" d="M61.5816,-145.1889C73.9981,-165.6352 106.1417,-212.7671 148,-230.5 203.6561,-254.0782 229.275,-256.1653 284,-230.5 318.8854,-214.1392 344.0195,-174.6962 356.5281,-151.1401"/>
 <polygon fill="#191970" stroke="#191970" points="359.6963,-152.6313 361.1076,-142.1308 353.4562,-149.4593 359.6963,-152.6313"/>
 </g>
-<!-- Node74370 -->
+<!-- Node73488 -->
 <g id="node3" class="node">
-<title>Node74370</title>
+<title>Node73488</title>
 <g id="a_node3"><a xlink:href="question_2lib_8h.html#a95d1cd189641185a743df0397ea072c8" target="_top" xlink:title="Offer the user a multiple choice question. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="162.5,-202 162.5,-221 269.5,-221 269.5,-202 162.5,-202"/>
 <text text-anchor="middle" x="216" y="-209" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_multi_choice</text>
 </a>
 </g>
 </g>
-<!-- Node74346&#45;&gt;Node74370 -->
+<!-- Node73464&#45;&gt;Node73488 -->
 <g id="edge2" class="edge">
-<title>Node74346&#45;&gt;Node74370</title>
+<title>Node73464&#45;&gt;Node73488</title>
 <path fill="none" stroke="#191970" d="M68.7598,-145.0394C85.9549,-157.5016 117.8908,-179.2855 148,-192.5 153.3929,-194.8669 159.1568,-197.0146 164.9625,-198.942"/>
 <polygon fill="#191970" stroke="#191970" points="164.1259,-202.3472 174.7143,-201.9776 166.2065,-195.6635 164.1259,-202.3472"/>
 </g>
-<!-- Node74446 -->
+<!-- Node73564 -->
 <g id="node4" class="node">
-<title>Node74446</title>
+<title>Node73564</title>
 <g id="a_node4"><a xlink:href="crypt__gpgme_8c.html#ad4d211dd6072df61ecfc4c7311f1aaec" target="_top" xlink:title="Ask the user for a key. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="163,-164 163,-183 269,-183 269,-164 163,-164"/>
 <text text-anchor="middle" x="216" y="-171" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">crypt_ask_for_key</text>
 </a>
 </g>
 </g>
-<!-- Node74346&#45;&gt;Node74446 -->
+<!-- Node73464&#45;&gt;Node73564 -->
 <g id="edge3" class="edge">
-<title>Node74346&#45;&gt;Node74446</title>
+<title>Node73464&#45;&gt;Node73564</title>
 <path fill="none" stroke="#191970" d="M96.3748,-145.089C117.4885,-150.1035 143.5287,-156.2881 165.9169,-161.6053"/>
 <polygon fill="#191970" stroke="#191970" points="165.3774,-165.0744 175.9156,-163.9799 166.995,-158.2639 165.3774,-165.0744"/>
 </g>
-<!-- Node74885 -->
+<!-- Node74003 -->
 <g id="node5" class="node">
-<title>Node74885</title>
+<title>Node74003</title>
 <g id="a_node5"><a xlink:href="crypt__gpgme_8c.html#afa1d67803d96d8fa8b995775d2a88555" target="_top" xlink:title="Find the fingerprint of a key. ">
 <polygon fill="#ffffff" stroke="#000000" points="161,-126 161,-145 271,-145 271,-126 161,-126"/>
 <text text-anchor="middle" x="216" y="-133" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">crypt_fpr_or_lkeyid</text>
 </a>
 </g>
 </g>
-<!-- Node74346&#45;&gt;Node74885 -->
+<!-- Node73464&#45;&gt;Node74003 -->
 <g id="edge4" class="edge">
-<title>Node74346&#45;&gt;Node74885</title>
+<title>Node73464&#45;&gt;Node74003</title>
 <path fill="none" stroke="#191970" d="M112.41,-135.5C124.8337,-135.5 138.0909,-135.5 150.8285,-135.5"/>
 <polygon fill="#191970" stroke="#191970" points="150.9065,-139.0001 160.9065,-135.5 150.9064,-132.0001 150.9065,-139.0001"/>
 </g>
-<!-- Node75668 -->
+<!-- Node74793 -->
 <g id="node6" class="node">
-<title>Node75668</title>
+<title>Node74793</title>
 <g id="a_node6"><a xlink:href="subset_8c.html#a8d7d5e60bd8f7f0f8ffd8522de126b12" target="_top" xlink:title="Set a config item by string. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="148,-88 148,-107 284,-107 284,-88 148,-88"/>
 <text text-anchor="middle" x="216" y="-95" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_subset_str_string_set</text>
 </a>
 </g>
 </g>
-<!-- Node74346&#45;&gt;Node75668 -->
+<!-- Node73464&#45;&gt;Node74793 -->
 <g id="edge5" class="edge">
-<title>Node74346&#45;&gt;Node75668</title>
+<title>Node73464&#45;&gt;Node74793</title>
 <path fill="none" stroke="#191970" d="M96.3748,-125.911C117.4885,-120.8965 143.5287,-114.7119 165.9169,-109.3947"/>
 <polygon fill="#191970" stroke="#191970" points="166.995,-112.7361 175.9156,-107.0201 165.3774,-105.9256 166.995,-112.7361"/>
 </g>
-<!-- Node75607 -->
+<!-- Node74732 -->
 <g id="node7" class="node">
-<title>Node75607</title>
+<title>Node74732</title>
 <g id="a_node7"><a xlink:href="crypt__gpgme_8c.html#ae007f214cde6d7245c8a5ca70da0e4de" target="_top" xlink:title="Release all the keys in a list. ">
 <polygon fill="#ffffff" stroke="#000000" points="171.5,-50 171.5,-69 260.5,-69 260.5,-50 171.5,-50"/>
 <text text-anchor="middle" x="216" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">crypt_key_free</text>
 </a>
 </g>
 </g>
-<!-- Node74346&#45;&gt;Node75607 -->
+<!-- Node73464&#45;&gt;Node74732 -->
 <g id="edge6" class="edge">
-<title>Node74346&#45;&gt;Node75607</title>
+<title>Node73464&#45;&gt;Node74732</title>
 <path fill="none" stroke="#191970" d="M68.7598,-125.9606C85.9549,-113.4984 117.8908,-91.7145 148,-78.5 153.3929,-76.1331 159.1568,-73.9854 164.9625,-72.058"/>
 <polygon fill="#191970" stroke="#191970" points="166.2065,-75.3365 174.7143,-69.0224 164.1259,-68.6528 166.2065,-75.3365"/>
 </g>
-<!-- Node75584 -->
+<!-- Node74709 -->
 <g id="node8" class="node">
-<title>Node75584</title>
+<title>Node74709</title>
 <g id="a_node8"><a xlink:href="crypt_8c.html#a8ebc13a33b0dd650151d5b1b37cb99e4" target="_top" xlink:title="Can all recipients be determined. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="161,-.5 161,-30.5 271,-30.5 271,-.5 161,-.5"/>
 <text text-anchor="start" x="169" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">crypt_opportunistic</text>
@@ -115,15 +115,15 @@
 </a>
 </g>
 </g>
-<!-- Node74346&#45;&gt;Node75584 -->
+<!-- Node73464&#45;&gt;Node74709 -->
 <g id="edge7" class="edge">
-<title>Node74346&#45;&gt;Node75584</title>
+<title>Node73464&#45;&gt;Node74709</title>
 <path fill="none" stroke="#191970" d="M63.0056,-125.7571C77.083,-106.8235 110.6668,-64.7931 148,-40.5 151.0804,-38.4955 154.3435,-36.623 157.7074,-34.8783"/>
 <polygon fill="#191970" stroke="#191970" points="159.2652,-38.0131 166.7912,-30.556 156.2575,-31.6922 159.2652,-38.0131"/>
 </g>
-<!-- Node75584&#45;&gt;Node74347 -->
+<!-- Node74709&#45;&gt;Node73465 -->
 <g id="edge8" class="edge">
-<title>Node75584&#45;&gt;Node74347</title>
+<title>Node74709&#45;&gt;Node73465</title>
 <path fill="none" stroke="#191970" d="M266.0774,-30.638C272.354,-33.4668 278.4945,-36.741 284,-40.5 313.4938,-60.6378 339.258,-93.7675 353.5629,-114.294"/>
 <polygon fill="#191970" stroke="#191970" points="350.7885,-116.4388 359.3012,-122.7463 356.58,-112.5069 350.7885,-116.4388"/>
 </g>

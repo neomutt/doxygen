@@ -37,6 +37,7 @@ var mx_8h =
     [ "mx_fastclose_mailbox", "mx_8h.html#ac883dc0d1391457ac62efe762067a544", null ],
     [ "mx_get_ops", "mx_8h.html#a69fb97b5bdfa030216af32bccd9b6fed", null ],
     [ "mx_tags_is_supported", "mx_8h.html#aa5e9e28ca8461569523e2dbd90ee14b1", null ],
+    [ "mx_toggle_write", "mx_8h.html#ad9772f30292be237af605c682e8f0777", null ],
     [ "mx_ops", "mx_8h.html#ad9ba91c403384d3c18d57a8cabf86e26", null ],
     [ "MboxTypeDef", "mx_8h.html#a500988f3151cd7021ad1c1e1dea27a26", null ]
 ];

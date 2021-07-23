@@ -15,7 +15,7 @@ var searchData=
   ['update_5fentries_5fvisibility',['update_entries_visibility',['../sidebar_2window_8c.html#a47d2e337bda5a709d78e0b652189daee',1,'window.c']]],
   ['update_5ffile',['update_file',['../newsrc_8c.html#a400892d96104e348988b980faace6d3f',1,'newsrc.c']]],
   ['update_5fidx',['update_idx',['../compose_8c.html#a6d6517aa9ace035c5e1449dd0bbcdeed',1,'compose.c']]],
-  ['update_5findex',['update_index',['../dlg__index_8c.html#a9b2c7a9768982f4bf72fdf8f5ce7aa2a',1,'dlg_index.c']]],
+  ['update_5findex',['update_index',['../dlg__index_8c.html#ac334f65223b65fb6e5a9877a7bb260b2',1,'update_index(struct Menu *menu, struct Context *ctx, enum MxStatus check, int oldcount, const struct IndexSharedData *shared):&#160;dlg_index.c'],['../index_2lib_8h.html#ac334f65223b65fb6e5a9877a7bb260b2',1,'update_index(struct Menu *menu, struct Context *ctx, enum MxStatus check, int oldcount, const struct IndexSharedData *shared):&#160;dlg_index.c']]],
   ['update_5findex_5fthreaded',['update_index_threaded',['../dlg__index_8c.html#ab7ca27124bd880b95aa786f29e2fa25a',1,'dlg_index.c']]],
   ['update_5findex_5funthreaded',['update_index_unthreaded',['../dlg__index_8c.html#a3a0c8a818f4198a37d3060e41200b504',1,'dlg_index.c']]],
   ['update_5fmenu',['update_menu',['../compose_8c.html#a51ed67e9d27545c7982d196826bbc7bc',1,'update_menu(struct AttachCtx *actx, struct Menu *menu, bool init):&#160;compose.c'],['../compose_2private_8h.html#a51ed67e9d27545c7982d196826bbc7bc',1,'update_menu(struct AttachCtx *actx, struct Menu *menu, bool init):&#160;compose.c']]],

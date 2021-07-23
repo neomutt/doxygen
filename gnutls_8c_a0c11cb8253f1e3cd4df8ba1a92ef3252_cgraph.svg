@@ -9,90 +9,90 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 176)">
 <title>tls_starttls_close</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-176 380,-176 380,4 -4,4"/>
-<!-- Node20799 -->
+<!-- Node20877 -->
 <g id="node1" class="node">
-<title>Node20799</title>
+<title>Node20877</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-76.5 0,-95.5 99,-95.5 99,-76.5 0,-76.5"/>
 <text text-anchor="middle" x="49.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">tls_starttls_close</text>
 </g>
-<!-- Node20800 -->
+<!-- Node20878 -->
 <g id="node2" class="node">
-<title>Node20800</title>
+<title>Node20878</title>
 <g id="a_node2"><a xlink:href="gnutls_8c.html#a27248e2b6ea60041ed4f73adc4ee2329" target="_top" xlink:title="Close a TLS socket &#45; Implements Connection::close() ">
 <polygon fill="#ffffff" stroke="#000000" points="137.5,-152.5 137.5,-171.5 234.5,-171.5 234.5,-152.5 137.5,-152.5"/>
 <text text-anchor="middle" x="186" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">tls_socket_close</text>
 </a>
 </g>
 </g>
-<!-- Node20799&#45;&gt;Node20800 -->
+<!-- Node20877&#45;&gt;Node20878 -->
 <g id="edge1" class="edge">
-<title>Node20799&#45;&gt;Node20800</title>
+<title>Node20877&#45;&gt;Node20878</title>
 <path fill="none" stroke="#191970" d="M64.0497,-95.5048C80.8453,-106.3214 109.4431,-124.2653 135,-138 141.3705,-141.4236 148.3133,-144.8707 154.9671,-148.0425"/>
 <polygon fill="#191970" stroke="#191970" points="153.8673,-151.3919 164.4084,-152.4575 156.8326,-145.051 153.8673,-151.3919"/>
 </g>
-<!-- Node20801 -->
+<!-- Node20879 -->
 <g id="node3" class="node">
-<title>Node20801</title>
+<title>Node20879</title>
 <g id="a_node3"><a xlink:href="conn_2private_8h.html#a7c2227bcc35105dbeab16bec4c3fe3e6" target="_top" xlink:title="Close a socket &#45; Implements Connection::close() ">
 <polygon fill="#ffffff" stroke="#000000" points="273,-133.5 273,-152.5 376,-152.5 376,-133.5 273,-133.5"/>
 <text text-anchor="middle" x="324.5" y="-140.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">raw_socket_close</text>
 </a>
 </g>
 </g>
-<!-- Node20799&#45;&gt;Node20801 -->
+<!-- Node20877&#45;&gt;Node20879 -->
 <g id="edge5" class="edge">
-<title>Node20799&#45;&gt;Node20801</title>
+<title>Node20877&#45;&gt;Node20879</title>
 <path fill="none" stroke="#191970" d="M91.6458,-95.548C105.4487,-98.6263 120.8667,-102.0129 135,-105 178.5113,-114.1962 227.7629,-124.0558 265.1479,-131.4269"/>
 <polygon fill="#191970" stroke="#191970" points="264.8754,-134.9403 275.3631,-133.4373 266.2272,-128.072 264.8754,-134.9403"/>
 </g>
-<!-- Node20802 -->
+<!-- Node20880 -->
 <g id="node4" class="node">
-<title>Node20802</title>
+<title>Node20880</title>
 <g id="a_node4"><a xlink:href="conn_2private_8h.html#a72f2053cb73122f3ac5d0ae55e26a6c7" target="_top" xlink:title="Read data from a socket &#45; Implements Connection::read() ">
 <polygon fill="#ffffff" stroke="#ff0000" points="136.5,-76.5 136.5,-95.5 235.5,-95.5 235.5,-76.5 136.5,-76.5"/>
 <text text-anchor="middle" x="186" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">raw_socket_read</text>
 </a>
 </g>
 </g>
-<!-- Node20799&#45;&gt;Node20802 -->
+<!-- Node20877&#45;&gt;Node20880 -->
 <g id="edge3" class="edge">
-<title>Node20799&#45;&gt;Node20802</title>
+<title>Node20877&#45;&gt;Node20880</title>
 <path fill="none" stroke="#191970" d="M99.1658,-86C107.9165,-86 117.1085,-86 126.1039,-86"/>
 <polygon fill="#191970" stroke="#191970" points="126.1425,-89.5001 136.1425,-86 126.1424,-82.5001 126.1425,-89.5001"/>
 </g>
-<!-- Node20804 -->
+<!-- Node20882 -->
 <g id="node5" class="node">
-<title>Node20804</title>
+<title>Node20882</title>
 <g id="a_node5"><a xlink:href="conn_2private_8h.html#a79bb2278f55b18858b3580d8bdf53142" target="_top" xlink:title="Write data to a socket &#45; Implements Connection::write() ">
 <polygon fill="#ffffff" stroke="#ff0000" points="135,-38.5 135,-57.5 237,-57.5 237,-38.5 135,-38.5"/>
 <text text-anchor="middle" x="186" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">raw_socket_write</text>
 </a>
 </g>
 </g>
-<!-- Node20799&#45;&gt;Node20804 -->
+<!-- Node20877&#45;&gt;Node20882 -->
 <g id="edge4" class="edge">
-<title>Node20799&#45;&gt;Node20804</title>
+<title>Node20877&#45;&gt;Node20882</title>
 <path fill="none" stroke="#191970" d="M83.9447,-76.411C101.4847,-71.5281 123.01,-65.5357 141.7631,-60.315"/>
 <polygon fill="#191970" stroke="#191970" points="142.8713,-63.6397 151.5663,-57.5859 140.994,-56.8961 142.8713,-63.6397"/>
 </g>
-<!-- Node20805 -->
+<!-- Node20883 -->
 <g id="node6" class="node">
-<title>Node20805</title>
+<title>Node20883</title>
 <g id="a_node6"><a xlink:href="conn_2private_8h.html#a3e4473be79d3294a1be08ab03d3f7eb6" target="_top" xlink:title="Checks whether reads would block &#45; Implements Connection::poll() ">
 <polygon fill="#ffffff" stroke="#ff0000" points="138.5,-.5 138.5,-19.5 233.5,-19.5 233.5,-.5 138.5,-.5"/>
 <text text-anchor="middle" x="186" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">raw_socket_poll</text>
 </a>
 </g>
 </g>
-<!-- Node20799&#45;&gt;Node20805 -->
+<!-- Node20877&#45;&gt;Node20883 -->
 <g id="edge6" class="edge">
-<title>Node20799&#45;&gt;Node20805</title>
+<title>Node20877&#45;&gt;Node20883</title>
 <path fill="none" stroke="#191970" d="M61.9676,-76.338C78.132,-64.1355 107.5158,-43.0411 135,-29 138.9889,-26.9622 143.2493,-25.0275 147.5439,-23.2278"/>
 <polygon fill="#191970" stroke="#191970" points="148.9018,-26.4545 156.9081,-19.5154 146.322,-19.9472 148.9018,-26.4545"/>
 </g>
-<!-- Node20800&#45;&gt;Node20801 -->
+<!-- Node20878&#45;&gt;Node20879 -->
 <g id="edge2" class="edge">
-<title>Node20800&#45;&gt;Node20801</title>
+<title>Node20878&#45;&gt;Node20879</title>
 <path fill="none" stroke="#191970" d="M234.8299,-155.3013C243.8665,-154.0616 253.4126,-152.7521 262.7732,-151.4679"/>
 <polygon fill="#191970" stroke="#191970" points="263.3931,-154.9158 272.8246,-150.089 262.4417,-147.9807 263.3931,-154.9158"/>
 </g>

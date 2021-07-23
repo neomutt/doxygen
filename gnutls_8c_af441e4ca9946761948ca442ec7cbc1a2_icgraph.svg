@@ -9,45 +9,45 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 43)">
 <title>tls_set_priority</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-43 351,-43 351,4 -4,4"/>
-<!-- Node12365 -->
+<!-- Node12401 -->
 <g id="node1" class="node">
-<title>Node12365</title>
+<title>Node12401</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-.5 0,-19.5 89,-19.5 89,-.5 0,-.5"/>
 <text text-anchor="middle" x="44.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">tls_set_priority</text>
 </g>
-<!-- Node12366 -->
+<!-- Node12402 -->
 <g id="node2" class="node">
-<title>Node12366</title>
+<title>Node12402</title>
 <g id="a_node2"><a xlink:href="gnutls_8c.html#ac78a03ed1e6f606a618f474c0dd798ca" target="_top" xlink:title="Get the client certificate for a TLS connection. ">
 <polygon fill="#ffffff" stroke="#000000" points="125,-19.5 125,-38.5 231,-38.5 231,-19.5 125,-19.5"/>
 <text text-anchor="middle" x="178" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">tls_get_client_cert</text>
 </a>
 </g>
 </g>
-<!-- Node12365&#45;&gt;Node12366 -->
+<!-- Node12401&#45;&gt;Node12402 -->
 <g id="edge1" class="edge">
-<title>Node12365&#45;&gt;Node12366</title>
+<title>Node12401&#45;&gt;Node12402</title>
 <path fill="none" stroke="#191970" d="M99.3801,-17.8107C107.7587,-19.0031 116.3952,-20.2323 124.7382,-21.4197"/>
 <polygon fill="#191970" stroke="#191970" points="99.7184,-14.3236 89.3249,-16.3796 98.732,-21.2538 99.7184,-14.3236"/>
 </g>
-<!-- Node12367 -->
+<!-- Node12403 -->
 <g id="node3" class="node">
-<title>Node12367</title>
+<title>Node12403</title>
 <g id="a_node3"><a xlink:href="gnutls_8c.html#ad99b7d713eb4905bafe09ed5e065c748" target="_top" xlink:title="Negotiate TLS connection. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="267,-.5 267,-19.5 347,-19.5 347,-.5 267,-.5"/>
 <text text-anchor="middle" x="307" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">tls_negotiate</text>
 </a>
 </g>
 </g>
-<!-- Node12365&#45;&gt;Node12367 -->
+<!-- Node12401&#45;&gt;Node12403 -->
 <g id="edge3" class="edge">
-<title>Node12365&#45;&gt;Node12367</title>
+<title>Node12401&#45;&gt;Node12403</title>
 <path fill="none" stroke="#191970" d="M99.0344,-10C149.1041,-10 222.1251,-10 266.9914,-10"/>
 <polygon fill="#191970" stroke="#191970" points="99.0296,-6.5001 89.0295,-10 99.0295,-13.5001 99.0296,-6.5001"/>
 </g>
-<!-- Node12366&#45;&gt;Node12367 -->
+<!-- Node12402&#45;&gt;Node12403 -->
 <g id="edge2" class="edge">
-<title>Node12366&#45;&gt;Node12367</title>
+<title>Node12402&#45;&gt;Node12403</title>
 <path fill="none" stroke="#191970" d="M241.3746,-19.6658C250.0728,-18.3846 258.7984,-17.0995 266.9183,-15.9035"/>
 <polygon fill="#191970" stroke="#191970" points="240.5972,-16.2424 231.214,-21.1623 241.6173,-23.1677 240.5972,-16.2424"/>
 </g>

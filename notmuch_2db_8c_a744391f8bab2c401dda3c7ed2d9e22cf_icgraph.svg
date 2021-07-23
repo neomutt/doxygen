@@ -9,105 +9,105 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 378)">
 <title>nm_db_get</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-378 370,-378 370,4 -4,4"/>
-<!-- Node1294 -->
+<!-- Node1404 -->
 <g id="node1" class="node">
-<title>Node1294</title>
+<title>Node1404</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-183.5 0,-202.5 71,-202.5 71,-183.5 0,-183.5"/>
 <text text-anchor="middle" x="35.5" y="-190.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nm_db_get</text>
 </g>
-<!-- Node1295 -->
+<!-- Node1405 -->
 <g id="node2" class="node">
-<title>Node1295</title>
+<title>Node1405</title>
 <g id="a_node2"><a xlink:href="notmuch_2lib_8h.html#aca97e4209036f41430d270c44c20cd51" target="_top" xlink:title="Start a long transaction. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="115.5,-354.5 115.5,-373.5 228.5,-373.5 228.5,-354.5 115.5,-354.5"/>
 <text text-anchor="middle" x="172" y="-361.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nm_db_longrun_init</text>
 </a>
 </g>
 </g>
-<!-- Node1294&#45;&gt;Node1295 -->
+<!-- Node1404&#45;&gt;Node1405 -->
 <g id="edge1" class="edge">
-<title>Node1294&#45;&gt;Node1295</title>
+<title>Node1404&#45;&gt;Node1405</title>
 <path fill="none" stroke="#191970" d="M39.3621,-212.9364C46.7034,-245.4318 65.7712,-309.7237 107,-345 111.556,-348.8982 116.8764,-351.9972 122.4759,-354.4609"/>
 <polygon fill="#191970" stroke="#191970" points="42.7269,-211.9299 37.2373,-202.8681 35.8777,-213.3754 42.7269,-211.9299"/>
 </g>
-<!-- Node1864 -->
+<!-- Node2029 -->
 <g id="node3" class="node">
-<title>Node1864</title>
+<title>Node2029</title>
 <g id="a_node3"><a xlink:href="notmuch_8c.html#a8aa5ba34ffb0be079f29fe58bb83c280" target="_top" xlink:title="Create a new query. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="139.5,-316.5 139.5,-335.5 204.5,-335.5 204.5,-316.5 139.5,-316.5"/>
 <text text-anchor="middle" x="172" y="-323.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">get_query</text>
 </a>
 </g>
 </g>
-<!-- Node1294&#45;&gt;Node1864 -->
+<!-- Node1404&#45;&gt;Node2029 -->
 <g id="edge2" class="edge">
-<title>Node1294&#45;&gt;Node1864</title>
+<title>Node1404&#45;&gt;Node2029</title>
 <path fill="none" stroke="#191970" d="M42.4971,-212.2284C52.7387,-237.6792 74.2282,-282.2156 107,-307 116.3773,-314.0918 128.3467,-318.5422 139.4524,-321.3328"/>
 <polygon fill="#191970" stroke="#191970" points="45.6519,-210.6807 38.7964,-202.6027 39.1181,-213.1927 45.6519,-210.6807"/>
 </g>
-<!-- Node1865 -->
+<!-- Node2030 -->
 <g id="node4" class="node">
-<title>Node1865</title>
+<title>Node2030</title>
 <g id="a_node4"><a xlink:href="notmuch_8c.html#adc3bd6b21e3f137f3bb6a9b90b39be38" target="_top" xlink:title="Delete a file. ">
 <polygon fill="#ffffff" stroke="#000000" points="121,-278.5 121,-297.5 223,-297.5 223,-278.5 121,-278.5"/>
 <text text-anchor="middle" x="172" y="-285.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">remove_filename</text>
 </a>
 </g>
 </g>
-<!-- Node1294&#45;&gt;Node1865 -->
+<!-- Node1404&#45;&gt;Node2030 -->
 <g id="edge3" class="edge">
-<title>Node1294&#45;&gt;Node1865</title>
+<title>Node1404&#45;&gt;Node2030</title>
 <path fill="none" stroke="#191970" d="M49.3668,-210.5484C62.6813,-226.3919 84.1027,-249.3946 107,-264 116.3305,-269.9516 127.3495,-274.7251 137.6383,-278.3986"/>
 <polygon fill="#191970" stroke="#191970" points="51.8884,-208.1032 42.846,-202.5818 46.4716,-212.537 51.8884,-208.1032"/>
 </g>
-<!-- Node1336 -->
+<!-- Node1446 -->
 <g id="node5" class="node">
-<title>Node1336</title>
-<g id="a_node5"><a xlink:href="notmuch_8c.html#af34af0a876b8063034f021754bf66886" target="_top" xlink:title="Save changes to the Mailbox &#45; Implements MxOps::mbox_sync() ">
+<title>Node1446</title>
+<g id="a_node5"><a xlink:href="group__mx__mbox__sync.html#gaf34af0a876b8063034f021754bf66886" target="_top" xlink:title="Save changes to the Mailbox &#45; Implements MxOps::mbox_sync() &#45;. ">
 <polygon fill="#ffffff" stroke="#000000" points="273,-240.5 273,-259.5 366,-259.5 366,-240.5 273,-240.5"/>
 <text text-anchor="middle" x="319.5" y="-247.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nm_mbox_sync</text>
 </a>
 </g>
 </g>
-<!-- Node1294&#45;&gt;Node1336 -->
+<!-- Node1404&#45;&gt;Node1446 -->
 <g id="edge11" class="edge">
-<title>Node1294&#45;&gt;Node1336</title>
+<title>Node1404&#45;&gt;Node1446</title>
 <path fill="none" stroke="#191970" d="M58.1948,-208.0839C71.7722,-216.319 89.7014,-225.8597 107,-231 162.3881,-247.4585 229.1812,-250.9136 272.9118,-251.1016"/>
 <polygon fill="#191970" stroke="#191970" points="59.8826,-205.011 49.5516,-202.6613 56.1625,-210.9406 59.8826,-205.011"/>
 </g>
-<!-- Node1866 -->
+<!-- Node2031 -->
 <g id="node6" class="node">
-<title>Node1866</title>
+<title>Node2031</title>
 <g id="a_node6"><a xlink:href="notmuch_8c.html#a9007300d0a2336c11035d0d34f9458aa" target="_top" xlink:title="Rename the file. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="121,-202.5 121,-221.5 223,-221.5 223,-202.5 121,-202.5"/>
 <text text-anchor="middle" x="172" y="-209.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">rename_filename</text>
 </a>
 </g>
 </g>
-<!-- Node1294&#45;&gt;Node1866 -->
+<!-- Node1404&#45;&gt;Node2031 -->
 <g id="edge5" class="edge">
-<title>Node1294&#45;&gt;Node1866</title>
+<title>Node1404&#45;&gt;Node2031</title>
 <path fill="none" stroke="#191970" d="M80.9958,-199.3328C93.8248,-201.1185 107.8651,-203.0728 120.9943,-204.9003"/>
 <polygon fill="#191970" stroke="#191970" points="81.3945,-195.8546 71.0074,-197.9424 80.4294,-202.7877 81.3945,-195.8546"/>
 </g>
-<!-- Node1724 -->
+<!-- Node1885 -->
 <g id="node7" class="node">
-<title>Node1724</title>
+<title>Node1885</title>
 <g id="a_node7"><a xlink:href="notmuch_8c.html#a8ac57cce7f11e7ce9b485d9fce4c2975" target="_top" xlink:title="Get the entire thread of an email. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="107,-164.5 107,-183.5 237,-183.5 237,-164.5 107,-164.5"/>
 <text text-anchor="middle" x="172" y="-171.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nm_read_entire_thread</text>
 </a>
 </g>
 </g>
-<!-- Node1294&#45;&gt;Node1724 -->
+<!-- Node1404&#45;&gt;Node1885 -->
 <g id="edge7" class="edge">
-<title>Node1294&#45;&gt;Node1724</title>
+<title>Node1404&#45;&gt;Node1885</title>
 <path fill="none" stroke="#191970" d="M81.1361,-186.6477C89.375,-185.5009 98.1095,-184.2851 106.7788,-183.0784"/>
 <polygon fill="#191970" stroke="#191970" points="80.4294,-183.2123 71.0074,-188.0576 81.3945,-190.1454 80.4294,-183.2123"/>
 </g>
-<!-- Node1870 -->
+<!-- Node2035 -->
 <g id="node8" class="node">
-<title>Node1870</title>
+<title>Node2035</title>
 <g id="a_node8"><a xlink:href="notmuch_8c.html#ad84349cdd5669f38ce04692c048dcfc8" target="_top" xlink:title="Is a message still visible in the query? ">
 <polygon fill="#ffffff" stroke="#ff0000" points="112.5,-115 112.5,-145 231.5,-145 231.5,-115 112.5,-115"/>
 <text text-anchor="start" x="120.5" y="-133" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nm_message_is_still</text>
@@ -115,66 +115,66 @@
 </a>
 </g>
 </g>
-<!-- Node1294&#45;&gt;Node1870 -->
+<!-- Node1404&#45;&gt;Node2035 -->
 <g id="edge8" class="edge">
-<title>Node1294&#45;&gt;Node1870</title>
+<title>Node1404&#45;&gt;Node2035</title>
 <path fill="none" stroke="#191970" d="M61.3672,-178.2762C74.7865,-170.8891 91.5617,-162.04 107,-155 114.4806,-151.5888 122.5733,-148.2259 130.4251,-145.1263"/>
 <polygon fill="#191970" stroke="#191970" points="59.2898,-175.4269 52.256,-183.3501 62.6956,-181.5426 59.2898,-175.4269"/>
 </g>
-<!-- Node1519 -->
+<!-- Node1665 -->
 <g id="node9" class="node">
-<title>Node1519</title>
+<title>Node1665</title>
 <g id="a_node9"><a xlink:href="notmuch_8c.html#a76a97a39757a2e0441d23eab1ba5a221" target="_top" xlink:title="Add a message to the Notmuch database. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="113,-76.5 113,-95.5 231,-95.5 231,-76.5 113,-76.5"/>
 <text text-anchor="middle" x="172" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nm_record_message</text>
 </a>
 </g>
 </g>
-<!-- Node1294&#45;&gt;Node1519 -->
+<!-- Node1404&#45;&gt;Node1665 -->
 <g id="edge9" class="edge">
-<title>Node1294&#45;&gt;Node1519</title>
+<title>Node1404&#45;&gt;Node1665</title>
 <path fill="none" stroke="#191970" d="M46.0245,-174.6464C58.2497,-154.9141 80.2076,-123.9658 107,-106 113.4721,-101.6601 120.9274,-98.2286 128.4288,-95.5256"/>
 <polygon fill="#191970" stroke="#191970" points="42.9616,-172.9486 40.8263,-183.3261 48.967,-176.5452 42.9616,-172.9486"/>
 </g>
-<!-- Node1871 -->
+<!-- Node2036 -->
 <g id="node10" class="node">
-<title>Node1871</title>
+<title>Node2036</title>
 <g id="a_node10"><a xlink:href="notmuch_8c.html#a898d866e55c29ab688ac12f27d60c1a4" target="_top" xlink:title="Fill a list with all notmuch tags. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="123.5,-38.5 123.5,-57.5 220.5,-57.5 220.5,-38.5 123.5,-38.5"/>
 <text text-anchor="middle" x="172" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nm_get_all_tags</text>
 </a>
 </g>
 </g>
-<!-- Node1294&#45;&gt;Node1871 -->
+<!-- Node1404&#45;&gt;Node2036 -->
 <g id="edge10" class="edge">
-<title>Node1294&#45;&gt;Node1871</title>
+<title>Node1404&#45;&gt;Node2036</title>
 <path fill="none" stroke="#191970" d="M41.2626,-173.7508C50.5519,-146.0279 71.482,-95.1113 107,-67 111.886,-63.1329 117.5349,-60.0526 123.4214,-57.5992"/>
 <polygon fill="#191970" stroke="#191970" points="37.871,-172.8667 38.1718,-183.4573 44.541,-174.9907 37.871,-172.8667"/>
 </g>
-<!-- Node1562 -->
+<!-- Node1715 -->
 <g id="node11" class="node">
-<title>Node1562</title>
-<g id="a_node11"><a xlink:href="notmuch_8c.html#a077d62a65a036f3cacc562db56582ab4" target="_top" xlink:title="Save the tags to a message &#45; Implements MxOps::tags_commit() ">
+<title>Node1715</title>
+<g id="a_node11"><a xlink:href="group__mx__tags__commit.html#ga077d62a65a036f3cacc562db56582ab4" target="_top" xlink:title="Save the tags to a message &#45; Implements MxOps::tags_commit() &#45;. ">
 <polygon fill="#ffffff" stroke="#000000" points="121.5,-.5 121.5,-19.5 222.5,-19.5 222.5,-.5 121.5,-.5"/>
 <text text-anchor="middle" x="172" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nm_tags_commit</text>
 </a>
 </g>
 </g>
-<!-- Node1294&#45;&gt;Node1562 -->
+<!-- Node1404&#45;&gt;Node1715 -->
 <g id="edge12" class="edge">
-<title>Node1294&#45;&gt;Node1562</title>
+<title>Node1404&#45;&gt;Node1715</title>
 <path fill="none" stroke="#191970" d="M38.6094,-172.9725C45.0303,-138.452 63.0207,-67.7307 107,-29 111.4116,-25.1149 116.5795,-22.0226 122.0399,-19.5616"/>
 <polygon fill="#191970" stroke="#191970" points="35.0973,-172.745 36.8545,-183.1931 41.9963,-173.9296 35.0973,-172.745"/>
 </g>
-<!-- Node1865&#45;&gt;Node1336 -->
+<!-- Node2030&#45;&gt;Node1446 -->
 <g id="edge4" class="edge">
-<title>Node1865&#45;&gt;Node1336</title>
+<title>Node2030&#45;&gt;Node1446</title>
 <path fill="none" stroke="#191970" d="M219.0141,-275.8879C239.5566,-270.5956 263.2998,-264.4787 282.5472,-259.5201"/>
 <polygon fill="#191970" stroke="#191970" points="218.0311,-272.5268 209.2205,-278.411 219.7775,-279.3054 218.0311,-272.5268"/>
 </g>
-<!-- Node1866&#45;&gt;Node1336 -->
+<!-- Node2031&#45;&gt;Node1446 -->
 <g id="edge6" class="edge">
-<title>Node1866&#45;&gt;Node1336</title>
+<title>Node2031&#45;&gt;Node1446</title>
 <path fill="none" stroke="#191970" d="M219.0141,-224.1121C239.5566,-229.4044 263.2998,-235.5213 282.5472,-240.4799"/>
 <polygon fill="#191970" stroke="#191970" points="219.7775,-220.6946 209.2205,-221.589 218.0311,-227.4732 219.7775,-220.6946"/>
 </g>

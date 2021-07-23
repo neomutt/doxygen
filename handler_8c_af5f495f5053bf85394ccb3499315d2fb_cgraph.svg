@@ -9,99 +9,99 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 214)">
 <title>is_mmnoask</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-214 234,-214 234,4 -4,4"/>
-<!-- Node4619 -->
+<!-- Node5051 -->
 <g id="node1" class="node">
-<title>Node4619</title>
+<title>Node5051</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-95.5 0,-114.5 79,-114.5 79,-95.5 0,-95.5"/>
 <text text-anchor="middle" x="39.5" y="-102.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">is_mmnoask</text>
 </g>
-<!-- Node4620 -->
+<!-- Node5052 -->
 <g id="node2" class="node">
-<title>Node4620</title>
+<title>Node5052</title>
 <g id="a_node2"><a xlink:href="mutt_2string_8c.html#ad000586e39822e85693adda33c02e485" target="_top" xlink:title="Get an environment variable. ">
 <polygon fill="#ffffff" stroke="#000000" points="124,-190.5 124,-209.5 221,-209.5 221,-190.5 124,-190.5"/>
 <text text-anchor="middle" x="172.5" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_str_getenv</text>
 </a>
 </g>
 </g>
-<!-- Node4619&#45;&gt;Node4620 -->
+<!-- Node5051&#45;&gt;Node5052 -->
 <g id="edge1" class="edge">
-<title>Node4619&#45;&gt;Node4620</title>
+<title>Node5051&#45;&gt;Node5052</title>
 <path fill="none" stroke="#191970" d="M46.5515,-114.6001C58.7696,-130.5856 85.4214,-162.7053 115,-181 118.3251,-183.0566 121.8975,-184.9166 125.5752,-186.5938"/>
 <polygon fill="#191970" stroke="#191970" points="124.2725,-189.8424 134.853,-190.394 126.9258,-183.3647 124.2725,-189.8424"/>
 </g>
-<!-- Node4621 -->
+<!-- Node5053 -->
 <g id="node3" class="node">
-<title>Node4621</title>
+<title>Node5053</title>
 <g id="a_node3"><a xlink:href="mutt_2string_8c.html#a6b6a50296dd2a31863a43379ef4a343d" target="_top" xlink:title="Compare two strings. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="127.5,-152.5 127.5,-171.5 217.5,-171.5 217.5,-152.5 127.5,-152.5"/>
 <text text-anchor="middle" x="172.5" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_str_equal</text>
 </a>
 </g>
 </g>
-<!-- Node4619&#45;&gt;Node4621 -->
+<!-- Node5051&#45;&gt;Node5053 -->
 <g id="edge2" class="edge">
-<title>Node4619&#45;&gt;Node4621</title>
+<title>Node5051&#45;&gt;Node5053</title>
 <path fill="none" stroke="#191970" d="M56.8532,-114.6544C71.9395,-122.823 94.5287,-134.5201 115,-143 120.1601,-145.1375 125.6548,-147.2061 131.1229,-149.1423"/>
 <polygon fill="#191970" stroke="#191970" points="130.2644,-152.5476 140.859,-152.4708 132.5289,-145.924 130.2644,-152.5476"/>
 </g>
-<!-- Node4623 -->
+<!-- Node5055 -->
 <g id="node4" class="node">
-<title>Node4623</title>
+<title>Node5055</title>
 <g id="a_node4"><a xlink:href="mutt_2string_8c.html#ad20e00309de897a1e882fc7400335b83" target="_top" xlink:title="Copy a string into a buffer (guaranteeing NUL&#45;termination) ">
 <polygon fill="#ffffff" stroke="#000000" points="129.5,-114.5 129.5,-133.5 215.5,-133.5 215.5,-114.5 129.5,-114.5"/>
 <text text-anchor="middle" x="172.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_str_copy</text>
 </a>
 </g>
 </g>
-<!-- Node4619&#45;&gt;Node4623 -->
+<!-- Node5051&#45;&gt;Node5055 -->
 <g id="edge3" class="edge">
-<title>Node4619&#45;&gt;Node4623</title>
+<title>Node5051&#45;&gt;Node5055</title>
 <path fill="none" stroke="#191970" d="M79.0443,-110.6492C91.614,-112.4449 105.7305,-114.4615 119.1097,-116.3728"/>
 <polygon fill="#191970" stroke="#191970" points="118.7648,-119.859 129.1593,-117.8085 119.7548,-112.9293 118.7648,-119.859"/>
 </g>
-<!-- Node4624 -->
+<!-- Node5056 -->
 <g id="node5" class="node">
-<title>Node4624</title>
+<title>Node5056</title>
 <g id="a_node5"><a xlink:href="mutt_2string_8c.html#aefa17bf84a5a1cb4b41afb08cd91ceff" target="_top" xlink:title="Check for equality of two strings ignoring case (to a maximum), safely. ">
 <polygon fill="#ffffff" stroke="#000000" points="123,-76.5 123,-95.5 222,-95.5 222,-76.5 123,-76.5"/>
 <text text-anchor="middle" x="172.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_istrn_equal</text>
 </a>
 </g>
 </g>
-<!-- Node4619&#45;&gt;Node4624 -->
+<!-- Node5051&#45;&gt;Node5056 -->
 <g id="edge4" class="edge">
-<title>Node4619&#45;&gt;Node4624</title>
+<title>Node5051&#45;&gt;Node5056</title>
 <path fill="none" stroke="#191970" d="M79.0443,-99.3508C89.7045,-97.8279 101.4772,-96.1461 112.9692,-94.5044"/>
 <polygon fill="#191970" stroke="#191970" points="113.5564,-97.9561 122.9609,-93.077 112.5664,-91.0265 113.5564,-97.9561"/>
 </g>
-<!-- Node4625 -->
+<!-- Node5057 -->
 <g id="node6" class="node">
-<title>Node4625</title>
+<title>Node5057</title>
 <g id="a_node6"><a xlink:href="mutt_2string_8c.html#a29db81d6f5a7dd216cbea75ecf8a5885" target="_top" xlink:title="Compare two strings, ignoring case. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="126,-38.5 126,-57.5 219,-57.5 219,-38.5 126,-38.5"/>
 <text text-anchor="middle" x="172.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_istr_equal</text>
 </a>
 </g>
 </g>
-<!-- Node4619&#45;&gt;Node4625 -->
+<!-- Node5051&#45;&gt;Node5057 -->
 <g id="edge5" class="edge">
-<title>Node4619&#45;&gt;Node4625</title>
+<title>Node5051&#45;&gt;Node5057</title>
 <path fill="none" stroke="#191970" d="M56.8532,-95.3456C71.9395,-87.177 94.5287,-75.4799 115,-67 120.1601,-64.8625 125.6548,-62.7939 131.1229,-60.8577"/>
 <polygon fill="#191970" stroke="#191970" points="132.5289,-64.076 140.859,-57.5292 130.2644,-57.4524 132.5289,-64.076"/>
 </g>
-<!-- Node4627 -->
+<!-- Node5059 -->
 <g id="node7" class="node">
-<title>Node4627</title>
+<title>Node5059</title>
 <g id="a_node7"><a xlink:href="mutt_2string_8c.html#aebd2a8a3f8a30062c31fa1474d87cc41" target="_top" xlink:title="Check whether a string starts with a prefix, ignoring case. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="115,-.5 115,-19.5 230,-19.5 230,-.5 115,-.5"/>
 <text text-anchor="middle" x="172.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_istr_startswith</text>
 </a>
 </g>
 </g>
-<!-- Node4619&#45;&gt;Node4627 -->
+<!-- Node5051&#45;&gt;Node5059 -->
 <g id="edge6" class="edge">
-<title>Node4619&#45;&gt;Node4627</title>
+<title>Node5051&#45;&gt;Node5059</title>
 <path fill="none" stroke="#191970" d="M46.5515,-95.3999C58.7696,-79.4144 85.4214,-47.2947 115,-29 118.3251,-26.9434 121.8975,-25.0834 125.5752,-23.4062"/>
 <polygon fill="#191970" stroke="#191970" points="126.9258,-26.6353 134.853,-19.606 124.2725,-20.1576 126.9258,-26.6353"/>
 </g>

@@ -9,84 +9,84 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 176)">
 <title>imap_logout</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-176 225,-176 225,4 -4,4"/>
-<!-- Node19314 -->
+<!-- Node18900 -->
 <g id="node1" class="node">
-<title>Node19314</title>
+<title>Node18900</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-76.5 0,-95.5 77,-95.5 77,-76.5 0,-76.5"/>
 <text text-anchor="middle" x="38.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">imap_logout</text>
 </g>
-<!-- Node19315 -->
+<!-- Node18901 -->
 <g id="node2" class="node">
-<title>Node19315</title>
+<title>Node18901</title>
 <g id="a_node2"><a xlink:href="command_8c.html#a07786a21982bd266c8faca5423b7f2cf" target="_top" xlink:title="Given an IMAP command, send it to the server. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="119.5,-152.5 119.5,-171.5 214.5,-171.5 214.5,-152.5 119.5,-152.5"/>
 <text text-anchor="middle" x="167" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">imap_cmd_start</text>
 </a>
 </g>
 </g>
-<!-- Node19314&#45;&gt;Node19315 -->
+<!-- Node18900&#45;&gt;Node18901 -->
 <g id="edge1" class="edge">
-<title>Node19314&#45;&gt;Node19315</title>
+<title>Node18900&#45;&gt;Node18901</title>
 <path fill="none" stroke="#191970" d="M48.8622,-95.6494C62.6147,-108.0327 88.0741,-129.5215 113,-143 116.7864,-145.0475 120.8374,-146.946 124.9549,-148.6874"/>
 <polygon fill="#191970" stroke="#191970" points="124.0026,-152.0733 134.5903,-152.4616 126.5556,-145.5554 124.0026,-152.0733"/>
 </g>
-<!-- Node19397 -->
+<!-- Node18983 -->
 <g id="node3" class="node">
-<title>Node19397</title>
+<title>Node18983</title>
 <g id="a_node3"><a xlink:href="helpers_8c.html#a96039a9f8d37daad993ae7b490510339" target="_top" xlink:title="Get a number config item by name. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="113.5,-114.5 113.5,-133.5 220.5,-133.5 220.5,-114.5 113.5,-114.5"/>
 <text text-anchor="middle" x="167" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_subset_number</text>
 </a>
 </g>
 </g>
-<!-- Node19314&#45;&gt;Node19397 -->
+<!-- Node18900&#45;&gt;Node18983 -->
 <g id="edge2" class="edge">
-<title>Node19314&#45;&gt;Node19397</title>
+<title>Node18900&#45;&gt;Node18983</title>
 <path fill="none" stroke="#191970" d="M70.926,-95.589C87.2097,-100.4044 107.1421,-106.2988 124.622,-111.468"/>
 <polygon fill="#191970" stroke="#191970" points="124.0024,-114.9345 134.5844,-114.4141 125.9875,-108.2219 124.0024,-114.9345"/>
 </g>
-<!-- Node19403 -->
+<!-- Node18989 -->
 <g id="node4" class="node">
-<title>Node19403</title>
+<title>Node18989</title>
 <g id="a_node4"><a xlink:href="socket_8c.html#a4d13f6965c151f2b7e0b3c20bd0def21" target="_top" xlink:title="Checks whether reads would block. ">
 <polygon fill="#ffffff" stroke="#000000" points="116.5,-76.5 116.5,-95.5 217.5,-95.5 217.5,-76.5 116.5,-76.5"/>
 <text text-anchor="middle" x="167" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_socket_poll</text>
 </a>
 </g>
 </g>
-<!-- Node19314&#45;&gt;Node19403 -->
+<!-- Node18900&#45;&gt;Node18989 -->
 <g id="edge3" class="edge">
-<title>Node19314&#45;&gt;Node19403</title>
+<title>Node18900&#45;&gt;Node18989</title>
 <path fill="none" stroke="#191970" d="M77.0542,-86C86.1622,-86 96.0951,-86 105.9284,-86"/>
 <polygon fill="#191970" stroke="#191970" points="106.101,-89.5001 116.1009,-86 106.1009,-82.5001 106.101,-89.5001"/>
 </g>
-<!-- Node19404 -->
+<!-- Node18990 -->
 <g id="node5" class="node">
-<title>Node19404</title>
+<title>Node18990</title>
 <g id="a_node5"><a xlink:href="command_8c.html#a8b9d7c9333e35981d94074e9dcc28e6f" target="_top" xlink:title="Reads server responses from an IMAP command. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="120,-38.5 120,-57.5 214,-57.5 214,-38.5 120,-38.5"/>
 <text text-anchor="middle" x="167" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">imap_cmd_step</text>
 </a>
 </g>
 </g>
-<!-- Node19314&#45;&gt;Node19404 -->
+<!-- Node18900&#45;&gt;Node18990 -->
 <g id="edge4" class="edge">
-<title>Node19314&#45;&gt;Node19404</title>
+<title>Node18900&#45;&gt;Node18990</title>
 <path fill="none" stroke="#191970" d="M70.926,-76.411C87.2097,-71.5956 107.1421,-65.7012 124.622,-60.532"/>
 <polygon fill="#191970" stroke="#191970" points="125.9875,-63.7781 134.5844,-57.5859 124.0024,-57.0655 125.9875,-63.7781"/>
 </g>
-<!-- Node19360 -->
+<!-- Node18946 -->
 <g id="node6" class="node">
-<title>Node19360</title>
+<title>Node18946</title>
 <g id="a_node6"><a xlink:href="socket_8c.html#a432eed609a221c68f457302d6e40c383" target="_top" xlink:title="Close a socket. ">
 <polygon fill="#ffffff" stroke="#000000" points="113,-.5 113,-19.5 221,-19.5 221,-.5 113,-.5"/>
 <text text-anchor="middle" x="167" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_socket_close</text>
 </a>
 </g>
 </g>
-<!-- Node19314&#45;&gt;Node19360 -->
+<!-- Node18900&#45;&gt;Node18946 -->
 <g id="edge5" class="edge">
-<title>Node19314&#45;&gt;Node19360</title>
+<title>Node18900&#45;&gt;Node18946</title>
 <path fill="none" stroke="#191970" d="M48.8622,-76.3506C62.6147,-63.9673 88.0741,-42.4785 113,-29 116.7864,-26.9525 120.8374,-25.054 124.9549,-23.3126"/>
 <polygon fill="#191970" stroke="#191970" points="126.5556,-26.4446 134.5903,-19.5384 124.0026,-19.9267 126.5556,-26.4446"/>
 </g>

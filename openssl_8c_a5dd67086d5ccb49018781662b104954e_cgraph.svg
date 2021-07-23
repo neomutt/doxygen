@@ -9,177 +9,177 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 366)">
 <title>ssl_setup</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-366 351,-366 351,4 -4,4"/>
-<!-- Node11443 -->
+<!-- Node10603 -->
 <g id="node1" class="node">
-<title>Node11443</title>
+<title>Node10603</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-171.5 0,-190.5 62,-190.5 62,-171.5 0,-171.5"/>
 <text text-anchor="middle" x="31" y="-178.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">ssl_setup</text>
 </g>
-<!-- Node11444 -->
+<!-- Node10604 -->
 <g id="node2" class="node">
-<title>Node11444</title>
+<title>Node10604</title>
 <g id="a_node2"><a xlink:href="memory_8c.html#a4c1612d209c7825d55e6a014df352f03" target="_top" xlink:title="Allocate zeroed memory on the heap. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="106.5,-342.5 106.5,-361.5 210.5,-361.5 210.5,-342.5 106.5,-342.5"/>
 <text text-anchor="middle" x="158.5" y="-349.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_mem_calloc</text>
 </a>
 </g>
 </g>
-<!-- Node11443&#45;&gt;Node11444 -->
+<!-- Node10603&#45;&gt;Node10604 -->
 <g id="edge1" class="edge">
-<title>Node11443&#45;&gt;Node11444</title>
+<title>Node10603&#45;&gt;Node10604</title>
 <path fill="none" stroke="#191970" d="M32.4686,-190.8086C37.0068,-217.6562 53.2994,-292.9997 98,-333 99.9023,-334.7023 101.9564,-336.2521 104.1191,-337.663"/>
 <polygon fill="#191970" stroke="#191970" points="102.4514,-340.7402 112.9081,-342.4458 105.7974,-334.5916 102.4514,-340.7402"/>
 </g>
-<!-- Node11446 -->
+<!-- Node10606 -->
 <g id="node3" class="node">
-<title>Node11446</title>
+<title>Node10606</title>
 <g id="a_node3"><a xlink:href="openssl_8c.html#a3ec5a9ba19a2973ea48b0ea491ce08a1" target="_top" xlink:title="Get a Connection&#39;s socket data. ">
 <polygon fill="#ffffff" stroke="#000000" points="128,-304.5 128,-323.5 189,-323.5 189,-304.5 128,-304.5"/>
 <text text-anchor="middle" x="158.5" y="-311.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">sockdata</text>
 </a>
 </g>
 </g>
-<!-- Node11443&#45;&gt;Node11446 -->
+<!-- Node10603&#45;&gt;Node10606 -->
 <g id="edge2" class="edge">
-<title>Node11443&#45;&gt;Node11446</title>
+<title>Node10603&#45;&gt;Node10606</title>
 <path fill="none" stroke="#191970" d="M33.948,-190.5477C41.1787,-212.3809 61.8859,-266.278 98,-295 103.8646,-299.6642 110.8873,-303.1913 118.0377,-305.8562"/>
 <polygon fill="#191970" stroke="#191970" points="117.1794,-309.2566 127.7707,-308.9817 119.3197,-302.5918 117.1794,-309.2566"/>
 </g>
-<!-- Node11447 -->
+<!-- Node10607 -->
 <g id="node4" class="node">
-<title>Node11447</title>
+<title>Node10607</title>
 <g id="a_node4"><a xlink:href="openssl_8c.html#a8f0e82431c3c3b2f63982217cc0e9f50" target="_top" xlink:title="Dump the SSL error stack. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="101.5,-266.5 101.5,-285.5 215.5,-285.5 215.5,-266.5 101.5,-266.5"/>
 <text text-anchor="middle" x="158.5" y="-273.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">ssl_dprint_err_stack</text>
 </a>
 </g>
 </g>
-<!-- Node11443&#45;&gt;Node11447 -->
+<!-- Node10603&#45;&gt;Node10607 -->
 <g id="edge3" class="edge">
-<title>Node11443&#45;&gt;Node11447</title>
+<title>Node10603&#45;&gt;Node10607</title>
 <path fill="none" stroke="#191970" d="M37.794,-190.5354C48.8708,-205.4744 72.1922,-234.4945 98,-252 104.0434,-256.0992 110.891,-259.6583 117.7517,-262.6886"/>
 <polygon fill="#191970" stroke="#191970" points="116.4606,-265.942 127.0411,-266.4943 119.1144,-259.4645 116.4606,-265.942"/>
 </g>
-<!-- Node11449 -->
+<!-- Node10609 -->
 <g id="node5" class="node">
-<title>Node11449</title>
+<title>Node10609</title>
 <g id="a_node5"><a xlink:href="helpers_8c.html#ae50f679dd6c5bd1ba820884c8602f038" target="_top" xlink:title="Get a boolean config item by name. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="255.5,-76.5 255.5,-95.5 346.5,-95.5 346.5,-76.5 255.5,-76.5"/>
 <text text-anchor="middle" x="301" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_subset_bool</text>
 </a>
 </g>
 </g>
-<!-- Node11443&#45;&gt;Node11449 -->
+<!-- Node10603&#45;&gt;Node10609 -->
 <g id="edge4" class="edge">
-<title>Node11443&#45;&gt;Node11449</title>
+<title>Node10603&#45;&gt;Node10609</title>
 <path fill="none" stroke="#191970" d="M45.38,-171.4821C58.6062,-163.0638 78.9907,-150.9215 98,-143 125.8764,-131.3835 202.1488,-111.0624 252.8512,-98.0832"/>
 <polygon fill="#191970" stroke="#191970" points="253.8037,-101.4524 262.6289,-95.5901 252.0741,-94.6695 253.8037,-101.4524"/>
 </g>
-<!-- Node11470 -->
+<!-- Node10630 -->
 <g id="node6" class="node">
-<title>Node11470</title>
+<title>Node10630</title>
 <g id="a_node6"><a xlink:href="helpers_8c.html#acadf9e29fd733422508496a70a080c09" target="_top" xlink:title="Get a path config item by name. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="255,-190.5 255,-209.5 347,-209.5 347,-190.5 255,-190.5"/>
 <text text-anchor="middle" x="301" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_subset_path</text>
 </a>
 </g>
 </g>
-<!-- Node11443&#45;&gt;Node11470 -->
+<!-- Node10603&#45;&gt;Node10630 -->
 <g id="edge5" class="edge">
-<title>Node11443&#45;&gt;Node11470</title>
+<title>Node10603&#45;&gt;Node10630</title>
 <path fill="none" stroke="#191970" d="M43.4714,-190.7207C56.312,-200.0625 77.3119,-213.5416 98,-219 152.8586,-233.474 218.601,-222.3751 260.0929,-212.0522"/>
 <polygon fill="#191970" stroke="#191970" points="261.0377,-215.4231 269.8419,-209.5293 259.284,-208.6463 261.0377,-215.4231"/>
 </g>
-<!-- Node11471 -->
+<!-- Node10631 -->
 <g id="node7" class="node">
-<title>Node11471</title>
+<title>Node10631</title>
 <g id="a_node7"><a xlink:href="openssl_8c.html#aebadff6988380fa81412e6c0dc0f6add" target="_top" xlink:title="Load certificates and filter out the expired ones. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="100.5,-190.5 100.5,-209.5 216.5,-209.5 216.5,-190.5 100.5,-190.5"/>
 <text text-anchor="middle" x="158.5" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">ssl_load_certificates</text>
 </a>
 </g>
 </g>
-<!-- Node11443&#45;&gt;Node11471 -->
+<!-- Node10603&#45;&gt;Node10631 -->
 <g id="edge6" class="edge">
-<title>Node11443&#45;&gt;Node11471</title>
+<title>Node10603&#45;&gt;Node10631</title>
 <path fill="none" stroke="#191970" d="M62.19,-185.6479C70.8709,-186.9415 80.6528,-188.3992 90.5703,-189.8771"/>
 <polygon fill="#191970" stroke="#191970" points="90.0904,-193.3442 100.4971,-191.3564 91.1222,-186.4207 90.0904,-193.3442"/>
 </g>
-<!-- Node11486 -->
+<!-- Node10646 -->
 <g id="node8" class="node">
-<title>Node11486</title>
+<title>Node10646</title>
 <g id="a_node8"><a xlink:href="openssl_8c.html#ad249269819bbf126758110522b538d62" target="_top" xlink:title="Get the client certificate for an SSL connection. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="105,-152.5 105,-171.5 212,-171.5 212,-152.5 105,-152.5"/>
 <text text-anchor="middle" x="158.5" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">ssl_get_client_cert</text>
 </a>
 </g>
 </g>
-<!-- Node11443&#45;&gt;Node11486 -->
+<!-- Node10603&#45;&gt;Node10646 -->
 <g id="edge8" class="edge">
-<title>Node11443&#45;&gt;Node11486</title>
+<title>Node10603&#45;&gt;Node10646</title>
 <path fill="none" stroke="#191970" d="M62.19,-176.3521C72.1115,-174.8736 83.4713,-173.1807 94.8278,-171.4884"/>
 <polygon fill="#191970" stroke="#191970" points="95.3958,-174.9425 104.7706,-170.0067 94.364,-168.019 95.3958,-174.9425"/>
 </g>
-<!-- Node11593 -->
+<!-- Node10753 -->
 <g id="node9" class="node">
-<title>Node11593</title>
+<title>Node10753</title>
 <g id="a_node9"><a xlink:href="helpers_8c.html#ac477c591155aa4ae0452bbabc0affffe" target="_top" xlink:title="Get a string config item by name. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="109.5,-76.5 109.5,-95.5 207.5,-95.5 207.5,-76.5 109.5,-76.5"/>
 <text text-anchor="middle" x="158.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_subset_string</text>
 </a>
 </g>
 </g>
-<!-- Node11443&#45;&gt;Node11593 -->
+<!-- Node10603&#45;&gt;Node10753 -->
 <g id="edge10" class="edge">
-<title>Node11443&#45;&gt;Node11593</title>
+<title>Node10603&#45;&gt;Node10753</title>
 <path fill="none" stroke="#191970" d="M37.794,-171.4646C48.8708,-156.5256 72.1922,-127.5055 98,-110 104.0434,-105.9008 110.891,-102.3417 117.7517,-99.3114"/>
 <polygon fill="#191970" stroke="#191970" points="119.1144,-102.5355 127.0411,-95.5057 116.4606,-96.058 119.1144,-102.5355"/>
 </g>
-<!-- Node13619 -->
+<!-- Node12611 -->
 <g id="node10" class="node">
-<title>Node13619</title>
+<title>Node12611</title>
 <g id="a_node10"><a xlink:href="openssl_8c.html#add4f4eabd8404f14dd429fb02476f6ff" target="_top" xlink:title="Allow verification using partial chains (with no root) ">
 <polygon fill="#ffffff" stroke="#000000" points="98,-38.5 98,-57.5 219,-57.5 219,-38.5 98,-38.5"/>
 <text text-anchor="middle" x="158.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">ssl_set_verify_partial</text>
 </a>
 </g>
 </g>
-<!-- Node11443&#45;&gt;Node13619 -->
+<!-- Node10603&#45;&gt;Node12611 -->
 <g id="edge11" class="edge">
-<title>Node11443&#45;&gt;Node13619</title>
+<title>Node10603&#45;&gt;Node12611</title>
 <path fill="none" stroke="#191970" d="M33.948,-171.4523C41.1787,-149.6191 61.8859,-95.722 98,-67 100.3022,-65.169 102.7829,-63.5133 105.3797,-62.0161"/>
 <polygon fill="#191970" stroke="#191970" points="107.1273,-65.0574 114.5657,-57.5127 104.0459,-58.7721 107.1273,-65.0574"/>
 </g>
-<!-- Node13620 -->
+<!-- Node12612 -->
 <g id="node11" class="node">
-<title>Node13620</title>
+<title>Node12612</title>
 <g id="a_node11"><a xlink:href="openssl_8c.html#a7480af2397359ace6c8741be1e680295" target="_top" xlink:title="Attempt to negotiate SSL over the wire. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="117.5,-.5 117.5,-19.5 199.5,-19.5 199.5,-.5 117.5,-.5"/>
 <text text-anchor="middle" x="158.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">ssl_negotiate</text>
 </a>
 </g>
 </g>
-<!-- Node11443&#45;&gt;Node13620 -->
+<!-- Node10603&#45;&gt;Node12612 -->
 <g id="edge13" class="edge">
-<title>Node11443&#45;&gt;Node13620</title>
+<title>Node10603&#45;&gt;Node12612</title>
 <path fill="none" stroke="#191970" d="M32.4686,-171.1914C37.0068,-144.3438 53.2994,-69.0003 98,-29 101.006,-26.3101 104.3909,-24.0009 107.9847,-22.0186"/>
 <polygon fill="#191970" stroke="#191970" points="109.6435,-25.1077 117.2512,-17.7339 106.7055,-18.7541 109.6435,-25.1077"/>
 </g>
-<!-- Node11471&#45;&gt;Node11470 -->
+<!-- Node10631&#45;&gt;Node10630 -->
 <g id="edge7" class="edge">
-<title>Node11471&#45;&gt;Node11470</title>
+<title>Node10631&#45;&gt;Node10630</title>
 <path fill="none" stroke="#191970" d="M216.8714,-200C226.0299,-200 235.4822,-200 244.5954,-200"/>
 <polygon fill="#191970" stroke="#191970" points="244.7067,-203.5001 254.7066,-200 244.7066,-196.5001 244.7067,-203.5001"/>
 </g>
-<!-- Node11486&#45;&gt;Node11470 -->
+<!-- Node10646&#45;&gt;Node10630 -->
 <g id="edge9" class="edge">
-<title>Node11486&#45;&gt;Node11470</title>
+<title>Node10646&#45;&gt;Node10630</title>
 <path fill="none" stroke="#191970" d="M194.4588,-171.589C212.9385,-176.5169 235.6558,-182.5749 255.3591,-187.8291"/>
 <polygon fill="#191970" stroke="#191970" points="254.4885,-191.2192 265.0527,-190.4141 256.2922,-184.4555 254.4885,-191.2192"/>
 </g>
-<!-- Node13619&#45;&gt;Node11449 -->
+<!-- Node12611&#45;&gt;Node10609 -->
 <g id="edge12" class="edge">
-<title>Node13619&#45;&gt;Node11449</title>
+<title>Node12611&#45;&gt;Node10609</title>
 <path fill="none" stroke="#191970" d="M194.4588,-57.589C212.9385,-62.5169 235.6558,-68.5749 255.3591,-73.8291"/>
 <polygon fill="#191970" stroke="#191970" points="254.4885,-77.2192 265.0527,-76.4141 256.2922,-70.4555 254.4885,-77.2192"/>
 </g>

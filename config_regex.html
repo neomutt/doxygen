@@ -32,7 +32,7 @@
   <td id="projectalign" style="padding-left: 0.5em;">
    <a style="color: black; text-decoration: none;" href="https://neomutt.org">
    <div id="projectname">NeoMutt
-   &#160;<span id="projectnumber">2021-02-05-584-gb5c7a7</span>
+   &#160;<span id="projectnumber">2021-02-05-647-g5d4e00</span>
    </div>
    <div id="projectbrief">Teaching an old dog new tricks</div>
    </a>
@@ -97,6 +97,7 @@ $(document).ready(function(){initNavTree('config_regex.html','');});
 <li>Empty regular expression is stored as <code>NULL</code></li>
 <li>Validator is passed <code>struct <a class="el" href="structRegex.html" title="Cached regular expression. ">Regex</a></code>, which may be <code>NULL</code></li>
 <li>Data is freed when <code><a class="el" href="structConfigSet.html" title="Container for lots of config items. ">ConfigSet</a></code> is freed</li>
+<li>Implementation: <a class="el" href="config_2regex_8c.html#ae0d01281c30e5504c744004c11690370" title="Config type representing a regular expression. ">cst_regex</a></li>
 </ul>
 <table class="doxtable">
 <tr>
@@ -104,21 +105,21 @@ $(document).ready(function(){initNavTree('config_regex.html','');});
 <tr>
 <td align="left"><a class="el" href="config_2regex_8c.html#ae0d01281c30e5504c744004c11690370" title="Config type representing a regular expression. ">cst_regex()</a> </td><td align="left">Config type representing a regular expression </td></tr>
 <tr>
-<td align="left"><a class="el" href="config_2regex_8c.html#a51745ca37912561b82be4b0560686d6c" title="Destroy a Regex object - Implements ConfigSetType::destroy() ">regex_destroy()</a> </td><td align="left">Destroy a <a class="el" href="structRegex.html" title="Cached regular expression. ">Regex</a> object - Implements <a class="el" href="structConfigSetType.html#ad7c535ff8033c38dbaffa7c14bb4412e" title="Destroy a config item. ">ConfigSetType::destroy()</a> </td></tr>
+<td align="left">regex_destroy - Destroy a <a class="el" href="structRegex.html" title="Cached regular expression. ">Regex</a> object() </td><td align="left">Implements <a class="el" href="structConfigSetType.html#ad7c535ff8033c38dbaffa7c14bb4412e">ConfigSetType::destroy()</a> - </td></tr>
 <tr>
 <td align="left"><a class="el" href="config_2regex_8c.html#a9cda05f6cfcbbce2a2f73a6cbc606466" title="Free a Regex object. ">regex_free()</a> </td><td align="left">Free a <a class="el" href="structRegex.html" title="Cached regular expression. ">Regex</a> object </td></tr>
 <tr>
-<td align="left"><a class="el" href="config_2regex_8c.html#a68c106fe1c0b3a62f63458fb45e5e9da" title="Get a Regex object from a Regex config item - Implements ConfigSetType::native_get() ...">regex_native_get()</a> </td><td align="left">Get a <a class="el" href="structRegex.html" title="Cached regular expression. ">Regex</a> object from a <a class="el" href="structRegex.html" title="Cached regular expression. ">Regex</a> config item - Implements <a class="el" href="structConfigSetType.html#adaa23a7c94973926ef08f41a362abba5" title="Get a string from a config item. ">ConfigSetType::native_get()</a> </td></tr>
+<td align="left">regex_native_get - Get a <a class="el" href="structRegex.html" title="Cached regular expression. ">Regex</a> object from a <a class="el" href="structRegex.html" title="Cached regular expression. ">Regex</a> config item() </td><td align="left">Implements <a class="el" href="structConfigSetType.html#adaa23a7c94973926ef08f41a362abba5">ConfigSetType::native_get()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="config_2regex_8c.html#a7ecbccf08fd5cd85c8f3c734d91c853d" title="Set a Regex config item by Regex object - Implements ConfigSetType::native_set() ">regex_native_set()</a> </td><td align="left">Set a <a class="el" href="structRegex.html" title="Cached regular expression. ">Regex</a> config item by <a class="el" href="structRegex.html" title="Cached regular expression. ">Regex</a> object - Implements <a class="el" href="structConfigSetType.html#a96efeb892d4c223281181587a50d002b" title="Set a config item by string. ">ConfigSetType::native_set()</a> </td></tr>
+<td align="left">regex_native_set - Set a <a class="el" href="structRegex.html" title="Cached regular expression. ">Regex</a> config item by <a class="el" href="structRegex.html" title="Cached regular expression. ">Regex</a> object() </td><td align="left">Implements <a class="el" href="structConfigSetType.html#a96efeb892d4c223281181587a50d002b">ConfigSetType::native_set()</a> - </td></tr>
 <tr>
 <td align="left"><a class="el" href="config_2regex_8c.html#a524c2519d26661aea3bd2c9d93ea5bee" title="Create an Regex from a string. ">regex_new()</a> </td><td align="left">Create an <a class="el" href="structRegex.html" title="Cached regular expression. ">Regex</a> from a string </td></tr>
 <tr>
-<td align="left"><a class="el" href="config_2regex_8c.html#ad7344b1ac14714c2e96844a49f454e58" title="Reset a Regex to its initial value - Implements ConfigSetType::reset() ">regex_reset()</a> </td><td align="left">Reset a <a class="el" href="structRegex.html" title="Cached regular expression. ">Regex</a> to its initial value - Implements <a class="el" href="structConfigSetType.html#ad392f82b5421743c74fb020752a3e401" title="Reset a config item to its initial value. ">ConfigSetType::reset()</a> </td></tr>
+<td align="left">regex_reset - Reset a <a class="el" href="structRegex.html" title="Cached regular expression. ">Regex</a> to its initial value() </td><td align="left">Implements <a class="el" href="structConfigSetType.html#ad392f82b5421743c74fb020752a3e401">ConfigSetType::reset()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="config_2regex_8c.html#a3d09e4989d3c1f26e610f4558d3c032c" title="Get a Regex as a string - Implements ConfigSetType::string_get() ">regex_string_get()</a> </td><td align="left">Get a <a class="el" href="structRegex.html" title="Cached regular expression. ">Regex</a> as a string - Implements <a class="el" href="structConfigSetType.html#a4459745b328d5ff773741a53fccd5fc7" title="Get a config item as a string. ">ConfigSetType::string_get()</a> </td></tr>
+<td align="left">regex_string_get - Get a <a class="el" href="structRegex.html" title="Cached regular expression. ">Regex</a> as a string() </td><td align="left">Implements <a class="el" href="structConfigSetType.html#a4459745b328d5ff773741a53fccd5fc7">ConfigSetType::string_get()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="config_2regex_8c.html#a8aa6e89df1126458626f7217c9c6747a" title="Set a Regex by string - Implements ConfigSetType::string_set() ">regex_string_set()</a> </td><td align="left">Set a <a class="el" href="structRegex.html" title="Cached regular expression. ">Regex</a> by string - Implements <a class="el" href="structConfigSetType.html#aaab5c1abc281e7f906cccb7bf64d2554" title="Set a config item by string. ">ConfigSetType::string_set()</a> </td></tr>
+<td align="left">regex_string_set - Set a <a class="el" href="structRegex.html" title="Cached regular expression. ">Regex</a> by string() </td><td align="left">Implements <a class="el" href="structConfigSetType.html#aaab5c1abc281e7f906cccb7bf64d2554">ConfigSetType::string_set()</a> - </td></tr>
 </table>
 </div></div><!-- contents -->
 </div><!-- doc-content -->

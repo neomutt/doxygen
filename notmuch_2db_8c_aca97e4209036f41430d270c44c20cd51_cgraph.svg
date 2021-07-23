@@ -9,45 +9,45 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 43)">
 <title>nm_db_longrun_init</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-43 346,-43 346,4 -4,4"/>
-<!-- Node4789 -->
+<!-- Node5227 -->
 <g id="node1" class="node">
-<title>Node4789</title>
+<title>Node5227</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-19.5 0,-38.5 113,-38.5 113,-19.5 0,-19.5"/>
 <text text-anchor="middle" x="56.5" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nm_db_longrun_init</text>
 </g>
-<!-- Node4790 -->
+<!-- Node5228 -->
 <g id="node2" class="node">
-<title>Node4790</title>
+<title>Node5228</title>
 <g id="a_node2"><a xlink:href="notmuch_2adata_8c.html#aa07e47cb403598c209335b9112516d46" target="_top" xlink:title="Get the Notmuch Account data. ">
 <polygon fill="#ffffff" stroke="#000000" points="256,-19.5 256,-38.5 342,-38.5 342,-19.5 256,-19.5"/>
 <text text-anchor="middle" x="299" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nm_adata_get</text>
 </a>
 </g>
 </g>
-<!-- Node4789&#45;&gt;Node4790 -->
+<!-- Node5227&#45;&gt;Node5228 -->
 <g id="edge1" class="edge">
-<title>Node4789&#45;&gt;Node4790</title>
+<title>Node5227&#45;&gt;Node5228</title>
 <path fill="none" stroke="#191970" d="M113.0494,-29C153.0049,-29 206.2166,-29 245.4788,-29"/>
 <polygon fill="#191970" stroke="#191970" points="245.6508,-32.5001 255.6508,-29 245.6507,-25.5001 245.6508,-32.5001"/>
 </g>
-<!-- Node4791 -->
+<!-- Node5229 -->
 <g id="node3" class="node">
-<title>Node4791</title>
+<title>Node5229</title>
 <g id="a_node3"><a xlink:href="notmuch_2db_8c.html#a744391f8bab2c401dda3c7ed2d9e22cf" target="_top" xlink:title="Get the Notmuch database. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="149,-.5 149,-19.5 220,-19.5 220,-.5 149,-.5"/>
 <text text-anchor="middle" x="184.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nm_db_get</text>
 </a>
 </g>
 </g>
-<!-- Node4789&#45;&gt;Node4791 -->
+<!-- Node5227&#45;&gt;Node5229 -->
 <g id="edge2" class="edge">
-<title>Node4789&#45;&gt;Node4791</title>
+<title>Node5227&#45;&gt;Node5229</title>
 <path fill="none" stroke="#191970" d="M113.0153,-20.611C121.6807,-19.3247 130.5318,-18.0109 138.9213,-16.7656"/>
 <polygon fill="#191970" stroke="#191970" points="139.5044,-20.2175 148.8821,-15.287 138.4765,-13.2933 139.5044,-20.2175"/>
 </g>
-<!-- Node4791&#45;&gt;Node4790 -->
+<!-- Node5229&#45;&gt;Node5228 -->
 <g id="edge3" class="edge">
-<title>Node4791&#45;&gt;Node4790</title>
+<title>Node5229&#45;&gt;Node5228</title>
 <path fill="none" stroke="#191970" d="M220.1009,-15.9076C228.2166,-17.2543 237.013,-18.714 245.6883,-20.1535"/>
 <polygon fill="#191970" stroke="#191970" points="245.3305,-23.6419 255.7686,-21.8262 246.4764,-16.7364 245.3305,-23.6419"/>
 </g>

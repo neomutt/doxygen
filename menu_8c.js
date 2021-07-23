@@ -16,7 +16,7 @@ var menu_8c =
     [ "menu_free", "menu_8c.html#a9f3ebbce3dad0a60da1899757497a551", null ],
     [ "menu_new", "menu_8c.html#ab205f2f4d1a4b19d1d3b7302fa335185", null ],
     [ "menu_get_index", "menu_8c.html#a67ee9260e41986eb4487124b004cff18", null ],
-    [ "menu_set_index", "menu_8c.html#a6016915defd27e03ba9c3cf1c5499be1", null ],
+    [ "menu_set_index", "menu_8c.html#ae279bb826b97fcc88c0714b2a6383851", null ],
     [ "menu_queue_redraw", "menu_8c.html#a5a9733924cc01176ee916515a3683268", null ],
     [ "SearchBuffers", "menu_8c.html#ab58f1bcddaccf2bd2f0b040a1e01a16c", null ]
 ];

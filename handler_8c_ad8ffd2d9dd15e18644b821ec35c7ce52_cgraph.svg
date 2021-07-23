@@ -9,66 +9,66 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 149.5)">
 <title>mutt_can_decode</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-149.5 408,-149.5 408,4 -4,4"/>
-<!-- Node32319 -->
+<!-- Node31995 -->
 <g id="node1" class="node">
-<title>Node32319</title>
+<title>Node31995</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-69 0,-88 103,-88 103,-69 0,-69"/>
 <text text-anchor="middle" x="51.5" y="-76" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_can_decode</text>
 </g>
-<!-- Node32319&#45;&gt;Node32319 -->
+<!-- Node31995&#45;&gt;Node31995 -->
 <g id="edge4" class="edge">
-<title>Node32319&#45;&gt;Node32319</title>
+<title>Node31995&#45;&gt;Node31995</title>
 <path fill="none" stroke="#191970" d="M27.7641,-88.2571C16.2169,-97.0653 24.1289,-106.5 51.5,-106.5 69.4623,-106.5 79.0442,-102.4368 80.2458,-97.1539"/>
 <polygon fill="#191970" stroke="#191970" points="83.1923,-95.2532 75.2359,-88.2571 77.0928,-98.6879 83.1923,-95.2532"/>
 </g>
-<!-- Node32320 -->
+<!-- Node31996 -->
 <g id="node2" class="node">
-<title>Node32320</title>
+<title>Node31996</title>
 <g id="a_node2"><a xlink:href="handler_8c.html#a09f27e2821153040ea4cad0b9ade6153" target="_top" xlink:title="Should email body be filtered by mailcap. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="169.5,-126 169.5,-145 244.5,-145 244.5,-126 169.5,-126"/>
 <text text-anchor="middle" x="207" y="-133" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">is_autoview</text>
 </a>
 </g>
 </g>
-<!-- Node32319&#45;&gt;Node32320 -->
+<!-- Node31995&#45;&gt;Node31996 -->
 <g id="edge1" class="edge">
-<title>Node32319&#45;&gt;Node32320</title>
+<title>Node31995&#45;&gt;Node31996</title>
 <path fill="none" stroke="#191970" d="M76.3401,-88.0296C93.8262,-94.6984 117.8007,-103.7624 139,-111.5 148.9669,-115.1379 159.7873,-118.9974 169.8036,-122.5332"/>
 <polygon fill="#191970" stroke="#191970" points="168.8958,-125.924 179.4906,-125.9407 171.2187,-119.3206 168.8958,-125.924"/>
 </g>
-<!-- Node32347 -->
+<!-- Node32023 -->
 <g id="node3" class="node">
-<title>Node32347</title>
+<title>Node32023</title>
 <g id="a_node3"><a xlink:href="mutt_2string_8c.html#a29db81d6f5a7dd216cbea75ecf8a5885" target="_top" xlink:title="Compare two strings, ignoring case. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="311,-69 311,-88 404,-88 404,-69 311,-69"/>
 <text text-anchor="middle" x="357.5" y="-76" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_istr_equal</text>
 </a>
 </g>
 </g>
-<!-- Node32319&#45;&gt;Node32347 -->
+<!-- Node31995&#45;&gt;Node32023 -->
 <g id="edge3" class="edge">
-<title>Node32319&#45;&gt;Node32347</title>
+<title>Node31995&#45;&gt;Node32023</title>
 <path fill="none" stroke="#191970" d="M103.0627,-78.5C157.7411,-78.5 243.8777,-78.5 300.5293,-78.5"/>
 <polygon fill="#191970" stroke="#191970" points="300.7501,-82.0001 310.7501,-78.5 300.75,-75.0001 300.7501,-82.0001"/>
 </g>
-<!-- Node33134 -->
+<!-- Node32817 -->
 <g id="node4" class="node">
-<title>Node33134</title>
+<title>Node32817</title>
 <g id="a_node4"><a xlink:href="crypt_8c.html#a159d0d34a10b662acb2cc80099e5ecc7" target="_top" xlink:title="Does the message use PGP? ">
 <polygon fill="#ffffff" stroke="#ff0000" points="139,-50 139,-69 275,-69 275,-50 139,-50"/>
 <text text-anchor="middle" x="207" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_is_application_pgp</text>
 </a>
 </g>
 </g>
-<!-- Node32319&#45;&gt;Node33134 -->
+<!-- Node31995&#45;&gt;Node32817 -->
 <g id="edge5" class="edge">
-<title>Node32319&#45;&gt;Node33134</title>
+<title>Node31995&#45;&gt;Node32817</title>
 <path fill="none" stroke="#191970" d="M103.2792,-72.1733C111.4709,-71.1724 120.0971,-70.1184 128.7319,-69.0633"/>
 <polygon fill="#191970" stroke="#191970" points="129.345,-72.5145 138.8467,-67.8274 128.496,-65.5662 129.345,-72.5145"/>
 </g>
-<!-- Node33135 -->
+<!-- Node32818 -->
 <g id="node5" class="node">
-<title>Node33135</title>
+<title>Node32818</title>
 <g id="a_node5"><a xlink:href="crypt_8c.html#a4073ce5b5fcec6e245dbfa9369016b8e" target="_top" xlink:title="Does the message use S/MIME? ">
 <polygon fill="#ffffff" stroke="#ff0000" points="150.5,-.5 150.5,-30.5 263.5,-30.5 263.5,-.5 150.5,-.5"/>
 <text text-anchor="start" x="158.5" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_is_application</text>
@@ -76,27 +76,27 @@
 </a>
 </g>
 </g>
-<!-- Node32319&#45;&gt;Node33135 -->
+<!-- Node31995&#45;&gt;Node32818 -->
 <g id="edge7" class="edge">
-<title>Node32319&#45;&gt;Node33135</title>
+<title>Node31995&#45;&gt;Node32818</title>
 <path fill="none" stroke="#191970" d="M72.5744,-68.9431C90.2094,-61.0437 116.0927,-49.6763 139,-40.5 144.1813,-38.4245 149.6095,-36.3173 155.0434,-34.2519"/>
 <polygon fill="#191970" stroke="#191970" points="156.6478,-37.388 164.7783,-30.5949 154.1862,-30.8351 156.6478,-37.388"/>
 </g>
-<!-- Node32320&#45;&gt;Node32347 -->
+<!-- Node31996&#45;&gt;Node32023 -->
 <g id="edge2" class="edge">
-<title>Node32320&#45;&gt;Node32347</title>
+<title>Node31996&#45;&gt;Node32023</title>
 <path fill="none" stroke="#191970" d="M234.885,-125.9491C247.2207,-121.6491 261.8767,-116.4381 275,-111.5 291.5811,-105.2607 309.8884,-97.9782 325.0362,-91.8441"/>
 <polygon fill="#191970" stroke="#191970" points="326.5398,-95.0111 334.4844,-88.0015 323.9026,-88.5268 326.5398,-95.0111"/>
 </g>
-<!-- Node33134&#45;&gt;Node32347 -->
+<!-- Node32817&#45;&gt;Node32023 -->
 <g id="edge6" class="edge">
-<title>Node33134&#45;&gt;Node32347</title>
+<title>Node32817&#45;&gt;Node32023</title>
 <path fill="none" stroke="#191970" d="M275.2045,-68.1105C283.7196,-69.1855 292.356,-70.2758 300.6726,-71.3258"/>
 <polygon fill="#191970" stroke="#191970" points="300.269,-74.8025 310.6286,-72.5827 301.1458,-67.8576 300.269,-74.8025"/>
 </g>
-<!-- Node33135&#45;&gt;Node32347 -->
+<!-- Node32818&#45;&gt;Node32023 -->
 <g id="edge8" class="edge">
-<title>Node33135&#45;&gt;Node32347</title>
+<title>Node32818&#45;&gt;Node32023</title>
 <path fill="none" stroke="#191970" d="M249.6415,-30.5879C258.0918,-33.7432 266.8631,-37.1365 275,-40.5 293.1027,-47.983 313.0619,-57.1511 328.8137,-64.6071"/>
 <polygon fill="#191970" stroke="#191970" points="327.4907,-67.8537 338.0235,-68.9979 330.5031,-61.535 327.4907,-67.8537"/>
 </g>

@@ -32,7 +32,7 @@
   <td id="projectalign" style="padding-left: 0.5em;">
    <a style="color: black; text-decoration: none;" href="https://neomutt.org">
    <div id="projectname">NeoMutt
-   &#160;<span id="projectnumber">2021-02-05-584-gb5c7a7</span>
+   &#160;<span id="projectnumber">2021-02-05-647-g5d4e00</span>
    </div>
    <div id="projectbrief">Teaching an old dog new tricks</div>
    </a>
@@ -97,6 +97,7 @@ $(document).ready(function(){initNavTree('config_mbtable.html','');});
 <li>Empty multibyte character table is stored as <code>NULL</code></li>
 <li>Validator is passed <code>struct <a class="el" href="structMbTable.html" title="multibyte character table ">MbTable</a></code>, which may be <code>NULL</code></li>
 <li>Data is freed when <code><a class="el" href="structConfigSet.html" title="Container for lots of config items. ">ConfigSet</a></code> is freed</li>
+<li>Implementation: <a class="el" href="mbtable_8c.html#af8c55ac353d62323d39557aa7d94da5f" title="Config type representing a multi-byte table. ">cst_mbtable</a></li>
 </ul>
 <table class="doxtable">
 <tr>
@@ -104,23 +105,23 @@ $(document).ready(function(){initNavTree('config_mbtable.html','');});
 <tr>
 <td align="left"><a class="el" href="mbtable_8c.html#af8c55ac353d62323d39557aa7d94da5f" title="Config type representing a multi-byte table. ">cst_mbtable()</a> </td><td align="left">Config type representing a multi-byte table </td></tr>
 <tr>
-<td align="left"><a class="el" href="mbtable_8c.html#aea3f143fe75aa40ffa14b2785120c3e0" title="Destroy an MbTable object - Implements ConfigSetType::destroy() ">mbtable_destroy()</a> </td><td align="left">Destroy an <a class="el" href="structMbTable.html" title="multibyte character table ">MbTable</a> object - Implements <a class="el" href="structConfigSetType.html#ad7c535ff8033c38dbaffa7c14bb4412e" title="Destroy a config item. ">ConfigSetType::destroy()</a> </td></tr>
+<td align="left">mbtable_destroy - Destroy an <a class="el" href="structMbTable.html" title="multibyte character table ">MbTable</a> object() </td><td align="left">Implements <a class="el" href="structConfigSetType.html#ad7c535ff8033c38dbaffa7c14bb4412e">ConfigSetType::destroy()</a> - </td></tr>
 <tr>
 <td align="left"><a class="el" href="mbtable_8c.html#a6549fbf61fcc514cd213d1c94556cb7f" title="Create a copy of an MbTable object. ">mbtable_dup()</a> </td><td align="left">Create a copy of an <a class="el" href="structMbTable.html" title="multibyte character table ">MbTable</a> object </td></tr>
 <tr>
 <td align="left"><a class="el" href="mbtable_8c.html#a0b3dcd31a2a7c92445e3bfb7a8ab993a" title="Free an MbTable object. ">mbtable_free()</a> </td><td align="left">Free an <a class="el" href="structMbTable.html" title="multibyte character table ">MbTable</a> object </td></tr>
 <tr>
-<td align="left"><a class="el" href="mbtable_8c.html#a4040c334e1ab245578f8161060f552c2" title="Get an MbTable object from a MbTable config item - Implements ConfigSetType::native_get() ...">mbtable_native_get()</a> </td><td align="left">Get an <a class="el" href="structMbTable.html" title="multibyte character table ">MbTable</a> object from a <a class="el" href="structMbTable.html" title="multibyte character table ">MbTable</a> config item - Implements <a class="el" href="structConfigSetType.html#adaa23a7c94973926ef08f41a362abba5" title="Get a string from a config item. ">ConfigSetType::native_get()</a> </td></tr>
+<td align="left">mbtable_native_get - Get an <a class="el" href="structMbTable.html" title="multibyte character table ">MbTable</a> object from a <a class="el" href="structMbTable.html" title="multibyte character table ">MbTable</a> config item() </td><td align="left">Implements <a class="el" href="structConfigSetType.html#adaa23a7c94973926ef08f41a362abba5">ConfigSetType::native_get()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="mbtable_8c.html#aec94b58e1f18b3c870b847c1fb0c2db9" title="Set an MbTable config item by MbTable object - Implements ConfigSetType::native_set() ...">mbtable_native_set()</a> </td><td align="left">Set an <a class="el" href="structMbTable.html" title="multibyte character table ">MbTable</a> config item by <a class="el" href="structMbTable.html" title="multibyte character table ">MbTable</a> object - Implements <a class="el" href="structConfigSetType.html#a96efeb892d4c223281181587a50d002b" title="Set a config item by string. ">ConfigSetType::native_set()</a> </td></tr>
+<td align="left">mbtable_native_set - Set an <a class="el" href="structMbTable.html" title="multibyte character table ">MbTable</a> config item by <a class="el" href="structMbTable.html" title="multibyte character table ">MbTable</a> object() </td><td align="left">Implements <a class="el" href="structConfigSetType.html#a96efeb892d4c223281181587a50d002b">ConfigSetType::native_set()</a> - </td></tr>
 <tr>
 <td align="left"><a class="el" href="mbtable_8c.html#afb0bee15389907c821f92e6790571c11" title="Parse a multibyte string into a table. ">mbtable_parse()</a> </td><td align="left">Parse a multibyte string into a table </td></tr>
 <tr>
-<td align="left"><a class="el" href="mbtable_8c.html#ad93dedb9622ed94ab347897ccf309854" title="Reset an MbTable to its initial value - Implements ConfigSetType::reset() ">mbtable_reset()</a> </td><td align="left">Reset an <a class="el" href="structMbTable.html" title="multibyte character table ">MbTable</a> to its initial value - Implements <a class="el" href="structConfigSetType.html#ad392f82b5421743c74fb020752a3e401" title="Reset a config item to its initial value. ">ConfigSetType::reset()</a> </td></tr>
+<td align="left">mbtable_reset - Reset an <a class="el" href="structMbTable.html" title="multibyte character table ">MbTable</a> to its initial value() </td><td align="left">Implements <a class="el" href="structConfigSetType.html#ad392f82b5421743c74fb020752a3e401">ConfigSetType::reset()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="mbtable_8c.html#a33463c661fb9f6b68a923ff945f7a0c2" title="Get a MbTable as a string - Implements ConfigSetType::string_get() ">mbtable_string_get()</a> </td><td align="left">Get a <a class="el" href="structMbTable.html" title="multibyte character table ">MbTable</a> as a string - Implements <a class="el" href="structConfigSetType.html#a4459745b328d5ff773741a53fccd5fc7" title="Get a config item as a string. ">ConfigSetType::string_get()</a> </td></tr>
+<td align="left">mbtable_string_get - Get a <a class="el" href="structMbTable.html" title="multibyte character table ">MbTable</a> as a string() </td><td align="left">Implements <a class="el" href="structConfigSetType.html#a4459745b328d5ff773741a53fccd5fc7">ConfigSetType::string_get()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="mbtable_8c.html#a9bcc1276c78746b69a8b410923c8b06c" title="Set an MbTable by string - Implements ConfigSetType::string_set() ">mbtable_string_set()</a> </td><td align="left">Set an <a class="el" href="structMbTable.html" title="multibyte character table ">MbTable</a> by string - Implements <a class="el" href="structConfigSetType.html#aaab5c1abc281e7f906cccb7bf64d2554" title="Set a config item by string. ">ConfigSetType::string_set()</a> </td></tr>
+<td align="left">mbtable_string_set - Set an <a class="el" href="structMbTable.html" title="multibyte character table ">MbTable</a> by string() </td><td align="left">Implements <a class="el" href="structConfigSetType.html#aaab5c1abc281e7f906cccb7bf64d2554">ConfigSetType::string_set()</a> - </td></tr>
 </table>
 </div></div><!-- contents -->
 </div><!-- doc-content -->

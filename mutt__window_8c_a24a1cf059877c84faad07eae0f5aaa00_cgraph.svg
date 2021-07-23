@@ -9,84 +9,84 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 176)">
 <title>window_notify</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-176 266,-176 266,4 -4,4"/>
-<!-- Node677 -->
+<!-- Node736 -->
 <g id="node1" class="node">
-<title>Node677</title>
+<title>Node736</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-76.5 0,-95.5 88,-95.5 88,-76.5 0,-76.5"/>
 <text text-anchor="middle" x="44" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">window_notify</text>
 </g>
-<!-- Node678 -->
+<!-- Node737 -->
 <g id="node2" class="node">
-<title>Node678</title>
+<title>Node737</title>
 <g id="a_node2"><a xlink:href="mutt__window_8c.html#ab152f1452f5fefde1f999ab42863731c" target="_top" xlink:title="Was the Window visible? ">
 <polygon fill="#ffffff" stroke="#000000" points="135,-152.5 135,-171.5 251,-171.5 251,-152.5 135,-152.5"/>
 <text text-anchor="middle" x="193" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">window_was_visible</text>
 </a>
 </g>
 </g>
-<!-- Node677&#45;&gt;Node678 -->
+<!-- Node736&#45;&gt;Node737 -->
 <g id="edge1" class="edge">
-<title>Node677&#45;&gt;Node678</title>
+<title>Node736&#45;&gt;Node737</title>
 <path fill="none" stroke="#191970" d="M54.8642,-95.6589C69.5605,-108.2534 97.0482,-130.1835 124,-143 128.9092,-145.3345 134.1556,-147.4259 139.4807,-149.2893"/>
 <polygon fill="#191970" stroke="#191970" points="138.503,-152.6516 149.0949,-152.4002 140.6581,-145.9915 138.503,-152.6516"/>
 </g>
-<!-- Node679 -->
+<!-- Node738 -->
 <g id="node3" class="node">
-<title>Node679</title>
+<title>Node738</title>
 <g id="a_node3"><a xlink:href="mutt__thread_8c.html#af6f89eb1fe9177d9a3484842f7d5c1cc" target="_top" xlink:title="Is the message visible? ">
 <polygon fill="#ffffff" stroke="#000000" points="162,-114.5 162,-133.5 224,-133.5 224,-114.5 162,-114.5"/>
 <text text-anchor="middle" x="193" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">is_visible</text>
 </a>
 </g>
 </g>
-<!-- Node677&#45;&gt;Node679 -->
+<!-- Node736&#45;&gt;Node738 -->
 <g id="edge2" class="edge">
-<title>Node677&#45;&gt;Node679</title>
+<title>Node736&#45;&gt;Node738</title>
 <path fill="none" stroke="#191970" d="M81.599,-95.589C103.1302,-101.0802 130.1628,-107.9744 152.2066,-113.5963"/>
 <polygon fill="#191970" stroke="#191970" points="151.3913,-117.0003 161.9461,-116.0802 153.1212,-110.2175 151.3913,-117.0003"/>
 </g>
-<!-- Node680 -->
+<!-- Node739 -->
 <g id="node4" class="node">
-<title>Node680</title>
+<title>Node739</title>
 <g id="a_node4"><a xlink:href="mutt__window_8c.html#a03920015a9ccfd1814779c1570f2fee6" target="_top" xlink:title="Is the Window visible? ">
 <polygon fill="#ffffff" stroke="#000000" points="126,-76.5 126,-95.5 260,-95.5 260,-76.5 126,-76.5"/>
 <text text-anchor="middle" x="193" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_window_is_visible</text>
 </a>
 </g>
 </g>
-<!-- Node677&#45;&gt;Node680 -->
+<!-- Node736&#45;&gt;Node739 -->
 <g id="edge3" class="edge">
-<title>Node677&#45;&gt;Node680</title>
+<title>Node736&#45;&gt;Node739</title>
 <path fill="none" stroke="#191970" d="M88.3015,-86C96.9951,-86 106.3491,-86 115.7615,-86"/>
 <polygon fill="#191970" stroke="#191970" points="115.9694,-89.5001 125.9694,-86 115.9694,-82.5001 115.9694,-89.5001"/>
 </g>
-<!-- Node681 -->
+<!-- Node740 -->
 <g id="node5" class="node">
-<title>Node681</title>
+<title>Node740</title>
 <g id="a_node5"><a xlink:href="mutt__window_8c.html#a990ac8b364af0cda989655f4aec242e8" target="_top" xlink:title="Get the name of a Window. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="124,-38.5 124,-57.5 262,-57.5 262,-38.5 124,-38.5"/>
 <text text-anchor="middle" x="193" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_window_win_name</text>
 </a>
 </g>
 </g>
-<!-- Node677&#45;&gt;Node681 -->
+<!-- Node736&#45;&gt;Node740 -->
 <g id="edge4" class="edge">
-<title>Node677&#45;&gt;Node681</title>
+<title>Node736&#45;&gt;Node740</title>
 <path fill="none" stroke="#191970" d="M81.599,-76.411C101.084,-71.4417 125.0745,-65.3233 145.7958,-60.0387"/>
 <polygon fill="#191970" stroke="#191970" points="146.8465,-63.3828 155.6714,-57.5201 145.1166,-56.5999 146.8465,-63.3828"/>
 </g>
-<!-- Node683 -->
+<!-- Node742 -->
 <g id="node6" class="node">
-<title>Node683</title>
+<title>Node742</title>
 <g id="a_node6"><a xlink:href="mutt_2notify_8c.html#ade2f42f8e0d8a843e87816300799a8e1" target="_top" xlink:title="Send out a notification message. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="156,-.5 156,-19.5 230,-19.5 230,-.5 156,-.5"/>
 <text text-anchor="middle" x="193" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">notify_send</text>
 </a>
 </g>
 </g>
-<!-- Node677&#45;&gt;Node683 -->
+<!-- Node736&#45;&gt;Node742 -->
 <g id="edge5" class="edge">
-<title>Node677&#45;&gt;Node683</title>
+<title>Node736&#45;&gt;Node742</title>
 <path fill="none" stroke="#191970" d="M54.8642,-76.3411C69.5605,-63.7466 97.0482,-41.8165 124,-29 130.9438,-25.698 138.5625,-22.8821 146.124,-20.5103"/>
 <polygon fill="#191970" stroke="#191970" points="147.3464,-23.7998 155.9698,-17.6446 145.3901,-17.0787 147.3464,-23.7998"/>
 </g>

@@ -8,7 +8,7 @@ var structMenu =
     [ "type", "structMenu.html#a9fc12a9cc0614626cff484f1b0120bbf", null ],
     [ "pagelen", "structMenu.html#aaeccd09816a8432598225fcf326ce280", null ],
     [ "tagprefix", "structMenu.html#ad61a688c4022947670351f87b04a222d", null ],
-    [ "win_index", "structMenu.html#a8531d1210426e46689f8c08935b24df2", null ],
+    [ "win", "structMenu.html#a03edef68cc4422dea828bc89332f3020", null ],
     [ "win_ibar", "structMenu.html#a95b073682bbe6ec7acdc2c80e8f1e8df", null ],
     [ "sub", "structMenu.html#acb934ac63ef71f6efe720281b2e6bb1b", null ],
     [ "prompt", "structMenu.html#a2965a6208bf420a927d8d687f46f2776", null ],

@@ -9,30 +9,30 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 112)">
 <title>crypt_current_time</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-112 267,-112 267,4 -4,4"/>
-<!-- Node2736 -->
+<!-- Node2622 -->
 <g id="node1" class="node">
-<title>Node2736</title>
+<title>Node2622</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-44.5 0,-63.5 109,-63.5 109,-44.5 0,-44.5"/>
 <text text-anchor="middle" x="54.5" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">crypt_current_time</text>
 </g>
-<!-- Node2737 -->
+<!-- Node2623 -->
 <g id="node2" class="node">
-<title>Node2737</title>
+<title>Node2623</title>
 <g id="a_node2"><a xlink:href="helpers_8c.html#ae50f679dd6c5bd1ba820884c8602f038" target="_top" xlink:title="Get a boolean config item by name. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="158.5,-88.5 158.5,-107.5 249.5,-107.5 249.5,-88.5 158.5,-88.5"/>
 <text text-anchor="middle" x="204" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_subset_bool</text>
 </a>
 </g>
 </g>
-<!-- Node2736&#45;&gt;Node2737 -->
+<!-- Node2622&#45;&gt;Node2623 -->
 <g id="edge1" class="edge">
-<title>Node2736&#45;&gt;Node2737</title>
+<title>Node2622&#45;&gt;Node2623</title>
 <path fill="none" stroke="#191970" d="M86.9393,-63.5473C108.8809,-70.0051 138.0747,-78.5972 161.8187,-85.5854"/>
 <polygon fill="#191970" stroke="#191970" points="161.0427,-89.0054 171.624,-88.4713 163.0191,-82.2902 161.0427,-89.0054"/>
 </g>
-<!-- Node2760 -->
+<!-- Node2646 -->
 <g id="node3" class="node">
-<title>Node2760</title>
+<title>Node2646</title>
 <g id="a_node3"><a xlink:href="date_8c.html#a0fab1956f93fd1be1a2dbfb740788ef7" target="_top" xlink:title="Format localtime. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="145,-39 145,-69 263,-69 263,-39 145,-39"/>
 <text text-anchor="start" x="153" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_date_localtime</text>
@@ -40,24 +40,24 @@
 </a>
 </g>
 </g>
-<!-- Node2736&#45;&gt;Node2760 -->
+<!-- Node2622&#45;&gt;Node2646 -->
 <g id="edge2" class="edge">
-<title>Node2736&#45;&gt;Node2760</title>
+<title>Node2622&#45;&gt;Node2646</title>
 <path fill="none" stroke="#191970" d="M109.3194,-54C117.645,-54 126.3265,-54 134.908,-54"/>
 <polygon fill="#191970" stroke="#191970" points="134.9086,-57.5001 144.9086,-54 134.9086,-50.5001 134.9086,-57.5001"/>
 </g>
-<!-- Node2764 -->
+<!-- Node2650 -->
 <g id="node4" class="node">
-<title>Node2764</title>
+<title>Node2650</title>
 <g id="a_node4"><a xlink:href="state_8c.html#a8d8c6b5b8e9a2427e68fab5f5403cb63" target="_top" xlink:title="Write a string to the state. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="152,-.5 152,-19.5 256,-19.5 256,-.5 152,-.5"/>
 <text text-anchor="middle" x="204" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">state_attach_puts</text>
 </a>
 </g>
 </g>
-<!-- Node2736&#45;&gt;Node2764 -->
+<!-- Node2622&#45;&gt;Node2650 -->
 <g id="edge3" class="edge">
-<title>Node2736&#45;&gt;Node2764</title>
+<title>Node2622&#45;&gt;Node2650</title>
 <path fill="none" stroke="#191970" d="M86.9393,-44.4527C108.8809,-37.9949 138.0747,-29.4028 161.8187,-22.4146"/>
 <polygon fill="#191970" stroke="#191970" points="163.0191,-25.7098 171.624,-19.5287 161.0427,-18.9946 163.0191,-25.7098"/>
 </g>

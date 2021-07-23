@@ -9,75 +9,75 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 138)">
 <title>env_header_observer</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-138 347,-138 347,4 -4,4"/>
-<!-- Node10202 -->
+<!-- Node11120 -->
 <g id="node1" class="node">
-<title>Node10202</title>
+<title>Node11120</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-57.5 0,-76.5 122,-76.5 122,-57.5 0,-57.5"/>
 <text text-anchor="middle" x="61" y="-64.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">env_header_observer</text>
 </g>
-<!-- Node10203 -->
+<!-- Node11121 -->
 <g id="node2" class="node">
-<title>Node10203</title>
+<title>Node11121</title>
 <g id="a_node2"><a xlink:href="email_2email_8c.html#a49d22e70083e73f5b7e088ca65d16a67" target="_top" xlink:title="Set a header value in a list. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="160,-114.5 160,-133.5 231,-133.5 231,-114.5 160,-114.5"/>
 <text text-anchor="middle" x="195.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">header_set</text>
 </a>
 </g>
 </g>
-<!-- Node10202&#45;&gt;Node10203 -->
+<!-- Node11120&#45;&gt;Node11121 -->
 <g id="edge1" class="edge">
-<title>Node10202&#45;&gt;Node10203</title>
+<title>Node11120&#45;&gt;Node11121</title>
 <path fill="none" stroke="#191970" d="M83.5123,-76.5405C105.4307,-85.8294 138.9529,-100.0358 163.6111,-110.4857"/>
 <polygon fill="#191970" stroke="#191970" points="162.3412,-113.7489 172.9143,-114.4284 165.0727,-107.3038 162.3412,-113.7489"/>
 </g>
-<!-- Node10204 -->
+<!-- Node11122 -->
 <g id="node3" class="node">
-<title>Node10204</title>
+<title>Node11122</title>
 <g id="a_node3"><a xlink:href="email_2email_8c.html#a5ca9e4368191cd691ce1f24c795cb641" target="_top" xlink:title="Find a header, matching on its field, in a list of headers. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="269,-95.5 269,-114.5 343,-114.5 343,-95.5 269,-95.5"/>
 <text text-anchor="middle" x="306" y="-102.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">header_find</text>
 </a>
 </g>
 </g>
-<!-- Node10202&#45;&gt;Node10204 -->
+<!-- Node11120&#45;&gt;Node11122 -->
 <g id="edge4" class="edge">
-<title>Node10202&#45;&gt;Node10204</title>
+<title>Node11120&#45;&gt;Node11122</title>
 <path fill="none" stroke="#191970" d="M122.1919,-76.491C164.4764,-83.0494 219.892,-91.6445 258.7788,-97.6759"/>
 <polygon fill="#191970" stroke="#191970" points="258.3683,-101.154 268.7867,-99.2281 259.4413,-94.2367 258.3683,-101.154"/>
 </g>
-<!-- Node10212 -->
+<!-- Node11130 -->
 <g id="node4" class="node">
-<title>Node10212</title>
+<title>Node11130</title>
 <g id="a_node4"><a xlink:href="compose_2envelope_8c.html#a2ac8b6e6ab2aa7c3c9d4d8e4041d7b67" target="_top" xlink:title="Recalculate the Window data &#45; Implements MuttWindow::recalc() ">
 <polygon fill="#ffffff" stroke="#ff0000" points="161,-38.5 161,-57.5 230,-57.5 230,-38.5 161,-38.5"/>
 <text text-anchor="middle" x="195.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">env_recalc</text>
 </a>
 </g>
 </g>
-<!-- Node10202&#45;&gt;Node10212 -->
+<!-- Node11120&#45;&gt;Node11130 -->
 <g id="edge3" class="edge">
-<title>Node10202&#45;&gt;Node10212</title>
+<title>Node11120&#45;&gt;Node11130</title>
 <path fill="none" stroke="#191970" d="M122.3461,-58.334C131.9105,-56.9829 141.6353,-55.6091 150.7388,-54.3231"/>
 <polygon fill="#191970" stroke="#191970" points="151.2991,-57.7788 160.7112,-52.9144 150.32,-50.8476 151.2991,-57.7788"/>
 </g>
-<!-- Node10292 -->
+<!-- Node11210 -->
 <g id="node5" class="node">
-<title>Node10292</title>
+<title>Node11210</title>
 <g id="a_node5"><a xlink:href="email_2email_8c.html#a5703ece919269004eecd74af794b424b" target="_top" xlink:title="Free and remove a header from a header list. ">
 <polygon fill="#ffffff" stroke="#000000" points="158,-.5 158,-19.5 233,-19.5 233,-.5 158,-.5"/>
 <text text-anchor="middle" x="195.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">header_free</text>
 </a>
 </g>
 </g>
-<!-- Node10202&#45;&gt;Node10292 -->
+<!-- Node11120&#45;&gt;Node11210 -->
 <g id="edge5" class="edge">
-<title>Node10202&#45;&gt;Node10292</title>
+<title>Node11120&#45;&gt;Node11210</title>
 <path fill="none" stroke="#191970" d="M83.5123,-57.4595C105.4307,-48.1706 138.9529,-33.9642 163.6111,-23.5143"/>
 <polygon fill="#191970" stroke="#191970" points="165.0727,-26.6962 172.9143,-19.5716 162.3412,-20.2511 165.0727,-26.6962"/>
 </g>
-<!-- Node10203&#45;&gt;Node10204 -->
+<!-- Node11121&#45;&gt;Node11122 -->
 <g id="edge2" class="edge">
-<title>Node10203&#45;&gt;Node10204</title>
+<title>Node11121&#45;&gt;Node11122</title>
 <path fill="none" stroke="#191970" d="M231.0711,-117.8837C239.967,-116.3541 249.6458,-114.6899 259.0016,-113.0812"/>
 <polygon fill="#191970" stroke="#191970" points="259.7124,-116.5104 268.9746,-111.3664 258.5261,-109.6116 259.7124,-116.5104"/>
 </g>

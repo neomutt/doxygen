@@ -9,39 +9,39 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 62)">
 <title>cmd_status</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-62 207,-62 207,4 -4,4"/>
-<!-- Node9345 -->
+<!-- Node9111 -->
 <g id="node1" class="node">
-<title>Node9345</title>
+<title>Node9111</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-19.5 0,-38.5 73,-38.5 73,-19.5 0,-19.5"/>
 <text text-anchor="middle" x="36.5" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cmd_status</text>
 </g>
-<!-- Node9346 -->
+<!-- Node9112 -->
 <g id="node2" class="node">
-<title>Node9346</title>
+<title>Node9112</title>
 <g id="a_node2"><a xlink:href="imap_2private_8h.html#a8b9d7c9333e35981d94074e9dcc28e6f" target="_top" xlink:title="Reads server responses from an IMAP command. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="109,-38.5 109,-57.5 203,-57.5 203,-38.5 109,-38.5"/>
 <text text-anchor="middle" x="156" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">imap_cmd_step</text>
 </a>
 </g>
 </g>
-<!-- Node9345&#45;&gt;Node9346 -->
+<!-- Node9111&#45;&gt;Node9112 -->
 <g id="edge1" class="edge">
-<title>Node9345&#45;&gt;Node9346</title>
+<title>Node9111&#45;&gt;Node9112</title>
 <path fill="none" stroke="#191970" d="M83.0437,-36.4003C91.4643,-37.7391 100.2533,-39.1365 108.6954,-40.4788"/>
 <polygon fill="#191970" stroke="#191970" points="83.4288,-32.9176 73.0033,-34.8039 82.3296,-39.8308 83.4288,-32.9176"/>
 </g>
-<!-- Node9911 -->
+<!-- Node9731 -->
 <g id="node3" class="node">
-<title>Node9911</title>
+<title>Node9731</title>
 <g id="a_node3"><a xlink:href="imap_2private_8h.html#abf593435042f4db0db8d4594443b0c96" target="_top" xlink:title="Was the command successful. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="121,-.5 121,-19.5 191,-19.5 191,-.5 121,-.5"/>
 <text text-anchor="middle" x="156" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">imap_code</text>
 </a>
 </g>
 </g>
-<!-- Node9345&#45;&gt;Node9911 -->
+<!-- Node9111&#45;&gt;Node9731 -->
 <g id="edge2" class="edge">
-<title>Node9345&#45;&gt;Node9911</title>
+<title>Node9111&#45;&gt;Node9731</title>
 <path fill="none" stroke="#191970" d="M82.9185,-21.6197C95.5642,-19.609 109.0493,-17.465 120.9485,-15.573"/>
 <polygon fill="#191970" stroke="#191970" points="82.3296,-18.1692 73.0033,-23.1961 83.4288,-25.0824 82.3296,-18.1692"/>
 </g>

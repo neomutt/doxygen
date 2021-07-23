@@ -9,90 +9,90 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 176)">
 <title>mutt_draw_tree</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-176 370,-176 370,4 -4,4"/>
-<!-- Node3507 -->
+<!-- Node5122 -->
 <g id="node1" class="node">
-<title>Node3507</title>
+<title>Node5122</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-76.5 0,-95.5 94,-95.5 94,-76.5 0,-76.5"/>
 <text text-anchor="middle" x="47" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_draw_tree</text>
 </g>
-<!-- Node3508 -->
+<!-- Node5123 -->
 <g id="node2" class="node">
-<title>Node3508</title>
-<g id="a_node2"><a xlink:href="helpers_8c.html#af7f3de51c3c2f5b8f527f40c8397a3fc" target="_top" xlink:title="Get a sort config item by name. ">
-<polygon fill="#ffffff" stroke="#ff0000" points="140,-152.5 140,-171.5 229,-171.5 229,-152.5 140,-152.5"/>
-<text text-anchor="middle" x="184.5" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_subset_sort</text>
+<title>Node5123</title>
+<g id="a_node2"><a xlink:href="mutt__thread_8c.html#aa7ffe096f2973f3d0cd486f8e8b4228b" target="_top" xlink:title="Which threading style is active? ">
+<polygon fill="#ffffff" stroke="#ff0000" points="131.5,-152.5 131.5,-171.5 237.5,-171.5 237.5,-152.5 131.5,-152.5"/>
+<text text-anchor="middle" x="184.5" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_thread_style</text>
 </a>
 </g>
 </g>
-<!-- Node3507&#45;&gt;Node3508 -->
+<!-- Node5122&#45;&gt;Node5123 -->
 <g id="edge1" class="edge">
-<title>Node3507&#45;&gt;Node3508</title>
+<title>Node5122&#45;&gt;Node5123</title>
 <path fill="none" stroke="#191970" d="M61.0218,-95.6641C77.2322,-106.6269 104.9078,-124.7047 130,-138 136.7831,-141.5941 144.2161,-145.1222 151.3515,-148.3204"/>
 <polygon fill="#191970" stroke="#191970" points="150.2432,-151.6556 160.808,-152.4522 153.0458,-145.2411 150.2432,-151.6556"/>
 </g>
-<!-- Node3531 -->
+<!-- Node5148 -->
 <g id="node3" class="node">
-<title>Node3531</title>
+<title>Node5148</title>
 <g id="a_node3"><a xlink:href="helpers_8c.html#ae50f679dd6c5bd1ba820884c8602f038" target="_top" xlink:title="Get a boolean config item by name. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="275,-95.5 275,-114.5 366,-114.5 366,-95.5 275,-95.5"/>
 <text text-anchor="middle" x="320.5" y="-102.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_subset_bool</text>
 </a>
 </g>
 </g>
-<!-- Node3507&#45;&gt;Node3531 -->
+<!-- Node5122&#45;&gt;Node5148 -->
 <g id="edge2" class="edge">
-<title>Node3507&#45;&gt;Node3531</title>
+<title>Node5122&#45;&gt;Node5148</title>
 <path fill="none" stroke="#191970" d="M80.6245,-95.5074C95.6052,-99.2719 113.5483,-103.141 130,-105 175.0593,-110.0915 226.4974,-109.7292 264.5564,-108.2945"/>
 <polygon fill="#191970" stroke="#191970" points="265.0732,-111.7761 274.9197,-107.865 264.7834,-104.7822 265.0732,-111.7761"/>
 </g>
-<!-- Node3532 -->
+<!-- Node5149 -->
 <g id="node4" class="node">
-<title>Node3532</title>
+<title>Node5149</title>
 <g id="a_node4"><a xlink:href="mutt__thread_8c.html#a065e55c8886d9e2850e6f9cfdaf7bdb7" target="_top" xlink:title="Are tree nodes visible. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="130.5,-76.5 130.5,-95.5 238.5,-95.5 238.5,-76.5 130.5,-76.5"/>
 <text text-anchor="middle" x="184.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">calculate_visibility</text>
 </a>
 </g>
 </g>
-<!-- Node3507&#45;&gt;Node3532 -->
+<!-- Node5122&#45;&gt;Node5149 -->
 <g id="edge3" class="edge">
-<title>Node3507&#45;&gt;Node3532</title>
+<title>Node5122&#45;&gt;Node5149</title>
 <path fill="none" stroke="#191970" d="M94.3197,-86C102.6949,-86 111.5416,-86 120.2898,-86"/>
 <polygon fill="#191970" stroke="#191970" points="120.4802,-89.5001 130.4801,-86 120.4801,-82.5001 120.4802,-89.5001"/>
 </g>
-<!-- Node3535 -->
+<!-- Node5152 -->
 <g id="node5" class="node">
-<title>Node3535</title>
+<title>Node5152</title>
 <g id="a_node5"><a xlink:href="memory_8c.html#a264da4dc58e6dc8983285bd1f538f24d" target="_top" xlink:title="Allocate memory on the heap. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="130,-38.5 130,-57.5 239,-57.5 239,-38.5 130,-38.5"/>
 <text text-anchor="middle" x="184.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_mem_malloc</text>
 </a>
 </g>
 </g>
-<!-- Node3507&#45;&gt;Node3535 -->
+<!-- Node5122&#45;&gt;Node5152 -->
 <g id="edge5" class="edge">
-<title>Node3507&#45;&gt;Node3535</title>
+<title>Node5122&#45;&gt;Node5152</title>
 <path fill="none" stroke="#191970" d="M81.6971,-76.411C99.3656,-71.5281 121.0485,-65.5357 139.939,-60.315"/>
 <polygon fill="#191970" stroke="#191970" points="141.1077,-63.6233 149.814,-57.5859 139.243,-56.8762 141.1077,-63.6233"/>
 </g>
-<!-- Node3511 -->
+<!-- Node5127 -->
 <g id="node6" class="node">
-<title>Node3511</title>
+<title>Node5127</title>
 <g id="a_node6"><a xlink:href="mutt_2string_8c.html#ad20e00309de897a1e882fc7400335b83" target="_top" xlink:title="Copy a string into a buffer (guaranteeing NUL&#45;termination) ">
 <polygon fill="#ffffff" stroke="#000000" points="141.5,-.5 141.5,-19.5 227.5,-19.5 227.5,-.5 141.5,-.5"/>
 <text text-anchor="middle" x="184.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_str_copy</text>
 </a>
 </g>
 </g>
-<!-- Node3507&#45;&gt;Node3511 -->
+<!-- Node5122&#45;&gt;Node5127 -->
 <g id="edge6" class="edge">
-<title>Node3507&#45;&gt;Node3511</title>
+<title>Node5122&#45;&gt;Node5127</title>
 <path fill="none" stroke="#191970" d="M58.7392,-76.4303C74.2714,-64.1331 102.8629,-42.7374 130,-29 134.0831,-26.933 138.444,-24.9989 142.8535,-23.2159"/>
 <polygon fill="#191970" stroke="#191970" points="144.3853,-26.3783 152.4957,-19.5612 141.9043,-19.8327 144.3853,-26.3783"/>
 </g>
-<!-- Node3532&#45;&gt;Node3531 -->
+<!-- Node5149&#45;&gt;Node5148 -->
 <g id="edge4" class="edge">
-<title>Node3532&#45;&gt;Node3531</title>
+<title>Node5149&#45;&gt;Node5148</title>
 <path fill="none" stroke="#191970" d="M238.6416,-93.5639C247.2666,-94.7689 256.2023,-96.0172 264.8612,-97.2269"/>
 <polygon fill="#191970" stroke="#191970" points="264.4756,-100.707 274.8637,-98.6243 265.4442,-93.7743 264.4756,-100.707"/>
 </g>

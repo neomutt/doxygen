@@ -32,7 +32,7 @@
   <td id="projectalign" style="padding-left: 0.5em;">
    <a style="color: black; text-decoration: none;" href="https://neomutt.org">
    <div id="projectname">NeoMutt
-   &#160;<span id="projectnumber">2021-02-05-584-gb5c7a7</span>
+   &#160;<span id="projectnumber">2021-02-05-647-g5d4e00</span>
    </div>
    <div id="projectbrief">Teaching an old dog new tricks</div>
    </a>
@@ -103,7 +103,7 @@ $(document).ready(function(){initNavTree('structMuttThread.html','');});
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="structMuttThread__coll__graph.svg" width="174" height="174"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="structMuttThread__coll__graph.svg" width="175" height="188"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 <center><span class="legend">[<a target="top" href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
@@ -148,9 +148,12 @@ Data Fields</h2></td></tr>
 <tr class="memitem:a76cec751739177388526fb9ae65b7383"><td class="memItemLeft" align="right" valign="top">struct <a class="el" href="structEmail.html">Email</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structMuttThread.html#a76cec751739177388526fb9ae65b7383">message</a></td></tr>
 <tr class="memdesc:a76cec751739177388526fb9ae65b7383"><td class="mdescLeft">&#160;</td><td class="mdescRight"><a class="el" href="structEmail.html" title="The envelope/body of an email. ">Email</a> this Thread refers to.  <a href="#a76cec751739177388526fb9ae65b7383">More...</a><br /></td></tr>
 <tr class="separator:a76cec751739177388526fb9ae65b7383"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a48169f61d6f9671be790ba2cb6914475"><td class="memItemLeft" align="right" valign="top">struct <a class="el" href="structEmail.html">Email</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structMuttThread.html#a48169f61d6f9671be790ba2cb6914475">sort_key</a></td></tr>
-<tr class="memdesc:a48169f61d6f9671be790ba2cb6914475"><td class="mdescLeft">&#160;</td><td class="mdescRight"><a class="el" href="structEmail.html" title="The envelope/body of an email. ">Email</a> that this Thread is sorted against.  <a href="#a48169f61d6f9671be790ba2cb6914475">More...</a><br /></td></tr>
-<tr class="separator:a48169f61d6f9671be790ba2cb6914475"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aecdc5e8e8fa0958dcc7fabd1de568752"><td class="memItemLeft" align="right" valign="top">struct <a class="el" href="structEmail.html">Email</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structMuttThread.html#aecdc5e8e8fa0958dcc7fabd1de568752">sort_thread_key</a></td></tr>
+<tr class="memdesc:aecdc5e8e8fa0958dcc7fabd1de568752"><td class="mdescLeft">&#160;</td><td class="mdescRight"><a class="el" href="structEmail.html" title="The envelope/body of an email. ">Email</a> that controls how top thread sorts.  <a href="#aecdc5e8e8fa0958dcc7fabd1de568752">More...</a><br /></td></tr>
+<tr class="separator:aecdc5e8e8fa0958dcc7fabd1de568752"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3dafd246afbf111a25932721162265c8"><td class="memItemLeft" align="right" valign="top">struct <a class="el" href="structEmail.html">Email</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structMuttThread.html#a3dafd246afbf111a25932721162265c8">sort_aux_key</a></td></tr>
+<tr class="memdesc:a3dafd246afbf111a25932721162265c8"><td class="mdescLeft">&#160;</td><td class="mdescRight"><a class="el" href="structEmail.html" title="The envelope/body of an email. ">Email</a> that controls how subthread siblings sort.  <a href="#a3dafd246afbf111a25932721162265c8">More...</a><br /></td></tr>
+<tr class="separator:a3dafd246afbf111a25932721162265c8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>An <a class="el" href="structEmail.html" title="The envelope/body of an email. ">Email</a> conversation. </p>
@@ -391,21 +394,39 @@ Data Fields</h2></td></tr>
 
 </div>
 </div>
-<a id="a48169f61d6f9671be790ba2cb6914475"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a48169f61d6f9671be790ba2cb6914475">&#9670;&nbsp;</a></span>sort_key</h2>
+<a id="aecdc5e8e8fa0958dcc7fabd1de568752"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aecdc5e8e8fa0958dcc7fabd1de568752">&#9670;&nbsp;</a></span>sort_thread_key</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">struct <a class="el" href="structEmail.html">Email</a>* MuttThread::sort_key</td>
+          <td class="memname">struct <a class="el" href="structEmail.html">Email</a>* MuttThread::sort_thread_key</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p><a class="el" href="structEmail.html" title="The envelope/body of an email. ">Email</a> that this Thread is sorted against. </p>
+<p><a class="el" href="structEmail.html" title="The envelope/body of an email. ">Email</a> that controls how top thread sorts. </p>
 
 <p class="definition">Definition at line <a class="el" href="thread_8h_source.html#l00050">50</a> of file <a class="el" href="thread_8h_source.html">thread.h</a>.</p>
+
+</div>
+</div>
+<a id="a3dafd246afbf111a25932721162265c8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3dafd246afbf111a25932721162265c8">&#9670;&nbsp;</a></span>sort_aux_key</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct <a class="el" href="structEmail.html">Email</a>* MuttThread::sort_aux_key</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p><a class="el" href="structEmail.html" title="The envelope/body of an email. ">Email</a> that controls how subthread siblings sort. </p>
+
+<p class="definition">Definition at line <a class="el" href="thread_8h_source.html#l00051">51</a> of file <a class="el" href="thread_8h_source.html">thread.h</a>.</p>
 
 </div>
 </div>

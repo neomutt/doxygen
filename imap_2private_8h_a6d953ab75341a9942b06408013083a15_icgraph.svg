@@ -9,45 +9,45 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 43)">
 <title>imap_unquote_string</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-43 443,-43 443,4 -4,4"/>
-<!-- Node56619 -->
+<!-- Node52119 -->
 <g id="node1" class="node">
-<title>Node56619</title>
+<title>Node52119</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-19.5 0,-38.5 119,-38.5 119,-19.5 0,-19.5"/>
 <text text-anchor="middle" x="59.5" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">imap_unquote_string</text>
 </g>
-<!-- Node56620 -->
+<!-- Node52120 -->
 <g id="node2" class="node">
-<title>Node56620</title>
+<title>Node52120</title>
 <g id="a_node2"><a xlink:href="command_8c.html#a013b0a775f0bcf4a0ad26c6422662672" target="_top" xlink:title="Parse a server LIST command (list mailboxes) ">
 <polygon fill="#ffffff" stroke="#ff0000" points="349,-19.5 349,-38.5 439,-38.5 439,-19.5 349,-19.5"/>
 <text text-anchor="middle" x="394" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cmd_parse_list</text>
 </a>
 </g>
 </g>
-<!-- Node56619&#45;&gt;Node56620 -->
+<!-- Node52119&#45;&gt;Node52120 -->
 <g id="edge1" class="edge">
-<title>Node56619&#45;&gt;Node56620</title>
+<title>Node52119&#45;&gt;Node52120</title>
 <path fill="none" stroke="#191970" d="M129.6234,-29C195.656,-29 292.5996,-29 348.9082,-29"/>
 <polygon fill="#191970" stroke="#191970" points="129.3019,-25.5001 119.3019,-29 129.3019,-32.5001 129.3019,-25.5001"/>
 </g>
-<!-- Node57185 -->
+<!-- Node52739 -->
 <g id="node3" class="node">
-<title>Node57185</title>
+<title>Node52739</title>
 <g id="a_node3"><a xlink:href="util_8c.html#a09db8de472b96f057813558da6a65a8e" target="_top" xlink:title="Remove quoting from a mailbox name. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="155,-.5 155,-19.5 313,-19.5 313,-.5 155,-.5"/>
 <text text-anchor="middle" x="234" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">imap_unmunge_mbox_name</text>
 </a>
 </g>
 </g>
-<!-- Node56619&#45;&gt;Node57185 -->
+<!-- Node52119&#45;&gt;Node52739 -->
 <g id="edge2" class="edge">
-<title>Node56619&#45;&gt;Node57185</title>
+<title>Node52119&#45;&gt;Node52739</title>
 <path fill="none" stroke="#191970" d="M129.241,-21.4064C137.695,-20.4859 146.3778,-19.5405 154.9538,-18.6067"/>
 <polygon fill="#191970" stroke="#191970" points="128.6273,-17.9525 119.0649,-22.5144 129.3851,-24.9113 128.6273,-17.9525"/>
 </g>
-<!-- Node57185&#45;&gt;Node56620 -->
+<!-- Node52739&#45;&gt;Node52120 -->
 <g id="edge3" class="edge">
-<title>Node57185&#45;&gt;Node56620</title>
+<title>Node52739&#45;&gt;Node52120</title>
 <path fill="none" stroke="#191970" d="M323.1205,-20.5831C331.9929,-21.6367 340.7137,-22.6723 348.8387,-23.6371"/>
 <polygon fill="#191970" stroke="#191970" points="323.4055,-17.0924 313.0625,-19.3887 322.58,-24.0436 323.4055,-17.0924"/>
 </g>

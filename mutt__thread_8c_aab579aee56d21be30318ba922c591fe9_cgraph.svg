@@ -9,90 +9,90 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 176)">
 <title>pseudo_threads</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-176 358,-176 358,4 -4,4"/>
-<!-- Node5973 -->
+<!-- Node7807 -->
 <g id="node1" class="node">
-<title>Node5973</title>
+<title>Node7807</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-76.5 0,-95.5 94,-95.5 94,-76.5 0,-76.5"/>
 <text text-anchor="middle" x="47" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pseudo_threads</text>
 </g>
-<!-- Node5974 -->
+<!-- Node7808 -->
 <g id="node2" class="node">
-<title>Node5974</title>
+<title>Node7808</title>
 <g id="a_node2"><a xlink:href="mutt__thread_8c.html#aadf77a87028a0d72222a1e74e144b25d" target="_top" xlink:title="Create a Hash Table for the email subjects. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="130,-152.5 130,-171.5 228,-171.5 228,-152.5 130,-152.5"/>
 <text text-anchor="middle" x="179" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">make_subj_hash</text>
 </a>
 </g>
 </g>
-<!-- Node5973&#45;&gt;Node5974 -->
+<!-- Node7807&#45;&gt;Node7808 -->
 <g id="edge1" class="edge">
-<title>Node5973&#45;&gt;Node5974</title>
+<title>Node7807&#45;&gt;Node7808</title>
 <path fill="none" stroke="#191970" d="M59.0837,-95.6367C74.7551,-107.8125 103.2582,-128.8788 130,-143 133.7215,-144.9652 137.6926,-146.839 141.7027,-148.5906"/>
 <polygon fill="#191970" stroke="#191970" points="140.4519,-151.8607 151.0308,-152.4413 143.1229,-145.3903 140.4519,-151.8607"/>
 </g>
-<!-- Node5989 -->
+<!-- Node7823 -->
 <g id="node3" class="node">
-<title>Node5989</title>
+<title>Node7823</title>
 <g id="a_node3"><a xlink:href="mutt__thread_8c.html#a6caa00fea3238ba9a1fb13e4a589d680" target="_top" xlink:title="Find the best possible match for a parent based on subject. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="141.5,-114.5 141.5,-133.5 216.5,-133.5 216.5,-114.5 141.5,-114.5"/>
 <text text-anchor="middle" x="179" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">find_subject</text>
 </a>
 </g>
 </g>
-<!-- Node5973&#45;&gt;Node5989 -->
+<!-- Node7807&#45;&gt;Node7823 -->
 <g id="edge2" class="edge">
-<title>Node5973&#45;&gt;Node5989</title>
+<title>Node7807&#45;&gt;Node7823</title>
 <path fill="none" stroke="#191970" d="M80.3092,-95.589C97.1928,-100.4494 117.8948,-106.4091 135.9705,-111.6127"/>
 <polygon fill="#191970" stroke="#191970" points="135.1235,-115.011 145.7015,-114.4141 137.06,-108.2842 135.1235,-115.011"/>
 </g>
-<!-- Node6013 -->
+<!-- Node7847 -->
 <g id="node4" class="node">
-<title>Node6013</title>
+<title>Node7847</title>
 <g id="a_node4"><a xlink:href="mutt_2string_8c.html#a6b6a50296dd2a31863a43379ef4a343d" target="_top" xlink:title="Compare two strings. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="264,-95.5 264,-114.5 354,-114.5 354,-95.5 264,-95.5"/>
 <text text-anchor="middle" x="309" y="-102.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_str_equal</text>
 </a>
 </g>
 </g>
-<!-- Node5973&#45;&gt;Node6013 -->
+<!-- Node7807&#45;&gt;Node7847 -->
 <g id="edge6" class="edge">
-<title>Node5973&#45;&gt;Node6013</title>
+<title>Node7807&#45;&gt;Node7847</title>
 <path fill="none" stroke="#191970" d="M94.1429,-89.4188C139.0256,-92.6736 206.5648,-97.5715 253.9084,-101.0048"/>
 <polygon fill="#191970" stroke="#191970" points="253.7598,-104.5031 263.9868,-101.7357 254.2662,-97.5215 253.7598,-104.5031"/>
 </g>
-<!-- Node6015 -->
+<!-- Node7849 -->
 <g id="node5" class="node">
-<title>Node6015</title>
+<title>Node7849</title>
 <g id="a_node5"><a xlink:href="thread_8c.html#a0fd268c12ac9d5c96aaff581ee341878" target="_top" xlink:title="Break the message out of the thread. ">
 <polygon fill="#ffffff" stroke="#000000" points="131,-38.5 131,-57.5 227,-57.5 227,-38.5 131,-38.5"/>
 <text text-anchor="middle" x="179" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">unlink_message</text>
 </a>
 </g>
 </g>
-<!-- Node5973&#45;&gt;Node6015 -->
+<!-- Node7807&#45;&gt;Node7849 -->
 <g id="edge4" class="edge">
-<title>Node5973&#45;&gt;Node6015</title>
+<title>Node7807&#45;&gt;Node7849</title>
 <path fill="none" stroke="#191970" d="M80.3092,-76.411C97.1928,-71.5506 117.8948,-65.5909 135.9705,-60.3873"/>
 <polygon fill="#191970" stroke="#191970" points="137.06,-63.7158 145.7015,-57.5859 135.1235,-56.989 137.06,-63.7158"/>
 </g>
-<!-- Node6016 -->
+<!-- Node7850 -->
 <g id="node6" class="node">
-<title>Node6016</title>
+<title>Node7850</title>
 <g id="a_node6"><a xlink:href="thread_8c.html#a459d73c8b753c6704bead8525a7dbc7d" target="_top" xlink:title="Insert a message into a thread. ">
 <polygon fill="#ffffff" stroke="#000000" points="132,-.5 132,-19.5 226,-19.5 226,-.5 132,-.5"/>
 <text text-anchor="middle" x="179" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">insert_message</text>
 </a>
 </g>
 </g>
-<!-- Node5973&#45;&gt;Node6016 -->
+<!-- Node7807&#45;&gt;Node7850 -->
 <g id="edge5" class="edge">
-<title>Node5973&#45;&gt;Node6016</title>
+<title>Node7807&#45;&gt;Node7850</title>
 <path fill="none" stroke="#191970" d="M59.0837,-76.3633C74.7551,-64.1875 103.2582,-43.1212 130,-29 133.7215,-27.0348 137.6926,-25.161 141.7027,-23.4094"/>
 <polygon fill="#191970" stroke="#191970" points="143.1229,-26.6097 151.0308,-19.5587 140.4519,-20.1393 143.1229,-26.6097"/>
 </g>
-<!-- Node5989&#45;&gt;Node6013 -->
+<!-- Node7823&#45;&gt;Node7847 -->
 <g id="edge3" class="edge">
-<title>Node5989&#45;&gt;Node6013</title>
+<title>Node7823&#45;&gt;Node7847</title>
 <path fill="none" stroke="#191970" d="M216.6014,-118.5044C228.1988,-116.8094 241.2205,-114.9062 253.748,-113.0753"/>
 <polygon fill="#191970" stroke="#191970" points="254.2634,-116.5372 263.6521,-111.6278 253.251,-109.6108 254.2634,-116.5372"/>
 </g>

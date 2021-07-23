@@ -9,39 +9,39 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 62)">
 <title>check_mailbox</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-62 235,-62 235,4 -4,4"/>
-<!-- Node27077 -->
+<!-- Node23619 -->
 <g id="node1" class="node">
-<title>Node27077</title>
+<title>Node23619</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-19.5 0,-38.5 90,-38.5 90,-19.5 0,-19.5"/>
 <text text-anchor="middle" x="45" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">check_mailbox</text>
 </g>
-<!-- Node27078 -->
+<!-- Node23620 -->
 <g id="node2" class="node">
-<title>Node27078</title>
-<g id="a_node2"><a xlink:href="nntp_8c.html#afc1020d6388163ca2f05c682fac382b6" target="_top" xlink:title="Check for new mail &#45; Implements MxOps::mbox_check() ">
+<title>Node23620</title>
+<g id="a_node2"><a xlink:href="group__mx__mbox__check.html#gafc1020d6388163ca2f05c682fac382b6" target="_top" xlink:title="Check for new mail &#45; Implements MxOps::mbox_check() &#45;. ">
 <polygon fill="#ffffff" stroke="#000000" points="126,-38.5 126,-57.5 231,-57.5 231,-38.5 126,-38.5"/>
 <text text-anchor="middle" x="178.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nntp_mbox_check</text>
 </a>
 </g>
 </g>
-<!-- Node27077&#45;&gt;Node27078 -->
+<!-- Node23619&#45;&gt;Node23620 -->
 <g id="edge1" class="edge">
-<title>Node27077&#45;&gt;Node27078</title>
+<title>Node23619&#45;&gt;Node23620</title>
 <path fill="none" stroke="#191970" d="M100.3691,-36.8803C108.8423,-38.0862 117.5675,-39.328 125.9768,-40.5248"/>
 <polygon fill="#191970" stroke="#191970" points="100.5904,-33.3766 90.197,-35.4325 99.6041,-40.3067 100.5904,-33.3766"/>
 </g>
-<!-- Node27079 -->
+<!-- Node23621 -->
 <g id="node3" class="node">
-<title>Node27079</title>
-<g id="a_node3"><a xlink:href="nntp_8c.html#a64573e1bd7aca7ae22829562a82ae730" target="_top" xlink:title="Save changes to the Mailbox &#45; Implements MxOps::mbox_sync() ">
+<title>Node23621</title>
+<g id="a_node3"><a xlink:href="group__mx__mbox__sync.html#ga64573e1bd7aca7ae22829562a82ae730" target="_top" xlink:title="Save changes to the Mailbox &#45; Implements MxOps::mbox_sync() &#45;. ">
 <polygon fill="#ffffff" stroke="#000000" points="129,-.5 129,-19.5 228,-19.5 228,-.5 129,-.5"/>
 <text text-anchor="middle" x="178.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nntp_mbox_sync</text>
 </a>
 </g>
 </g>
-<!-- Node27077&#45;&gt;Node27079 -->
+<!-- Node23619&#45;&gt;Node23621 -->
 <g id="edge2" class="edge">
-<title>Node27077&#45;&gt;Node27079</title>
+<title>Node23619&#45;&gt;Node23621</title>
 <path fill="none" stroke="#191970" d="M100.2809,-21.1323C109.7224,-19.7886 119.4795,-18.3999 128.7658,-17.0783"/>
 <polygon fill="#191970" stroke="#191970" points="99.6041,-17.6933 90.197,-22.5675 100.5904,-24.6234 99.6041,-17.6933"/>
 </g>

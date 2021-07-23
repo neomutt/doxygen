@@ -9,120 +9,120 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 252)">
 <title>mutt_monitor_remove</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-252 392,-252 392,4 -4,4"/>
-<!-- Node7006 -->
+<!-- Node7659 -->
 <g id="node1" class="node">
-<title>Node7006</title>
+<title>Node7659</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-114.5 0,-133.5 126,-133.5 126,-114.5 0,-114.5"/>
 <text text-anchor="middle" x="63" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_monitor_remove</text>
 </g>
-<!-- Node7007 -->
+<!-- Node7660 -->
 <g id="node2" class="node">
-<title>Node7007</title>
+<title>Node7660</title>
 <g id="a_node2"><a xlink:href="monitor_8c.html#aa53e87c13f5c188fc97ae832bf8abbff" target="_top" xlink:title="Set up a file monitor. ">
 <polygon fill="#ffffff" stroke="#000000" points="168.5,-228.5 168.5,-247.5 268.5,-247.5 268.5,-228.5 168.5,-228.5"/>
 <text text-anchor="middle" x="218.5" y="-235.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">monitor_info_init</text>
 </a>
 </g>
 </g>
-<!-- Node7006&#45;&gt;Node7007 -->
+<!-- Node7659&#45;&gt;Node7660 -->
 <g id="edge1" class="edge">
-<title>Node7006&#45;&gt;Node7007</title>
+<title>Node7659&#45;&gt;Node7660</title>
 <path fill="none" stroke="#191970" d="M70.4168,-133.5122C85.6244,-152.4112 122.269,-194.9354 162,-219 165.3886,-221.0524 169.0271,-222.9159 172.7651,-224.601"/>
 <polygon fill="#191970" stroke="#191970" points="171.594,-227.903 182.1758,-228.4284 174.2312,-221.4188 171.594,-227.903"/>
 </g>
-<!-- Node7008 -->
+<!-- Node7661 -->
 <g id="node3" class="node">
-<title>Node7008</title>
+<title>Node7661</title>
 <g id="a_node3"><a xlink:href="monitor_8c.html#a3db43a0a973394f0fedebe382ea430e8" target="_top" xlink:title="Get the monitor for a mailbox. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="170.5,-190.5 170.5,-209.5 266.5,-209.5 266.5,-190.5 170.5,-190.5"/>
 <text text-anchor="middle" x="218.5" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">monitor_resolve</text>
 </a>
 </g>
 </g>
-<!-- Node7006&#45;&gt;Node7008 -->
+<!-- Node7659&#45;&gt;Node7661 -->
 <g id="edge2" class="edge">
-<title>Node7006&#45;&gt;Node7008</title>
+<title>Node7659&#45;&gt;Node7661</title>
 <path fill="none" stroke="#191970" d="M80.3068,-133.6434C99.8975,-144.4291 132.8787,-162.1954 162,-176 169.4483,-179.5308 177.5532,-183.1188 185.2381,-186.4071"/>
 <polygon fill="#191970" stroke="#191970" points="184.0926,-189.7226 194.6667,-190.3853 186.8138,-183.2731 184.0926,-189.7226"/>
 </g>
-<!-- Node7009 -->
+<!-- Node7662 -->
 <g id="node4" class="node">
-<title>Node7009</title>
+<title>Node7662</title>
 <g id="a_node4"><a xlink:href="context_8c.html#a3d99ae9e3203ce327227f9ab3f711427" target="_top" xlink:title="wrapper to get the mailbox in a Context, or NULL ">
 <polygon fill="#ffffff" stroke="#000000" points="311,-171.5 311,-190.5 388,-190.5 388,-171.5 311,-171.5"/>
 <text text-anchor="middle" x="349.5" y="-178.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">ctx_mailbox</text>
 </a>
 </g>
 </g>
-<!-- Node7006&#45;&gt;Node7009 -->
+<!-- Node7659&#45;&gt;Node7662 -->
 <g id="edge4" class="edge">
-<title>Node7006&#45;&gt;Node7009</title>
+<title>Node7659&#45;&gt;Node7662</title>
 <path fill="none" stroke="#191970" d="M110.9537,-133.5405C163.6309,-144.0208 247.7728,-160.7611 300.7604,-171.3031"/>
 <polygon fill="#191970" stroke="#191970" points="300.1097,-174.7422 310.6005,-173.2608 301.4757,-167.8767 300.1097,-174.7422"/>
 </g>
-<!-- Node7018 -->
+<!-- Node7671 -->
 <g id="node5" class="node">
-<title>Node7018</title>
+<title>Node7671</title>
 <g id="a_node5"><a xlink:href="mailbox_8c.html#af136c4998f1122c79ec9769d9288175a" target="_top" xlink:title="Find the mailbox with a given path. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="178.5,-114.5 178.5,-133.5 258.5,-133.5 258.5,-114.5 178.5,-114.5"/>
 <text text-anchor="middle" x="218.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mailbox_find</text>
 </a>
 </g>
 </g>
-<!-- Node7006&#45;&gt;Node7018 -->
+<!-- Node7659&#45;&gt;Node7671 -->
 <g id="edge5" class="edge">
-<title>Node7006&#45;&gt;Node7018</title>
+<title>Node7659&#45;&gt;Node7671</title>
 <path fill="none" stroke="#191970" d="M126.2478,-124C140.0481,-124 154.4804,-124 167.7213,-124"/>
 <polygon fill="#191970" stroke="#191970" points="168.0502,-127.5001 178.0501,-124 168.0501,-120.5001 168.0502,-127.5001"/>
 </g>
-<!-- Node7023 -->
+<!-- Node7676 -->
 <g id="node6" class="node">
-<title>Node7023</title>
+<title>Node7676</title>
 <g id="a_node6"><a xlink:href="monitor_8c.html#a1b22f514ea11e70fb20d8f2c9498902e" target="_top" xlink:title="Free a file monitor. ">
 <polygon fill="#ffffff" stroke="#000000" points="173,-76.5 173,-95.5 264,-95.5 264,-76.5 173,-76.5"/>
 <text text-anchor="middle" x="218.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">monitor_delete</text>
 </a>
 </g>
 </g>
-<!-- Node7006&#45;&gt;Node7023 -->
+<!-- Node7659&#45;&gt;Node7676 -->
 <g id="edge6" class="edge">
-<title>Node7006&#45;&gt;Node7023</title>
+<title>Node7659&#45;&gt;Node7676</title>
 <path fill="none" stroke="#191970" d="M102.2392,-114.411C122.7591,-109.3965 148.067,-103.2119 169.8255,-97.8947"/>
 <polygon fill="#191970" stroke="#191970" points="170.6597,-101.294 179.543,-95.5201 168.9979,-94.494 170.6597,-101.294"/>
 </g>
-<!-- Node7024 -->
+<!-- Node7677 -->
 <g id="node7" class="node">
-<title>Node7024</title>
+<title>Node7677</title>
 <g id="a_node7"><a xlink:href="monitor_8c.html#a707c7227a832b7eefe6c57b01d8fbc6a" target="_top" xlink:title="Close down file monitoring. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="162,-38.5 162,-57.5 275,-57.5 275,-38.5 162,-38.5"/>
 <text text-anchor="middle" x="218.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">monitor_check_free</text>
 </a>
 </g>
 </g>
-<!-- Node7006&#45;&gt;Node7024 -->
+<!-- Node7659&#45;&gt;Node7677 -->
 <g id="edge7" class="edge">
-<title>Node7006&#45;&gt;Node7024</title>
+<title>Node7659&#45;&gt;Node7677</title>
 <path fill="none" stroke="#191970" d="M77.6074,-114.3557C96.505,-102.1718 130.7191,-81.0971 162,-67 166.7145,-64.8753 171.7412,-62.8562 176.7786,-60.9824"/>
 <polygon fill="#191970" stroke="#191970" points="178.1457,-64.2112 186.3995,-57.5684 175.8048,-57.6142 178.1457,-64.2112"/>
 </g>
-<!-- Node7026 -->
+<!-- Node7679 -->
 <g id="node8" class="node">
-<title>Node7026</title>
+<title>Node7679</title>
 <g id="a_node8"><a xlink:href="monitor_8c.html#ae79b08e701ac15a92323a771b8d1066f" target="_top" xlink:title="Shutdown a file monitor. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="166.5,-.5 166.5,-19.5 270.5,-19.5 270.5,-.5 166.5,-.5"/>
 <text text-anchor="middle" x="218.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">monitor_info_free</text>
 </a>
 </g>
 </g>
-<!-- Node7006&#45;&gt;Node7026 -->
+<!-- Node7659&#45;&gt;Node7679 -->
 <g id="edge8" class="edge">
-<title>Node7006&#45;&gt;Node7026</title>
+<title>Node7659&#45;&gt;Node7679</title>
 <path fill="none" stroke="#191970" d="M70.4168,-114.4878C85.6244,-95.5888 122.269,-53.0646 162,-29 165.3886,-26.9476 169.0271,-25.0841 172.7651,-23.399"/>
 <polygon fill="#191970" stroke="#191970" points="174.2312,-26.5812 182.1758,-19.5716 171.594,-20.097 174.2312,-26.5812"/>
 </g>
-<!-- Node7008&#45;&gt;Node7009 -->
+<!-- Node7661&#45;&gt;Node7662 -->
 <g id="edge3" class="edge">
-<title>Node7008&#45;&gt;Node7009</title>
+<title>Node7661&#45;&gt;Node7662</title>
 <path fill="none" stroke="#191970" d="M266.5357,-193.033C277.7172,-191.4112 289.6313,-189.6833 300.8395,-188.0576"/>
 <polygon fill="#191970" stroke="#191970" points="301.4991,-191.4987 310.8932,-186.5995 300.4943,-184.5712 301.4991,-191.4987"/>
 </g>

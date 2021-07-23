@@ -9,144 +9,144 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 328)">
 <title>pgp_invoke</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-328 243,-328 243,4 -4,4"/>
-<!-- Node279 -->
+<!-- Node176 -->
 <g id="node1" class="node">
-<title>Node279</title>
+<title>Node176</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-152.5 0,-171.5 73,-171.5 73,-152.5 0,-152.5"/>
 <text text-anchor="middle" x="36.5" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pgp_invoke</text>
 </g>
-<!-- Node280 -->
+<!-- Node177 -->
 <g id="node2" class="node">
-<title>Node280</title>
+<title>Node177</title>
 <g id="a_node2"><a xlink:href="pgpinvoke_8h.html#a407b2ceab1cb744122e3cb5e9e9b0fd5" target="_top" xlink:title="Use PGP to decode a message. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="117.5,-304.5 117.5,-323.5 230.5,-323.5 230.5,-304.5 117.5,-304.5"/>
 <text text-anchor="middle" x="174" y="-311.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pgp_invoke_decode</text>
 </a>
 </g>
 </g>
-<!-- Node279&#45;&gt;Node280 -->
+<!-- Node176&#45;&gt;Node177 -->
 <g id="edge1" class="edge">
-<title>Node279&#45;&gt;Node280</title>
+<title>Node176&#45;&gt;Node177</title>
 <path fill="none" stroke="#191970" d="M41.8606,-181.4953C50.8576,-210.554 71.7704,-265.0138 109,-295 113.8528,-298.9087 119.4823,-302.0133 125.3589,-304.4792"/>
 <polygon fill="#191970" stroke="#191970" points="45.1619,-180.3151 38.9867,-171.706 38.4454,-182.287 45.1619,-180.3151"/>
 </g>
-<!-- Node282 -->
+<!-- Node179 -->
 <g id="node3" class="node">
-<title>Node282</title>
+<title>Node179</title>
 <g id="a_node3"><a xlink:href="pgpinvoke_8h.html#a65bfacfc8067ed58d224aeefc6f99905" target="_top" xlink:title="Use PGP to verify a message. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="120.5,-266.5 120.5,-285.5 227.5,-285.5 227.5,-266.5 120.5,-266.5"/>
 <text text-anchor="middle" x="174" y="-273.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pgp_invoke_verify</text>
 </a>
 </g>
 </g>
-<!-- Node279&#45;&gt;Node282 -->
+<!-- Node176&#45;&gt;Node179 -->
 <g id="edge2" class="edge">
-<title>Node279&#45;&gt;Node282</title>
+<title>Node176&#45;&gt;Node179</title>
 <path fill="none" stroke="#191970" d="M46.0526,-180.8349C57.9317,-202.383 80.2071,-237.2316 109,-257 114.6216,-260.8596 121.0324,-263.9456 127.5862,-266.4105"/>
 <polygon fill="#191970" stroke="#191970" points="48.9883,-178.9005 41.2064,-171.7107 42.8062,-182.1841 48.9883,-178.9005"/>
 </g>
-<!-- Node284 -->
+<!-- Node181 -->
 <g id="node4" class="node">
-<title>Node284</title>
+<title>Node181</title>
 <g id="a_node4"><a xlink:href="pgpinvoke_8h.html#ab0b11dcf9aef414365590f9f6ac0c5a4" target="_top" xlink:title="Use PGP to decrypt a file. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="116.5,-228.5 116.5,-247.5 231.5,-247.5 231.5,-228.5 116.5,-228.5"/>
 <text text-anchor="middle" x="174" y="-235.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pgp_invoke_decrypt</text>
 </a>
 </g>
 </g>
-<!-- Node279&#45;&gt;Node284 -->
+<!-- Node176&#45;&gt;Node181 -->
 <g id="edge3" class="edge">
-<title>Node279&#45;&gt;Node284</title>
+<title>Node176&#45;&gt;Node181</title>
 <path fill="none" stroke="#191970" d="M53.798,-178.745C67.7118,-191.3946 88.2931,-208.3424 109,-219 116.3175,-222.7662 124.4932,-225.8934 132.5106,-228.4494"/>
 <polygon fill="#191970" stroke="#191970" points="56.1274,-176.1316 46.4257,-171.8739 51.3548,-181.2523 56.1274,-176.1316"/>
 </g>
-<!-- Node288 -->
+<!-- Node185 -->
 <g id="node5" class="node">
-<title>Node288</title>
+<title>Node185</title>
 <g id="a_node5"><a xlink:href="pgpinvoke_8h.html#a626be470c9585e938f353bf56b1e774f" target="_top" xlink:title="Use PGP to sign a file. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="125,-190.5 125,-209.5 223,-209.5 223,-190.5 125,-190.5"/>
 <text text-anchor="middle" x="174" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pgp_invoke_sign</text>
 </a>
 </g>
 </g>
-<!-- Node279&#45;&gt;Node288 -->
+<!-- Node176&#45;&gt;Node185 -->
 <g id="edge4" class="edge">
-<title>Node279&#45;&gt;Node288</title>
+<title>Node176&#45;&gt;Node185</title>
 <path fill="none" stroke="#191970" d="M81.0729,-174.3183C99.9645,-179.5393 121.6472,-185.5316 139.314,-190.4141"/>
 <polygon fill="#191970" stroke="#191970" points="81.7681,-170.8793 71.1971,-171.589 79.9034,-177.6264 81.7681,-170.8793"/>
 </g>
-<!-- Node290 -->
+<!-- Node187 -->
 <g id="node6" class="node">
-<title>Node290</title>
+<title>Node187</title>
 <g id="a_node6"><a xlink:href="pgpinvoke_8h.html#a20c6ffdd8d441f667f3be7de29fea174" target="_top" xlink:title="Use PGP to encrypt a file. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="116.5,-152.5 116.5,-171.5 231.5,-171.5 231.5,-152.5 116.5,-152.5"/>
 <text text-anchor="middle" x="174" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pgp_invoke_encrypt</text>
 </a>
 </g>
 </g>
-<!-- Node279&#45;&gt;Node290 -->
+<!-- Node176&#45;&gt;Node187 -->
 <g id="edge5" class="edge">
-<title>Node279&#45;&gt;Node290</title>
+<title>Node176&#45;&gt;Node187</title>
 <path fill="none" stroke="#191970" d="M83.5875,-162C94.1216,-162 105.4115,-162 116.3195,-162"/>
 <polygon fill="#191970" stroke="#191970" points="83.3475,-158.5001 73.3475,-162 83.3474,-165.5001 83.3475,-158.5001"/>
 </g>
-<!-- Node292 -->
+<!-- Node189 -->
 <g id="node7" class="node">
-<title>Node292</title>
+<title>Node189</title>
 <g id="a_node7"><a xlink:href="pgpinvoke_8h.html#a56bcf68282aea0a51774c08a7f283054" target="_top" xlink:title="Use PGP to create in inline&#45;signed message. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="110,-114.5 110,-133.5 238,-133.5 238,-114.5 110,-114.5"/>
 <text text-anchor="middle" x="174" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pgp_invoke_traditional</text>
 </a>
 </g>
 </g>
-<!-- Node279&#45;&gt;Node292 -->
+<!-- Node176&#45;&gt;Node189 -->
 <g id="edge6" class="edge">
-<title>Node279&#45;&gt;Node292</title>
+<title>Node176&#45;&gt;Node189</title>
 <path fill="none" stroke="#191970" d="M81.0729,-149.6817C99.9645,-144.4607 121.6472,-138.4684 139.314,-133.5859"/>
 <polygon fill="#191970" stroke="#191970" points="79.9034,-146.3736 71.1971,-152.411 81.7681,-153.1207 79.9034,-146.3736"/>
 </g>
-<!-- Node294 -->
+<!-- Node191 -->
 <g id="node8" class="node">
-<title>Node294</title>
+<title>Node191</title>
 <g id="a_node8"><a xlink:href="pgpinvoke_8h.html#a6ce58fd133819e138da6a9294ee081bb" target="_top" xlink:title="Use PGP to export a key from the user&#39;s keyring. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="119,-76.5 119,-95.5 229,-95.5 229,-76.5 119,-76.5"/>
 <text text-anchor="middle" x="174" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pgp_invoke_export</text>
 </a>
 </g>
 </g>
-<!-- Node279&#45;&gt;Node294 -->
+<!-- Node176&#45;&gt;Node191 -->
 <g id="edge7" class="edge">
-<title>Node279&#45;&gt;Node294</title>
+<title>Node176&#45;&gt;Node191</title>
 <path fill="none" stroke="#191970" d="M53.798,-145.255C67.7118,-132.6054 88.2931,-115.6576 109,-105 116.3175,-101.2338 124.4932,-98.1066 132.5106,-95.5506"/>
 <polygon fill="#191970" stroke="#191970" points="51.3548,-142.7477 46.4257,-152.1261 56.1274,-147.8684 51.3548,-142.7477"/>
 </g>
-<!-- Node296 -->
+<!-- Node193 -->
 <g id="node9" class="node">
-<title>Node296</title>
+<title>Node193</title>
 <g id="a_node9"><a xlink:href="pgpinvoke_8h.html#a07a1392c06efa0eaa3e02b39cc2e4571" target="_top" xlink:title="Use PGP to verify a key. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="109,-38.5 109,-57.5 239,-57.5 239,-38.5 109,-38.5"/>
 <text text-anchor="middle" x="174" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pgp_invoke_verify_key</text>
 </a>
 </g>
 </g>
-<!-- Node279&#45;&gt;Node296 -->
+<!-- Node176&#45;&gt;Node193 -->
 <g id="edge8" class="edge">
-<title>Node279&#45;&gt;Node296</title>
+<title>Node176&#45;&gt;Node193</title>
 <path fill="none" stroke="#191970" d="M46.0526,-143.1651C57.9317,-121.617 80.2071,-86.7684 109,-67 114.6216,-63.1404 121.0324,-60.0544 127.5862,-57.5895"/>
 <polygon fill="#191970" stroke="#191970" points="42.8062,-141.8159 41.2064,-152.2893 48.9883,-145.0995 42.8062,-141.8159"/>
 </g>
-<!-- Node303 -->
+<!-- Node200 -->
 <g id="node10" class="node">
-<title>Node303</title>
+<title>Node200</title>
 <g id="a_node10"><a xlink:href="pgpinvoke_8h.html#a9922a095eaa2b9f874028bd0ae5332ef" target="_top" xlink:title="Find matching PGP Keys. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="113,-.5 113,-19.5 235,-19.5 235,-.5 113,-.5"/>
 <text text-anchor="middle" x="174" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pgp_invoke_list_keys</text>
 </a>
 </g>
 </g>
-<!-- Node279&#45;&gt;Node303 -->
+<!-- Node176&#45;&gt;Node200 -->
 <g id="edge9" class="edge">
-<title>Node279&#45;&gt;Node303</title>
+<title>Node176&#45;&gt;Node200</title>
 <path fill="none" stroke="#191970" d="M41.8606,-142.5047C50.8576,-113.446 71.7704,-58.9862 109,-29 113.8528,-25.0913 119.4823,-21.9867 125.3589,-19.5208"/>
 <polygon fill="#191970" stroke="#191970" points="38.4454,-141.713 38.9867,-152.294 45.1619,-143.6849 38.4454,-141.713"/>
 </g>

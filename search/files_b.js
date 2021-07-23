@@ -8,7 +8,6 @@ var searchData=
   ['maillist_2ec',['maillist.c',['../maillist_8c.html',1,'']]],
   ['maillist_2eh',['maillist.h',['../maillist_8h.html',1,'']]],
   ['main_2ec',['main.c',['../main_8c.html',1,'']]],
-  ['main_2einc',['main.inc',['../main_8inc.html',1,'']]],
   ['mapping_2ec',['mapping.c',['../mapping_8c.html',1,'']]],
   ['mapping_2eh',['mapping.h',['../mapping_8h.html',1,'']]],
   ['mbox_2ec',['mbox.c',['../mbox_8c.html',1,'']]],

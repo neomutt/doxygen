@@ -9,114 +9,114 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 252)">
 <title>mutt_parse_part</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-252 307,-252 307,4 -4,4"/>
-<!-- Node10014 -->
+<!-- Node10164 -->
 <g id="node1" class="node">
-<title>Node10014</title>
+<title>Node10164</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-114.5 0,-133.5 97,-133.5 97,-114.5 0,-114.5"/>
 <text text-anchor="middle" x="48.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_parse_part</text>
 </g>
-<!-- Node10015 -->
+<!-- Node10165 -->
 <g id="node2" class="node">
-<title>Node10015</title>
+<title>Node10165</title>
 <g id="a_node2"><a xlink:href="commands_8h.html#a9b5874c3558cb300404bb50f60fc6a31" target="_top" xlink:title="Edit the content type of an attachment. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="151.5,-228.5 151.5,-247.5 284.5,-247.5 284.5,-228.5 151.5,-228.5"/>
 <text text-anchor="middle" x="218" y="-235.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_edit_content_type</text>
 </a>
 </g>
 </g>
-<!-- Node10014&#45;&gt;Node10015 -->
+<!-- Node10164&#45;&gt;Node10165 -->
 <g id="edge1" class="edge">
-<title>Node10014&#45;&gt;Node10015</title>
+<title>Node10164&#45;&gt;Node10165</title>
 <path fill="none" stroke="#191970" d="M59.5679,-142.2353C73.778,-164.0125 100.5192,-199.8872 133,-219 139.6465,-222.911 147.0182,-226.0178 154.5625,-228.4856"/>
 <polygon fill="#191970" stroke="#191970" points="62.4067,-140.1758 54.1046,-133.5936 56.4899,-143.9164 62.4067,-140.1758"/>
 </g>
-<!-- Node10566 -->
+<!-- Node10769 -->
 <g id="node3" class="node">
-<title>Node10566</title>
+<title>Node10769</title>
 <g id="a_node3"><a xlink:href="attachments_8h.html#a9fb5dd768a13b9f083ca3a5e2e713db6" target="_top" xlink:title="Parse a MIME email. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="140.5,-190.5 140.5,-209.5 295.5,-209.5 295.5,-190.5 140.5,-190.5"/>
 <text text-anchor="middle" x="218" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_parse_mime_message</text>
 </a>
 </g>
 </g>
-<!-- Node10014&#45;&gt;Node10566 -->
+<!-- Node10164&#45;&gt;Node10769 -->
 <g id="edge2" class="edge">
-<title>Node10014&#45;&gt;Node10566</title>
+<title>Node10164&#45;&gt;Node10769</title>
 <path fill="none" stroke="#191970" d="M67.9194,-140.213C84.2969,-153.0901 108.865,-170.6053 133,-181 141.8882,-184.8281 151.6448,-187.9296 161.2801,-190.4286"/>
 <polygon fill="#191970" stroke="#191970" points="69.7026,-137.1554 59.7182,-133.611 65.313,-142.6081 69.7026,-137.1554"/>
 </g>
-<!-- Node10116 -->
+<!-- Node10285 -->
 <g id="node4" class="node">
-<title>Node10116</title>
+<title>Node10285</title>
 <g id="a_node4"><a xlink:href="mutt__attach_8h.html#a4fd33255a2295a8ec36d8afd7c9c53df" target="_top" xlink:title="Decode, then save an attachment. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="133,-152.5 133,-171.5 303,-171.5 303,-152.5 133,-152.5"/>
 <text text-anchor="middle" x="218" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_decode_save_attachment</text>
 </a>
 </g>
 </g>
-<!-- Node10014&#45;&gt;Node10116 -->
+<!-- Node10164&#45;&gt;Node10285 -->
 <g id="edge3" class="edge">
-<title>Node10014&#45;&gt;Node10116</title>
+<title>Node10164&#45;&gt;Node10285</title>
 <path fill="none" stroke="#191970" d="M101.0213,-135.8203C111.6083,-138.1999 122.6595,-140.6818 133,-143 146.722,-146.0763 161.6919,-149.425 175.192,-152.4422"/>
 <polygon fill="#191970" stroke="#191970" points="101.5758,-132.3577 91.0515,-133.5788 100.0402,-139.1872 101.5758,-132.3577"/>
 </g>
-<!-- Node10571 -->
+<!-- Node10775 -->
 <g id="node5" class="node">
-<title>Node10571</title>
+<title>Node10775</title>
 <g id="a_node5"><a xlink:href="crypt__gpgme_8c.html#a06057059d161b58e6b17c6b00fe54ab6" target="_top" xlink:title="Decrypt a PGP or SMIME message. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="179,-114.5 179,-133.5 257,-133.5 257,-114.5 179,-114.5"/>
 <text text-anchor="middle" x="218" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">decrypt_part</text>
 </a>
 </g>
 </g>
-<!-- Node10014&#45;&gt;Node10571 -->
+<!-- Node10164&#45;&gt;Node10775 -->
 <g id="edge4" class="edge">
-<title>Node10014&#45;&gt;Node10571</title>
+<title>Node10164&#45;&gt;Node10775</title>
 <path fill="none" stroke="#191970" d="M107.3471,-124C130.994,-124 157.6175,-124 178.823,-124"/>
 <polygon fill="#191970" stroke="#191970" points="107.0719,-120.5001 97.0719,-124 107.0719,-127.5001 107.0719,-120.5001"/>
 </g>
-<!-- Node10577 -->
+<!-- Node10781 -->
 <g id="node6" class="node">
-<title>Node10577</title>
+<title>Node10781</title>
 <g id="a_node6"><a xlink:href="pgp_8c.html#a39d7425b036c2afebde9f8d0a18c3e77" target="_top" xlink:title="Decrypt part of a PGP message. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="167.5,-76.5 167.5,-95.5 268.5,-95.5 268.5,-76.5 167.5,-76.5"/>
 <text text-anchor="middle" x="218" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pgp_decrypt_part</text>
 </a>
 </g>
 </g>
-<!-- Node10014&#45;&gt;Node10577 -->
+<!-- Node10164&#45;&gt;Node10781 -->
 <g id="edge5" class="edge">
-<title>Node10014&#45;&gt;Node10577</title>
+<title>Node10164&#45;&gt;Node10781</title>
 <path fill="none" stroke="#191970" d="M101.0213,-112.1797C111.6083,-109.8001 122.6595,-107.3182 133,-105 146.722,-101.9237 161.6919,-98.575 175.192,-95.5578"/>
 <polygon fill="#191970" stroke="#191970" points="100.0402,-108.8128 91.0515,-114.4212 101.5758,-115.6423 100.0402,-108.8128"/>
 </g>
-<!-- Node10128 -->
+<!-- Node10297 -->
 <g id="node7" class="node">
-<title>Node10128</title>
+<title>Node10297</title>
 <g id="a_node7"><a xlink:href="smime_8c.html#a1b5e1a7594fd2e9fa6ad41a5dc07a656" target="_top" xlink:title="Handle type application/pkcs7&#45;mime. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="157,-38.5 157,-57.5 279,-57.5 279,-38.5 157,-38.5"/>
 <text text-anchor="middle" x="218" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">smime_handle_entity</text>
 </a>
 </g>
 </g>
-<!-- Node10014&#45;&gt;Node10128 -->
+<!-- Node10164&#45;&gt;Node10297 -->
 <g id="edge6" class="edge">
-<title>Node10014&#45;&gt;Node10128</title>
+<title>Node10164&#45;&gt;Node10297</title>
 <path fill="none" stroke="#191970" d="M67.9194,-107.787C84.2969,-94.9099 108.865,-77.3947 133,-67 141.8882,-63.1719 151.6448,-60.0704 161.2801,-57.5714"/>
 <polygon fill="#191970" stroke="#191970" points="65.313,-105.3919 59.7182,-114.389 69.7026,-110.8446 65.313,-105.3919"/>
 </g>
-<!-- Node10296 -->
+<!-- Node10482 -->
 <g id="node8" class="node">
-<title>Node10296</title>
+<title>Node10482</title>
 <g id="a_node8"><a xlink:href="protos_8h.html#aad14aaca518d6c005ec318f14114d5ec" target="_top" xlink:title="Prepare a message template. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="152,-.5 152,-19.5 284,-19.5 284,-.5 152,-.5"/>
 <text text-anchor="middle" x="218" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_prepare_template</text>
 </a>
 </g>
 </g>
-<!-- Node10014&#45;&gt;Node10296 -->
+<!-- Node10164&#45;&gt;Node10482 -->
 <g id="edge7" class="edge">
-<title>Node10014&#45;&gt;Node10296</title>
+<title>Node10164&#45;&gt;Node10482</title>
 <path fill="none" stroke="#191970" d="M59.5679,-105.7647C73.778,-83.9875 100.5192,-48.1128 133,-29 139.6465,-25.089 147.0182,-21.9822 154.5625,-19.5144"/>
 <polygon fill="#191970" stroke="#191970" points="56.4899,-104.0836 54.1046,-114.4064 62.4067,-107.8242 56.4899,-104.0836"/>
 </g>

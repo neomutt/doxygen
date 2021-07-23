@@ -67,5 +67,6 @@ var searchData=
   ['km_5funbind_5fall',['km_unbind_all',['../keymap_8c.html#a6f4f749c1d279d30c302e03961f4a9f5',1,'keymap.c']]],
   ['kobj',['kobj',['../structCryptKeyInfo.html#ae1f570089508f19aa36f6c1cdb31eca0',1,'CryptKeyInfo']]],
   ['keep_20track_20when_20processing_20files',['Keep track when processing files',['../mutt_state.html',1,'lib_mutt']]],
+  ['key_20value_20store_20api',['Key Value Store API',['../group__store__api.html',1,'']]],
   ['kyoto_20cabinet',['Kyoto Cabinet',['../store_kc.html',1,'lib_store']]]
 ];

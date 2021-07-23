@@ -1,5 +1,7 @@
 var searchData=
 [
+  ['destroy_28_29',['destroy()',['../group__cfg__type__destroy.html',1,'']]],
+  ['decompress_28_29',['decompress()',['../group__compress__decompress.html',1,'']]],
   ['dump_20all_20the_20config',['Dump all the config',['../config_dump.html',1,'lib_config']]],
   ['dns_20lookups',['DNS lookups',['../conn_getdomain.html',1,'lib_conn']]],
   ['d',['D',['../structMd5Ctx.html#a6be4b06ff54cc0b71d0be55d2d48ad5f',1,'Md5Ctx']]],
@@ -112,7 +114,6 @@ var searchData=
   ['do_5funmailboxes',['do_unmailboxes',['../command__parse_8c.html#ad99f485e120b50345092407b57f02497',1,'command_parse.c']]],
   ['do_5funmailboxes_5fstar',['do_unmailboxes_star',['../command__parse_8c.html#a7a682ec69ec56de3c8498f11fa16db7c',1,'command_parse.c']]],
   ['docs',['docs',['../structConfigDef.html#aa892d688b347ab80a37a7b52a5f07ab7',1,'ConfigDef']]],
-  ['done',['done',['../structIndexPrivateData.html#a601a5c9ec322d05accc85efb21465811',1,'IndexPrivateData']]],
   ['dontwrite',['dontwrite',['../structMailbox.html#abbb602789f2c49a97aaa5d18978c2b34',1,'Mailbox']]],
   ['dopager_5fconfig_5fobserver',['dopager_config_observer',['../do__pager_8c.html#a60525227e8b3575bd29dc36afb238c97',1,'do_pager.c']]],
   ['dopager_5fwindow_5fobserver',['dopager_window_observer',['../do__pager_8c.html#af6763323ac68b6b8e0fd2af089118ecb',1,'do_pager.c']]],
@@ -263,5 +264,6 @@ var searchData=
   ['decide_20how_20to_20display_20email_20content',['Decide how to display email content',['../neo_handler.html',1,'index']]],
   ['definitions_20of_20neomutt_20commands',['Definitions of NeoMutt commands',['../neo_mutt_commands.html',1,'index']]],
   ['definitions_20of_20config_20variables',['Definitions of config variables',['../neo_mutt_config.html',1,'index']]],
-  ['display_20version_20and_20copyright_20about_20neomutt',['Display version and copyright about NeoMutt',['../neo_version.html',1,'index']]]
+  ['display_20version_20and_20copyright_20about_20neomutt',['Display version and copyright about NeoMutt',['../neo_version.html',1,'index']]],
+  ['delete_5frecord_28_29',['delete_record()',['../group__store__delete__record.html',1,'']]]
 ];

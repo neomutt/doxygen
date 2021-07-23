@@ -9,30 +9,30 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 73.5)">
 <title>mutt_search_command</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-73.5 293,-73.5 293,4 -4,4"/>
-<!-- Node9956 -->
+<!-- Node7927 -->
 <g id="node1" class="node">
-<title>Node9956</title>
+<title>Node7927</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-28 0,-47 131,-47 131,-28 0,-28"/>
 <text text-anchor="middle" x="65.5" y="-35" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_search_command</text>
 </g>
-<!-- Node9957 -->
+<!-- Node7928 -->
 <g id="node2" class="node">
-<title>Node9957</title>
-<g id="a_node2"><a xlink:href="index_2lib_8h.html#a99aec648e9fb9eeee0d0154211b428da" target="_top" xlink:title="Display a list of emails. ">
-<polygon fill="#ffffff" stroke="#ff0000" points="175.5,-50 175.5,-69 280.5,-69 280.5,-50 175.5,-50"/>
-<text text-anchor="middle" x="228" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_index_menu</text>
+<title>Node7928</title>
+<g id="a_node2"><a xlink:href="index_2functions_8c.html#a5b02ec6d4414a921adf9c90975b17181" target="_top" xlink:title="search for a regular expression &#45; Implements index_function_t ">
+<polygon fill="#ffffff" stroke="#000000" points="195,-50 195,-69 261,-69 261,-50 195,-50"/>
+<text text-anchor="middle" x="228" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">op_search</text>
 </a>
 </g>
 </g>
-<!-- Node9956&#45;&gt;Node9957 -->
+<!-- Node7927&#45;&gt;Node7928 -->
 <g id="edge1" class="edge">
-<title>Node9956&#45;&gt;Node9957</title>
-<path fill="none" stroke="#191970" d="M141.2107,-47.7501C152.7565,-49.3132 164.4521,-50.8966 175.3593,-52.3733"/>
+<title>Node7927&#45;&gt;Node7928</title>
+<path fill="none" stroke="#191970" d="M141.196,-47.7481C159.987,-50.2921 179.1759,-52.89 194.7174,-54.9941"/>
 <polygon fill="#191970" stroke="#191970" points="141.5058,-44.2582 131.1266,-46.3848 140.5666,-51.1949 141.5058,-44.2582"/>
 </g>
-<!-- Node10191 -->
+<!-- Node7929 -->
 <g id="node3" class="node">
-<title>Node10191</title>
+<title>Node7929</title>
 <g id="a_node3"><a xlink:href="postpone_8c.html#aa4e2a5e4b76af37831e2fe0c2760e502" target="_top" xlink:title="Create a Menu to select a postponed message. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="167,-.5 167,-30.5 289,-30.5 289,-.5 167,-.5"/>
 <text text-anchor="start" x="175" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">dlg_select_postponed</text>
@@ -40,9 +40,9 @@
 </a>
 </g>
 </g>
-<!-- Node9956&#45;&gt;Node10191 -->
+<!-- Node7927&#45;&gt;Node7929 -->
 <g id="edge2" class="edge">
-<title>Node9956&#45;&gt;Node10191</title>
+<title>Node7927&#45;&gt;Node7929</title>
 <path fill="none" stroke="#191970" d="M141.1709,-27.2553C149.7799,-26.0898 158.4728,-24.9129 166.8606,-23.7773"/>
 <polygon fill="#191970" stroke="#191970" points="140.5666,-23.8051 131.1266,-28.6152 141.5058,-30.7418 140.5666,-23.8051"/>
 </g>

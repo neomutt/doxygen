@@ -9,31 +9,31 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 73.5)">
 <title>recvattach_extract_pgp_keys</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-73.5 276,-73.5 276,4 -4,4"/>
-<!-- Node42884 -->
+<!-- Node39098 -->
 <g id="node1" class="node">
-<title>Node42884</title>
+<title>Node39098</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-22.5 0,-52.5 108,-52.5 108,-22.5 0,-22.5"/>
 <text text-anchor="start" x="8" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">recvattach_extract</text>
 <text text-anchor="middle" x="54" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">_pgp_keys</text>
 </g>
-<!-- Node42885 -->
+<!-- Node39099 -->
 <g id="node2" class="node">
-<title>Node42885</title>
+<title>Node39099</title>
 <g id="a_node2"><a xlink:href="recvattach_8c.html#a20214b4a23880e9b23ba3ff9eb6fdedf" target="_top" xlink:title="Get the current attachment. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="151.5,-50 151.5,-69 264.5,-69 264.5,-50 151.5,-50"/>
 <text text-anchor="middle" x="208" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">current_attachment</text>
 </a>
 </g>
 </g>
-<!-- Node42884&#45;&gt;Node42885 -->
+<!-- Node39098&#45;&gt;Node39099 -->
 <g id="edge1" class="edge">
-<title>Node42884&#45;&gt;Node42885</title>
+<title>Node39098&#45;&gt;Node39099</title>
 <path fill="none" stroke="#191970" d="M108.2946,-45.2564C118.969,-46.7813 130.2828,-48.3975 141.3093,-49.9728"/>
 <polygon fill="#191970" stroke="#191970" points="140.9339,-53.4546 151.3284,-51.4041 141.9239,-46.5249 140.9339,-53.4546"/>
 </g>
-<!-- Node42887 -->
+<!-- Node39101 -->
 <g id="node3" class="node">
-<title>Node42887</title>
+<title>Node39101</title>
 <g id="a_node3"><a xlink:href="cryptglue_8c.html#afa26cebcc0c8d8866129fc2eabdbe874" target="_top" xlink:title="Wrapper for CryptModuleSpecs::pgp_extract_key_from_attachment() ">
 <polygon fill="#ffffff" stroke="#000000" points="144,-.5 144,-30.5 272,-30.5 272,-.5 144,-.5"/>
 <text text-anchor="start" x="152" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">crypt_pgp_extract_key</text>
@@ -41,9 +41,9 @@
 </a>
 </g>
 </g>
-<!-- Node42884&#45;&gt;Node42887 -->
+<!-- Node39098&#45;&gt;Node39101 -->
 <g id="edge2" class="edge">
-<title>Node42884&#45;&gt;Node42887</title>
+<title>Node39098&#45;&gt;Node39101</title>
 <path fill="none" stroke="#191970" d="M108.2946,-29.7436C116.5727,-28.561 125.2354,-27.3235 133.8503,-26.0928"/>
 <polygon fill="#191970" stroke="#191970" points="134.5113,-29.534 143.9158,-24.6549 133.5213,-22.6044 134.5113,-29.534"/>
 </g>

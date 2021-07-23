@@ -9,240 +9,240 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 482.9968)">
 <title>crypt_get_keys</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-482.9968 472,-482.9968 472,4 -4,4"/>
-<!-- Node3305 -->
+<!-- Node3246 -->
 <g id="node1" class="node">
-<title>Node3305</title>
+<title>Node3246</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-228.5 0,-247.5 91,-247.5 91,-228.5 0,-228.5"/>
 <text text-anchor="middle" x="45.5" y="-235.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">crypt_get_keys</text>
 </g>
-<!-- Node3306 -->
+<!-- Node3247 -->
 <g id="node2" class="node">
-<title>Node3306</title>
+<title>Node3247</title>
 <g id="a_node2"><a xlink:href="sendlib_8c.html#a3214a4d6985ca1a64f72d21f6f8c252f" target="_top" xlink:title="Get the Fully&#45;Qualified Domain Name. ">
 <polygon fill="#ffffff" stroke="#000000" points="190.5,-418.5 190.5,-437.5 257.5,-437.5 257.5,-418.5 190.5,-418.5"/>
 <text text-anchor="middle" x="224" y="-425.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_fqdn</text>
 </a>
 </g>
 </g>
-<!-- Node3305&#45;&gt;Node3306 -->
+<!-- Node3246&#45;&gt;Node3247 -->
 <g id="edge1" class="edge">
-<title>Node3305&#45;&gt;Node3306</title>
+<title>Node3246&#45;&gt;Node3247</title>
 <path fill="none" stroke="#191970" d="M47.2807,-247.6434C53.0928,-276.2832 74.2604,-361.4842 127,-404 141.9727,-416.0702 162.1678,-422.1871 180.2546,-425.2434"/>
 <polygon fill="#191970" stroke="#191970" points="179.9272,-428.7321 190.321,-426.6781 180.9149,-421.8021 179.9272,-428.7321"/>
 </g>
-<!-- Node3307 -->
+<!-- Node3248 -->
 <g id="node3" class="node">
-<title>Node3307</title>
+<title>Node3248</title>
 <g id="a_node3"><a xlink:href="helpers_8c.html#ac477c591155aa4ae0452bbabc0affffe" target="_top" xlink:title="Get a string config item by name. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="363.5,-437.5 363.5,-456.5 461.5,-456.5 461.5,-437.5 363.5,-437.5"/>
 <text text-anchor="middle" x="412.5" y="-444.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_subset_string</text>
 </a>
 </g>
 </g>
-<!-- Node3305&#45;&gt;Node3307 -->
+<!-- Node3246&#45;&gt;Node3248 -->
 <g id="edge15" class="edge">
-<title>Node3305&#45;&gt;Node3307</title>
+<title>Node3246&#45;&gt;Node3248</title>
 <path fill="none" stroke="#191970" d="M47.7219,-247.5449C56.7043,-285.2267 91.5495,-422.7735 127,-447 202.0486,-498.2874 316.0866,-476.0933 374.7385,-459.3776"/>
 <polygon fill="#191970" stroke="#191970" points="375.7407,-462.7312 384.3433,-456.5469 373.7618,-456.0167 375.7407,-462.7312"/>
 </g>
-<!-- Node3330 -->
+<!-- Node3271 -->
 <g id="node4" class="node">
-<title>Node3330</title>
+<title>Node3271</title>
 <g id="a_node4"><a xlink:href="helpers_8c.html#ae50f679dd6c5bd1ba820884c8602f038" target="_top" xlink:title="Get a boolean config item by name. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="367,-380.5 367,-399.5 458,-399.5 458,-380.5 367,-380.5"/>
 <text text-anchor="middle" x="412.5" y="-387.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_subset_bool</text>
 </a>
 </g>
 </g>
-<!-- Node3305&#45;&gt;Node3330 -->
+<!-- Node3246&#45;&gt;Node3271 -->
 <g id="edge14" class="edge">
-<title>Node3305&#45;&gt;Node3330</title>
+<title>Node3246&#45;&gt;Node3271</title>
 <path fill="none" stroke="#191970" d="M48.5333,-247.5512C56.7288,-271.6026 81.8003,-334.6875 127,-362 197.4153,-404.5494 295.8352,-403.8447 356.7972,-397.9912"/>
 <polygon fill="#191970" stroke="#191970" points="357.4044,-401.447 366.9886,-396.931 356.6801,-394.4846 357.4044,-401.447"/>
 </g>
-<!-- Node3331 -->
+<!-- Node3272 -->
 <g id="node5" class="node">
-<title>Node3331</title>
+<title>Node3272</title>
 <g id="a_node5"><a xlink:href="autocrypt_8c.html#a9e2b5f120aee58fbaf78cae0c315d827" target="_top" xlink:title="Get the recommended action for an Email. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="127,-304.5 127,-323.5 321,-323.5 321,-304.5 127,-304.5"/>
 <text text-anchor="middle" x="224" y="-311.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_autocrypt_ui_recommendation</text>
 </a>
 </g>
 </g>
-<!-- Node3305&#45;&gt;Node3331 -->
+<!-- Node3246&#45;&gt;Node3272 -->
 <g id="edge4" class="edge">
-<title>Node3305&#45;&gt;Node3331</title>
+<title>Node3246&#45;&gt;Node3272</title>
 <path fill="none" stroke="#191970" d="M57.7648,-247.6491C73.1207,-259.2848 100.6238,-278.6852 127,-290 138.0854,-294.7554 150.3048,-298.6981 162.2243,-301.9187"/>
 <polygon fill="#191970" stroke="#191970" points="161.5791,-305.3664 172.1348,-304.4562 163.3155,-298.5851 161.5791,-305.3664"/>
 </g>
-<!-- Node4036 -->
+<!-- Node3979 -->
 <g id="node6" class="node">
-<title>Node4036</title>
+<title>Node3979</title>
 <g id="a_node6"><a xlink:href="address_2address_8c.html#a16764dc80c9b3f6ad2897c8b7e59bd10" target="_top" xlink:title="Copy a list of addresses into another list. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="357.5,-342.5 357.5,-361.5 467.5,-361.5 467.5,-342.5 357.5,-342.5"/>
 <text text-anchor="middle" x="412.5" y="-349.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_addrlist_copy</text>
 </a>
 </g>
 </g>
-<!-- Node3305&#45;&gt;Node4036 -->
+<!-- Node3246&#45;&gt;Node3979 -->
 <g id="edge8" class="edge">
-<title>Node3305&#45;&gt;Node4036</title>
+<title>Node3246&#45;&gt;Node3979</title>
 <path fill="none" stroke="#191970" d="M50.3914,-247.7587C61.0921,-267.9105 88.7186,-313.8379 127,-333 196.1818,-367.6296 286.8529,-367.1566 347.2624,-361.4745"/>
 <polygon fill="#191970" stroke="#191970" points="347.8376,-364.9342 357.4329,-360.4419 347.1305,-357.97 347.8376,-364.9342"/>
 </g>
-<!-- Node3485 -->
+<!-- Node3426 -->
 <g id="node7" class="node">
-<title>Node3485</title>
+<title>Node3426</title>
 <g id="a_node7"><a xlink:href="address_2address_8c.html#a396bcf6adfff6663096fa6ae99c31c9a" target="_top" xlink:title="Unlink and free all Address in an AddressList. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="357,-285.5 357,-304.5 468,-304.5 468,-285.5 357,-285.5"/>
 <text text-anchor="middle" x="412.5" y="-292.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_addrlist_clear</text>
 </a>
 </g>
 </g>
-<!-- Node3305&#45;&gt;Node3485 -->
+<!-- Node3246&#45;&gt;Node3426 -->
 <g id="edge13" class="edge">
-<title>Node3305&#45;&gt;Node3485</title>
+<title>Node3246&#45;&gt;Node3426</title>
 <path fill="none" stroke="#191970" d="M83.0769,-247.5613C96.8341,-250.8494 112.5649,-254.3631 127,-257 201.9409,-270.6896 288.8004,-281.5438 346.85,-288.0889"/>
 <polygon fill="#191970" stroke="#191970" points="346.6591,-291.5893 356.9858,-289.2209 347.4361,-284.6325 346.6591,-291.5893"/>
 </g>
-<!-- Node4442 -->
+<!-- Node4391 -->
 <g id="node8" class="node">
-<title>Node4442</title>
+<title>Node4391</title>
 <g id="a_node8"><a xlink:href="address_2address_8c.html#a1de5e467c74e205ff465fd601c275b88" target="_top" xlink:title="Expand local names in an Address list using a hostname. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="163.5,-228.5 163.5,-247.5 284.5,-247.5 284.5,-228.5 163.5,-228.5"/>
 <text text-anchor="middle" x="224" y="-235.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_addrlist_qualify</text>
 </a>
 </g>
 </g>
-<!-- Node3305&#45;&gt;Node4442 -->
+<!-- Node3246&#45;&gt;Node4391 -->
 <g id="edge9" class="edge">
-<title>Node3305&#45;&gt;Node4442</title>
+<title>Node3246&#45;&gt;Node4391</title>
 <path fill="none" stroke="#191970" d="M91.0049,-238C109.9121,-238 132.299,-238 153.2609,-238"/>
 <polygon fill="#191970" stroke="#191970" points="153.4154,-241.5001 163.4153,-238 153.4153,-234.5001 153.4154,-241.5001"/>
 </g>
-<!-- Node3345 -->
+<!-- Node3286 -->
 <g id="node9" class="node">
-<title>Node3345</title>
+<title>Node3286</title>
 <g id="a_node9"><a xlink:href="mutt_2string_8c.html#acca6786b903b22a5924219f9db96e10d" target="_top" xlink:title="Calculate the length of a string, safely. ">
 <polygon fill="#ffffff" stroke="#000000" points="373.5,-209.5 373.5,-228.5 451.5,-228.5 451.5,-209.5 373.5,-209.5"/>
 <text text-anchor="middle" x="412.5" y="-216.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_str_len</text>
 </a>
 </g>
 </g>
-<!-- Node3305&#45;&gt;Node3345 -->
+<!-- Node3246&#45;&gt;Node3286 -->
 <g id="edge18" class="edge">
-<title>Node3305&#45;&gt;Node3345</title>
+<title>Node3246&#45;&gt;Node3286</title>
 <path fill="none" stroke="#191970" d="M78.5062,-228.493C93.2141,-224.7285 110.8344,-220.8594 127,-219 209.282,-209.5357 305.7879,-212.4267 362.8917,-215.576"/>
 <polygon fill="#191970" stroke="#191970" points="362.8984,-219.0821 373.0834,-216.1641 363.3017,-212.0937 362.8984,-219.0821"/>
 </g>
-<!-- Node4443 -->
+<!-- Node4392 -->
 <g id="node10" class="node">
-<title>Node4443</title>
+<title>Node4392</title>
 <g id="a_node10"><a xlink:href="address_2address_8c.html#aee5d40d84136d3a7adba727e2908ad66" target="_top" xlink:title="Remove duplicate addresses. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="162.5,-152.5 162.5,-171.5 285.5,-171.5 285.5,-152.5 162.5,-152.5"/>
 <text text-anchor="middle" x="224" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_addrlist_dedupe</text>
 </a>
 </g>
 </g>
-<!-- Node3305&#45;&gt;Node4443 -->
+<!-- Node3246&#45;&gt;Node4392 -->
 <g id="edge11" class="edge">
-<title>Node3305&#45;&gt;Node4443</title>
+<title>Node3246&#45;&gt;Node4392</title>
 <path fill="none" stroke="#191970" d="M57.7648,-228.3509C73.1207,-216.7152 100.6238,-197.3148 127,-186 138.0854,-181.2446 150.3048,-177.3019 162.2243,-174.0813"/>
 <polygon fill="#191970" stroke="#191970" points="163.3155,-177.4149 172.1348,-171.5438 161.5791,-170.6336 163.3155,-177.4149"/>
 </g>
-<!-- Node4571 -->
+<!-- Node4519 -->
 <g id="node11" class="node">
-<title>Node4571</title>
+<title>Node4519</title>
 <g id="a_node11"><a xlink:href="cryptglue_8c.html#acc0b640120a1e7459ff7ee4081031848" target="_top" xlink:title="Wrapper for CryptModuleSpecs::find_keys() ">
 <polygon fill="#ffffff" stroke="#ff0000" points="166,-114.5 166,-133.5 282,-133.5 282,-114.5 166,-114.5"/>
 <text text-anchor="middle" x="224" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">crypt_pgp_find_keys</text>
 </a>
 </g>
 </g>
-<!-- Node3305&#45;&gt;Node4571 -->
+<!-- Node3246&#45;&gt;Node4519 -->
 <g id="edge12" class="edge">
-<title>Node3305&#45;&gt;Node4571</title>
+<title>Node3246&#45;&gt;Node4519</title>
 <path fill="none" stroke="#191970" d="M50.7676,-228.3243C61.9758,-208.7386 90.1992,-164.4429 127,-143 135.8765,-137.8279 145.9061,-134.0358 156.0642,-131.261"/>
 <polygon fill="#191970" stroke="#191970" points="156.9142,-134.6565 165.8092,-128.9006 155.2662,-127.8532 156.9142,-134.6565"/>
 </g>
-<!-- Node3842 -->
+<!-- Node3783 -->
 <g id="node12" class="node">
-<title>Node3842</title>
+<title>Node3783</title>
 <g id="a_node12"><a xlink:href="helpers_8c.html#a9154ba713ce99b0937f475eec7c61af9" target="_top" xlink:title="Get a quad&#45;value config item by name. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="177,-76.5 177,-95.5 271,-95.5 271,-76.5 177,-76.5"/>
 <text text-anchor="middle" x="224" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_subset_quad</text>
 </a>
 </g>
 </g>
-<!-- Node3305&#45;&gt;Node3842 -->
+<!-- Node3246&#45;&gt;Node3783 -->
 <g id="edge16" class="edge">
-<title>Node3305&#45;&gt;Node3842</title>
+<title>Node3246&#45;&gt;Node3783</title>
 <path fill="none" stroke="#191970" d="M48.3696,-228.404C56.3311,-203.5545 81.1866,-136.8313 127,-105 138.5669,-96.9633 152.6879,-92.1269 166.5362,-89.2647"/>
 <polygon fill="#191970" stroke="#191970" points="167.2861,-92.6867 176.5312,-87.5121 166.077,-85.7919 167.2861,-92.6867"/>
 </g>
-<!-- Node4624 -->
+<!-- Node4572 -->
 <g id="node13" class="node">
-<title>Node4624</title>
+<title>Node4572</title>
 <g id="a_node13"><a xlink:href="cryptglue_8c.html#a57c1bc28957ade858546c243dad15173" target="_top" xlink:title="Wrapper for CryptModuleSpecs::find_keys() ">
 <polygon fill="#ffffff" stroke="#ff0000" points="158,-38.5 158,-57.5 290,-57.5 290,-38.5 158,-38.5"/>
 <text text-anchor="middle" x="224" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">crypt_smime_find_keys</text>
 </a>
 </g>
 </g>
-<!-- Node3305&#45;&gt;Node4624 -->
+<!-- Node3246&#45;&gt;Node4572 -->
 <g id="edge17" class="edge">
-<title>Node3305&#45;&gt;Node4624</title>
+<title>Node3246&#45;&gt;Node4572</title>
 <path fill="none" stroke="#191970" d="M47.0129,-228.369C52.1709,-198.9594 71.91,-109.7319 127,-67 133.2924,-62.1192 140.4909,-58.3835 148.0603,-55.5383"/>
 <polygon fill="#191970" stroke="#191970" points="149.3656,-58.7948 157.8063,-52.3913 147.2146,-52.1335 149.3656,-58.7948"/>
 </g>
-<!-- Node3329 -->
+<!-- Node3270 -->
 <g id="node14" class="node">
-<title>Node3329</title>
+<title>Node3270</title>
 <g id="a_node14"><a xlink:href="memory_8c.html#af778eb8166966fc0666c64849f6c7c5b" target="_top" xlink:title="Resize a block of memory on the heap. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="169.5,-.5 169.5,-19.5 278.5,-19.5 278.5,-.5 169.5,-.5"/>
 <text text-anchor="middle" x="224" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_mem_realloc</text>
 </a>
 </g>
 </g>
-<!-- Node3305&#45;&gt;Node3329 -->
+<!-- Node3246&#45;&gt;Node3270 -->
 <g id="edge19" class="edge">
-<title>Node3305&#45;&gt;Node3329</title>
+<title>Node3246&#45;&gt;Node3270</title>
 <path fill="none" stroke="#191970" d="M46.1199,-228.2383C48.8083,-194.6491 62.4538,-82.949 127,-29 136.2579,-21.2621 147.7477,-16.3414 159.5449,-13.2741"/>
 <polygon fill="#191970" stroke="#191970" points="160.457,-16.6577 169.4847,-11.1124 158.9693,-9.8176 160.457,-16.6577"/>
 </g>
-<!-- Node3306&#45;&gt;Node3307 -->
+<!-- Node3247&#45;&gt;Node3248 -->
 <g id="edge2" class="edge">
-<title>Node3306&#45;&gt;Node3307</title>
+<title>Node3247&#45;&gt;Node3248</title>
 <path fill="none" stroke="#191970" d="M257.7,-431.3968C284.1689,-434.0648 321.6867,-437.8464 353.1576,-441.0185"/>
 <polygon fill="#191970" stroke="#191970" points="352.8406,-444.5042 363.1412,-442.0248 353.5427,-437.5395 352.8406,-444.5042"/>
 </g>
-<!-- Node3306&#45;&gt;Node3330 -->
+<!-- Node3247&#45;&gt;Node3271 -->
 <g id="edge3" class="edge">
-<title>Node3306&#45;&gt;Node3330</title>
+<title>Node3247&#45;&gt;Node3271</title>
 <path fill="none" stroke="#191970" d="M257.7,-421.2064C285.1245,-415.6778 324.41,-407.7582 356.5415,-401.2808"/>
 <polygon fill="#191970" stroke="#191970" points="357.5872,-404.6404 366.6984,-399.2332 356.2039,-397.7785 357.5872,-404.6404"/>
 </g>
-<!-- Node3331&#45;&gt;Node3330 -->
+<!-- Node3272&#45;&gt;Node3271 -->
 <g id="edge5" class="edge">
-<title>Node3331&#45;&gt;Node3330</title>
+<title>Node3272&#45;&gt;Node3271</title>
 <path fill="none" stroke="#191970" d="M244.9912,-323.5762C271.0345,-335.3221 316.9085,-355.5714 357,-371 362.2871,-373.0346 367.8969,-375.0821 373.4395,-377.0408"/>
 <polygon fill="#191970" stroke="#191970" points="372.6647,-380.4767 383.2595,-380.4486 374.9597,-373.8636 372.6647,-380.4767"/>
 </g>
-<!-- Node3331&#45;&gt;Node4036 -->
+<!-- Node3272&#45;&gt;Node3979 -->
 <g id="edge6" class="edge">
-<title>Node3331&#45;&gt;Node4036</title>
+<title>Node3272&#45;&gt;Node3979</title>
 <path fill="none" stroke="#191970" d="M271.5665,-323.589C297.0014,-328.7165 328.5046,-335.0672 355.2714,-340.4632"/>
 <polygon fill="#191970" stroke="#191970" points="354.7811,-343.9347 365.2755,-342.4799 356.1644,-337.0727 354.7811,-343.9347"/>
 </g>
-<!-- Node3331&#45;&gt;Node3485 -->
+<!-- Node3272&#45;&gt;Node3426 -->
 <g id="edge7" class="edge">
-<title>Node3331&#45;&gt;Node3485</title>
+<title>Node3272&#45;&gt;Node3426</title>
 <path fill="none" stroke="#191970" d="M318.5261,-304.4722C328.0703,-303.5102 337.6108,-302.5485 346.7559,-301.6267"/>
 <polygon fill="#191970" stroke="#191970" points="347.2937,-305.0903 356.8923,-300.605 346.5917,-298.1256 347.2937,-305.0903"/>
 </g>
-<!-- Node4442&#45;&gt;Node3345 -->
+<!-- Node4391&#45;&gt;Node3286 -->
 <g id="edge10" class="edge">
-<title>Node4442&#45;&gt;Node3345</title>
+<title>Node4391&#45;&gt;Node3286</title>
 <path fill="none" stroke="#191970" d="M284.6802,-231.8837C310.1068,-229.3208 339.2831,-226.38 363.3349,-223.9556"/>
 <polygon fill="#191970" stroke="#191970" points="363.7046,-227.4362 373.3032,-222.9509 363.0026,-220.4715 363.7046,-227.4362"/>
 </g>

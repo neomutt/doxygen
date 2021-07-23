@@ -9,54 +9,54 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 100)">
 <title>mutt_ch_iconv_open</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-100 306,-100 306,4 -4,4"/>
-<!-- Node3607 -->
+<!-- Node3880 -->
 <g id="node1" class="node">
-<title>Node3607</title>
+<title>Node3880</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-38.5 0,-57.5 117,-57.5 117,-38.5 0,-38.5"/>
 <text text-anchor="middle" x="58.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_ch_iconv_open</text>
 </g>
-<!-- Node3608 -->
+<!-- Node3881 -->
 <g id="node2" class="node">
-<title>Node3608</title>
+<title>Node3881</title>
 <g id="a_node2"><a xlink:href="mutt_2charset_8c.html#a4b347dd75af05a18dbe328c354c18fe8" target="_top" xlink:title="Canonicalise the charset of a string. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="153,-76.5 153,-95.5 302,-95.5 302,-76.5 153,-76.5"/>
 <text text-anchor="middle" x="227.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_ch_canonical_charset</text>
 </a>
 </g>
 </g>
-<!-- Node3607&#45;&gt;Node3608 -->
+<!-- Node3880&#45;&gt;Node3881 -->
 <g id="edge1" class="edge">
-<title>Node3607&#45;&gt;Node3608</title>
+<title>Node3880&#45;&gt;Node3881</title>
 <path fill="none" stroke="#191970" d="M101.1458,-57.589C123.6481,-62.6487 151.4482,-68.8996 175.2379,-74.2488"/>
 <polygon fill="#191970" stroke="#191970" points="174.6366,-77.7009 185.1608,-76.4799 176.1723,-70.8714 174.6366,-77.7009"/>
 </g>
-<!-- Node3615 -->
+<!-- Node3888 -->
 <g id="node3" class="node">
-<title>Node3615</title>
+<title>Node3888</title>
 <g id="a_node3"><a xlink:href="mutt_2charset_8c.html#aaa101adbf2c99dabddb3c3ef818cfb07" target="_top" xlink:title="Look for a replacement character set. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="159.5,-38.5 159.5,-57.5 295.5,-57.5 295.5,-38.5 159.5,-38.5"/>
 <text text-anchor="middle" x="227.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_ch_charset_lookup</text>
 </a>
 </g>
 </g>
-<!-- Node3607&#45;&gt;Node3615 -->
+<!-- Node3880&#45;&gt;Node3888 -->
 <g id="edge2" class="edge">
-<title>Node3607&#45;&gt;Node3615</title>
+<title>Node3880&#45;&gt;Node3888</title>
 <path fill="none" stroke="#191970" d="M117.1337,-48C127.4648,-48 138.3669,-48 149.1353,-48"/>
 <polygon fill="#191970" stroke="#191970" points="149.3958,-51.5001 159.3957,-48 149.3957,-44.5001 149.3958,-51.5001"/>
 </g>
-<!-- Node3619 -->
+<!-- Node3892 -->
 <g id="node4" class="node">
-<title>Node3619</title>
+<title>Node3892</title>
 <g id="a_node4"><a xlink:href="mutt_2charset_8c.html#ae8b4f80c8064c67fd34a685af9d8acac" target="_top" xlink:title="Look for a replacement character set. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="164.5,-.5 164.5,-19.5 290.5,-19.5 290.5,-.5 164.5,-.5"/>
 <text text-anchor="middle" x="227.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_ch_iconv_lookup</text>
 </a>
 </g>
 </g>
-<!-- Node3607&#45;&gt;Node3619 -->
+<!-- Node3880&#45;&gt;Node3892 -->
 <g id="edge3" class="edge">
-<title>Node3607&#45;&gt;Node3619</title>
+<title>Node3880&#45;&gt;Node3892</title>
 <path fill="none" stroke="#191970" d="M101.1458,-38.411C123.6481,-33.3513 151.4482,-27.1004 175.2379,-21.7512"/>
 <polygon fill="#191970" stroke="#191970" points="176.1723,-25.1286 185.1608,-19.5201 174.6366,-18.2991 176.1723,-25.1286"/>
 </g>

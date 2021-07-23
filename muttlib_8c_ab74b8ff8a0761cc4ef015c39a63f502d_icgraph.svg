@@ -9,111 +9,111 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 232)">
 <title>mutt_is_text_part</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-232 459,-232 459,4 -4,4"/>
-<!-- Node12727 -->
+<!-- Node12433 -->
 <g id="node1" class="node">
-<title>Node12727</title>
+<title>Node12433</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-113.5 0,-132.5 103,-132.5 103,-113.5 0,-113.5"/>
 <text text-anchor="middle" x="51.5" y="-120.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_is_text_part</text>
 </g>
-<!-- Node12728 -->
+<!-- Node12434 -->
 <g id="node2" class="node">
-<title>Node12728</title>
+<title>Node12434</title>
 <g id="a_node2"><a xlink:href="compose_2lib_8h.html#ab41aa2ed639a1d884984f0d42d1cf827" target="_top" xlink:title="Allow the user to edit the message envelope. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="149,-208.5 149,-227.5 271,-227.5 271,-208.5 149,-208.5"/>
 <text text-anchor="middle" x="210" y="-215.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_compose_menu</text>
 </a>
 </g>
 </g>
-<!-- Node12727&#45;&gt;Node12728 -->
+<!-- Node12433&#45;&gt;Node12434 -->
 <g id="edge1" class="edge">
-<title>Node12727&#45;&gt;Node12728</title>
+<title>Node12433&#45;&gt;Node12434</title>
 <path fill="none" stroke="#191970" d="M66.9769,-140.4473C83.2592,-157.7568 110.4441,-183.8299 139,-199 146.212,-202.8313 154.2555,-205.9345 162.2639,-208.4341"/>
 <polygon fill="#191970" stroke="#191970" points="69.2424,-137.7396 59.9014,-132.7401 64.0859,-142.4736 69.2424,-137.7396"/>
 </g>
-<!-- Node13293 -->
+<!-- Node13053 -->
 <g id="node3" class="node">
-<title>Node13293</title>
+<title>Node13053</title>
 <g id="a_node3"><a xlink:href="send_2body_8c.html#a55c55e2f50317ab8226c0c2768e01ad0" target="_top" xlink:title="Should the Body be written as a text MIME part. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="156.5,-170.5 156.5,-189.5 263.5,-189.5 263.5,-170.5 156.5,-170.5"/>
 <text text-anchor="middle" x="210" y="-177.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">write_as_text_part</text>
 </a>
 </g>
 </g>
-<!-- Node12727&#45;&gt;Node13293 -->
+<!-- Node12433&#45;&gt;Node13053 -->
 <g id="edge2" class="edge">
-<title>Node12727&#45;&gt;Node13293</title>
+<title>Node12433&#45;&gt;Node13053</title>
 <path fill="none" stroke="#191970" d="M85.8459,-136.268C101.9389,-142.4039 121.4021,-149.7094 139,-156 152.7226,-160.9053 168.0277,-166.1122 180.9041,-170.4179"/>
 <polygon fill="#191970" stroke="#191970" points="86.8985,-132.9233 76.3081,-132.6182 84.3968,-139.461 86.8985,-132.9233"/>
 </g>
-<!-- Node13294 -->
+<!-- Node13054 -->
 <g id="node4" class="node">
-<title>Node13294</title>
+<title>Node13054</title>
 <g id="a_node4"><a xlink:href="handler_8c.html#a7cb7eedc6f224327b26807c96d24a167" target="_top" xlink:title="Run an appropriate decoder for an email. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="317,-113.5 317,-132.5 455,-132.5 455,-113.5 317,-113.5"/>
 <text text-anchor="middle" x="386" y="-120.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">run_decode_and_handler</text>
 </a>
 </g>
 </g>
-<!-- Node12727&#45;&gt;Node13294 -->
+<!-- Node12433&#45;&gt;Node13054 -->
 <g id="edge3" class="edge">
-<title>Node12727&#45;&gt;Node13294</title>
+<title>Node12433&#45;&gt;Node13054</title>
 <path fill="none" stroke="#191970" d="M113.1104,-123C170.832,-123 256.9759,-123 316.9846,-123"/>
 <polygon fill="#191970" stroke="#191970" points="113.0326,-119.5001 103.0326,-123 113.0325,-126.5001 113.0326,-119.5001"/>
 </g>
-<!-- Node13295 -->
+<!-- Node13055 -->
 <g id="node5" class="node">
-<title>Node13295</title>
+<title>Node13055</title>
 <g id="a_node5"><a xlink:href="handler_8h.html#a8dc0c14a81bb73f86986adc9745dd192" target="_top" xlink:title="Decode an email&#39;s attachment. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="139,-94.5 139,-113.5 281,-113.5 281,-94.5 139,-94.5"/>
 <text text-anchor="middle" x="210" y="-101.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_decode_attachment</text>
 </a>
 </g>
 </g>
-<!-- Node12727&#45;&gt;Node13295 -->
+<!-- Node12433&#45;&gt;Node13055 -->
 <g id="edge4" class="edge">
-<title>Node12727&#45;&gt;Node13295</title>
+<title>Node12433&#45;&gt;Node13055</title>
 <path fill="none" stroke="#191970" d="M113.4517,-115.5736C121.8254,-114.5698 130.47,-113.5336 138.9863,-112.5127"/>
 <polygon fill="#191970" stroke="#191970" points="112.9111,-112.1133 103.3988,-116.7787 113.7444,-119.0635 112.9111,-112.1133"/>
 </g>
-<!-- Node12803 -->
+<!-- Node12526 -->
 <g id="node6" class="node">
-<title>Node12803</title>
+<title>Node12526</title>
 <g id="a_node6"><a xlink:href="mutt__body_8h.html#a34765b4c275e55006a2203472caa0294" target="_top" xlink:title="Create a send&#45;mode duplicate from a receive&#45;mode body. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="161,-56.5 161,-75.5 259,-75.5 259,-56.5 161,-56.5"/>
 <text text-anchor="middle" x="210" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_body_copy</text>
 </a>
 </g>
 </g>
-<!-- Node12727&#45;&gt;Node12803 -->
+<!-- Node12433&#45;&gt;Node12526 -->
 <g id="edge6" class="edge">
-<title>Node12727&#45;&gt;Node12803</title>
+<title>Node12433&#45;&gt;Node12526</title>
 <path fill="none" stroke="#191970" d="M80.6092,-109.0654C97.429,-101.3424 119.1303,-91.9303 139,-85 149.0001,-81.5121 159.9791,-78.2886 170.2511,-75.5248"/>
 <polygon fill="#191970" stroke="#191970" points="78.9118,-105.9948 71.3209,-113.3859 81.8641,-112.3418 78.9118,-105.9948"/>
 </g>
-<!-- Node12963 -->
+<!-- Node12692 -->
 <g id="node7" class="node">
-<title>Node12963</title>
-<g id="a_node7"><a xlink:href="recvattach_8h.html#a15aa67845d7281e3b5263c24dcf75d0c" target="_top" xlink:title="Format a string for the attachment menu &#45; Implements format_t. ">
+<title>Node12692</title>
+<g id="a_node7"><a xlink:href="group__expando__api.html#ga15aa67845d7281e3b5263c24dcf75d0c" target="_top" xlink:title="Format a string for the attachment menu &#45; Implements format_t &#45;Expando Description &#160;%C Character set ...">
 <polygon fill="#ffffff" stroke="#ff0000" points="158,-.5 158,-19.5 262,-19.5 262,-.5 158,-.5"/>
 <text text-anchor="middle" x="210" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">attach_format_str</text>
 </a>
 </g>
 </g>
-<!-- Node12727&#45;&gt;Node12963 -->
+<!-- Node12433&#45;&gt;Node12692 -->
 <g id="edge7" class="edge">
-<title>Node12727&#45;&gt;Node12963</title>
+<title>Node12433&#45;&gt;Node12692</title>
 <path fill="none" stroke="#191970" d="M68.5577,-106.0198C85.5073,-89.6883 112.7011,-64.9069 139,-47 154.7403,-36.2825 173.9674,-26.4395 188.4414,-19.6045"/>
 <polygon fill="#191970" stroke="#191970" points="65.8198,-103.8013 61.1088,-113.2912 70.7095,-108.8105 65.8198,-103.8013"/>
 </g>
-<!-- Node13295&#45;&gt;Node13294 -->
+<!-- Node13055&#45;&gt;Node13054 -->
 <g id="edge5" class="edge">
-<title>Node13295&#45;&gt;Node13294</title>
+<title>Node13055&#45;&gt;Node13054</title>
 <path fill="none" stroke="#191970" d="M291.1408,-112.7595C299.7639,-113.6904 308.4754,-114.6309 316.9413,-115.5448"/>
 <polygon fill="#191970" stroke="#191970" points="291.3965,-109.2669 281.0786,-111.6733 290.6452,-116.2264 291.3965,-109.2669"/>
 </g>
-<!-- Node12963&#45;&gt;Node12963 -->
+<!-- Node12692&#45;&gt;Node12692 -->
 <g id="edge8" class="edge">
-<title>Node12963&#45;&gt;Node12963</title>
+<title>Node12692&#45;&gt;Node12692</title>
 <path fill="none" stroke="#191970" d="M180.5076,-28.6539C181.7404,-33.9368 191.5712,-38 210,-38 238.082,-38 246.1995,-28.5653 234.3524,-19.7571"/>
 <polygon fill="#191970" stroke="#191970" points="183.6757,-30.1668 185.6476,-19.7571 177.6145,-26.665 183.6757,-30.1668"/>
 </g>

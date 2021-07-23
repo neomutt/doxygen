@@ -132,7 +132,7 @@ var searchData=
   ['history',['History',['../structHistory.html',1,'']]],
   ['history_2ec',['history.c',['../history_8c.html',1,'']]],
   ['history_20selection_20dialog',['History Selection Dialog',['../history_dlghistory.html',1,'lib_history']]],
-  ['history_5fformat_5fstr',['history_format_str',['../dlghistory_8c.html#ae405983a0c5811f1af6d61a5e719391f',1,'dlghistory.c']]],
+  ['history_5fformat_5fstr',['history_format_str',['../group__expando__api.html#gae405983a0c5811f1af6d61a5e719391f',1,'dlghistory.c']]],
   ['history_5fmake_5fentry',['history_make_entry',['../dlghistory_8c.html#ad5be190a528d1d12b831bcfc22a5e648',1,'dlghistory.c']]],
   ['historyclass',['HistoryClass',['../history_2lib_8h.html#acb0a49d94e5b4fe512c30e2c12621234',1,'lib.h']]],
   ['historyhelp',['HistoryHelp',['../dlghistory_8c.html#a842f535e4ed4d6bc1f93473aee06a085',1,'dlghistory.c']]],

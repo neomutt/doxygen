@@ -9,15 +9,15 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 198.5)">
 <title>pgp_gpgme_decrypt_mime</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-198.5 352,-198.5 352,4 -4,4"/>
-<!-- Node2291 -->
+<!-- Node2123 -->
 <g id="node1" class="node">
-<title>Node2291</title>
+<title>Node2123</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-76.5 0,-95.5 149,-95.5 149,-76.5 0,-76.5"/>
 <text text-anchor="middle" x="74.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pgp_gpgme_decrypt_mime</text>
 </g>
-<!-- Node2292 -->
+<!-- Node2124 -->
 <g id="node2" class="node">
-<title>Node2292</title>
+<title>Node2124</title>
 <g id="a_node2"><a xlink:href="crypt_8c.html#a51806f872069460bb7f4fa16d1d92710" target="_top" xlink:title="Is this a valid multi&#45;part encrypted message? ">
 <polygon fill="#ffffff" stroke="#ff0000" points="200,-164 200,-194 333,-194 333,-164 200,-164"/>
 <text text-anchor="start" x="208" y="-182" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_is_valid_multipart</text>
@@ -25,15 +25,15 @@
 </a>
 </g>
 </g>
-<!-- Node2291&#45;&gt;Node2292 -->
+<!-- Node2123&#45;&gt;Node2124 -->
 <g id="edge1" class="edge">
-<title>Node2291&#45;&gt;Node2292</title>
+<title>Node2123&#45;&gt;Node2124</title>
 <path fill="none" stroke="#191970" d="M87.4494,-95.7342C107.443,-110.3719 147.4531,-138.1295 185,-155 189.3937,-156.9742 193.9926,-158.8352 198.6729,-160.5799"/>
 <polygon fill="#191970" stroke="#191970" points="197.7598,-163.9691 208.3546,-163.9965 200.0893,-157.3681 197.7598,-163.9691"/>
 </g>
-<!-- Node2297 -->
+<!-- Node2129 -->
 <g id="node3" class="node">
-<title>Node2297</title>
+<title>Node2129</title>
 <g id="a_node3"><a xlink:href="crypt_8c.html#a9edb0262eaed7c522977a75b76c15770" target="_top" xlink:title="Check for malformed layout. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="185,-115 185,-145 348,-145 348,-115 185,-115"/>
 <text text-anchor="start" x="193" y="-133" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_is_malformed_multipart</text>
@@ -41,54 +41,54 @@
 </a>
 </g>
 </g>
-<!-- Node2291&#45;&gt;Node2297 -->
+<!-- Node2123&#45;&gt;Node2129 -->
 <g id="edge2" class="edge">
-<title>Node2291&#45;&gt;Node2297</title>
+<title>Node2123&#45;&gt;Node2129</title>
 <path fill="none" stroke="#191970" d="M116.1611,-95.5473C137.9711,-100.5455 165.3603,-106.8222 190.7656,-112.6442"/>
 <polygon fill="#191970" stroke="#191970" points="190.2311,-116.1124 200.7602,-114.9346 191.7947,-109.2892 190.2311,-116.1124"/>
 </g>
-<!-- Node2298 -->
+<!-- Node2130 -->
 <g id="node4" class="node">
-<title>Node2298</title>
+<title>Node2130</title>
 <g id="a_node4"><a xlink:href="handler_8c.html#a8dc0c14a81bb73f86986adc9745dd192" target="_top" xlink:title="Decode an email&#39;s attachment. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="195.5,-76.5 195.5,-95.5 337.5,-95.5 337.5,-76.5 195.5,-76.5"/>
 <text text-anchor="middle" x="266.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_decode_attachment</text>
 </a>
 </g>
 </g>
-<!-- Node2291&#45;&gt;Node2298 -->
+<!-- Node2123&#45;&gt;Node2130 -->
 <g id="edge3" class="edge">
-<title>Node2291&#45;&gt;Node2298</title>
+<title>Node2123&#45;&gt;Node2130</title>
 <path fill="none" stroke="#191970" d="M149.007,-86C160.948,-86 173.3566,-86 185.4414,-86"/>
 <polygon fill="#191970" stroke="#191970" points="185.4991,-89.5001 195.4991,-86 185.499,-82.5001 185.4991,-89.5001"/>
 </g>
-<!-- Node2349 -->
+<!-- Node2181 -->
 <g id="node5" class="node">
-<title>Node2349</title>
+<title>Node2181</title>
 <g id="a_node5"><a xlink:href="crypt__gpgme_8c.html#a06057059d161b58e6b17c6b00fe54ab6" target="_top" xlink:title="Decrypt a PGP or SMIME message. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="227.5,-38.5 227.5,-57.5 305.5,-57.5 305.5,-38.5 227.5,-38.5"/>
 <text text-anchor="middle" x="266.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">decrypt_part</text>
 </a>
 </g>
 </g>
-<!-- Node2291&#45;&gt;Node2349 -->
+<!-- Node2123&#45;&gt;Node2181 -->
 <g id="edge4" class="edge">
-<title>Node2291&#45;&gt;Node2349</title>
+<title>Node2123&#45;&gt;Node2181</title>
 <path fill="none" stroke="#191970" d="M122.9497,-76.411C151.8676,-70.6877 188.4866,-63.4402 217.5012,-57.6977"/>
 <polygon fill="#191970" stroke="#191970" points="218.2916,-61.1092 227.4217,-55.7342 216.9325,-54.2424 218.2916,-61.1092"/>
 </g>
-<!-- Node2713 -->
+<!-- Node2545 -->
 <g id="node6" class="node">
-<title>Node2713</title>
+<title>Node2545</title>
 <g id="a_node6"><a xlink:href="file_8c.html#a31f49795ff5b9558db5476e5777e63b6" target="_top" xlink:title="Close a FILE handle (and NULL the pointer) ">
 <polygon fill="#ffffff" stroke="#000000" points="219,-.5 219,-19.5 314,-19.5 314,-.5 219,-.5"/>
 <text text-anchor="middle" x="266.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_file_fclose</text>
 </a>
 </g>
 </g>
-<!-- Node2291&#45;&gt;Node2713 -->
+<!-- Node2123&#45;&gt;Node2545 -->
 <g id="edge5" class="edge">
-<title>Node2291&#45;&gt;Node2713</title>
+<title>Node2123&#45;&gt;Node2545</title>
 <path fill="none" stroke="#191970" d="M90.0397,-76.4102C110.9295,-63.8922 149.549,-42.0467 185,-29 192.6578,-26.1818 200.8783,-23.6856 209.046,-21.5059"/>
 <polygon fill="#191970" stroke="#191970" points="210.1044,-24.8485 218.9412,-19.0036 208.3883,-18.0621 210.1044,-24.8485"/>
 </g>

@@ -9,39 +9,39 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 62)">
 <title>pgp_gpgme_init</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-62 215,-62 215,4 -4,4"/>
-<!-- Node73772 -->
+<!-- Node72836 -->
 <g id="node1" class="node">
-<title>Node73772</title>
+<title>Node72836</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-19.5 0,-38.5 95,-38.5 95,-19.5 0,-19.5"/>
 <text text-anchor="middle" x="47.5" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pgp_gpgme_init</text>
 </g>
-<!-- Node73773 -->
+<!-- Node72837 -->
 <g id="node2" class="node">
-<title>Node73773</title>
+<title>Node72837</title>
 <g id="a_node2"><a xlink:href="crypt__gpgme_8c.html#a145bf0426df849dc84a86732a6f679f1" target="_top" xlink:title="Initialise code common to PGP and SMIME parts of GPGME. ">
 <polygon fill="#ffffff" stroke="#000000" points="131,-38.5 131,-57.5 211,-57.5 211,-38.5 131,-38.5"/>
 <text text-anchor="middle" x="171" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">init_common</text>
 </a>
 </g>
 </g>
-<!-- Node73772&#45;&gt;Node73773 -->
+<!-- Node72836&#45;&gt;Node72837 -->
 <g id="edge1" class="edge">
-<title>Node73772&#45;&gt;Node73773</title>
+<title>Node72836&#45;&gt;Node72837</title>
 <path fill="none" stroke="#191970" d="M95.2483,-36.3459C103.6449,-37.6377 112.4061,-38.9855 120.8655,-40.287"/>
 <polygon fill="#191970" stroke="#191970" points="120.5738,-43.7832 130.9897,-41.8446 121.6382,-36.8646 120.5738,-43.7832"/>
 </g>
-<!-- Node73774 -->
+<!-- Node72838 -->
 <g id="node3" class="node">
-<title>Node73774</title>
+<title>Node72838</title>
 <g id="a_node3"><a xlink:href="crypt__gpgme_8c.html#aead4e2c25ab6b1ea42f818cc243cd2d1" target="_top" xlink:title="Initialise the PGP crypto backend. ">
 <polygon fill="#ffffff" stroke="#000000" points="143,-.5 143,-19.5 199,-19.5 199,-.5 143,-.5"/>
 <text text-anchor="middle" x="171" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">init_pgp</text>
 </a>
 </g>
 </g>
-<!-- Node73772&#45;&gt;Node73774 -->
+<!-- Node72836&#45;&gt;Node72838 -->
 <g id="edge2" class="edge">
-<title>Node73772&#45;&gt;Node73774</title>
+<title>Node72836&#45;&gt;Node72838</title>
 <path fill="none" stroke="#191970" d="M95.2483,-21.6541C107.6379,-19.748 120.8214,-17.7198 132.658,-15.8988"/>
 <polygon fill="#191970" stroke="#191970" points="133.3079,-19.3401 142.6593,-14.3601 132.2434,-12.4215 133.3079,-19.3401"/>
 </g>

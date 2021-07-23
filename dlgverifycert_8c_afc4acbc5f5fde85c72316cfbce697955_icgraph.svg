@@ -9,39 +9,39 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 62)">
 <title>dlg_verify_certificate</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-62 299,-62 299,4 -4,4"/>
-<!-- Node2172 -->
+<!-- Node2004 -->
 <g id="node1" class="node">
-<title>Node2172</title>
+<title>Node2004</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-19.5 0,-38.5 119,-38.5 119,-19.5 0,-19.5"/>
 <text text-anchor="middle" x="59.5" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">dlg_verify_certificate</text>
 </g>
-<!-- Node2173 -->
+<!-- Node2005 -->
 <g id="node2" class="node">
-<title>Node2173</title>
+<title>Node2005</title>
 <g id="a_node2"><a xlink:href="gnutls_8c.html#ad2898199aadc914b669fbc3bab018ee2" target="_top" xlink:title="Check a GnuTLS certificate. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="155,-38.5 155,-57.5 295,-57.5 295,-38.5 155,-38.5"/>
 <text text-anchor="middle" x="225" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">tls_check_one_certificate</text>
 </a>
 </g>
 </g>
-<!-- Node2172&#45;&gt;Node2173 -->
+<!-- Node2004&#45;&gt;Node2005 -->
 <g id="edge1" class="edge">
-<title>Node2172&#45;&gt;Node2173</title>
+<title>Node2004&#45;&gt;Node2005</title>
 <path fill="none" stroke="#191970" d="M129.4249,-37.0276C137.8611,-37.9961 146.4796,-38.9856 154.9181,-39.9543"/>
 <polygon fill="#191970" stroke="#191970" points="129.5833,-33.5229 119.2493,-35.8594 128.7848,-40.4772 129.5833,-33.5229"/>
 </g>
-<!-- Node2650 -->
+<!-- Node2528 -->
 <g id="node3" class="node">
-<title>Node2650</title>
+<title>Node2528</title>
 <g id="a_node3"><a xlink:href="openssl_8c.html#ae0a15dc5df31b626a42f31bd6a5ea7f4" target="_top" xlink:title="Ask the user if a certificate is valid. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="161.5,-.5 161.5,-19.5 288.5,-19.5 288.5,-.5 161.5,-.5"/>
 <text text-anchor="middle" x="225" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">interactive_check_cert</text>
 </a>
 </g>
 </g>
-<!-- Node2172&#45;&gt;Node2650 -->
+<!-- Node2004&#45;&gt;Node2528 -->
 <g id="edge2" class="edge">
-<title>Node2172&#45;&gt;Node2650</title>
+<title>Node2004&#45;&gt;Node2528</title>
 <path fill="none" stroke="#191970" d="M129.3426,-20.9818C139.9881,-19.7597 150.9259,-18.504 161.4276,-17.2983"/>
 <polygon fill="#191970" stroke="#191970" points="128.7848,-17.5228 119.2493,-22.1406 129.5833,-24.4771 128.7848,-17.5228"/>
 </g>

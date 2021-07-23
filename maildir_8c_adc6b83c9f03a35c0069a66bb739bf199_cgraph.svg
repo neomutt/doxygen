@@ -9,240 +9,240 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 556)">
 <title>maildir_delayed_parsing</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-556 437,-556 437,4 -4,4"/>
-<!-- Node5758 -->
+<!-- Node5530 -->
 <g id="node1" class="node">
-<title>Node5758</title>
+<title>Node5530</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-266.5 0,-285.5 137,-285.5 137,-266.5 0,-266.5"/>
 <text text-anchor="middle" x="68.5" y="-273.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">maildir_delayed_parsing</text>
 </g>
-<!-- Node5759 -->
+<!-- Node5531 -->
 <g id="node2" class="node">
-<title>Node5759</title>
+<title>Node5531</title>
 <g id="a_node2"><a xlink:href="helpers_8c.html#acadf9e29fd733422508496a70a080c09" target="_top" xlink:title="Get a path config item by name. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="193.5,-532.5 193.5,-551.5 285.5,-551.5 285.5,-532.5 193.5,-532.5"/>
 <text text-anchor="middle" x="239.5" y="-539.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_subset_path</text>
 </a>
 </g>
 </g>
-<!-- Node5758&#45;&gt;Node5759 -->
+<!-- Node5530&#45;&gt;Node5531 -->
 <g id="edge1" class="edge">
-<title>Node5758&#45;&gt;Node5759</title>
+<title>Node5530&#45;&gt;Node5531</title>
 <path fill="none" stroke="#191970" d="M69.5995,-285.501C74.3492,-322.0986 96.4621,-455.2692 173,-523 176.379,-525.9902 180.1989,-528.5119 184.2574,-530.6382"/>
 <polygon fill="#191970" stroke="#191970" points="182.8828,-533.8573 193.4449,-534.6901 185.7075,-527.4524 182.8828,-533.8573"/>
 </g>
-<!-- Node5782 -->
+<!-- Node5554 -->
 <g id="node3" class="node">
-<title>Node5782</title>
+<title>Node5554</title>
 <g id="a_node3"><a xlink:href="hcache_8c.html#a2577271f963bef5d602562b0f3391f4d" target="_top" xlink:title="Multiplexor for StoreOps::open. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="185,-494.5 185,-513.5 294,-513.5 294,-494.5 185,-494.5"/>
 <text text-anchor="middle" x="239.5" y="-501.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_hcache_open</text>
 </a>
 </g>
 </g>
-<!-- Node5758&#45;&gt;Node5782 -->
+<!-- Node5530&#45;&gt;Node5554 -->
 <g id="edge2" class="edge">
-<title>Node5758&#45;&gt;Node5782</title>
+<title>Node5530&#45;&gt;Node5554</title>
 <path fill="none" stroke="#191970" d="M70.4179,-285.6144C77.5334,-318.7221 105.5711,-429.039 173,-485 175.0616,-486.711 177.269,-488.268 179.5811,-489.685"/>
 <polygon fill="#191970" stroke="#191970" points="178.4366,-493.0317 188.9313,-494.4851 181.6336,-486.8043 178.4366,-493.0317"/>
 </g>
-<!-- Node5832 -->
+<!-- Node5604 -->
 <g id="node4" class="node">
-<title>Node5832</title>
+<title>Node5604</title>
 <g id="a_node4"><a xlink:href="mailbox_8h.html#a04aa11207205b6778388dfc8ed56ee0d" target="_top" xlink:title="Get the Mailbox&#39;s path string. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="198,-456.5 198,-475.5 281,-475.5 281,-456.5 198,-456.5"/>
 <text text-anchor="middle" x="239.5" y="-463.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mailbox_path</text>
 </a>
 </g>
 </g>
-<!-- Node5758&#45;&gt;Node5832 -->
+<!-- Node5530&#45;&gt;Node5604 -->
 <g id="edge3" class="edge">
-<title>Node5758&#45;&gt;Node5832</title>
+<title>Node5530&#45;&gt;Node5604</title>
 <path fill="none" stroke="#191970" d="M71.6354,-285.8739C81.4677,-315.2088 114.5705,-402.5564 173,-447 177.6529,-450.5392 182.9413,-453.4194 188.4552,-455.7633"/>
 <polygon fill="#191970" stroke="#191970" points="187.2816,-459.0608 197.8752,-459.2232 189.6951,-452.49 187.2816,-459.0608"/>
 </g>
-<!-- Node5833 -->
+<!-- Node5605 -->
 <g id="node5" class="node">
-<title>Node5833</title>
+<title>Node5605</title>
 <g id="a_node5"><a xlink:href="progress_2lib_8h.html#a7373bbf71548c41b082a305b3346727a" target="_top" xlink:title="Update the state of the progress bar. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="190.5,-418.5 190.5,-437.5 288.5,-437.5 288.5,-418.5 190.5,-418.5"/>
 <text text-anchor="middle" x="239.5" y="-425.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">progress_update</text>
 </a>
 </g>
 </g>
-<!-- Node5758&#45;&gt;Node5833 -->
+<!-- Node5530&#45;&gt;Node5605 -->
 <g id="edge4" class="edge">
-<title>Node5758&#45;&gt;Node5833</title>
+<title>Node5530&#45;&gt;Node5605</title>
 <path fill="none" stroke="#191970" d="M73.7719,-285.5115C87.2399,-308.9776 125.2424,-370.1756 173,-404 178.9221,-408.1944 185.6559,-411.7315 192.5106,-414.6912"/>
 <polygon fill="#191970" stroke="#191970" points="191.2809,-417.9685 201.8679,-418.3768 193.8463,-411.4555 191.2809,-417.9685"/>
 </g>
-<!-- Node5838 -->
+<!-- Node5610 -->
 <g id="node6" class="node">
-<title>Node5838</title>
+<title>Node5610</title>
 <g id="a_node6"><a xlink:href="helpers_8c.html#ae50f679dd6c5bd1ba820884c8602f038" target="_top" xlink:title="Get a boolean config item by name. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="342,-247.5 342,-266.5 433,-266.5 433,-247.5 342,-247.5"/>
 <text text-anchor="middle" x="387.5" y="-254.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_subset_bool</text>
 </a>
 </g>
 </g>
-<!-- Node5758&#45;&gt;Node5838 -->
+<!-- Node5530&#45;&gt;Node5610 -->
 <g id="edge5" class="edge">
-<title>Node5758&#45;&gt;Node5838</title>
+<title>Node5530&#45;&gt;Node5610</title>
 <path fill="none" stroke="#191970" d="M75.1887,-285.7238C89.9696,-306.2381 127.7191,-353.4941 173,-371 228.1342,-392.3153 253.4347,-398.0373 306,-371 344.7725,-351.0572 369.2,-303.1692 380.366,-276.2348"/>
 <polygon fill="#191970" stroke="#191970" points="383.7013,-277.3176 384.1141,-266.7308 377.1893,-274.7495 383.7013,-277.3176"/>
 </g>
-<!-- Node5851 -->
+<!-- Node5623 -->
 <g id="node7" class="node">
-<title>Node5851</title>
+<title>Node5623</title>
 <g id="a_node7"><a xlink:href="maildir_8c.html#a0f561136d8ba70bbe45ef4385d994bb3" target="_top" xlink:title="Calculate the length of the Maildir path. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="175,-342.5 175,-361.5 304,-361.5 304,-342.5 175,-342.5"/>
 <text text-anchor="middle" x="239.5" y="-349.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">maildir_hcache_keylen</text>
 </a>
 </g>
 </g>
-<!-- Node5758&#45;&gt;Node5851 -->
+<!-- Node5530&#45;&gt;Node5623 -->
 <g id="edge6" class="edge">
-<title>Node5758&#45;&gt;Node5851</title>
+<title>Node5530&#45;&gt;Node5623</title>
 <path fill="none" stroke="#191970" d="M83.5547,-285.6022C103.4073,-297.9345 139.7257,-319.3682 173,-333 178.7603,-335.3599 184.9148,-337.5432 191.0676,-339.5246"/>
 <polygon fill="#191970" stroke="#191970" points="190.0914,-342.886 200.6781,-342.4685 192.1417,-336.193 190.0914,-342.886"/>
 </g>
-<!-- Node5852 -->
+<!-- Node5624 -->
 <g id="node8" class="node">
-<title>Node5852</title>
+<title>Node5624</title>
 <g id="a_node8"><a xlink:href="hcache_8c.html#aa48983abf3b4aba6e9f7e48492b7a94b" target="_top" xlink:title="Multiplexor for StoreOps::fetch. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="184.5,-304.5 184.5,-323.5 294.5,-323.5 294.5,-304.5 184.5,-304.5"/>
 <text text-anchor="middle" x="239.5" y="-311.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_hcache_fetch</text>
 </a>
 </g>
 </g>
-<!-- Node5758&#45;&gt;Node5852 -->
+<!-- Node5530&#45;&gt;Node5624 -->
 <g id="edge7" class="edge">
-<title>Node5758&#45;&gt;Node5852</title>
+<title>Node5530&#45;&gt;Node5624</title>
 <path fill="none" stroke="#191970" d="M111.6505,-285.589C134.4191,-290.6487 162.5482,-296.8996 186.6194,-302.2488"/>
 <polygon fill="#191970" stroke="#191970" points="186.1386,-305.7272 196.6598,-304.4799 187.6572,-298.8939 186.1386,-305.7272"/>
 </g>
-<!-- Node5986 -->
+<!-- Node5758 -->
 <g id="node9" class="node">
-<title>Node5986</title>
+<title>Node5758</title>
 <g id="a_node9"><a xlink:href="maildir_2edata_8c.html#a3dfb16b26ffe871f3aa5753f0115bcdc" target="_top" xlink:title="Create a new MaildirEmailData object. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="184.5,-266.5 184.5,-285.5 294.5,-285.5 294.5,-266.5 184.5,-266.5"/>
 <text text-anchor="middle" x="239.5" y="-273.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">maildir_edata_new</text>
 </a>
 </g>
 </g>
-<!-- Node5758&#45;&gt;Node5986 -->
+<!-- Node5530&#45;&gt;Node5758 -->
 <g id="edge8" class="edge">
-<title>Node5758&#45;&gt;Node5986</title>
+<title>Node5530&#45;&gt;Node5758</title>
 <path fill="none" stroke="#191970" d="M137.0669,-276C149.3349,-276 162.0874,-276 174.2586,-276"/>
 <polygon fill="#191970" stroke="#191970" points="174.3225,-279.5001 184.3224,-276 174.3224,-272.5001 174.3225,-279.5001"/>
 </g>
-<!-- Node5987 -->
+<!-- Node5759 -->
 <g id="node10" class="node">
-<title>Node5987</title>
+<title>Node5759</title>
 <g id="a_node10"><a xlink:href="maildir_2edata_8c.html#a64d6c6eca4ddc56acc9157a876f07d63" target="_top" xlink:title="Free the private Email data &#45; Implements Email::edata_free() ">
 <polygon fill="#ffffff" stroke="#000000" points="185,-228.5 185,-247.5 294,-247.5 294,-228.5 185,-228.5"/>
 <text text-anchor="middle" x="239.5" y="-235.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">maildir_edata_free</text>
 </a>
 </g>
 </g>
-<!-- Node5758&#45;&gt;Node5987 -->
+<!-- Node5530&#45;&gt;Node5759 -->
 <g id="edge9" class="edge">
-<title>Node5758&#45;&gt;Node5987</title>
+<title>Node5530&#45;&gt;Node5759</title>
 <path fill="none" stroke="#191970" d="M111.6505,-266.411C134.4191,-261.3513 162.5482,-255.1004 186.6194,-249.7512"/>
 <polygon fill="#191970" stroke="#191970" points="187.6572,-253.1061 196.6598,-247.5201 186.1386,-246.2728 187.6572,-253.1061"/>
 </g>
-<!-- Node5769 -->
+<!-- Node5541 -->
 <g id="node11" class="node">
-<title>Node5769</title>
+<title>Node5541</title>
 <g id="a_node11"><a xlink:href="mutt_2string_8c.html#a4c2560f787bd1226b977992c16860c98" target="_top" xlink:title="Copy a string, safely. ">
 <polygon fill="#ffffff" stroke="#000000" points="199,-190.5 199,-209.5 280,-209.5 280,-190.5 199,-190.5"/>
 <text text-anchor="middle" x="239.5" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_str_dup</text>
 </a>
 </g>
 </g>
-<!-- Node5758&#45;&gt;Node5769 -->
+<!-- Node5530&#45;&gt;Node5541 -->
 <g id="edge10" class="edge">
-<title>Node5758&#45;&gt;Node5769</title>
+<title>Node5530&#45;&gt;Node5541</title>
 <path fill="none" stroke="#191970" d="M83.5547,-266.3978C103.4073,-254.0655 139.7257,-232.6318 173,-219 178.7603,-216.6401 184.9148,-214.4568 191.0676,-212.4754"/>
 <polygon fill="#191970" stroke="#191970" points="192.1417,-215.807 200.6781,-209.5315 190.0914,-209.114 192.1417,-215.807"/>
 </g>
-<!-- Node5988 -->
+<!-- Node5760 -->
 <g id="node12" class="node">
-<title>Node5988</title>
+<title>Node5760</title>
 <g id="a_node12"><a xlink:href="email_2email_8c.html#ae9f719d3fc31d00b92bcf9f77d56ee67" target="_top" xlink:title="Free an Email. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="205,-152.5 205,-171.5 274,-171.5 274,-152.5 205,-152.5"/>
 <text text-anchor="middle" x="239.5" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">email_free</text>
 </a>
 </g>
 </g>
-<!-- Node5758&#45;&gt;Node5988 -->
+<!-- Node5530&#45;&gt;Node5760 -->
 <g id="edge11" class="edge">
-<title>Node5758&#45;&gt;Node5988</title>
+<title>Node5530&#45;&gt;Node5760</title>
 <path fill="none" stroke="#191970" d="M76.357,-266.3507C92.4603,-247.205 131.2276,-204.2594 173,-181 179.8598,-177.1804 187.554,-174.0724 195.2088,-171.5617"/>
 <polygon fill="#191970" stroke="#191970" points="196.2375,-174.9073 204.818,-168.6924 194.2346,-168.2 196.2375,-174.9073"/>
 </g>
-<!-- Node5996 -->
+<!-- Node5768 -->
 <g id="node13" class="node">
-<title>Node5996</title>
+<title>Node5768</title>
 <g id="a_node13"><a xlink:href="maildir_8c.html#afad70ac642ae3a3a925778412bb64097" target="_top" xlink:title="Parse Maildir file flags. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="183.5,-114.5 183.5,-133.5 295.5,-133.5 295.5,-114.5 183.5,-114.5"/>
 <text text-anchor="middle" x="239.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">maildir_parse_flags</text>
 </a>
 </g>
 </g>
-<!-- Node5758&#45;&gt;Node5996 -->
+<!-- Node5530&#45;&gt;Node5768 -->
 <g id="edge12" class="edge">
-<title>Node5758&#45;&gt;Node5996</title>
+<title>Node5530&#45;&gt;Node5768</title>
 <path fill="none" stroke="#191970" d="M73.3402,-266.2646C86.0799,-241.6619 123.0312,-176.5702 173,-143 176.071,-140.9368 179.3661,-139.0951 182.7869,-137.4513"/>
 <polygon fill="#191970" stroke="#191970" points="184.2078,-140.6507 192.0679,-133.5465 181.4931,-134.1985 184.2078,-140.6507"/>
 </g>
-<!-- Node5999 -->
+<!-- Node5771 -->
 <g id="node14" class="node">
-<title>Node5999</title>
+<title>Node5771</title>
 <g id="a_node14"><a xlink:href="maildir_8c.html#a8fc323eb62e562ccedcba11e29a39631" target="_top" xlink:title="Actually parse a maildir message. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="173,-76.5 173,-95.5 306,-95.5 306,-76.5 173,-76.5"/>
 <text text-anchor="middle" x="239.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">maildir_parse_message</text>
 </a>
 </g>
 </g>
-<!-- Node5758&#45;&gt;Node5999 -->
+<!-- Node5530&#45;&gt;Node5771 -->
 <g id="edge14" class="edge">
-<title>Node5758&#45;&gt;Node5999</title>
+<title>Node5530&#45;&gt;Node5771</title>
 <path fill="none" stroke="#191970" d="M71.6354,-266.1261C81.4677,-236.7912 114.5705,-149.4436 173,-105 175.4534,-103.1339 178.0834,-101.4509 180.8301,-99.9332"/>
 <polygon fill="#191970" stroke="#191970" points="182.3854,-103.0694 189.9254,-95.6264 179.3896,-96.7428 182.3854,-103.0694"/>
 </g>
-<!-- Node6248 -->
+<!-- Node6020 -->
 <g id="node15" class="node">
-<title>Node6248</title>
+<title>Node6020</title>
 <g id="a_node15"><a xlink:href="hcache_8c.html#a225d343735b371a451a47a392a1247d7" target="_top" xlink:title="Multiplexor for StoreOps::store. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="184.5,-38.5 184.5,-57.5 294.5,-57.5 294.5,-38.5 184.5,-38.5"/>
 <text text-anchor="middle" x="239.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_hcache_store</text>
 </a>
 </g>
 </g>
-<!-- Node5758&#45;&gt;Node6248 -->
+<!-- Node5530&#45;&gt;Node6020 -->
 <g id="edge15" class="edge">
-<title>Node5758&#45;&gt;Node6248</title>
+<title>Node5530&#45;&gt;Node6020</title>
 <path fill="none" stroke="#191970" d="M70.4179,-266.3856C77.5334,-233.2779 105.5711,-122.961 173,-67 175.0616,-65.289 177.269,-63.732 179.5811,-62.315"/>
 <polygon fill="#191970" stroke="#191970" points="181.6336,-65.1957 188.9313,-57.5149 178.4366,-58.9683 181.6336,-65.1957"/>
 </g>
-<!-- Node6220 -->
+<!-- Node5992 -->
 <g id="node16" class="node">
-<title>Node6220</title>
+<title>Node5992</title>
 <g id="a_node16"><a xlink:href="hcache_8c.html#a26bcb4546ca8d63327187a6bbeab796c" target="_top" xlink:title="Multiplexor for StoreOps::close. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="184.5,-.5 184.5,-19.5 294.5,-19.5 294.5,-.5 184.5,-.5"/>
 <text text-anchor="middle" x="239.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_hcache_close</text>
 </a>
 </g>
 </g>
-<!-- Node5758&#45;&gt;Node6220 -->
+<!-- Node5530&#45;&gt;Node5992 -->
 <g id="edge16" class="edge">
-<title>Node5758&#45;&gt;Node6220</title>
+<title>Node5530&#45;&gt;Node5992</title>
 <path fill="none" stroke="#191970" d="M69.5995,-266.499C74.3492,-229.9014 96.4621,-96.7308 173,-29 174.9276,-27.2942 176.9988,-25.7408 179.1758,-24.3263"/>
 <polygon fill="#191970" stroke="#191970" points="180.8969,-27.3746 188.0186,-19.5304 177.5595,-21.2213 180.8969,-27.3746"/>
 </g>
-<!-- Node5996&#45;&gt;Node5838 -->
+<!-- Node5768&#45;&gt;Node5610 -->
 <g id="edge13" class="edge">
-<title>Node5996&#45;&gt;Node5838</title>
+<title>Node5768&#45;&gt;Node5610</title>
 <path fill="none" stroke="#191970" d="M287.7841,-133.5746C294.2319,-136.0359 300.505,-139.1248 306,-143 341.1244,-167.7702 366.5826,-212.6414 378.989,-238.0753"/>
 <polygon fill="#191970" stroke="#191970" points="375.941,-239.8186 383.3648,-247.3776 382.2752,-236.839 375.941,-239.8186"/>
 </g>

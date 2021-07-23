@@ -9,6 +9,7 @@ var searchData=
   ['imapheader',['ImapHeader',['../structImapHeader.html',1,'']]],
   ['imaplist',['ImapList',['../structImapList.html',1,'']]],
   ['imapmboxdata',['ImapMboxData',['../structImapMboxData.html',1,'']]],
+  ['indexfunction',['IndexFunction',['../structIndexFunction.html',1,'']]],
   ['indexprivatedata',['IndexPrivateData',['../structIndexPrivateData.html',1,'']]],
   ['indexshareddata',['IndexSharedData',['../structIndexSharedData.html',1,'']]],
   ['inheritance',['Inheritance',['../structInheritance.html',1,'']]]

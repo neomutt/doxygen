@@ -9,61 +9,61 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 226)">
 <title>maildir_sync_mailbox_message</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-226 412,-226 412,4 -4,4"/>
-<!-- Node7255 -->
+<!-- Node4760 -->
 <g id="node1" class="node">
-<title>Node7255</title>
+<title>Node4760</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-99 0,-129 124,-129 124,-99 0,-99"/>
 <text text-anchor="start" x="8" y="-117" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">maildir_sync_mailbox</text>
 <text text-anchor="middle" x="62" y="-106" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">_message</text>
 </g>
-<!-- Node7256 -->
+<!-- Node4761 -->
 <g id="node2" class="node">
-<title>Node7256</title>
+<title>Node4761</title>
 <g id="a_node2"><a xlink:href="helpers_8c.html#ae50f679dd6c5bd1ba820884c8602f038" target="_top" xlink:title="Get a boolean config item by name. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="179,-202.5 179,-221.5 270,-221.5 270,-202.5 179,-202.5"/>
 <text text-anchor="middle" x="224.5" y="-209.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_subset_bool</text>
 </a>
 </g>
 </g>
-<!-- Node7255&#45;&gt;Node7256 -->
+<!-- Node4760&#45;&gt;Node4761 -->
 <g id="edge1" class="edge">
-<title>Node7255&#45;&gt;Node7256</title>
+<title>Node4760&#45;&gt;Node4761</title>
 <path fill="none" stroke="#191970" d="M78.9944,-129.2898C97.7447,-145.5494 129.3411,-171.1917 160,-188 167.3739,-192.0426 175.5685,-195.6765 183.5753,-198.8207"/>
 <polygon fill="#191970" stroke="#191970" points="182.5882,-202.1882 193.1808,-202.4078 185.0371,-195.6305 182.5882,-202.1882"/>
 </g>
-<!-- Node7279 -->
+<!-- Node4784 -->
 <g id="node3" class="node">
-<title>Node7279</title>
+<title>Node4784</title>
 <g id="a_node3"><a xlink:href="mailbox_8h.html#a04aa11207205b6778388dfc8ed56ee0d" target="_top" xlink:title="Get the Mailbox&#39;s path string. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="325,-101.5 325,-120.5 408,-120.5 408,-101.5 325,-101.5"/>
 <text text-anchor="middle" x="366.5" y="-108.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mailbox_path</text>
 </a>
 </g>
 </g>
-<!-- Node7255&#45;&gt;Node7279 -->
+<!-- Node4760&#45;&gt;Node4784 -->
 <g id="edge2" class="edge">
-<title>Node7255&#45;&gt;Node7279</title>
+<title>Node4760&#45;&gt;Node4784</title>
 <path fill="none" stroke="#191970" d="M89.7821,-129.1177C108.9029,-138.6344 135.2275,-150.0268 160,-155 216.2118,-166.2847 233.5669,-169.6385 289,-155 309.8121,-149.504 330.8925,-136.9865 345.8029,-126.7025"/>
 <polygon fill="#191970" stroke="#191970" points="348.1364,-129.3365 354.2317,-120.6706 344.0627,-123.6439 348.1364,-129.3365"/>
 </g>
-<!-- Node7281 -->
+<!-- Node4786 -->
 <g id="node4" class="node">
-<title>Node7281</title>
+<title>Node4786</title>
 <g id="a_node4"><a xlink:href="maildir_8c.html#a0f561136d8ba70bbe45ef4385d994bb3" target="_top" xlink:title="Calculate the length of the Maildir path. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="160,-126.5 160,-145.5 289,-145.5 289,-126.5 160,-126.5"/>
 <text text-anchor="middle" x="224.5" y="-133.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">maildir_hcache_keylen</text>
 </a>
 </g>
 </g>
-<!-- Node7255&#45;&gt;Node7281 -->
+<!-- Node4760&#45;&gt;Node4786 -->
 <g id="edge3" class="edge">
-<title>Node7255&#45;&gt;Node7281</title>
+<title>Node4760&#45;&gt;Node4786</title>
 <path fill="none" stroke="#191970" d="M124.362,-122.4429C132.725,-123.5751 141.3706,-124.7456 149.9172,-125.9026"/>
 <polygon fill="#191970" stroke="#191970" points="149.5026,-129.3784 159.8818,-127.2517 150.4418,-122.4416 149.5026,-129.3784"/>
 </g>
-<!-- Node7283 -->
+<!-- Node4788 -->
 <g id="node5" class="node">
-<title>Node7283</title>
+<title>Node4788</title>
 <g id="a_node5"><a xlink:href="hcache_8c.html#a50c594f02ea355bcabfdad21dc655988" target="_top" xlink:title="Multiplexor for StoreOps::delete_record. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="166.5,-77 166.5,-107 282.5,-107 282.5,-77 166.5,-77"/>
 <text text-anchor="start" x="174.5" y="-95" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_hcache_delete</text>
@@ -71,45 +71,45 @@
 </a>
 </g>
 </g>
-<!-- Node7255&#45;&gt;Node7283 -->
+<!-- Node4760&#45;&gt;Node4788 -->
 <g id="edge4" class="edge">
-<title>Node7255&#45;&gt;Node7283</title>
+<title>Node4760&#45;&gt;Node4788</title>
 <path fill="none" stroke="#191970" d="M124.362,-105.5571C134.8074,-104.143 145.6936,-102.6692 156.2771,-101.2363"/>
 <polygon fill="#191970" stroke="#191970" points="156.8671,-104.6885 166.3071,-99.8784 155.9279,-97.7518 156.8671,-104.6885"/>
 </g>
-<!-- Node7288 -->
+<!-- Node4793 -->
 <g id="node6" class="node">
-<title>Node7288</title>
+<title>Node4793</title>
 <g id="a_node6"><a xlink:href="maildir_8c.html#a5c9c7482d01b4f95b57219f0adcce732" target="_top" xlink:title="Sync an email to a Maildir folder. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="160.5,-38.5 160.5,-57.5 288.5,-57.5 288.5,-38.5 160.5,-38.5"/>
 <text text-anchor="middle" x="224.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">maildir_sync_message</text>
 </a>
 </g>
 </g>
-<!-- Node7255&#45;&gt;Node7288 -->
+<!-- Node4760&#45;&gt;Node4793 -->
 <g id="edge5" class="edge">
-<title>Node7255&#45;&gt;Node7288</title>
+<title>Node4760&#45;&gt;Node4793</title>
 <path fill="none" stroke="#191970" d="M91.5574,-98.8175C110.7671,-89.2787 136.517,-77.1019 160,-68 166.7639,-65.3784 174.0261,-62.8556 181.1506,-60.5372"/>
 <polygon fill="#191970" stroke="#191970" points="182.2407,-63.8634 190.7208,-57.5121 180.1309,-57.1889 182.2407,-63.8634"/>
 </g>
-<!-- Node7795 -->
+<!-- Node5302 -->
 <g id="node7" class="node">
-<title>Node7795</title>
+<title>Node5302</title>
 <g id="a_node7"><a xlink:href="hcache_8c.html#a225d343735b371a451a47a392a1247d7" target="_top" xlink:title="Multiplexor for StoreOps::store. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="169.5,-.5 169.5,-19.5 279.5,-19.5 279.5,-.5 169.5,-.5"/>
 <text text-anchor="middle" x="224.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_hcache_store</text>
 </a>
 </g>
 </g>
-<!-- Node7255&#45;&gt;Node7795 -->
+<!-- Node4760&#45;&gt;Node5302 -->
 <g id="edge7" class="edge">
-<title>Node7255&#45;&gt;Node7795</title>
+<title>Node4760&#45;&gt;Node5302</title>
 <path fill="none" stroke="#191970" d="M75.4446,-98.8846C93.0789,-79.9411 125.8156,-47.6961 160,-29 164.0264,-26.7979 168.3372,-24.8241 172.7501,-23.0603"/>
 <polygon fill="#191970" stroke="#191970" points="174.2928,-26.2241 182.5031,-19.5277 171.9089,-19.6426 174.2928,-26.2241"/>
 </g>
-<!-- Node7288&#45;&gt;Node7279 -->
+<!-- Node4793&#45;&gt;Node4784 -->
 <g id="edge6" class="edge">
-<title>Node7288&#45;&gt;Node7279</title>
+<title>Node4793&#45;&gt;Node4784</title>
 <path fill="none" stroke="#191970" d="M259.7866,-57.5066C269.406,-60.4837 279.7276,-64.0401 289,-68 307.7497,-76.0072 327.8518,-87.2449 342.8835,-96.2239"/>
 <polygon fill="#191970" stroke="#191970" points="341.1659,-99.2756 351.5303,-101.4737 344.7988,-93.2921 341.1659,-99.2756"/>
 </g>

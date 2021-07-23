@@ -1,6 +1,9 @@
 var mutt__thread_8c =
 [
     [ "ThreadsContext", "structThreadsContext.html", "structThreadsContext" ],
+    [ "mutt_thread_style", "mutt__thread_8c.html#aa7ffe096f2973f3d0cd486f8e8b4228b", null ],
+    [ "get_use_threads_str", "mutt__thread_8c.html#a40c0be1170795cf828e8ee33df7f5f90", null ],
+    [ "sort_validator", "mutt__thread_8c.html#a595f9f1861a0be3ae65a4c2eadc4bec5", null ],
     [ "is_visible", "mutt__thread_8c.html#af6f89eb1fe9177d9a3484842f7d5c1cc", null ],
     [ "need_display_subject", "mutt__thread_8c.html#acce2e33f71f8f2ab4797ce26a057d5ce", null ],
     [ "linearize_tree", "mutt__thread_8c.html#a050f78574b03ad5cca308994796e5237", null ],
@@ -27,5 +30,7 @@ var mutt__thread_8c =
     [ "mutt_link_threads", "mutt__thread_8c.html#abef5e5f802352f610041671cd854c623", null ],
     [ "mutt_thread_collapse_collapsed", "mutt__thread_8c.html#a4e0a2823d87a6353ff855ea5ea581342", null ],
     [ "mutt_thread_collapse", "mutt__thread_8c.html#a344c76e215dd1974a684a6ed8d8e580f", null ],
-    [ "mutt_thread_can_collapse", "mutt__thread_8c.html#add8cf6c27de9c8ef451a521b535e6f60", null ]
+    [ "mutt_thread_can_collapse", "mutt__thread_8c.html#add8cf6c27de9c8ef451a521b535e6f60", null ],
+    [ "UseThreadsMethods", "mutt__thread_8c.html#a5c2a82bc1766950548a5d97a7dbd8d2a", null ],
+    [ "UseThreadsTypeDef", "mutt__thread_8c.html#acd8062518a14249dc049bc3ac762b6d7", null ]
 ];

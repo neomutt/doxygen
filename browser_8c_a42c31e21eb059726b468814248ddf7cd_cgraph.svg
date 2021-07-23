@@ -9,198 +9,198 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 317.6083)">
 <title>browser_compare</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-317.6083 430,-317.6083 430,4 -4,4"/>
-<!-- Node5307 -->
+<!-- Node5793 -->
 <g id="node1" class="node">
-<title>Node5307</title>
+<title>Node5793</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-152.5 0,-171.5 104,-171.5 104,-152.5 0,-152.5"/>
 <text text-anchor="middle" x="52" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">browser_compare</text>
 </g>
-<!-- Node5308 -->
+<!-- Node5794 -->
 <g id="node2" class="node">
-<title>Node5308</title>
+<title>Node5794</title>
 <g id="a_node2"><a xlink:href="mutt_2string_8c.html#afb629fc859938a689bc5194d515e6cc6" target="_top" xlink:title="Collate two strings (compare using locale), safely. ">
 <polygon fill="#ffffff" stroke="#000000" points="341.5,-266.5 341.5,-285.5 421.5,-285.5 421.5,-266.5 341.5,-266.5"/>
 <text text-anchor="middle" x="381.5" y="-273.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_str_coll</text>
 </a>
 </g>
 </g>
-<!-- Node5307&#45;&gt;Node5308 -->
+<!-- Node5793&#45;&gt;Node5794 -->
 <g id="edge1" class="edge">
-<title>Node5307&#45;&gt;Node5308</title>
+<title>Node5793&#45;&gt;Node5794</title>
 <path fill="none" stroke="#191970" d="M54.8892,-171.7707C63.1378,-197.6553 89.5164,-267.869 140,-295 207.2365,-331.1345 300.5227,-306.4824 349.1261,-289.0728"/>
 <polygon fill="#191970" stroke="#191970" points="350.3481,-292.3526 358.5122,-285.5999 347.919,-285.7876 350.3481,-292.3526"/>
 </g>
-<!-- Node5309 -->
+<!-- Node5795 -->
 <g id="node3" class="node">
-<title>Node5309</title>
+<title>Node5795</title>
 <g id="a_node3"><a xlink:href="helpers_8c.html#af7f3de51c3c2f5b8f527f40c8397a3fc" target="_top" xlink:title="Get a sort config item by name. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="337,-133.5 337,-152.5 426,-152.5 426,-133.5 337,-133.5"/>
 <text text-anchor="middle" x="381.5" y="-140.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_subset_sort</text>
 </a>
 </g>
 </g>
-<!-- Node5307&#45;&gt;Node5309 -->
+<!-- Node5793&#45;&gt;Node5795 -->
 <g id="edge2" class="edge">
-<title>Node5307&#45;&gt;Node5309</title>
+<title>Node5793&#45;&gt;Node5795</title>
 <path fill="none" stroke="#191970" d="M62.3547,-152.3673C77.8379,-138.6942 108.5789,-114.2871 140,-105 208.6209,-84.7177 231.1772,-89.3482 301,-105 321.1063,-109.5071 342.1047,-119.6269 357.6122,-128.2904"/>
 <polygon fill="#191970" stroke="#191970" points="356.0926,-131.4549 366.5011,-133.4334 359.5982,-125.3959 356.0926,-131.4549"/>
 </g>
-<!-- Node5332 -->
+<!-- Node5818 -->
 <g id="node4" class="node">
-<title>Node5332</title>
+<title>Node5818</title>
 <g id="a_node4"><a xlink:href="browser_8c.html#adfd6f33cdef07b9ec88a1907d82e324c" target="_top" xlink:title="Compare the message count of two browser entries &#45; Implements sort_t. ">
 <polygon fill="#ffffff" stroke="#000000" points="152.5,-38.5 152.5,-57.5 288.5,-57.5 288.5,-38.5 152.5,-38.5"/>
 <text text-anchor="middle" x="220.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">browser_compare_count</text>
 </a>
 </g>
 </g>
-<!-- Node5307&#45;&gt;Node5332 -->
+<!-- Node5793&#45;&gt;Node5818 -->
 <g id="edge3" class="edge">
-<title>Node5307&#45;&gt;Node5332</title>
+<title>Node5793&#45;&gt;Node5818</title>
 <path fill="none" stroke="#191970" d="M58.8054,-152.2916C72.2123,-133.8832 103.8945,-93.7996 140,-72 147.358,-67.5574 155.5949,-63.8883 163.9158,-60.872"/>
 <polygon fill="#191970" stroke="#191970" points="165.292,-64.1028 173.6749,-57.6239 163.0813,-57.4611 165.292,-64.1028"/>
 </g>
-<!-- Node5333 -->
+<!-- Node5819 -->
 <g id="node5" class="node">
-<title>Node5333</title>
+<title>Node5819</title>
 <g id="a_node5"><a xlink:href="browser_8c.html#af2bd47839eb605318281099a6101518f" target="_top" xlink:title="Compare the date of two browser entries &#45; Implements sort_t. ">
 <polygon fill="#ffffff" stroke="#000000" points="155,-.5 155,-19.5 286,-19.5 286,-.5 155,-.5"/>
 <text text-anchor="middle" x="220.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">browser_compare_date</text>
 </a>
 </g>
 </g>
-<!-- Node5307&#45;&gt;Node5333 -->
+<!-- Node5793&#45;&gt;Node5819 -->
 <g id="edge5" class="edge">
-<title>Node5307&#45;&gt;Node5333</title>
+<title>Node5793&#45;&gt;Node5819</title>
 <path fill="none" stroke="#191970" d="M55.4059,-152.4952C64.7444,-127.8658 93.2194,-61.6282 140,-29 142.8543,-27.0092 145.8896,-25.2251 149.046,-23.6263"/>
 <polygon fill="#191970" stroke="#191970" points="150.4686,-26.8243 158.2126,-19.5937 147.6498,-20.4169 150.4686,-26.8243"/>
 </g>
-<!-- Node5334 -->
+<!-- Node5820 -->
 <g id="node6" class="node">
-<title>Node5334</title>
+<title>Node5820</title>
 <g id="a_node6"><a xlink:href="browser_8c.html#a1ec49102db5b09962963bf5ab5ae16d6" target="_top" xlink:title="Compare the descriptions of two browser entries &#45; Implements sort_t. ">
 <polygon fill="#ffffff" stroke="#000000" points="155,-228.5 155,-247.5 286,-247.5 286,-228.5 155,-228.5"/>
 <text text-anchor="middle" x="220.5" y="-235.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">browser_compare_desc</text>
 </a>
 </g>
 </g>
-<!-- Node5307&#45;&gt;Node5334 -->
+<!-- Node5793&#45;&gt;Node5820 -->
 <g id="edge7" class="edge">
-<title>Node5307&#45;&gt;Node5334</title>
+<title>Node5793&#45;&gt;Node5820</title>
 <path fill="none" stroke="#191970" d="M63.7773,-171.5369C79.9896,-184.2008 110.5333,-206.4276 140,-219 145.8073,-221.4778 151.9944,-223.6649 158.2596,-225.5881"/>
 <polygon fill="#191970" stroke="#191970" points="157.5495,-229.025 168.1257,-228.3969 159.4663,-222.2925 157.5495,-229.025"/>
 </g>
-<!-- Node5335 -->
+<!-- Node5821 -->
 <g id="node7" class="node">
-<title>Node5335</title>
+<title>Node5821</title>
 <g id="a_node7"><a xlink:href="browser_8c.html#ade8f6a07437f80256f31fdae9b000a53" target="_top" xlink:title="Compare the size of two browser entries &#45; Implements sort_t. ">
 <polygon fill="#ffffff" stroke="#000000" points="156.5,-190.5 156.5,-209.5 284.5,-209.5 284.5,-190.5 156.5,-190.5"/>
 <text text-anchor="middle" x="220.5" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">browser_compare_size</text>
 </a>
 </g>
 </g>
-<!-- Node5307&#45;&gt;Node5335 -->
+<!-- Node5793&#45;&gt;Node5821 -->
 <g id="edge10" class="edge">
-<title>Node5307&#45;&gt;Node5335</title>
+<title>Node5793&#45;&gt;Node5821</title>
 <path fill="none" stroke="#191970" d="M94.5197,-171.589C116.9554,-176.6487 144.6732,-182.8996 168.3925,-188.2488"/>
 <polygon fill="#191970" stroke="#191970" points="167.7611,-191.6942 178.2861,-190.4799 169.3011,-184.8657 167.7611,-191.6942"/>
 </g>
-<!-- Node5336 -->
+<!-- Node5822 -->
 <g id="node8" class="node">
-<title>Node5336</title>
+<title>Node5822</title>
 <g id="a_node8"><a xlink:href="browser_8c.html#a40e724c3dc9462d889ad39181d1aabce" target="_top" xlink:title="Compare the new count of two browser entries &#45; Implements sort_t. ">
 <polygon fill="#ffffff" stroke="#000000" points="140,-152.5 140,-171.5 301,-171.5 301,-152.5 140,-152.5"/>
 <text text-anchor="middle" x="220.5" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">browser_compare_count_new</text>
 </a>
 </g>
 </g>
-<!-- Node5307&#45;&gt;Node5336 -->
+<!-- Node5793&#45;&gt;Node5822 -->
 <g id="edge12" class="edge">
-<title>Node5307&#45;&gt;Node5336</title>
+<title>Node5793&#45;&gt;Node5822</title>
 <path fill="none" stroke="#191970" d="M104.3908,-162C112.515,-162 121.1027,-162 129.7824,-162"/>
 <polygon fill="#191970" stroke="#191970" points="129.9918,-165.5001 139.9918,-162 129.9918,-158.5001 129.9918,-165.5001"/>
 </g>
-<!-- Node5337 -->
+<!-- Node5823 -->
 <g id="node9" class="node">
-<title>Node5337</title>
+<title>Node5823</title>
 <g id="a_node9"><a xlink:href="browser_8c.html#af9190b0147359661eacaa7266e2d9e1c" target="_top" xlink:title="Compare the subject of two browser entries &#45; Implements sort_t. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="148.5,-266.5 148.5,-285.5 292.5,-285.5 292.5,-266.5 148.5,-266.5"/>
 <text text-anchor="middle" x="220.5" y="-273.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">browser_compare_subject</text>
 </a>
 </g>
 </g>
-<!-- Node5307&#45;&gt;Node5337 -->
+<!-- Node5793&#45;&gt;Node5823 -->
 <g id="edge14" class="edge">
-<title>Node5307&#45;&gt;Node5337</title>
+<title>Node5793&#45;&gt;Node5823</title>
 <path fill="none" stroke="#191970" d="M57.9623,-171.5527C70.5707,-190.9118 101.93,-234.8113 140,-257 143.8731,-259.2574 147.9987,-261.2468 152.2576,-262.9999"/>
 <polygon fill="#191970" stroke="#191970" points="151.1541,-266.323 161.7479,-266.4729 153.5598,-259.7494 151.1541,-266.323"/>
 </g>
-<!-- Node5342 -->
+<!-- Node5828 -->
 <g id="node10" class="node">
-<title>Node5342</title>
+<title>Node5828</title>
 <g id="a_node10"><a xlink:href="browser_8c.html#abdf5dbaae7c30284ac89f86bc33a8475" target="_top" xlink:title="Compare the order of creation of two browser entries &#45; Implements sort_t. ">
 <polygon fill="#ffffff" stroke="#000000" points="153.5,-114.5 153.5,-133.5 287.5,-133.5 287.5,-114.5 153.5,-114.5"/>
 <text text-anchor="middle" x="220.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">browser_compare_order</text>
 </a>
 </g>
 </g>
-<!-- Node5307&#45;&gt;Node5342 -->
+<!-- Node5793&#45;&gt;Node5828 -->
 <g id="edge17" class="edge">
-<title>Node5307&#45;&gt;Node5342</title>
+<title>Node5793&#45;&gt;Node5828</title>
 <path fill="none" stroke="#191970" d="M94.5197,-152.411C116.9554,-147.3513 144.6732,-141.1004 168.3925,-135.7512"/>
 <polygon fill="#191970" stroke="#191970" points="169.3011,-139.1343 178.2861,-133.5201 167.7611,-132.3058 169.3011,-139.1343"/>
 </g>
-<!-- Node5332&#45;&gt;Node5309 -->
+<!-- Node5818&#45;&gt;Node5795 -->
 <g id="edge4" class="edge">
-<title>Node5332&#45;&gt;Node5309</title>
+<title>Node5818&#45;&gt;Node5795</title>
 <path fill="none" stroke="#191970" d="M264.9201,-57.5247C277.0523,-61.1051 289.9038,-65.8476 301,-72 326.536,-86.1587 350.9696,-109.5833 366.084,-125.6271"/>
 <polygon fill="#191970" stroke="#191970" points="363.7513,-128.2613 373.0949,-133.2561 368.9054,-123.5247 363.7513,-128.2613"/>
 </g>
-<!-- Node5333&#45;&gt;Node5309 -->
+<!-- Node5819&#45;&gt;Node5795 -->
 <g id="edge6" class="edge">
-<title>Node5333&#45;&gt;Node5309</title>
+<title>Node5819&#45;&gt;Node5795</title>
 <path fill="none" stroke="#191970" d="M282.2576,-19.608C288.8871,-22.0645 295.2875,-25.143 301,-29 336.4738,-52.9512 361.323,-98.1337 373.3182,-123.8393"/>
 <polygon fill="#191970" stroke="#191970" points="370.2525,-125.5566 377.5385,-133.2486 376.6395,-122.6919 370.2525,-125.5566"/>
 </g>
-<!-- Node5334&#45;&gt;Node5308 -->
+<!-- Node5820&#45;&gt;Node5794 -->
 <g id="edge8" class="edge">
-<title>Node5334&#45;&gt;Node5308</title>
+<title>Node5820&#45;&gt;Node5794</title>
 <path fill="none" stroke="#191970" d="M261.1271,-247.589C282.5496,-252.6453 309.0123,-258.8911 331.6657,-264.2379"/>
 <polygon fill="#191970" stroke="#191970" points="330.907,-267.6549 341.4436,-266.5457 332.5151,-260.8421 330.907,-267.6549"/>
 </g>
-<!-- Node5334&#45;&gt;Node5309 -->
+<!-- Node5820&#45;&gt;Node5795 -->
 <g id="edge9" class="edge">
-<title>Node5334&#45;&gt;Node5309</title>
+<title>Node5820&#45;&gt;Node5795</title>
 <path fill="none" stroke="#191970" d="M277.7424,-228.4445C285.8067,-225.978 293.7944,-222.8825 301,-219 328.3368,-204.2705 353.2314,-177.8625 367.8783,-160.3833"/>
 <polygon fill="#191970" stroke="#191970" points="370.6083,-162.5737 374.2112,-152.6102 365.1814,-158.1522 370.6083,-162.5737"/>
 </g>
-<!-- Node5335&#45;&gt;Node5309 -->
+<!-- Node5821&#45;&gt;Node5795 -->
 <g id="edge11" class="edge">
-<title>Node5335&#45;&gt;Node5309</title>
+<title>Node5821&#45;&gt;Node5795</title>
 <path fill="none" stroke="#191970" d="M268.2243,-190.4761C279.1215,-187.8231 290.5628,-184.6499 301,-181 319.6046,-174.4939 339.6506,-165.0395 355.0847,-157.189"/>
 <polygon fill="#191970" stroke="#191970" points="356.7743,-160.2556 364.0446,-152.5489 353.5551,-154.0397 356.7743,-160.2556"/>
 </g>
-<!-- Node5336&#45;&gt;Node5309 -->
+<!-- Node5822&#45;&gt;Node5795 -->
 <g id="edge13" class="edge">
-<title>Node5336&#45;&gt;Node5309</title>
+<title>Node5822&#45;&gt;Node5795</title>
 <path fill="none" stroke="#191970" d="M301.4717,-152.4443C310.0608,-151.4307 318.6427,-150.4179 326.8263,-149.4522"/>
 <polygon fill="#191970" stroke="#191970" points="327.4289,-152.9054 336.9498,-148.2575 326.6085,-145.9537 327.4289,-152.9054"/>
 </g>
-<!-- Node5337&#45;&gt;Node5308 -->
+<!-- Node5823&#45;&gt;Node5794 -->
 <g id="edge15" class="edge">
-<title>Node5337&#45;&gt;Node5308</title>
+<title>Node5823&#45;&gt;Node5794</title>
 <path fill="none" stroke="#191970" d="M292.5238,-276C305.6058,-276 318.9897,-276 331.2729,-276"/>
 <polygon fill="#191970" stroke="#191970" points="331.3012,-279.5001 341.3012,-276 331.3011,-272.5001 331.3012,-279.5001"/>
 </g>
-<!-- Node5337&#45;&gt;Node5309 -->
+<!-- Node5823&#45;&gt;Node5795 -->
 <g id="edge16" class="edge">
-<title>Node5337&#45;&gt;Node5309</title>
+<title>Node5823&#45;&gt;Node5795</title>
 <path fill="none" stroke="#191970" d="M282.2576,-266.392C288.8871,-263.9355 295.2875,-260.857 301,-257 336.4738,-233.0488 361.323,-187.8663 373.3182,-162.1607"/>
 <polygon fill="#191970" stroke="#191970" points="376.6395,-163.3081 377.5385,-152.7514 370.2525,-160.4434 376.6395,-163.3081"/>
 </g>
-<!-- Node5342&#45;&gt;Node5309 -->
+<!-- Node5828&#45;&gt;Node5795 -->
 <g id="edge18" class="edge">
-<title>Node5342&#45;&gt;Node5309</title>
+<title>Node5828&#45;&gt;Node5795</title>
 <path fill="none" stroke="#191970" d="M287.8456,-131.9476C300.7709,-133.473 314.1612,-135.0532 326.6346,-136.5252"/>
 <polygon fill="#191970" stroke="#191970" points="326.525,-140.0365 336.8663,-137.7327 327.3455,-133.0847 326.525,-140.0365"/>
 </g>

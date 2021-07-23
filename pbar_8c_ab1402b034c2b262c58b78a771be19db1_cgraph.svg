@@ -9,198 +9,198 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 397.406)">
 <title>pbar_new</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-397.406 390,-397.406 390,4 -4,4"/>
-<!-- Node7303 -->
+<!-- Node7621 -->
 <g id="node1" class="node">
-<title>Node7303</title>
+<title>Node7621</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-183.906 0,-202.906 64,-202.906 64,-183.906 0,-183.906"/>
 <text text-anchor="middle" x="32" y="-190.906" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pbar_new</text>
 </g>
-<!-- Node7304 -->
+<!-- Node7622 -->
 <g id="node2" class="node">
-<title>Node7304</title>
+<title>Node7622</title>
 <g id="a_node2"><a xlink:href="mutt__window_8c.html#a90c890d7906f49dd9fbb1f66db7d3b89" target="_top" xlink:title="Create a new Window. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="110.5,-373.906 110.5,-392.906 218.5,-392.906 218.5,-373.906 110.5,-373.906"/>
 <text text-anchor="middle" x="164.5" y="-380.906" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_window_new</text>
 </a>
 </g>
 </g>
-<!-- Node7303&#45;&gt;Node7304 -->
+<!-- Node7621&#45;&gt;Node7622 -->
 <g id="edge1" class="edge">
-<title>Node7303&#45;&gt;Node7304</title>
+<title>Node7621&#45;&gt;Node7622</title>
 <path fill="none" stroke="#191970" d="M32.9476,-203.189C36.2941,-232.2699 50.1908,-318.9815 100,-364.406 101.717,-365.9719 103.557,-367.4091 105.4904,-368.7282"/>
 <polygon fill="#191970" stroke="#191970" points="104.0439,-371.9304 114.4746,-373.7881 107.479,-365.8312 104.0439,-371.9304"/>
 </g>
-<!-- Node7308 -->
+<!-- Node7626 -->
 <g id="node3" class="node">
-<title>Node7308</title>
+<title>Node7626</title>
 <g id="a_node3"><a xlink:href="pbar_8c.html#ac15b162fa1ea0a46bf9c382a840faf35" target="_top" xlink:title="Free the private data attached to the MuttWindow. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="119,-335.906 119,-354.906 210,-354.906 210,-335.906 119,-335.906"/>
 <text text-anchor="middle" x="164.5" y="-342.906" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pbar_data_new</text>
 </a>
 </g>
 </g>
-<!-- Node7303&#45;&gt;Node7308 -->
+<!-- Node7621&#45;&gt;Node7626 -->
 <g id="edge2" class="edge">
-<title>Node7303&#45;&gt;Node7308</title>
+<title>Node7621&#45;&gt;Node7626</title>
 <path fill="none" stroke="#191970" d="M34.1486,-203.0979C40.0896,-227.5986 59.0768,-292.4707 100,-326.406 102.912,-328.8208 106.1204,-330.9287 109.5033,-332.7687"/>
 <polygon fill="#191970" stroke="#191970" points="108.2352,-336.0379 118.7826,-337.0403 111.1624,-329.6793 108.2352,-336.0379"/>
 </g>
-<!-- Node7309 -->
+<!-- Node7627 -->
 <g id="node4" class="node">
-<title>Node7309</title>
+<title>Node7627</title>
 <g id="a_node4"><a xlink:href="pbar_8c.html#a96409209a83829b0aa276fc5167de4fb" target="_top" xlink:title="Free the private data attached to the MuttWindow &#45; Implements MuttWindow::wdata_free() ...">
 <polygon fill="#ffffff" stroke="#000000" points="119.5,-297.906 119.5,-316.906 209.5,-316.906 209.5,-297.906 119.5,-297.906"/>
 <text text-anchor="middle" x="164.5" y="-304.906" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pbar_data_free</text>
 </a>
 </g>
 </g>
-<!-- Node7303&#45;&gt;Node7309 -->
+<!-- Node7621&#45;&gt;Node7627 -->
 <g id="edge3" class="edge">
-<title>Node7303&#45;&gt;Node7309</title>
+<title>Node7621&#45;&gt;Node7627</title>
 <path fill="none" stroke="#191970" d="M36.2519,-203.1137C45.183,-222.3643 67.7643,-265.4893 100,-288.406 103.0833,-290.598 106.4195,-292.5394 109.8952,-294.2587"/>
 <polygon fill="#191970" stroke="#191970" points="108.7736,-297.5859 119.3436,-298.3101 111.5323,-291.1524 108.7736,-297.5859"/>
 </g>
-<!-- Node7310 -->
+<!-- Node7628 -->
 <g id="node5" class="node">
-<title>Node7310</title>
+<title>Node7628</title>
 <g id="a_node5"><a xlink:href="pbar_8c.html#adbe367a85dfc3d77c137839ce555eab2" target="_top" xlink:title="Recalculate the Window data &#45; Implements MuttWindow::recalc() ">
 <polygon fill="#ffffff" stroke="#ff0000" points="128,-259.906 128,-278.906 201,-278.906 201,-259.906 128,-259.906"/>
 <text text-anchor="middle" x="164.5" y="-266.906" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pbar_recalc</text>
 </a>
 </g>
 </g>
-<!-- Node7303&#45;&gt;Node7310 -->
+<!-- Node7621&#45;&gt;Node7628 -->
 <g id="edge4" class="edge">
-<title>Node7303&#45;&gt;Node7310</title>
+<title>Node7621&#45;&gt;Node7628</title>
 <path fill="none" stroke="#191970" d="M41.1894,-203.3065C53.4516,-215.9612 76.376,-237.7431 100,-250.406 105.6717,-253.4462 111.8915,-256.058 118.1604,-258.2851"/>
 <polygon fill="#191970" stroke="#191970" points="117.3881,-261.7142 127.9803,-261.4742 119.5504,-255.0565 117.3881,-261.7142"/>
 </g>
-<!-- Node9467 -->
+<!-- Node9617 -->
 <g id="node6" class="node">
-<title>Node9467</title>
+<title>Node9617</title>
 <g id="a_node6"><a xlink:href="pbar_8c.html#a265aabbb8187152bf23d33a2cc7f57c5" target="_top" xlink:title="Repaint the Window &#45; Implements MuttWindow::repaint() ">
 <polygon fill="#ffffff" stroke="#ff0000" points="125.5,-221.906 125.5,-240.906 203.5,-240.906 203.5,-221.906 125.5,-221.906"/>
 <text text-anchor="middle" x="164.5" y="-228.906" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pbar_repaint</text>
 </a>
 </g>
 </g>
-<!-- Node7303&#45;&gt;Node9467 -->
+<!-- Node7621&#45;&gt;Node9617 -->
 <g id="edge5" class="edge">
-<title>Node7303&#45;&gt;Node9467</title>
+<title>Node7621&#45;&gt;Node9617</title>
 <path fill="none" stroke="#191970" d="M64.0746,-202.6048C81.3437,-207.5574 102.879,-213.7336 121.5739,-219.0951"/>
 <polygon fill="#191970" stroke="#191970" points="120.7597,-222.5027 131.3371,-221.8952 122.6895,-215.7739 120.7597,-222.5027"/>
 </g>
-<!-- Node7922 -->
+<!-- Node8241 -->
 <g id="node7" class="node">
-<title>Node7922</title>
+<title>Node8241</title>
 <g id="a_node7"><a xlink:href="mutt_2notify_8c.html#a67c25689b9f61f36d922c2b8e21685be" target="_top" xlink:title="Add an observer to an object. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="106.5,-183.906 106.5,-202.906 222.5,-202.906 222.5,-183.906 106.5,-183.906"/>
 <text text-anchor="middle" x="164.5" y="-190.906" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">notify_observer_add</text>
 </a>
 </g>
 </g>
-<!-- Node7303&#45;&gt;Node7922 -->
+<!-- Node7621&#45;&gt;Node8241 -->
 <g id="edge6" class="edge">
-<title>Node7303&#45;&gt;Node7922</title>
+<title>Node7621&#45;&gt;Node8241</title>
 <path fill="none" stroke="#191970" d="M64.0746,-193.406C73.8086,-193.406 84.8981,-193.406 96.0703,-193.406"/>
 <polygon fill="#191970" stroke="#191970" points="96.3173,-196.9061 106.3173,-193.406 96.3173,-189.9061 96.3173,-196.9061"/>
 </g>
-<!-- Node9468 -->
+<!-- Node9618 -->
 <g id="node8" class="node">
-<title>Node9468</title>
+<title>Node9618</title>
 <g id="a_node8"><a xlink:href="pbar_8c.html#a1789c09d1dc926bc055dff95cd6c4099" target="_top" xlink:title="Notification that a Color has changed &#45; Implements observer_t. ">
 <polygon fill="#ffffff" stroke="#000000" points="267.5,-140.906 267.5,-159.906 383.5,-159.906 383.5,-140.906 267.5,-140.906"/>
 <text text-anchor="middle" x="325.5" y="-147.906" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pbar_color_observer</text>
 </a>
 </g>
 </g>
-<!-- Node7303&#45;&gt;Node9468 -->
+<!-- Node7621&#45;&gt;Node9618 -->
 <g id="edge7" class="edge">
-<title>Node7303&#45;&gt;Node9468</title>
+<title>Node7621&#45;&gt;Node9618</title>
 <path fill="none" stroke="#191970" d="M61.8716,-183.9002C73.6483,-180.4586 87.3592,-176.8272 100,-174.406 152.1955,-164.4086 212.043,-158.2814 256.961,-154.7226"/>
 <polygon fill="#191970" stroke="#191970" points="257.473,-158.1937 267.1752,-153.9372 256.9362,-151.2143 257.473,-158.1937"/>
 </g>
-<!-- Node9469 -->
+<!-- Node9619 -->
 <g id="node9" class="node">
-<title>Node9469</title>
+<title>Node9619</title>
 <g id="a_node9"><a xlink:href="pbar_8c.html#a4b2fb7a7d674be722de5e36f7208a618" target="_top" xlink:title="Notification that a Config Variable has changed &#45; Implements observer_t. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="265,-97.906 265,-116.906 386,-116.906 386,-97.906 265,-97.906"/>
 <text text-anchor="middle" x="325.5" y="-104.906" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pbar_config_observer</text>
 </a>
 </g>
 </g>
-<!-- Node7303&#45;&gt;Node9469 -->
+<!-- Node7621&#45;&gt;Node9619 -->
 <g id="edge8" class="edge">
-<title>Node7303&#45;&gt;Node9469</title>
+<title>Node7621&#45;&gt;Node9619</title>
 <path fill="none" stroke="#191970" d="M44.8394,-183.7963C58.0131,-174.4002 79.4342,-160.3774 100,-152.406 149.8322,-133.0909 209.2137,-121.671 254.5291,-115.171"/>
 <polygon fill="#191970" stroke="#191970" points="255.1351,-118.6205 264.5592,-113.7793 254.173,-111.687 255.1351,-118.6205"/>
 </g>
-<!-- Node9470 -->
+<!-- Node9620 -->
 <g id="node10" class="node">
-<title>Node9470</title>
+<title>Node9620</title>
 <g id="a_node10"><a xlink:href="pbar_8c.html#ac1463f646e7d39db0c737910ced6a3e0" target="_top" xlink:title="Notification that the Index has changed &#45; Implements observer_t. ">
 <polygon fill="#ffffff" stroke="#000000" points="266,-50.906 266,-69.906 385,-69.906 385,-50.906 266,-50.906"/>
 <text text-anchor="middle" x="325.5" y="-57.906" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pbar_index_observer</text>
 </a>
 </g>
 </g>
-<!-- Node7303&#45;&gt;Node9470 -->
+<!-- Node7621&#45;&gt;Node9620 -->
 <g id="edge9" class="edge">
-<title>Node7303&#45;&gt;Node9470</title>
+<title>Node7621&#45;&gt;Node9620</title>
 <path fill="none" stroke="#191970" d="M33.4873,-183.7327C38.0107,-158.0898 54.2093,-88.4229 100,-60.406 156.4302,-25.8795 236.6151,-36.9335 284.6078,-48.4379"/>
 <polygon fill="#191970" stroke="#191970" points="283.7886,-51.8408 294.3401,-50.8834 285.4946,-45.0518 283.7886,-51.8408"/>
 </g>
-<!-- Node9471 -->
+<!-- Node9621 -->
 <g id="node11" class="node">
-<title>Node9471</title>
+<title>Node9621</title>
 <g id="a_node11"><a xlink:href="pbar_8c.html#a8f3731fc680c4a6677ce3f8834565460" target="_top" xlink:title="Notification that the Pager has changed &#45; Implements observer_t. ">
 <polygon fill="#ffffff" stroke="#000000" points="266,-3.906 266,-22.906 385,-22.906 385,-3.906 266,-3.906"/>
 <text text-anchor="middle" x="325.5" y="-10.906" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pbar_pager_observer</text>
 </a>
 </g>
 </g>
-<!-- Node7303&#45;&gt;Node9471 -->
+<!-- Node7621&#45;&gt;Node9621 -->
 <g id="edge10" class="edge">
-<title>Node7303&#45;&gt;Node9471</title>
+<title>Node7621&#45;&gt;Node9621</title>
 <path fill="none" stroke="#191970" d="M32.761,-183.7156C35.5866,-154.9961 48.1784,-70.0006 100,-32.406 147.5028,2.0554 216.3456,2.7695 265.4517,-2.6139"/>
 <polygon fill="#191970" stroke="#191970" points="265.2677,-6.1171 275.6161,-3.8452 266.1096,.8321 265.2677,-6.1171"/>
 </g>
-<!-- Node9472 -->
+<!-- Node9622 -->
 <g id="node12" class="node">
-<title>Node9472</title>
+<title>Node9622</title>
 <g id="a_node12"><a xlink:href="pbar_8c.html#a1611d6070ce1d34e6e689756ad435464" target="_top" xlink:title="Notification that a Window has changed &#45; Implements observer_t. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="100,-69.906 100,-88.906 229,-88.906 229,-69.906 100,-69.906"/>
 <text text-anchor="middle" x="164.5" y="-76.906" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pbar_window_observer</text>
 </a>
 </g>
 </g>
-<!-- Node7303&#45;&gt;Node9472 -->
+<!-- Node7621&#45;&gt;Node9622 -->
 <g id="edge11" class="edge">
-<title>Node7303&#45;&gt;Node9472</title>
+<title>Node7621&#45;&gt;Node9622</title>
 <path fill="none" stroke="#191970" d="M36.8197,-183.8378C46.4292,-165.669 69.6836,-125.9772 100,-103.406 105.5375,-99.2833 111.8612,-95.7989 118.334,-92.8748"/>
 <polygon fill="#191970" stroke="#191970" points="119.9195,-96.0079 127.8501,-88.9825 117.2693,-89.5289 119.9195,-96.0079"/>
 </g>
-<!-- Node9472&#45;&gt;Node9468 -->
+<!-- Node9622&#45;&gt;Node9618 -->
 <g id="edge12" class="edge">
-<title>Node9472&#45;&gt;Node9468</title>
+<title>Node9622&#45;&gt;Node9618</title>
 <path fill="none" stroke="#191970" d="M183.9855,-88.9414C204.1189,-98.6938 236.5287,-114.1144 265,-126.406 273.3667,-130.0181 282.4661,-133.7362 291.0064,-137.1351"/>
 <polygon fill="#191970" stroke="#191970" points="289.7551,-140.4039 300.342,-140.8142 292.3217,-133.8914 289.7551,-140.4039"/>
 </g>
-<!-- Node9472&#45;&gt;Node9469 -->
+<!-- Node9622&#45;&gt;Node9619 -->
 <g id="edge13" class="edge">
-<title>Node9472&#45;&gt;Node9469</title>
+<title>Node9622&#45;&gt;Node9619</title>
 <path fill="none" stroke="#191970" d="M219.4568,-88.9637C232.7979,-91.2839 247.1832,-93.7857 260.9237,-96.1754"/>
 <polygon fill="#191970" stroke="#191970" points="260.3391,-99.6262 270.7909,-97.8914 261.5385,-92.7297 260.3391,-99.6262"/>
 </g>
-<!-- Node9472&#45;&gt;Node9470 -->
+<!-- Node9622&#45;&gt;Node9620 -->
 <g id="edge14" class="edge">
-<title>Node9472&#45;&gt;Node9470</title>
+<title>Node9622&#45;&gt;Node9620</title>
 <path fill="none" stroke="#191970" d="M229.0572,-71.7875C237.8923,-70.7448 246.9943,-69.6707 255.9142,-68.618"/>
 <polygon fill="#191970" stroke="#191970" points="256.3629,-72.0895 265.8837,-67.4415 255.5424,-65.1377 256.3629,-72.0895"/>
 </g>
-<!-- Node9472&#45;&gt;Node9471 -->
+<!-- Node9622&#45;&gt;Node9621 -->
 <g id="edge15" class="edge">
-<title>Node9472&#45;&gt;Node9471</title>
+<title>Node9622&#45;&gt;Node9621</title>
 <path fill="none" stroke="#191970" d="M187.9108,-69.8091C215.5331,-58.4856 261.6316,-39.5881 292.7776,-26.8202"/>
 <polygon fill="#191970" stroke="#191970" points="294.397,-29.9391 302.3222,-22.9075 291.7419,-23.4622 294.397,-29.9391"/>
 </g>

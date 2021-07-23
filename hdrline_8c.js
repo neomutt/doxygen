@@ -38,6 +38,6 @@ var hdrline_8c =
     [ "user_is_recipient", "hdrline_8c.html#aa913a6fd0a95b43643b523e1b15b1482", null ],
     [ "thread_is_new", "hdrline_8c.html#aebca8cfe2272489be6f640a0643ec1df", null ],
     [ "thread_is_old", "hdrline_8c.html#aa520340bd3c4e1253ac4603229f2b026", null ],
-    [ "index_format_str", "hdrline_8c.html#afa87b03d9a383088d6db0c417f79da92", null ],
+    [ "index_format_str", "group__expando__api.html#gafa87b03d9a383088d6db0c417f79da92", null ],
     [ "mutt_make_string", "hdrline_8c.html#a5ff2b7d1b1e2dbd345801cdda1e3af14", null ]
 ];

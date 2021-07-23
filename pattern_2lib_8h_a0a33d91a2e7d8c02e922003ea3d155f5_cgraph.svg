@@ -9,156 +9,156 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 328)">
 <title>dlg_select_pattern</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-328 460,-328 460,4 -4,4"/>
-<!-- Node5189 -->
+<!-- Node5291 -->
 <g id="node1" class="node">
-<title>Node5189</title>
+<title>Node5291</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-152.5 0,-171.5 107,-171.5 107,-152.5 0,-152.5"/>
 <text text-anchor="middle" x="53.5" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">dlg_select_pattern</text>
 </g>
-<!-- Node5190 -->
+<!-- Node5292 -->
 <g id="node2" class="node">
-<title>Node5190</title>
+<title>Node5292</title>
 <g id="a_node2"><a xlink:href="simple_8c.html#a12bf318d3201650936ab7c3710869815" target="_top" xlink:title="Create a simple index Dialog. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="159.5,-304.5 159.5,-323.5 269.5,-323.5 269.5,-304.5 159.5,-304.5"/>
 <text text-anchor="middle" x="214.5" y="-311.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">simple_dialog_new</text>
 </a>
 </g>
 </g>
-<!-- Node5189&#45;&gt;Node5190 -->
+<!-- Node5291&#45;&gt;Node5292 -->
 <g id="edge1" class="edge">
-<title>Node5189&#45;&gt;Node5190</title>
+<title>Node5291&#45;&gt;Node5292</title>
 <path fill="none" stroke="#191970" d="M57.5952,-171.5971C68.1717,-195.2585 98.7047,-256.867 143,-290 148.7668,-294.3136 155.356,-297.8815 162.148,-300.825"/>
 <polygon fill="#191970" stroke="#191970" points="160.889,-304.0907 171.4773,-304.4632 163.4323,-297.569 160.889,-304.0907"/>
 </g>
-<!-- Node5205 -->
+<!-- Node5306 -->
 <g id="node3" class="node">
-<title>Node5205</title>
+<title>Node5306</title>
 <g id="a_node3"><a xlink:href="mutt_2notify_8c.html#a67c25689b9f61f36d922c2b8e21685be" target="_top" xlink:title="Add an observer to an object. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="331,-285.5 331,-304.5 447,-304.5 447,-285.5 331,-285.5"/>
 <text text-anchor="middle" x="389" y="-292.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">notify_observer_add</text>
 </a>
 </g>
 </g>
-<!-- Node5189&#45;&gt;Node5205 -->
+<!-- Node5291&#45;&gt;Node5306 -->
 <g id="edge4" class="edge">
-<title>Node5189&#45;&gt;Node5205</title>
+<title>Node5291&#45;&gt;Node5306</title>
 <path fill="none" stroke="#191970" d="M59.275,-171.5007C71.7896,-191.1644 103.4927,-236.2192 143,-257 198.1289,-285.9978 269.1653,-294.3881 320.7185,-296.184"/>
 <polygon fill="#191970" stroke="#191970" points="320.6666,-299.6838 330.7589,-296.4594 320.8586,-292.6865 320.6666,-299.6838"/>
 </g>
-<!-- Node5285 -->
+<!-- Node5391 -->
 <g id="node4" class="node">
-<title>Node5285</title>
+<title>Node5391</title>
 <g id="a_node4"><a xlink:href="dlgpattern_8c.html#a24c15db8dee1fedd95b2819e75880539" target="_top" xlink:title="Create the Pattern Completion menu. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="154,-228.5 154,-247.5 275,-247.5 275,-228.5 154,-228.5"/>
 <text text-anchor="middle" x="214.5" y="-235.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">create_pattern_menu</text>
 </a>
 </g>
 </g>
-<!-- Node5189&#45;&gt;Node5285 -->
+<!-- Node5291&#45;&gt;Node5391 -->
 <g id="edge3" class="edge">
-<title>Node5189&#45;&gt;Node5285</title>
+<title>Node5291&#45;&gt;Node5391</title>
 <path fill="none" stroke="#191970" d="M67.8982,-171.5955C85.1903,-182.8252 115.3329,-201.4753 143,-214 152.2148,-218.1715 162.3789,-222.0108 172.0804,-225.3385"/>
 <polygon fill="#191970" stroke="#191970" points="170.9819,-228.6616 181.5753,-228.4891 173.1865,-222.0178 170.9819,-228.6616"/>
 </g>
-<!-- Node5330 -->
+<!-- Node5436 -->
 <g id="node5" class="node">
-<title>Node5330</title>
+<title>Node5436</title>
 <g id="a_node5"><a xlink:href="dlgpattern_8c.html#a7be0fe8d970ae11592df9e1007d4b5b1" target="_top" xlink:title="Notification that a Config Variable has changed &#45; Implements observer_t. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="322,-171.5 322,-190.5 456,-190.5 456,-171.5 322,-171.5"/>
 <text text-anchor="middle" x="389" y="-178.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pattern_config_observer</text>
 </a>
 </g>
 </g>
-<!-- Node5189&#45;&gt;Node5330 -->
+<!-- Node5291&#45;&gt;Node5436 -->
 <g id="edge5" class="edge">
-<title>Node5189&#45;&gt;Node5330</title>
+<title>Node5291&#45;&gt;Node5436</title>
 <path fill="none" stroke="#191970" d="M89.802,-171.5089C105.9641,-175.2737 125.3066,-179.1426 143,-181 199.3092,-186.9111 263.2688,-186.7 311.8548,-185.1224"/>
 <polygon fill="#191970" stroke="#191970" points="312.1099,-188.6157 321.9808,-184.7667 311.8641,-181.62 312.1099,-188.6157"/>
 </g>
-<!-- Node5332 -->
+<!-- Node5438 -->
 <g id="node6" class="node">
-<title>Node5332</title>
+<title>Node5438</title>
 <g id="a_node6"><a xlink:href="dlgpattern_8c.html#a52b3469d5c98ef138b1ac3b7ec519b2f" target="_top" xlink:title="Notification that a Window has changed &#45; Implements observer_t. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="143,-152.5 143,-171.5 286,-171.5 286,-152.5 143,-152.5"/>
 <text text-anchor="middle" x="214.5" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pattern_window_observer</text>
 </a>
 </g>
 </g>
-<!-- Node5189&#45;&gt;Node5332 -->
+<!-- Node5291&#45;&gt;Node5438 -->
 <g id="edge6" class="edge">
-<title>Node5189&#45;&gt;Node5332</title>
+<title>Node5291&#45;&gt;Node5438</title>
 <path fill="none" stroke="#191970" d="M107.1107,-162C115.3291,-162 123.97,-162 132.6319,-162"/>
 <polygon fill="#191970" stroke="#191970" points="132.7861,-165.5001 142.786,-162 132.786,-158.5001 132.7861,-165.5001"/>
 </g>
-<!-- Node5333 -->
+<!-- Node5439 -->
 <g id="node7" class="node">
-<title>Node5333</title>
+<title>Node5439</title>
 <g id="a_node7"><a xlink:href="menu_2lib_8h.html#aa2b27e38666a55e697ce16f8a7b31b01" target="_top" xlink:title="Menu event loop. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="179,-114.5 179,-133.5 250,-133.5 250,-114.5 179,-114.5"/>
 <text text-anchor="middle" x="214.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">menu_loop</text>
 </a>
 </g>
 </g>
-<!-- Node5189&#45;&gt;Node5333 -->
+<!-- Node5291&#45;&gt;Node5439 -->
 <g id="edge8" class="edge">
-<title>Node5189&#45;&gt;Node5333</title>
+<title>Node5291&#45;&gt;Node5439</title>
 <path fill="none" stroke="#191970" d="M94.1271,-152.411C116.9499,-147.0243 145.4932,-140.2873 169.0564,-134.7258"/>
 <polygon fill="#191970" stroke="#191970" points="169.8903,-138.1253 178.8188,-132.4216 168.2822,-131.3124 169.8903,-138.1253"/>
 </g>
-<!-- Node5877 -->
+<!-- Node5981 -->
 <g id="node8" class="node">
-<title>Node5877</title>
+<title>Node5981</title>
 <g id="a_node8"><a xlink:href="menu_2lib_8h.html#a67ee9260e41986eb4487124b004cff18" target="_top" xlink:title="Get the current selection in the Menu. ">
 <polygon fill="#ffffff" stroke="#000000" points="165.5,-76.5 165.5,-95.5 263.5,-95.5 263.5,-76.5 165.5,-76.5"/>
 <text text-anchor="middle" x="214.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">menu_get_index</text>
 </a>
 </g>
 </g>
-<!-- Node5189&#45;&gt;Node5877 -->
+<!-- Node5291&#45;&gt;Node5981 -->
 <g id="edge9" class="edge">
-<title>Node5189&#45;&gt;Node5877</title>
+<title>Node5291&#45;&gt;Node5981</title>
 <path fill="none" stroke="#191970" d="M65.8436,-152.3815C82.4945,-139.8318 113.4777,-117.9512 143,-105 148.4252,-102.62 154.2166,-100.4808 160.066,-98.573"/>
 <polygon fill="#191970" stroke="#191970" points="161.3617,-101.8373 169.9106,-95.5789 159.3249,-95.1402 161.3617,-101.8373"/>
 </g>
-<!-- Node5201 -->
+<!-- Node5303 -->
 <g id="node9" class="node">
-<title>Node5201</title>
+<title>Node5303</title>
 <g id="a_node9"><a xlink:href="mutt_2string_8c.html#ad20e00309de897a1e882fc7400335b83" target="_top" xlink:title="Copy a string into a buffer (guaranteeing NUL&#45;termination) ">
 <polygon fill="#ffffff" stroke="#000000" points="171.5,-38.5 171.5,-57.5 257.5,-57.5 257.5,-38.5 171.5,-38.5"/>
 <text text-anchor="middle" x="214.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_str_copy</text>
 </a>
 </g>
 </g>
-<!-- Node5189&#45;&gt;Node5201 -->
+<!-- Node5291&#45;&gt;Node5303 -->
 <g id="edge10" class="edge">
-<title>Node5189&#45;&gt;Node5201</title>
+<title>Node5291&#45;&gt;Node5303</title>
 <path fill="none" stroke="#191970" d="M59.8579,-152.242C72.9822,-132.9011 105.0437,-89.6216 143,-67 148.782,-63.554 155.1931,-60.7226 161.7334,-58.3986"/>
 <polygon fill="#191970" stroke="#191970" points="162.8785,-61.7073 171.3499,-55.3443 160.7595,-55.0357 162.8785,-61.7073"/>
 </g>
-<!-- Node5878 -->
+<!-- Node5982 -->
 <g id="node10" class="node">
-<title>Node5878</title>
+<title>Node5982</title>
 <g id="a_node10"><a xlink:href="simple_8c.html#a4b8e413b9970200cd75543dd09d38622" target="_top" xlink:title="Destroy a simple index Dialog. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="159.5,-.5 159.5,-19.5 269.5,-19.5 269.5,-.5 159.5,-.5"/>
 <text text-anchor="middle" x="214.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">simple_dialog_free</text>
 </a>
 </g>
 </g>
-<!-- Node5189&#45;&gt;Node5878 -->
+<!-- Node5291&#45;&gt;Node5982 -->
 <g id="edge11" class="edge">
-<title>Node5189&#45;&gt;Node5878</title>
+<title>Node5291&#45;&gt;Node5982</title>
 <path fill="none" stroke="#191970" d="M57.2086,-152.2097C67.0945,-127.4782 96.5346,-62.109 143,-29 145.7196,-27.0621 148.6244,-25.3219 151.6486,-23.7591"/>
 <polygon fill="#191970" stroke="#191970" points="153.3059,-26.8524 161.0137,-19.5832 150.4552,-20.4591 153.3059,-26.8524"/>
 </g>
-<!-- Node5190&#45;&gt;Node5205 -->
+<!-- Node5292&#45;&gt;Node5306 -->
 <g id="edge2" class="edge">
-<title>Node5190&#45;&gt;Node5205</title>
+<title>Node5292&#45;&gt;Node5306</title>
 <path fill="none" stroke="#191970" d="M269.7129,-307.9883C285.8371,-306.2326 303.6564,-304.2924 320.4976,-302.4587"/>
 <polygon fill="#191970" stroke="#191970" points="321.271,-305.8953 330.8334,-301.3333 320.5133,-298.9364 321.271,-305.8953"/>
 </g>
-<!-- Node5332&#45;&gt;Node5330 -->
+<!-- Node5438&#45;&gt;Node5436 -->
 <g id="edge7" class="edge">
-<title>Node5332&#45;&gt;Node5330</title>
+<title>Node5438&#45;&gt;Node5436</title>
 <path fill="none" stroke="#191970" d="M286.2312,-169.8103C294.585,-170.7199 303.1349,-171.6508 311.5612,-172.5683"/>
 <polygon fill="#191970" stroke="#191970" points="311.4364,-176.0753 321.7565,-173.6784 312.1942,-169.1164 311.4364,-176.0753"/>
 </g>

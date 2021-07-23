@@ -9,60 +9,60 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 188)">
 <title>mutt_addr_to_local</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-188 340,-188 340,4 -4,4"/>
-<!-- Node19922 -->
+<!-- Node21709 -->
 <g id="node1" class="node">
-<title>Node19922</title>
+<title>Node21709</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-88.5 0,-107.5 110,-107.5 110,-88.5 0,-88.5"/>
 <text text-anchor="middle" x="55" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_addr_to_local</text>
 </g>
-<!-- Node19923 -->
+<!-- Node21710 -->
 <g id="node2" class="node">
-<title>Node19923</title>
+<title>Node21710</title>
 <g id="a_node2"><a xlink:href="address_2address_8h.html#a7b1224fc8c5dde7114228cfc8ffbbc23" target="_top" xlink:title="Convert an Address list from Punycode. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="178.5,-164.5 178.5,-183.5 303.5,-183.5 303.5,-164.5 178.5,-164.5"/>
 <text text-anchor="middle" x="241" y="-171.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_addrlist_to_local</text>
 </a>
 </g>
 </g>
-<!-- Node19922&#45;&gt;Node19923 -->
+<!-- Node21709&#45;&gt;Node21710 -->
 <g id="edge1" class="edge">
-<title>Node19922&#45;&gt;Node19923</title>
+<title>Node21709&#45;&gt;Node21710</title>
 <path fill="none" stroke="#191970" d="M75.5647,-113.9425C93.2844,-126.9034 120.0378,-144.6758 146,-155 156.2372,-159.0709 167.4548,-162.3025 178.4811,-164.8578"/>
 <polygon fill="#191970" stroke="#191970" points="77.2786,-110.8538 67.174,-107.6683 73.0867,-116.4598 77.2786,-110.8538"/>
 </g>
-<!-- Node20495 -->
+<!-- Node22336 -->
 <g id="node3" class="node">
-<title>Node20495</title>
+<title>Node22336</title>
 <g id="a_node3"><a xlink:href="autocrypt_2private_8h.html#a7a1ba8370247983cbe31e79557e3e1e9" target="_top" xlink:title="Normalise an Email Address. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="146,-126.5 146,-145.5 336,-145.5 336,-126.5 146,-126.5"/>
 <text text-anchor="middle" x="241" y="-133.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_autocrypt_db_normalize_addr</text>
 </a>
 </g>
 </g>
-<!-- Node19922&#45;&gt;Node20495 -->
+<!-- Node21709&#45;&gt;Node22336 -->
 <g id="edge2" class="edge">
-<title>Node19922&#45;&gt;Node20495</title>
+<title>Node21709&#45;&gt;Node22336</title>
 <path fill="none" stroke="#191970" d="M110.4694,-109.6593C122.198,-112.1028 134.5039,-114.6503 146,-117 161.1607,-120.0987 177.6939,-123.4241 192.6551,-126.413"/>
 <polygon fill="#191970" stroke="#191970" points="110.8502,-106.1634 100.346,-107.5464 109.42,-113.0158 110.8502,-106.1634"/>
 </g>
-<!-- Node20503 -->
+<!-- Node22344 -->
 <g id="node4" class="node">
-<title>Node20503</title>
+<title>Node22344</title>
 <g id="a_node4"><a xlink:href="dlgautocrypt_8c.html#ade8ee709c156a5d0ea153a878b519534" target="_top" xlink:title="Add the Autocrypt data to a Menu. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="195,-88.5 195,-107.5 287,-107.5 287,-88.5 195,-88.5"/>
 <text text-anchor="middle" x="241" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">populate_menu</text>
 </a>
 </g>
 </g>
-<!-- Node19922&#45;&gt;Node20503 -->
+<!-- Node21709&#45;&gt;Node22344 -->
 <g id="edge3" class="edge">
-<title>Node19922&#45;&gt;Node20503</title>
+<title>Node21709&#45;&gt;Node22344</title>
 <path fill="none" stroke="#191970" d="M120.0638,-98C144.7363,-98 172.3004,-98 194.875,-98"/>
 <polygon fill="#191970" stroke="#191970" points="120.0512,-94.5001 110.0512,-98 120.0511,-101.5001 120.0512,-94.5001"/>
 </g>
-<!-- Node20504 -->
+<!-- Node22345 -->
 <g id="node5" class="node">
-<title>Node20504</title>
+<title>Node22345</title>
 <g id="a_node5"><a xlink:href="autocrypt_2private_8h.html#a183f2f1eff311c4f49f5552966804fdf" target="_top" xlink:title="Create a GPGME key. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="175.5,-39 175.5,-69 306.5,-69 306.5,-39 175.5,-39"/>
 <text text-anchor="start" x="183.5" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_autocrypt_gpgme</text>
@@ -70,24 +70,24 @@
 </a>
 </g>
 </g>
-<!-- Node19922&#45;&gt;Node20504 -->
+<!-- Node21709&#45;&gt;Node22345 -->
 <g id="edge4" class="edge">
-<title>Node19922&#45;&gt;Node20504</title>
+<title>Node21709&#45;&gt;Node22345</title>
 <path fill="none" stroke="#191970" d="M105.2371,-86.116C127.4261,-80.8669 153.7669,-74.6358 177.3146,-69.0654"/>
 <polygon fill="#191970" stroke="#191970" points="104.2849,-82.7445 95.3592,-88.4527 105.8964,-89.5565 104.2849,-82.7445"/>
 </g>
-<!-- Node20310 -->
+<!-- Node22147 -->
 <g id="node6" class="node">
-<title>Node20310</title>
+<title>Node22147</title>
 <g id="a_node6"><a xlink:href="pgpinvoke_8h.html#a41108b7fbffaf50678e9299b62a8fc7a" target="_top" xlink:title="Implements CryptModuleSpecs::pgp_invoke_getkeys() ">
 <polygon fill="#ffffff" stroke="#ff0000" points="167.5,-.5 167.5,-19.5 314.5,-19.5 314.5,-.5 167.5,-.5"/>
 <text text-anchor="middle" x="241" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pgp_class_invoke_getkeys</text>
 </a>
 </g>
 </g>
-<!-- Node19922&#45;&gt;Node20310 -->
+<!-- Node21709&#45;&gt;Node22147 -->
 <g id="edge5" class="edge">
-<title>Node19922&#45;&gt;Node20310</title>
+<title>Node21709&#45;&gt;Node22147</title>
 <path fill="none" stroke="#191970" d="M72.2728,-81.4152C89.5528,-65.7676 117.5836,-42.8477 146,-30 155.6754,-25.6255 166.3421,-22.1928 176.9263,-19.5034"/>
 <polygon fill="#191970" stroke="#191970" points="69.6529,-79.0713 64.6989,-88.4366 74.4119,-84.2048 69.6529,-79.0713"/>
 </g>

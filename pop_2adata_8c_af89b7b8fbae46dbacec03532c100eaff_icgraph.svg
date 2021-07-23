@@ -9,54 +9,54 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 100)">
 <title>pop_adata_new</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-100 230,-100 230,4 -4,4"/>
-<!-- Node570 -->
+<!-- Node9 -->
 <g id="node1" class="node">
-<title>Node570</title>
+<title>Node9</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-38.5 0,-57.5 93,-57.5 93,-38.5 0,-38.5"/>
 <text text-anchor="middle" x="46.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pop_adata_new</text>
 </g>
-<!-- Node571 -->
+<!-- Node10 -->
 <g id="node2" class="node">
-<title>Node571</title>
+<title>Node10</title>
 <g id="a_node2"><a xlink:href="pop_8c.html#ae41e43ca791955eb76c5709db39a21d7" target="_top" xlink:title="Fetch messages and save them in $spool_file. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="131.5,-76.5 131.5,-95.5 223.5,-95.5 223.5,-76.5 131.5,-76.5"/>
 <text text-anchor="middle" x="177.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pop_fetch_mail</text>
 </a>
 </g>
 </g>
-<!-- Node570&#45;&gt;Node571 -->
+<!-- Node9&#45;&gt;Node10 -->
 <g id="edge1" class="edge">
-<title>Node570&#45;&gt;Node571</title>
+<title>Node9&#45;&gt;Node10</title>
 <path fill="none" stroke="#191970" d="M89.2148,-60.3906C107.1547,-65.5945 127.6996,-71.5541 144.4537,-76.4141"/>
 <polygon fill="#191970" stroke="#191970" points="90.136,-57.0136 79.5568,-57.589 88.1858,-63.7364 90.136,-57.0136"/>
 </g>
-<!-- Node1048 -->
+<!-- Node12 -->
 <g id="node3" class="node">
-<title>Node1048</title>
-<g id="a_node3"><a xlink:href="pop_8c.html#a171eb6bc7e61e52a2aeca10d87611a36" target="_top" xlink:title="Add a Mailbox to an Account &#45; Implements MxOps::ac_add() ">
+<title>Node12</title>
+<g id="a_node3"><a xlink:href="group__mx__ac__add.html#ga171eb6bc7e61e52a2aeca10d87611a36" target="_top" xlink:title="Add a Mailbox to an Account &#45; Implements MxOps::ac_add() &#45;. ">
 <polygon fill="#ffffff" stroke="#000000" points="140.5,-38.5 140.5,-57.5 214.5,-57.5 214.5,-38.5 140.5,-38.5"/>
 <text text-anchor="middle" x="177.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pop_ac_add</text>
 </a>
 </g>
 </g>
-<!-- Node570&#45;&gt;Node1048 -->
+<!-- Node9&#45;&gt;Node12 -->
 <g id="edge2" class="edge">
-<title>Node570&#45;&gt;Node1048</title>
+<title>Node9&#45;&gt;Node12</title>
 <path fill="none" stroke="#191970" d="M103.3698,-48C115.8164,-48 128.6861,-48 140.1387,-48"/>
 <polygon fill="#191970" stroke="#191970" points="103.0546,-44.5001 93.0546,-48 103.0545,-51.5001 103.0546,-44.5001"/>
 </g>
-<!-- Node948 -->
+<!-- Node13 -->
 <g id="node4" class="node">
-<title>Node948</title>
-<g id="a_node4"><a xlink:href="pop_8c.html#a0de2de1958a22ca0679ea67f4f434db2" target="_top" xlink:title="Open a Mailbox &#45; Implements MxOps::mbox_open() ">
+<title>Node13</title>
+<g id="a_node4"><a xlink:href="group__mx__mbox__open.html#ga0de2de1958a22ca0679ea67f4f434db2" target="_top" xlink:title="Open a Mailbox &#45; Implements MxOps::mbox_open() &#45;Fetch only headers. ">
 <polygon fill="#ffffff" stroke="#000000" points="129,-.5 129,-19.5 226,-19.5 226,-.5 129,-.5"/>
 <text text-anchor="middle" x="177.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pop_mbox_open</text>
 </a>
 </g>
 </g>
-<!-- Node570&#45;&gt;Node948 -->
+<!-- Node9&#45;&gt;Node13 -->
 <g id="edge3" class="edge">
-<title>Node570&#45;&gt;Node948</title>
+<title>Node9&#45;&gt;Node13</title>
 <path fill="none" stroke="#191970" d="M89.2148,-35.6094C107.1547,-30.4055 127.6996,-24.4459 144.4537,-19.5859"/>
 <polygon fill="#191970" stroke="#191970" points="88.1858,-32.2636 79.5568,-38.411 90.136,-38.9864 88.1858,-32.2636"/>
 </g>

@@ -9,39 +9,39 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 62)">
 <title>add_tz_offset</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-62 251,-62 251,4 -4,4"/>
-<!-- Node607 -->
+<!-- Node661 -->
 <g id="node1" class="node">
-<title>Node607</title>
+<title>Node661</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-19.5 0,-38.5 82,-38.5 82,-19.5 0,-19.5"/>
 <text text-anchor="middle" x="41" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">add_tz_offset</text>
 </g>
-<!-- Node608 -->
+<!-- Node662 -->
 <g id="node2" class="node">
-<title>Node608</title>
+<title>Node662</title>
 <g id="a_node2"><a xlink:href="date_8h.html#ad8aaf5118148ed8f6708f32bfab3146f" target="_top" xlink:title="Parse a date string in RFC822 format. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="119.5,-38.5 119.5,-57.5 245.5,-57.5 245.5,-38.5 119.5,-38.5"/>
 <text text-anchor="middle" x="182.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_date_parse_date</text>
 </a>
 </g>
 </g>
-<!-- Node607&#45;&gt;Node608 -->
+<!-- Node661&#45;&gt;Node662 -->
 <g id="edge1" class="edge">
-<title>Node607&#45;&gt;Node608</title>
+<title>Node661&#45;&gt;Node662</title>
 <path fill="none" stroke="#191970" d="M92.3501,-35.8951C101.1027,-37.0703 110.2846,-38.3032 119.3011,-39.5139"/>
 <polygon fill="#191970" stroke="#191970" points="92.6849,-32.4087 82.308,-34.5467 91.7533,-39.3464 92.6849,-32.4087"/>
 </g>
-<!-- Node1184 -->
+<!-- Node1292 -->
 <g id="node3" class="node">
-<title>Node1184</title>
+<title>Node1292</title>
 <g id="a_node3"><a xlink:href="date_8h.html#adf19e8285681d19c7858a66cd0eba84d" target="_top" xlink:title="Parse date of the form: DD&#45;MMM&#45;YYYY HH:MM:SS +ZZzz. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="118,-.5 118,-19.5 247,-19.5 247,-.5 118,-.5"/>
 <text text-anchor="middle" x="182.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_date_parse_imap</text>
 </a>
 </g>
 </g>
-<!-- Node607&#45;&gt;Node1184 -->
+<!-- Node661&#45;&gt;Node1292 -->
 <g id="edge2" class="edge">
-<title>Node607&#45;&gt;Node1184</title>
+<title>Node661&#45;&gt;Node1292</title>
 <path fill="none" stroke="#191970" d="M92.2636,-22.1165C100.6136,-20.9953 109.3563,-19.8214 117.9749,-18.6642"/>
 <polygon fill="#191970" stroke="#191970" points="91.7533,-18.6536 82.308,-23.4533 92.6849,-25.5913 91.7533,-18.6536"/>
 </g>

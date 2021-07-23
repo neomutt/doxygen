@@ -9,84 +9,84 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 176)">
 <title>window_reflow</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-176 248,-176 248,4 -4,4"/>
-<!-- Node1363 -->
+<!-- Node1481 -->
 <g id="node1" class="node">
-<title>Node1363</title>
+<title>Node1481</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-76.5 0,-95.5 89,-95.5 89,-76.5 0,-76.5"/>
 <text text-anchor="middle" x="44.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">window_reflow</text>
 </g>
-<!-- Node1364 -->
+<!-- Node1482 -->
 <g id="node2" class="node">
-<title>Node1364</title>
+<title>Node1482</title>
 <g id="a_node2"><a xlink:href="mutt__window_8h.html#a0c72fe947a36fde085984ea9eb477818" target="_top" xlink:title="Resize a Window and its children. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="125.5,-152.5 125.5,-171.5 243.5,-171.5 243.5,-152.5 125.5,-152.5"/>
 <text text-anchor="middle" x="184.5" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_window_reflow</text>
 </a>
 </g>
 </g>
-<!-- Node1363&#45;&gt;Node1364 -->
+<!-- Node1481&#45;&gt;Node1482 -->
 <g id="edge1" class="edge">
-<title>Node1363&#45;&gt;Node1364</title>
+<title>Node1481&#45;&gt;Node1482</title>
 <path fill="none" stroke="#191970" d="M63.6621,-102.139C79.3329,-114.6825 102.5017,-131.78 125,-143 132.375,-146.6779 140.6151,-149.8467 148.5567,-152.4844"/>
 <polygon fill="#191970" stroke="#191970" points="65.7396,-99.3168 55.7794,-95.7051 61.3134,-104.7398 65.7396,-99.3168"/>
 </g>
-<!-- Node1990 -->
+<!-- Node2165 -->
 <g id="node3" class="node">
-<title>Node1990</title>
+<title>Node2165</title>
 <g id="a_node3"><a xlink:href="mutt__window_8h.html#a0af7bfe97dbb8f95d03851ec3fe62553" target="_top" xlink:title="Reflow, recalc and repaint a tree of Windows. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="138,-114.5 138,-133.5 231,-133.5 231,-114.5 138,-114.5"/>
 <text text-anchor="middle" x="184.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">window_redraw</text>
 </a>
 </g>
 </g>
-<!-- Node1363&#45;&gt;Node1990 -->
+<!-- Node1481&#45;&gt;Node2165 -->
 <g id="edge2" class="edge">
-<title>Node1363&#45;&gt;Node1990</title>
+<title>Node1481&#45;&gt;Node2165</title>
 <path fill="none" stroke="#191970" d="M89.6176,-98.2462C108.9149,-103.484 131.1124,-109.5091 149.1834,-114.4141"/>
 <polygon fill="#191970" stroke="#191970" points="90.3956,-94.8308 79.8279,-95.589 88.5619,-101.5864 90.3956,-94.8308"/>
 </g>
-<!-- Node2037 -->
+<!-- Node2214 -->
 <g id="node4" class="node">
-<title>Node2037</title>
+<title>Node2214</title>
 <g id="a_node4"><a xlink:href="reflow_8c.html#a272019359561fd9f5c369dcba4f235ae" target="_top" xlink:title="Reflow Windows using all the available horizontal space. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="125,-76.5 125,-95.5 244,-95.5 244,-76.5 125,-76.5"/>
 <text text-anchor="middle" x="184.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">window_reflow_horiz</text>
 </a>
 </g>
 </g>
-<!-- Node1363&#45;&gt;Node2037 -->
+<!-- Node1481&#45;&gt;Node2214 -->
 <g id="edge3" class="edge">
-<title>Node1363&#45;&gt;Node2037</title>
+<title>Node1481&#45;&gt;Node2214</title>
 <path fill="none" stroke="#191970" d="M99.2589,-86C107.6745,-86 116.399,-86 124.9133,-86"/>
 <polygon fill="#191970" stroke="#191970" points="99.1818,-82.5001 89.1818,-86 99.1818,-89.5001 99.1818,-82.5001"/>
 </g>
-<!-- Node2039 -->
+<!-- Node2216 -->
 <g id="node5" class="node">
-<title>Node2039</title>
+<title>Node2216</title>
 <g id="a_node5"><a xlink:href="reflow_8c.html#a0c807a5c20cc6d04f426325ca3c46f96" target="_top" xlink:title="Reflow Windows using all the available vertical space. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="127.5,-38.5 127.5,-57.5 241.5,-57.5 241.5,-38.5 127.5,-38.5"/>
 <text text-anchor="middle" x="184.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">window_reflow_vert</text>
 </a>
 </g>
 </g>
-<!-- Node1363&#45;&gt;Node2039 -->
+<!-- Node1481&#45;&gt;Node2216 -->
 <g id="edge4" class="edge">
-<title>Node1363&#45;&gt;Node2039</title>
+<title>Node1481&#45;&gt;Node2216</title>
 <path fill="none" stroke="#191970" d="M89.6176,-73.7538C108.9149,-68.516 131.1124,-62.4909 149.1834,-57.5859"/>
 <polygon fill="#191970" stroke="#191970" points="88.5619,-70.4136 79.8279,-76.411 90.3956,-77.1692 88.5619,-70.4136"/>
 </g>
-<!-- Node2040 -->
+<!-- Node2217 -->
 <g id="node6" class="node">
-<title>Node2040</title>
+<title>Node2217</title>
 <g id="a_node6"><a xlink:href="sidebar_2observer_8c.html#af7b7affabc479bee3da3d1ff6e8e6703" target="_top" xlink:title="Notification that a Config Variable has changed &#45; Implements observer_t. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="129.5,-.5 129.5,-19.5 239.5,-19.5 239.5,-.5 129.5,-.5"/>
 <text text-anchor="middle" x="184.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">sb_config_observer</text>
 </a>
 </g>
 </g>
-<!-- Node1363&#45;&gt;Node2040 -->
+<!-- Node1481&#45;&gt;Node2217 -->
 <g id="edge5" class="edge">
-<title>Node1363&#45;&gt;Node2040</title>
+<title>Node1481&#45;&gt;Node2217</title>
 <path fill="none" stroke="#191970" d="M63.6621,-69.861C79.3329,-57.3175 102.5017,-40.22 125,-29 132.375,-25.3221 140.6151,-22.1533 148.5567,-19.5156"/>
 <polygon fill="#191970" stroke="#191970" points="61.3134,-67.2602 55.7794,-76.2949 65.7396,-72.6832 61.3134,-67.2602"/>
 </g>

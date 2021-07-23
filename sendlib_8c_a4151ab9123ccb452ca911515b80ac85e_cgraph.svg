@@ -9,168 +9,168 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 346)">
 <title>mutt_make_file_attach</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-346 605,-346 605,4 -4,4"/>
-<!-- Node17874 -->
+<!-- Node17682 -->
 <g id="node1" class="node">
-<title>Node17874</title>
+<title>Node17682</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-170.5 0,-189.5 129,-189.5 129,-170.5 0,-170.5"/>
 <text text-anchor="middle" x="64.5" y="-177.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_make_file_attach</text>
 </g>
-<!-- Node17875 -->
+<!-- Node17683 -->
 <g id="node2" class="node">
-<title>Node17875</title>
+<title>Node17683</title>
 <g id="a_node2"><a xlink:href="email_2body_8c.html#aee001296b775e82e3988b5a81e53e30c" target="_top" xlink:title="Create a new Body. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="187,-322.5 187,-341.5 282,-341.5 282,-322.5 187,-322.5"/>
 <text text-anchor="middle" x="234.5" y="-329.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_body_new</text>
 </a>
 </g>
 </g>
-<!-- Node17874&#45;&gt;Node17875 -->
+<!-- Node17682&#45;&gt;Node17683 -->
 <g id="edge1" class="edge">
-<title>Node17874&#45;&gt;Node17875</title>
+<title>Node17682&#45;&gt;Node17683</title>
 <path fill="none" stroke="#191970" d="M69.0278,-189.7713C80.9814,-214.4583 115.8757,-279.7317 165,-313 168.7723,-315.5547 172.8779,-317.767 177.1458,-319.6827"/>
 <polygon fill="#191970" stroke="#191970" points="176.0939,-323.0296 186.6815,-323.4205 178.6485,-316.5124 176.0939,-323.0296"/>
 </g>
-<!-- Node17878 -->
+<!-- Node17686 -->
 <g id="node3" class="node">
-<title>Node17878</title>
+<title>Node17686</title>
 <g id="a_node3"><a xlink:href="mutt_2string_8c.html#a4c2560f787bd1226b977992c16860c98" target="_top" xlink:title="Copy a string, safely. ">
 <polygon fill="#ffffff" stroke="#000000" points="194,-284.5 194,-303.5 275,-303.5 275,-284.5 194,-284.5"/>
 <text text-anchor="middle" x="234.5" y="-291.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_str_dup</text>
 </a>
 </g>
 </g>
-<!-- Node17874&#45;&gt;Node17878 -->
+<!-- Node17682&#45;&gt;Node17686 -->
 <g id="edge2" class="edge">
-<title>Node17874&#45;&gt;Node17878</title>
+<title>Node17682&#45;&gt;Node17686</title>
 <path fill="none" stroke="#191970" d="M72.6835,-189.5071C88.698,-207.5716 126.0304,-247.0927 165,-270 172.1978,-274.231 180.2543,-277.8667 188.2609,-280.935"/>
 <polygon fill="#191970" stroke="#191970" points="187.3469,-284.3252 197.9415,-284.3983 189.7048,-277.7343 187.3469,-284.3252"/>
 </g>
-<!-- Node17879 -->
+<!-- Node17687 -->
 <g id="node4" class="node">
-<title>Node17879</title>
+<title>Node17687</title>
 <g id="a_node4"><a xlink:href="helpers_8c.html#ac477c591155aa4ae0452bbabc0affffe" target="_top" xlink:title="Get a string config item by name. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="503,-170.5 503,-189.5 601,-189.5 601,-170.5 503,-170.5"/>
 <text text-anchor="middle" x="552" y="-177.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_subset_string</text>
 </a>
 </g>
 </g>
-<!-- Node17874&#45;&gt;Node17879 -->
+<!-- Node17682&#45;&gt;Node17687 -->
 <g id="edge3" class="edge">
-<title>Node17874&#45;&gt;Node17879</title>
+<title>Node17682&#45;&gt;Node17687</title>
 <path fill="none" stroke="#191970" d="M76.5828,-189.6528C94.5858,-203.351 130.0888,-227.789 165,-237 293.9777,-271.0296 452.8567,-219.2859 519.8268,-193.3561"/>
 <polygon fill="#191970" stroke="#191970" points="521.3786,-196.5066 529.3974,-189.582 518.8106,-189.9946 521.3786,-196.5066"/>
 </g>
-<!-- Node17899 -->
+<!-- Node17707 -->
 <g id="node5" class="node">
-<title>Node17899</title>
+<title>Node17707</title>
 <g id="a_node5"><a xlink:href="helpers_8c.html#ae50f679dd6c5bd1ba820884c8602f038" target="_top" xlink:title="Get a boolean config item by name. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="189,-208.5 189,-227.5 280,-227.5 280,-208.5 189,-208.5"/>
 <text text-anchor="middle" x="234.5" y="-215.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_subset_bool</text>
 </a>
 </g>
 </g>
-<!-- Node17874&#45;&gt;Node17899 -->
+<!-- Node17682&#45;&gt;Node17707 -->
 <g id="edge4" class="edge">
-<title>Node17874&#45;&gt;Node17899</title>
+<title>Node17682&#45;&gt;Node17707</title>
 <path fill="none" stroke="#191970" d="M107.3982,-189.589C130.0336,-194.6487 157.9982,-200.8996 181.9287,-206.2488"/>
 <polygon fill="#191970" stroke="#191970" points="181.3876,-209.7141 191.9103,-208.4799 182.9147,-202.8827 181.3876,-209.7141"/>
 </g>
-<!-- Node17900 -->
+<!-- Node17708 -->
 <g id="node6" class="node">
-<title>Node17900</title>
+<title>Node17708</title>
 <g id="a_node6"><a xlink:href="sendlib_8c.html#aedf9e081d3acda51f669619b55cea4e7" target="_top" xlink:title="Run an external command to determine the MIME type. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="340.5,-170.5 340.5,-189.5 466.5,-189.5 466.5,-170.5 340.5,-170.5"/>
 <text text-anchor="middle" x="403.5" y="-177.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">run_mime_type_query</text>
 </a>
 </g>
 </g>
-<!-- Node17874&#45;&gt;Node17900 -->
+<!-- Node17682&#45;&gt;Node17708 -->
 <g id="edge5" class="edge">
-<title>Node17874&#45;&gt;Node17900</title>
+<title>Node17682&#45;&gt;Node17708</title>
 <path fill="none" stroke="#191970" d="M129.0612,-180C186.4466,-180 270.2887,-180 330.1822,-180"/>
 <polygon fill="#191970" stroke="#191970" points="330.3267,-183.5001 340.3267,-180 330.3266,-176.5001 330.3267,-183.5001"/>
 </g>
-<!-- Node17983 -->
+<!-- Node17791 -->
 <g id="node7" class="node">
-<title>Node17983</title>
+<title>Node17791</title>
 <g id="a_node7"><a xlink:href="sendlib_8c.html#a1431e9401865165dfef92315f3ca7ae2" target="_top" xlink:title="Find the MIME type for an attachment. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="165,-132.5 165,-151.5 304,-151.5 304,-132.5 165,-132.5"/>
 <text text-anchor="middle" x="234.5" y="-139.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_lookup_mime_type</text>
 </a>
 </g>
 </g>
-<!-- Node17874&#45;&gt;Node17983 -->
+<!-- Node17682&#45;&gt;Node17791 -->
 <g id="edge7" class="edge">
-<title>Node17874&#45;&gt;Node17983</title>
+<title>Node17682&#45;&gt;Node17791</title>
 <path fill="none" stroke="#191970" d="M107.3982,-170.411C130.0336,-165.3513 157.9982,-159.1004 181.9287,-153.7512"/>
 <polygon fill="#191970" stroke="#191970" points="182.9147,-157.1173 191.9103,-151.5201 181.3876,-150.2859 182.9147,-157.1173"/>
 </g>
-<!-- Node17985 -->
+<!-- Node17793 -->
 <g id="node8" class="node">
-<title>Node17985</title>
+<title>Node17793</title>
 <g id="a_node8"><a xlink:href="sendlib_8c.html#a8621a45f0aa4aea9e2613207be4fa717" target="_top" xlink:title="Analyze file to determine MIME encoding to use. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="340,-94.5 340,-113.5 467,-113.5 467,-94.5 340,-94.5"/>
 <text text-anchor="middle" x="403.5" y="-101.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_get_content_info</text>
 </a>
 </g>
 </g>
-<!-- Node17874&#45;&gt;Node17985 -->
+<!-- Node17682&#45;&gt;Node17793 -->
 <g id="edge8" class="edge">
-<title>Node17874&#45;&gt;Node17985</title>
+<title>Node17682&#45;&gt;Node17793</title>
 <path fill="none" stroke="#191970" d="M76.9907,-170.4904C95.2157,-157.2035 130.6741,-133.5322 165,-123 218.4587,-106.5973 281.647,-102.1917 329.5487,-101.7013"/>
 <polygon fill="#191970" stroke="#191970" points="329.8527,-105.2001 339.8363,-101.6535 329.82,-98.2001 329.8527,-105.2001"/>
 </g>
-<!-- Node17989 -->
+<!-- Node17797 -->
 <g id="node9" class="node">
-<title>Node17989</title>
+<title>Node17797</title>
 <g id="a_node9"><a xlink:href="email_2body_8c.html#a129af1c316fcbc26b55fb48957bab2cb" target="_top" xlink:title="Free a Body. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="187.5,-38.5 187.5,-57.5 281.5,-57.5 281.5,-38.5 187.5,-38.5"/>
 <text text-anchor="middle" x="234.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_body_free</text>
 </a>
 </g>
 </g>
-<!-- Node17874&#45;&gt;Node17989 -->
+<!-- Node17682&#45;&gt;Node17797 -->
 <g id="edge10" class="edge">
-<title>Node17874&#45;&gt;Node17989</title>
+<title>Node17682&#45;&gt;Node17797</title>
 <path fill="none" stroke="#191970" d="M73.962,-170.4159C91.194,-153.223 129.2254,-116.4672 165,-90 178.4063,-80.0816 194.2621,-70.3618 207.4413,-62.7749"/>
 <polygon fill="#191970" stroke="#191970" points="209.5112,-65.6252 216.4915,-57.6549 206.0644,-59.5326 209.5112,-65.6252"/>
 </g>
-<!-- Node18002 -->
+<!-- Node17810 -->
 <g id="node10" class="node">
-<title>Node18002</title>
+<title>Node17810</title>
 <g id="a_node10"><a xlink:href="sendlib_8c.html#ae4f3b3ef1863d9821af9f82d8963e5b8" target="_top" xlink:title="Update the encoding type. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="170.5,-.5 170.5,-19.5 298.5,-19.5 298.5,-.5 170.5,-.5"/>
 <text text-anchor="middle" x="234.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_update_encoding</text>
 </a>
 </g>
 </g>
-<!-- Node17874&#45;&gt;Node18002 -->
+<!-- Node17682&#45;&gt;Node17810 -->
 <g id="edge12" class="edge">
-<title>Node17874&#45;&gt;Node18002</title>
+<title>Node17682&#45;&gt;Node17810</title>
 <path fill="none" stroke="#191970" d="M68.0223,-170.4949C78.4195,-143.7884 111.6339,-67.5198 165,-29 167.6878,-27.0599 170.5638,-25.318 173.5604,-23.7538"/>
 <polygon fill="#191970" stroke="#191970" points="175.1619,-26.8712 182.8437,-19.5746 172.2883,-20.4882 175.1619,-26.8712"/>
 </g>
-<!-- Node17900&#45;&gt;Node17879 -->
+<!-- Node17708&#45;&gt;Node17687 -->
 <g id="edge6" class="edge">
-<title>Node17900&#45;&gt;Node17879</title>
+<title>Node17708&#45;&gt;Node17687</title>
 <path fill="none" stroke="#191970" d="M466.9081,-180C475.4269,-180 484.1402,-180 492.5865,-180"/>
 <polygon fill="#191970" stroke="#191970" points="492.7257,-183.5001 502.7257,-180 492.7257,-176.5001 492.7257,-183.5001"/>
 </g>
-<!-- Node17985&#45;&gt;Node17879 -->
+<!-- Node17793&#45;&gt;Node17687 -->
 <g id="edge9" class="edge">
-<title>Node17985&#45;&gt;Node17879</title>
+<title>Node17793&#45;&gt;Node17687</title>
 <path fill="none" stroke="#191970" d="M422.3076,-113.6255C448.0827,-126.8168 494.5673,-150.6068 524.3204,-165.834"/>
 <polygon fill="#191970" stroke="#191970" points="522.8486,-169.0125 533.3451,-170.4527 526.0377,-162.7811 522.8486,-169.0125"/>
 </g>
-<!-- Node17989&#45;&gt;Node17989 -->
+<!-- Node17797&#45;&gt;Node17797 -->
 <g id="edge11" class="edge">
-<title>Node17989&#45;&gt;Node17989</title>
+<title>Node17797&#45;&gt;Node17797</title>
 <path fill="none" stroke="#191970" d="M208.6063,-57.7571C196.0094,-66.5653 204.6406,-76 234.5,-76 254.5618,-76 265.0408,-71.741 265.9371,-66.2746"/>
 <polygon fill="#191970" stroke="#191970" points="268.7819,-64.2291 260.3937,-57.7571 262.915,-68.0475 268.7819,-64.2291"/>
 </g>
-<!-- Node18002&#45;&gt;Node17985 -->
+<!-- Node17810&#45;&gt;Node17793 -->
 <g id="edge13" class="edge">
-<title>Node18002&#45;&gt;Node17985</title>
+<title>Node17810&#45;&gt;Node17793</title>
 <path fill="none" stroke="#191970" d="M279.1727,-19.5143C287.6322,-22.0627 296.2523,-25.1963 304,-29 335.6309,-44.5293 367.2941,-70.6623 386.1415,-87.6169"/>
 <polygon fill="#191970" stroke="#191970" points="383.8885,-90.2997 393.6252,-94.4768 388.6186,-85.1396 383.8885,-90.2997"/>
 </g>

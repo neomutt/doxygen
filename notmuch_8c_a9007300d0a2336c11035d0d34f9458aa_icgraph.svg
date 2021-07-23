@@ -9,39 +9,39 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 62)">
 <title>rename_filename</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-62 261,-62 261,4 -4,4"/>
-<!-- Node29350 -->
+<!-- Node15579 -->
 <g id="node1" class="node">
-<title>Node29350</title>
+<title>Node15579</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-19.5 0,-38.5 102,-38.5 102,-19.5 0,-19.5"/>
 <text text-anchor="middle" x="51" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">rename_filename</text>
 </g>
-<!-- Node29351 -->
+<!-- Node15580 -->
 <g id="node2" class="node">
-<title>Node29351</title>
+<title>Node15580</title>
 <g id="a_node2"><a xlink:href="notmuch_8c.html#a117bd16ebdde574564b14e737dc1349e" target="_top" xlink:title="Change the filename. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="138,-38.5 138,-57.5 257,-57.5 257,-38.5 138,-38.5"/>
 <text text-anchor="middle" x="197.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nm_update_filename</text>
 </a>
 </g>
 </g>
-<!-- Node29350&#45;&gt;Node29351 -->
+<!-- Node15579&#45;&gt;Node15580 -->
 <g id="edge1" class="edge">
-<title>Node29350&#45;&gt;Node29351</title>
+<title>Node15579&#45;&gt;Node15580</title>
 <path fill="none" stroke="#191970" d="M112.3527,-36.957C120.757,-38.047 129.376,-39.1648 137.7511,-40.251"/>
 <polygon fill="#191970" stroke="#191970" points="112.6057,-33.4606 102.2386,-35.6453 111.7054,-40.4025 112.6057,-33.4606"/>
 </g>
-<!-- Node29395 -->
+<!-- Node15624 -->
 <g id="node3" class="node">
-<title>Node29395</title>
-<g id="a_node3"><a xlink:href="notmuch_8c.html#af34af0a876b8063034f021754bf66886" target="_top" xlink:title="Save changes to the Mailbox &#45; Implements MxOps::mbox_sync() ">
+<title>Node15624</title>
+<g id="a_node3"><a xlink:href="group__mx__mbox__sync.html#gaf34af0a876b8063034f021754bf66886" target="_top" xlink:title="Save changes to the Mailbox &#45; Implements MxOps::mbox_sync() &#45;. ">
 <polygon fill="#ffffff" stroke="#000000" points="151,-.5 151,-19.5 244,-19.5 244,-.5 151,-.5"/>
 <text text-anchor="middle" x="197.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nm_mbox_sync</text>
 </a>
 </g>
 </g>
-<!-- Node29350&#45;&gt;Node29395 -->
+<!-- Node15579&#45;&gt;Node15624 -->
 <g id="edge2" class="edge">
-<title>Node29350&#45;&gt;Node29395</title>
+<title>Node15579&#45;&gt;Node15624</title>
 <path fill="none" stroke="#191970" d="M112.4344,-21.0324C125.3211,-19.3611 138.7088,-17.6248 150.9452,-16.0378"/>
 <polygon fill="#191970" stroke="#191970" points="111.7054,-17.5975 102.2386,-22.3547 112.6057,-24.5394 111.7054,-17.5975"/>
 </g>

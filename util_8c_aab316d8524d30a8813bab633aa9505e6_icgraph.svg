@@ -9,135 +9,135 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 290)">
 <title>imap_error</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-290 400,-290 400,4 -4,4"/>
-<!-- Node12574 -->
+<!-- Node13657 -->
 <g id="node1" class="node">
-<title>Node12574</title>
+<title>Node13657</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-133.5 0,-152.5 70,-152.5 70,-133.5 0,-133.5"/>
 <text text-anchor="middle" x="35" y="-140.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">imap_error</text>
 </g>
-<!-- Node12575 -->
+<!-- Node13658 -->
 <g id="node2" class="node">
-<title>Node12575</title>
+<title>Node13658</title>
 <g id="a_node2"><a xlink:href="imap_8c.html#aaecd74a7bdcaae43f8a404d59607bb0b" target="_top" xlink:title="Make sure we can log in to this server. ">
 <polygon fill="#ffffff" stroke="#000000" points="115,-266.5 115,-285.5 222,-285.5 222,-266.5 115,-266.5"/>
 <text text-anchor="middle" x="168.5" y="-273.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">check_capabilities</text>
 </a>
 </g>
 </g>
-<!-- Node12574&#45;&gt;Node12575 -->
+<!-- Node13657&#45;&gt;Node13658 -->
 <g id="edge1" class="edge">
-<title>Node12574&#45;&gt;Node12575</title>
+<title>Node13657&#45;&gt;Node13658</title>
 <path fill="none" stroke="#191970" d="M42.9048,-162.051C53.7894,-186.1252 75.5599,-227.3819 106,-252 113.6819,-258.2126 123.1529,-262.9456 132.3779,-266.4965"/>
 <polygon fill="#191970" stroke="#191970" points="45.9931,-160.3759 38.795,-152.6017 39.5739,-163.1679 45.9931,-160.3759"/>
 </g>
-<!-- Node12576 -->
+<!-- Node13659 -->
 <g id="node3" class="node">
-<title>Node12576</title>
+<title>Node13659</title>
 <g id="a_node3"><a xlink:href="imap_2private_8h.html#a93ed20ff163bf6a15c46071ba357d17a" target="_top" xlink:title="Open an IMAP connection. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="267,-247.5 267,-266.5 396,-266.5 396,-247.5 267,-247.5"/>
 <text text-anchor="middle" x="331.5" y="-254.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">imap_open_connection</text>
 </a>
 </g>
 </g>
-<!-- Node12574&#45;&gt;Node12576 -->
+<!-- Node13657&#45;&gt;Node13659 -->
 <g id="edge3" class="edge">
-<title>Node12574&#45;&gt;Node12576</title>
+<title>Node13657&#45;&gt;Node13659</title>
 <path fill="none" stroke="#191970" d="M46.5094,-160.9626C58.9276,-178.7437 80.4021,-205.2419 106,-219 155.6578,-245.6896 219.6079,-254.4622 266.7162,-256.9826"/>
 <polygon fill="#191970" stroke="#191970" points="49.352,-158.9174 40.8672,-152.5724 43.5432,-162.8237 49.352,-158.9174"/>
 </g>
-<!-- Node12981 -->
+<!-- Node14114 -->
 <g id="node4" class="node">
-<title>Node12981</title>
+<title>Node14114</title>
 <g id="a_node4"><a xlink:href="imap_2lib_8h.html#ab243b759db9258fd8373a350b19ed0b8" target="_top" xlink:title="Use server COPY command to copy deleted messages to trash. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="121,-190.5 121,-209.5 216,-209.5 216,-190.5 121,-190.5"/>
 <text text-anchor="middle" x="168.5" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">imap_fast_trash</text>
 </a>
 </g>
 </g>
-<!-- Node12574&#45;&gt;Node12981 -->
+<!-- Node13657&#45;&gt;Node14114 -->
 <g id="edge4" class="edge">
-<title>Node12574&#45;&gt;Node12981</title>
+<title>Node13657&#45;&gt;Node14114</title>
 <path fill="none" stroke="#191970" d="M59.6792,-157.7549C73.0731,-165.3632 90.1012,-174.4039 106,-181 114.4849,-184.5203 123.8576,-187.715 132.7067,-190.4378"/>
 <polygon fill="#191970" stroke="#191970" points="61.0452,-154.5017 50.6367,-152.5235 57.5398,-160.5608 61.0452,-154.5017"/>
 </g>
-<!-- Node12723 -->
+<!-- Node13835 -->
 <g id="node5" class="node">
-<title>Node12723</title>
+<title>Node13835</title>
 <g id="a_node5"><a xlink:href="imap_2lib_8h.html#af9a2ac90dcd93be965a660b15c2016e6" target="_top" xlink:title="Sync all the changes to the server. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="111.5,-152.5 111.5,-171.5 225.5,-171.5 225.5,-152.5 111.5,-152.5"/>
 <text text-anchor="middle" x="168.5" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">imap_sync_mailbox</text>
 </a>
 </g>
 </g>
-<!-- Node12574&#45;&gt;Node12723 -->
+<!-- Node13657&#45;&gt;Node13835 -->
 <g id="edge5" class="edge">
-<title>Node12574&#45;&gt;Node12723</title>
+<title>Node13657&#45;&gt;Node13835</title>
 <path fill="none" stroke="#191970" d="M80.2258,-149.4366C90.2607,-150.8648 101.0224,-152.3965 111.4604,-153.882"/>
 <polygon fill="#191970" stroke="#191970" points="80.469,-145.936 70.0756,-147.992 79.4826,-152.8662 80.469,-145.936"/>
 </g>
-<!-- Node13140 -->
+<!-- Node14277 -->
 <g id="node6" class="node">
-<title>Node13140</title>
+<title>Node14277</title>
 <g id="a_node6"><a xlink:href="message_8c.html#a544caf6f7e206bfbd88069d4693443b3" target="_top" xlink:title="handle headers returned from header fetch ">
 <polygon fill="#ffffff" stroke="#ff0000" points="118.5,-114.5 118.5,-133.5 218.5,-133.5 218.5,-114.5 118.5,-114.5"/>
 <text text-anchor="middle" x="168.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">msg_parse_fetch</text>
 </a>
 </g>
 </g>
-<!-- Node12574&#45;&gt;Node13140 -->
+<!-- Node13657&#45;&gt;Node14277 -->
 <g id="edge6" class="edge">
-<title>Node12574&#45;&gt;Node13140</title>
+<title>Node13657&#45;&gt;Node14277</title>
 <path fill="none" stroke="#191970" d="M80.1022,-136.581C92.3969,-134.8311 105.7905,-132.9249 118.3473,-131.1378"/>
 <polygon fill="#191970" stroke="#191970" points="79.4826,-133.1338 70.0756,-138.008 80.469,-140.0639 79.4826,-133.1338"/>
 </g>
-<!-- Node12983 -->
+<!-- Node14116 -->
 <g id="node7" class="node">
-<title>Node12983</title>
+<title>Node14116</title>
 <g id="a_node7"><a xlink:href="message_8c.html#a733c2961ff414db54d7259ab1387ca6c" target="_top" xlink:title="Server COPY messages to another folder. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="106,-76.5 106,-95.5 231,-95.5 231,-76.5 106,-76.5"/>
 <text text-anchor="middle" x="168.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">imap_copy_messages</text>
 </a>
 </g>
 </g>
-<!-- Node12574&#45;&gt;Node12983 -->
+<!-- Node13657&#45;&gt;Node14116 -->
 <g id="edge7" class="edge">
-<title>Node12574&#45;&gt;Node12983</title>
+<title>Node13657&#45;&gt;Node14116</title>
 <path fill="none" stroke="#191970" d="M59.6792,-128.2451C73.0731,-120.6368 90.1012,-111.5961 106,-105 114.4849,-101.4797 123.8576,-98.285 132.7067,-95.5622"/>
 <polygon fill="#191970" stroke="#191970" points="57.5398,-125.4392 50.6367,-133.4765 61.0452,-131.4983 57.5398,-125.4392"/>
 </g>
-<!-- Node13032 -->
+<!-- Node14167 -->
 <g id="node8" class="node">
-<title>Node13032</title>
-<g id="a_node8"><a xlink:href="imap_2private_8h.html#a3d1aada0974c1c85621a0aa3626a576b" target="_top" xlink:title="Open an email message in a Mailbox &#45; Implements MxOps::msg_open() ">
+<title>Node14167</title>
+<g id="a_node8"><a xlink:href="group__mx__msg__open.html#ga3d1aada0974c1c85621a0aa3626a576b" target="_top" xlink:title="Open an email message in a Mailbox &#45; Implements MxOps::msg_open() &#45;. ">
 <polygon fill="#ffffff" stroke="#000000" points="120,-38.5 120,-57.5 217,-57.5 217,-38.5 120,-38.5"/>
 <text text-anchor="middle" x="168.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">imap_msg_open</text>
 </a>
 </g>
 </g>
-<!-- Node12574&#45;&gt;Node13032 -->
+<!-- Node13657&#45;&gt;Node14167 -->
 <g id="edge8" class="edge">
-<title>Node12574&#45;&gt;Node13032</title>
+<title>Node13657&#45;&gt;Node14167</title>
 <path fill="none" stroke="#191970" d="M47.3026,-125.1532C60.0808,-107.9019 81.5968,-82.2066 106,-67 112.1601,-63.1614 119.1464,-60.0546 126.1608,-57.5536"/>
 <polygon fill="#191970" stroke="#191970" points="44.4389,-123.1407 41.4478,-133.3046 50.1243,-127.2243 44.4389,-123.1407"/>
 </g>
-<!-- Node13141 -->
+<!-- Node14278 -->
 <g id="node9" class="node">
-<title>Node13141</title>
+<title>Node14278</title>
 <g id="a_node9"><a xlink:href="util_8c.html#a6c7cbd7c42e90cf17c1da23c5da4f247" target="_top" xlink:title="display a message and ask the user if they want to go on ">
 <polygon fill="#ffffff" stroke="#ff0000" points="124,-.5 124,-19.5 213,-19.5 213,-.5 124,-.5"/>
 <text text-anchor="middle" x="168.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">imap_continue</text>
 </a>
 </g>
 </g>
-<!-- Node12574&#45;&gt;Node13141 -->
+<!-- Node13657&#45;&gt;Node14278 -->
 <g id="edge9" class="edge">
-<title>Node12574&#45;&gt;Node13141</title>
+<title>Node13657&#45;&gt;Node14278</title>
 <path fill="none" stroke="#191970" d="M41.9505,-123.8238C52.1231,-98.4321 73.4653,-53.9622 106,-29 111.3087,-24.9269 117.4901,-21.7221 123.8601,-19.2016"/>
 <polygon fill="#191970" stroke="#191970" points="38.5814,-122.835 38.2747,-133.4254 45.1187,-125.3378 38.5814,-122.835"/>
 </g>
-<!-- Node12575&#45;&gt;Node12576 -->
+<!-- Node13658&#45;&gt;Node13659 -->
 <g id="edge2" class="edge">
-<title>Node12575&#45;&gt;Node12576</title>
+<title>Node13658&#45;&gt;Node13659</title>
 <path fill="none" stroke="#191970" d="M232.5505,-268.534C243.8588,-267.2158 255.6375,-265.8429 266.9592,-264.5232"/>
 <polygon fill="#191970" stroke="#191970" points="231.8515,-265.0917 222.324,-269.726 232.662,-272.0446 231.8515,-265.0917"/>
 </g>

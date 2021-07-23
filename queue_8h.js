@@ -31,6 +31,7 @@ var queue_8h =
     [ "SLIST_REMOVE_HEAD", "queue_8h.html#aeb10c664372b3b680455274170f4c897", null ],
     [ "SLIST_REMOVE_PREVPTR", "queue_8h.html#a57627516f42a056487a2839a7e91827c", null ],
     [ "SLIST_SWAP", "queue_8h.html#a43b7433e67885b7f342abe61a7e29745", null ],
+    [ "SLIST_END", "queue_8h.html#a33283f951b262b1ac57d20c0e4e0862c", null ],
     [ "STAILQ_HEAD", "queue_8h.html#a7b54f0de61925e7cf33184c2ec24da14", null ],
     [ "STAILQ_CLASS_HEAD", "queue_8h.html#ac4524277ff86048278cb5d6979e72217", null ],
     [ "STAILQ_HEAD_INITIALIZER", "queue_8h.html#a3d41ce2c3f1dd21c0d4051d13204c321", null ],
@@ -53,6 +54,7 @@ var queue_8h =
     [ "STAILQ_REMOVE_AFTER", "queue_8h.html#a657c50417f3caeab52e34fcd454cec71", null ],
     [ "STAILQ_REMOVE_HEAD", "queue_8h.html#a24c16c7c5c9908022bad7a98ddac9740", null ],
     [ "STAILQ_SWAP", "queue_8h.html#af30e7c9283aea226ad5a73575fc1601a", null ],
+    [ "STAILQ_END", "queue_8h.html#a343c3d0ed2c1f9db16791a94f2a7399c", null ],
     [ "LIST_HEAD", "queue_8h.html#ae72219f63b2fe9bce774a64e11404179", null ],
     [ "LIST_CLASS_HEAD", "queue_8h.html#a6b134bbd708a547e1539db14ea4e4c9c", null ],
     [ "LIST_HEAD_INITIALIZER", "queue_8h.html#a5d7b8e9f9968d3152a8519cd9a45312e", null ],
@@ -76,6 +78,7 @@ var queue_8h =
     [ "LIST_PREV", "queue_8h.html#a7458f2852ae931b2ed5426311b53d029", null ],
     [ "LIST_REMOVE", "queue_8h.html#a4f60a3fedbebc5ef6edded99062dd98d", null ],
     [ "LIST_SWAP", "queue_8h.html#a71800bd6ea3903a1068f87e4f07cc851", null ],
+    [ "LIST_END", "queue_8h.html#a0687dc033d5b408a3883b5bf2bd9a935", null ],
     [ "TAILQ_HEAD", "queue_8h.html#a4abce769a262e090c1f601605b9d6c76", null ],
     [ "TAILQ_CLASS_HEAD", "queue_8h.html#a612a17e93b64f98290e4e7ea56a9a519", null ],
     [ "TAILQ_HEAD_INITIALIZER", "queue_8h.html#ac269df7d4126ed9885156cbad2cbf8af", null ],
@@ -107,5 +110,6 @@ var queue_8h =
     [ "TAILQ_PREV", "queue_8h.html#a524f93a0c21c390683fab4c27e840a10", null ],
     [ "TAILQ_PREV_FAST", "queue_8h.html#af3057431af0d93ac612f079f033b47e2", null ],
     [ "TAILQ_REMOVE", "queue_8h.html#aaae87ca18c28066e1a96221e762d1209", null ],
-    [ "TAILQ_SWAP", "queue_8h.html#aa4cf483c7dcddd1d89a00886b5466bac", null ]
+    [ "TAILQ_SWAP", "queue_8h.html#aa4cf483c7dcddd1d89a00886b5466bac", null ],
+    [ "TAILQ_END", "queue_8h.html#a4322b8461a6ab7632435ff4f57bb3a2e", null ]
 ];

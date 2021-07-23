@@ -4,7 +4,7 @@ var mutt__logging_8c =
     [ "error_pause", "mutt__logging_8c.html#abcfbeac77028256b94618b1ebdac6891", null ],
     [ "rotate_logs", "mutt__logging_8c.html#a49200939593f1fe61b70d9d1267b71c8", null ],
     [ "mutt_clear_error", "mutt__logging_8c.html#af068b3f524a31fad293b2fb61dfc4534", null ],
-    [ "log_disp_curses", "mutt__logging_8c.html#a8846dfca0c991a54f396e69151b00c8d", null ],
+    [ "log_disp_curses", "group__logging__api.html#ga8846dfca0c991a54f396e69151b00c8d", null ],
     [ "mutt_log_prep", "mutt__logging_8c.html#ac373c6eb558be3bb303993349a515110", null ],
     [ "mutt_log_stop", "mutt__logging_8c.html#a622226178155c08b3976e28c013a42cf", null ],
     [ "mutt_log_set_file", "mutt__logging_8c.html#ad4f467432144a2a9f23e60eb2af9c5c2", null ],

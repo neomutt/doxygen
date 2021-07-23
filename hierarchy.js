@@ -108,6 +108,7 @@ var hierarchy =
     [ "ImapCommand", "structImapCommand.html", null ],
     [ "ImapHeader", "structImapHeader.html", null ],
     [ "ImapList", "structImapList.html", null ],
+    [ "IndexFunction", "structIndexFunction.html", null ],
     [ "IndexPrivateData", "structIndexPrivateData.html", null ],
     [ "IndexSharedData", "structIndexSharedData.html", null ],
     [ "Inheritance", "structInheritance.html", null ],

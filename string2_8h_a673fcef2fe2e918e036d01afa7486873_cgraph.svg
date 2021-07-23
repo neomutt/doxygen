@@ -9,39 +9,39 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 62)">
 <title>mutt_str_append_item</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-62 276,-62 276,4 -4,4"/>
-<!-- Node738 -->
+<!-- Node793 -->
 <g id="node1" class="node">
-<title>Node738</title>
+<title>Node793</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-19.5 0,-38.5 127,-38.5 127,-19.5 0,-19.5"/>
 <text text-anchor="middle" x="63.5" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_str_append_item</text>
 </g>
-<!-- Node739 -->
+<!-- Node794 -->
 <g id="node2" class="node">
-<title>Node739</title>
+<title>Node794</title>
 <g id="a_node2"><a xlink:href="mutt_2string_8c.html#acca6786b903b22a5924219f9db96e10d" target="_top" xlink:title="Calculate the length of a string, safely. ">
 <polygon fill="#ffffff" stroke="#000000" points="178.5,-38.5 178.5,-57.5 256.5,-57.5 256.5,-38.5 178.5,-38.5"/>
 <text text-anchor="middle" x="217.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_str_len</text>
 </a>
 </g>
 </g>
-<!-- Node738&#45;&gt;Node739 -->
+<!-- Node793&#45;&gt;Node794 -->
 <g id="edge1" class="edge">
-<title>Node738&#45;&gt;Node739</title>
+<title>Node793&#45;&gt;Node794</title>
 <path fill="none" stroke="#191970" d="M127.0268,-36.8377C140.7559,-38.5316 155.0748,-40.2982 168.1638,-41.9131"/>
 <polygon fill="#191970" stroke="#191970" points="168.009,-45.4204 178.3624,-43.1713 168.8662,-38.4731 168.009,-45.4204"/>
 </g>
-<!-- Node740 -->
+<!-- Node795 -->
 <g id="node3" class="node">
-<title>Node740</title>
+<title>Node795</title>
 <g id="a_node3"><a xlink:href="memory_8c.html#af778eb8166966fc0666c64849f6c7c5b" target="_top" xlink:title="Resize a block of memory on the heap. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="163,-.5 163,-19.5 272,-19.5 272,-.5 163,-.5"/>
 <text text-anchor="middle" x="217.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_mem_realloc</text>
 </a>
 </g>
 </g>
-<!-- Node738&#45;&gt;Node740 -->
+<!-- Node793&#45;&gt;Node795 -->
 <g id="edge2" class="edge">
-<title>Node738&#45;&gt;Node740</title>
+<title>Node793&#45;&gt;Node795</title>
 <path fill="none" stroke="#191970" d="M127.0268,-21.1623C135.6022,-20.1043 144.4076,-19.0179 152.9997,-17.9578"/>
 <polygon fill="#191970" stroke="#191970" points="153.4654,-21.427 162.9615,-16.7288 152.6082,-14.4797 153.4654,-21.427"/>
 </g>

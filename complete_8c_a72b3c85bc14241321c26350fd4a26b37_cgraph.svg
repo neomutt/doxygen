@@ -153,7 +153,7 @@
 <!-- Node36 -->
 <g id="node11" class="node">
 <title>Node36</title>
-<g id="a_node11"><a xlink:href="imap_8c.html#ab4f27af8eb857a20834f445be3f498de" target="_top" xlink:title="Is this an IMAP Mailbox? &#45; Implements MxOps::path_probe() ">
+<g id="a_node11"><a xlink:href="group__mx__path__probe.html#gab4f27af8eb857a20834f445be3f498de" target="_top" xlink:title="Is this an IMAP Mailbox? &#45; Implements MxOps::path_probe() &#45;. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="148.5,-456.5 148.5,-475.5 249.5,-475.5 249.5,-456.5 148.5,-456.5"/>
 <text text-anchor="middle" x="199" y="-463.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">imap_path_probe</text>
 </a>
@@ -225,18 +225,18 @@
 <path fill="none" stroke="#191970" d="M47.2224,-399.1684C52.7675,-370.8876 73.045,-289.2917 127,-257 186.6076,-221.3253 270.8822,-233.1062 320.642,-244.9975"/>
 <polygon fill="#191970" stroke="#191970" points="319.8652,-248.4109 330.4156,-247.4413 321.5633,-241.62 319.8652,-248.4109"/>
 </g>
-<!-- Node2168 -->
+<!-- Node2000 -->
 <g id="node16" class="node">
-<title>Node2168</title>
+<title>Node2000</title>
 <g id="a_node16"><a xlink:href="buffer_8c.html#abaa42a8848bf380318f04d300da28102" target="_top" xlink:title="Join a directory name and a filename. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="127,-266.5 127,-285.5 271,-285.5 271,-266.5 127,-266.5"/>
 <text text-anchor="middle" x="199" y="-273.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_buffer_concatn_path</text>
 </a>
 </g>
 </g>
-<!-- Node0&#45;&gt;Node2168 -->
+<!-- Node0&#45;&gt;Node2000 -->
 <g id="edge17" class="edge">
-<title>Node0&#45;&gt;Node2168</title>
+<title>Node0&#45;&gt;Node2000</title>
 <path fill="none" stroke="#191970" d="M50.1518,-399.2883C60.775,-378.1204 88.875,-327.5215 127,-300 132.9493,-295.7053 139.7173,-292.1434 146.6663,-289.1987"/>
 <polygon fill="#191970" stroke="#191970" points="148.1043,-292.3961 156.1944,-285.555 145.6039,-285.8579 148.1043,-292.3961"/>
 </g>
@@ -270,33 +270,33 @@
 <path fill="none" stroke="#191970" d="M46.948,-399.3558C52.0137,-368.9823 71.7344,-274.3403 127,-224 131.4306,-219.9643 136.5597,-216.605 141.9991,-213.8092"/>
 <polygon fill="#191970" stroke="#191970" points="143.6773,-216.8929 151.378,-209.6161 140.8203,-210.5024 143.6773,-216.8929"/>
 </g>
-<!-- Node2169 -->
+<!-- Node2001 -->
 <g id="node19" class="node">
-<title>Node2169</title>
+<title>Node2001</title>
 <g id="a_node19"><a xlink:href="buffer_8c.html#a8356dd9cbd5bf2e404ae50ff01d61300" target="_top" xlink:title="Copy a partial string into a Buffer. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="136,-380.5 136,-399.5 262,-399.5 262,-380.5 136,-380.5"/>
 <text text-anchor="middle" x="199" y="-387.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_buffer_substrcpy</text>
 </a>
 </g>
 </g>
-<!-- Node0&#45;&gt;Node2169 -->
+<!-- Node0&#45;&gt;Node2001 -->
 <g id="edge24" class="edge">
-<title>Node0&#45;&gt;Node2169</title>
+<title>Node0&#45;&gt;Node2001</title>
 <path fill="none" stroke="#191970" d="M91.1395,-403.3508C102.1172,-401.992 114.1171,-400.5067 125.997,-399.0362"/>
 <polygon fill="#191970" stroke="#191970" points="126.4285,-402.5096 135.9228,-397.8076 125.5686,-395.5626 126.4285,-402.5096"/>
 </g>
-<!-- Node706 -->
+<!-- Node708 -->
 <g id="node20" class="node">
-<title>Node706</title>
+<title>Node708</title>
 <g id="a_node20"><a xlink:href="muttlib_8c.html#a21df22e3d202586bf463caf3c9e718cc" target="_top" xlink:title="Create the canonical path. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="128,-114.5 128,-133.5 270,-133.5 270,-114.5 128,-114.5"/>
 <text text-anchor="middle" x="199" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_buffer_expand_path</text>
 </a>
 </g>
 </g>
-<!-- Node0&#45;&gt;Node706 -->
+<!-- Node0&#45;&gt;Node708 -->
 <g id="edge26" class="edge">
-<title>Node0&#45;&gt;Node706</title>
+<title>Node0&#45;&gt;Node708</title>
 <path fill="none" stroke="#191970" d="M47.3108,-399.2793C55.4469,-356.5517 89.849,-185.8668 127,-148 130.8641,-144.0615 135.3905,-140.7693 140.2592,-138.0173"/>
 <polygon fill="#191970" stroke="#191970" points="141.8509,-141.1354 149.3233,-133.6244 138.798,-134.8362 141.8509,-141.1354"/>
 </g>
@@ -381,15 +381,15 @@
 <path fill="none" stroke="#191970" d="M269.5462,-343.7768C279.508,-342.6156 289.6922,-341.4285 299.4888,-340.2866"/>
 <polygon fill="#191970" stroke="#191970" points="300.0046,-343.7502 309.5321,-339.1159 299.1941,-336.7973 300.0046,-343.7502"/>
 </g>
-<!-- Node2168&#45;&gt;Node22 -->
+<!-- Node2000&#45;&gt;Node22 -->
 <g id="edge18" class="edge">
-<title>Node2168&#45;&gt;Node22</title>
+<title>Node2000&#45;&gt;Node22</title>
 <path fill="none" stroke="#191970" d="M228.1357,-285.5199C241.2614,-289.858 256.9377,-295.1075 271,-300 289.4427,-306.4166 309.8908,-313.8068 326.7245,-319.9649"/>
 <polygon fill="#191970" stroke="#191970" points="325.5821,-323.2738 336.1757,-323.4317 327.9927,-316.702 325.5821,-323.2738"/>
 </g>
-<!-- Node2168&#45;&gt;Node82 -->
+<!-- Node2000&#45;&gt;Node82 -->
 <g id="edge19" class="edge">
-<title>Node2168&#45;&gt;Node82</title>
+<title>Node2000&#45;&gt;Node82</title>
 <path fill="none" stroke="#191970" d="M271.4434,-267.5557C280.2436,-266.5299 289.1864,-265.4875 297.8546,-264.4771"/>
 <polygon fill="#191970" stroke="#191970" points="298.3516,-267.9429 307.879,-263.3086 297.541,-260.99 298.3516,-267.9429"/>
 </g>
@@ -405,9 +405,9 @@
 <path fill="none" stroke="#191970" d="M250.127,-194.0404C267.4534,-192.0208 286.917,-189.752 304.6922,-187.6801"/>
 <polygon fill="#191970" stroke="#191970" points="305.4065,-191.1206 314.934,-186.4862 304.596,-184.1677 305.4065,-191.1206"/>
 </g>
-<!-- Node2169&#45;&gt;Node22 -->
+<!-- Node2001&#45;&gt;Node22 -->
 <g id="edge25" class="edge">
-<title>Node2169&#45;&gt;Node22</title>
+<title>Node2001&#45;&gt;Node22</title>
 <path fill="none" stroke="#191970" d="M239.2795,-380.4156C249.6965,-377.6526 260.8377,-374.4444 271,-371 291.7953,-363.9516 314.5936,-354.4282 332.1689,-346.6787"/>
 <polygon fill="#191970" stroke="#191970" points="333.6433,-349.8535 341.3497,-342.5828 330.7913,-343.4608 333.6433,-349.8535"/>
 </g>

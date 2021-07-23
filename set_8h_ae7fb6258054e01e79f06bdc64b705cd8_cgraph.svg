@@ -9,46 +9,46 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 111.5)">
 <title>cs_str_string_minus_equals</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-111.5 407,-111.5 407,4 -4,4"/>
-<!-- Node10082 -->
+<!-- Node10932 -->
 <g id="node1" class="node">
-<title>Node10082</title>
+<title>Node10932</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-44.5 0,-74.5 113,-74.5 113,-44.5 0,-44.5"/>
 <text text-anchor="start" x="8" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_str_string_minus</text>
 <text text-anchor="middle" x="56.5" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">_equals</text>
 </g>
-<!-- Node10083 -->
+<!-- Node10933 -->
 <g id="node2" class="node">
-<title>Node10083</title>
+<title>Node10933</title>
 <g id="a_node2"><a xlink:href="set_8c.html#a6a48e8c12db6f64a6da6b219c3d987d9" target="_top" xlink:title="Get the HashElem representing a config item. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="166.5,-88 166.5,-107 244.5,-107 244.5,-88 166.5,-88"/>
 <text text-anchor="middle" x="205.5" y="-95" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_get_elem</text>
 </a>
 </g>
 </g>
-<!-- Node10082&#45;&gt;Node10083 -->
+<!-- Node10932&#45;&gt;Node10933 -->
 <g id="edge1" class="edge">
-<title>Node10082&#45;&gt;Node10083</title>
+<title>Node10932&#45;&gt;Node10933</title>
 <path fill="none" stroke="#191970" d="M113.2556,-73.9746C127.9471,-77.7214 143.6162,-81.7176 157.7922,-85.3329"/>
 <polygon fill="#191970" stroke="#191970" points="157.2605,-88.8093 167.8153,-87.8891 158.9904,-82.0264 157.2605,-88.8093"/>
 </g>
-<!-- Node10086 -->
+<!-- Node10936 -->
 <g id="node3" class="node">
-<title>Node10086</title>
+<title>Node10936</title>
 <g id="a_node3"><a xlink:href="buffer_8c.html#ad057ee239ae5bcfd72cab3749036ab02" target="_top" xlink:title="Format a string overwriting a Buffer. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="298,-28 298,-47 403,-47 403,-28 298,-28"/>
 <text text-anchor="middle" x="350.5" y="-35" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_buffer_printf</text>
 </a>
 </g>
 </g>
-<!-- Node10082&#45;&gt;Node10086 -->
+<!-- Node10932&#45;&gt;Node10936 -->
 <g id="edge2" class="edge">
-<title>Node10082&#45;&gt;Node10086</title>
+<title>Node10932&#45;&gt;Node10936</title>
 <path fill="none" stroke="#191970" d="M113.1862,-55.2582C163.2445,-51.5123 236.116,-46.0593 287.8803,-42.1858"/>
 <polygon fill="#191970" stroke="#191970" points="288.2278,-45.6697 297.9387,-41.4332 287.7054,-38.6892 288.2278,-45.6697"/>
 </g>
-<!-- Node10093 -->
+<!-- Node10943 -->
 <g id="node4" class="node">
-<title>Node10093</title>
+<title>Node10943</title>
 <g id="a_node4"><a xlink:href="set_8c.html#afb22f304def10b645bb397b6b8b29641" target="_top" xlink:title="Remove from a config item by string. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="149,-.5 149,-30.5 262,-30.5 262,-.5 149,-.5"/>
 <text text-anchor="start" x="157" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_he_string_minus</text>
@@ -56,15 +56,15 @@
 </a>
 </g>
 </g>
-<!-- Node10082&#45;&gt;Node10093 -->
+<!-- Node10932&#45;&gt;Node10943 -->
 <g id="edge3" class="edge">
-<title>Node10082&#45;&gt;Node10093</title>
+<title>Node10932&#45;&gt;Node10943</title>
 <path fill="none" stroke="#191970" d="M107.3606,-44.4808C119.4011,-40.9252 132.3606,-37.0982 144.7895,-33.4279"/>
 <polygon fill="#191970" stroke="#191970" points="146.0165,-36.7151 154.6158,-30.5262 144.034,-30.0017 146.0165,-36.7151"/>
 </g>
-<!-- Node10093&#45;&gt;Node10086 -->
+<!-- Node10943&#45;&gt;Node10936 -->
 <g id="edge4" class="edge">
-<title>Node10093&#45;&gt;Node10086</title>
+<title>Node10943&#45;&gt;Node10936</title>
 <path fill="none" stroke="#191970" d="M262.3917,-24.1318C270.627,-25.3813 279.1444,-26.6736 287.4911,-27.94"/>
 <polygon fill="#191970" stroke="#191970" points="287.1451,-31.4275 297.557,-29.4673 288.1952,-24.5067 287.1451,-31.4275"/>
 </g>

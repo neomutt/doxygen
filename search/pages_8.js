@@ -17,6 +17,7 @@ var searchData=
   ['imap_20search_20routines',['IMAP search routines',['../imap_search.html',1,'lib_imap']]],
   ['imap_20helper_20functions',['IMAP helper functions',['../imap_util.html',1,'lib_imap']]],
   ['index_20dialog',['Index Dialog',['../index_dialog.html',1,'lib_index']]],
+  ['index_20functions',['Index functions',['../index_functions.html',1,'lib_index']]],
   ['index_20bar_20_28status_29',['Index Bar (status)',['../index_ibar.html',1,'lib_index']]],
   ['index_20window',['Index Window',['../index_index.html',1,'lib_index']]],
   ['index_20panel',['Index Panel',['../index_ipanel.html',1,'lib_index']]],

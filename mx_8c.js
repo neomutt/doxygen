@@ -39,6 +39,7 @@ var mx_8c =
     [ "mx_mbox_check_stats", "mx_8c.html#a57093c6b257f41763f5f9d2633c003ed", null ],
     [ "mx_save_hcache", "mx_8c.html#ab564fbbf566928004b4564b9aa01a603", null ],
     [ "mx_type", "mx_8c.html#ad1b4348096500e4c8df39275b956ec1c", null ],
+    [ "mx_toggle_write", "mx_8c.html#ad9772f30292be237af605c682e8f0777", null ],
     [ "MboxTypeMap", "mx_8c.html#ac2035653a21eb8784cd537ef4fe83203", null ],
     [ "MboxTypeDef", "mx_8c.html#a500988f3151cd7021ad1c1e1dea27a26", null ],
     [ "mx_ops", "mx_8c.html#ad9ba91c403384d3c18d57a8cabf86e26", null ]

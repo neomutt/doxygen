@@ -33,7 +33,7 @@ var searchData=
   ['flush_5fbuffer',['flush_buffer',['../message_8c.html#a6d20c017931a27796e7462278f74defe',1,'message.c']]],
   ['flush_5fpar',['flush_par',['../rfc3676_8c.html#af68b25d42671ff7d158cd8c039add61d',1,'rfc3676.c']]],
   ['fold_5fone_5fheader',['fold_one_header',['../header_8c.html#a05f309b54c36fe2f7121cb91b2d202d0',1,'header.c']]],
-  ['folder_5fformat_5fstr',['folder_format_str',['../browser_8c.html#a521fce142a7a9c2761988fcfebeceac0',1,'browser.c']]],
+  ['folder_5fformat_5fstr',['folder_format_str',['../group__expando__api.html#ga521fce142a7a9c2761988fcfebeceac0',1,'browser.c']]],
   ['folder_5fmake_5fentry',['folder_make_entry',['../browser_8c.html#ad8a7076789eaf1f37fa8902c16d58a7a',1,'browser.c']]],
   ['format_5faddress_5fheader',['format_address_header',['../copy_8c.html#aee298ff7661f33a3083d6e6c6563069a',1,'copy.c']]],
   ['format_5fline',['format_line',['../help_8c.html#a5f69016fd555f40166b0b1e721519298',1,'format_line(FILE *fp, int ismacro, const char *t1, const char *t2, const char *t3, int wraplen):&#160;help.c'],['../dlg__pager_8c.html#aa776ad2f17c0c8d55b1f2a2a616743aa',1,'format_line(struct MuttWindow *win, struct Line **line_info, int n, unsigned char *buf, PagerFlags flags, struct AnsiAttr *pa, int cnt, int *pspace, int *pvch, int *pcol, int *pspecial, int width):&#160;dlg_pager.c']]],

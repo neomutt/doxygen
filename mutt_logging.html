@@ -32,7 +32,7 @@
   <td id="projectalign" style="padding-left: 0.5em;">
    <a style="color: black; text-decoration: none;" href="https://neomutt.org">
    <div id="projectname">NeoMutt
-   &#160;<span id="projectnumber">2021-02-05-584-gb5c7a7</span>
+   &#160;<span id="projectnumber">2021-02-05-647-g5d4e00</span>
    </div>
    <div id="projectbrief">Teaching an old dog new tricks</div>
    </a>
@@ -91,34 +91,26 @@ $(document).ready(function(){initNavTree('mutt_logging.html','');});
 <div class="title">Logging Dispatcher </div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><table class="doxtable">
-<tr>
-<th align="left">Data </th><th align="left">Description  </th></tr>
-<tr>
-<td align="left"><a class="el" href="logging_8c.html#a3ce51a82c3d66df78a1021f00dc5f1da" title="In-memory list of log lines. ">LogQueue</a> </td><td align="left">In-memory list of log lines </td></tr>
-<tr>
-<td align="left"><a class="el" href="logging_8h.html#ab15f5a132f2eaa2304c2fe2c9fa9747a" title="The log dispatcher. ">MuttLogger</a> </td><td align="left">The log dispatcher </td></tr>
-</table>
-<p>Logging Dispatcher</p>
+<div class="textblock"><p>Logging Dispatcher</p>
 <table class="doxtable">
 <tr>
 <th align="left">Data </th><th align="left">Description  </th></tr>
 <tr>
 <td align="left"><a class="el" href="logging_8c.html#a3ce51a82c3d66df78a1021f00dc5f1da" title="In-memory list of log lines. ">LogQueue</a> </td><td align="left">In-memory list of log lines </td></tr>
 <tr>
-<td align="left"><a class="el" href="logging_8h.html#ab15f5a132f2eaa2304c2fe2c9fa9747a" title="The log dispatcher. ">MuttLogger</a> </td><td align="left">The log dispatcher </td></tr>
+<td align="left"><a class="el" href="group__logging__api.html#gab15f5a132f2eaa2304c2fe2c9fa9747a" title="The log dispatcher -This function pointer controls where log messages are redirected. ">MuttLogger</a> - The log dispatcher </td><td align="left"></td></tr>
 </table>
 <table class="doxtable">
 <tr>
 <th align="left">Function </th><th align="left">Description  </th></tr>
 <tr>
-<td align="left"><a class="el" href="logging_8c.html#a1b013efed88b4282213022644577d825" title="Save a log line to a file - Implements log_dispatcher_t. ">log_disp_file()</a> </td><td align="left">Save a log line to a file - Implements <a class="el" href="logging_8h.html#aa929bcc3f2d699c585963dffd2a6244b" title="Prototype for a logging function. ">log_dispatcher_t</a> </td></tr>
+<td align="left">log_disp_file - Save a log line to a file() </td><td align="left">Implements <a class="el" href="logging_8h.html#aa929bcc3f2d699c585963dffd2a6244b">log_dispatcher_t</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="logging_8c.html#aec70639bd075031887e2ff8441942f49" title="Discard log lines - Implements log_dispatcher_t. ">log_disp_null()</a> </td><td align="left">Discard log lines - Implements <a class="el" href="logging_8h.html#aa929bcc3f2d699c585963dffd2a6244b" title="Prototype for a logging function. ">log_dispatcher_t</a> </td></tr>
+<td align="left">log_disp_null - Discard log lines() </td><td align="left">Implements <a class="el" href="logging_8h.html#aa929bcc3f2d699c585963dffd2a6244b">log_dispatcher_t</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="logging_8c.html#ac360eacbb538d826889fc717d20807a5" title="Save a log line to an internal queue - Implements log_dispatcher_t. ">log_disp_queue()</a> </td><td align="left">Save a log line to an internal queue - Implements <a class="el" href="logging_8h.html#aa929bcc3f2d699c585963dffd2a6244b" title="Prototype for a logging function. ">log_dispatcher_t</a> </td></tr>
+<td align="left">log_disp_queue - Save a log line to an internal queue() </td><td align="left">Implements <a class="el" href="logging_8h.html#aa929bcc3f2d699c585963dffd2a6244b">log_dispatcher_t</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="logging_8c.html#a73b84f8650ce4c7794e3a8e56574ce45" title="Save a log line to the terminal - Implements log_dispatcher_t. ">log_disp_terminal()</a> </td><td align="left">Save a log line to the terminal - Implements <a class="el" href="logging_8h.html#aa929bcc3f2d699c585963dffd2a6244b" title="Prototype for a logging function. ">log_dispatcher_t</a> </td></tr>
+<td align="left">log_disp_terminal - Save a log line to the terminal() </td><td align="left">Implements <a class="el" href="logging_8h.html#aa929bcc3f2d699c585963dffd2a6244b">log_dispatcher_t</a> - </td></tr>
 <tr>
 <td align="left"><a class="el" href="logging_8c.html#ad17b384128d5803b107ecded67cc4077" title="Close the log file. ">log_file_close()</a> </td><td align="left">Close the log file </td></tr>
 <tr>

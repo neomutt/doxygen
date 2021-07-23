@@ -9,30 +9,30 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 282)">
 <title>mutt_str_lower</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-282 320,-282 320,4 -4,4"/>
-<!-- Node9956 -->
+<!-- Node10783 -->
 <g id="node1" class="node">
-<title>Node9956</title>
+<title>Node10783</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-132.5 0,-151.5 90,-151.5 90,-132.5 0,-132.5"/>
 <text text-anchor="middle" x="45" y="-139.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_str_lower</text>
 </g>
-<!-- Node9957 -->
+<!-- Node10784 -->
 <g id="node2" class="node">
-<title>Node9957</title>
+<title>Node10784</title>
 <g id="a_node2"><a xlink:href="autocrypt_2private_8h.html#a7a1ba8370247983cbe31e79557e3e1e9" target="_top" xlink:title="Normalise an Email Address. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="126,-258.5 126,-277.5 316,-277.5 316,-258.5 126,-258.5"/>
 <text text-anchor="middle" x="221" y="-265.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_autocrypt_db_normalize_addr</text>
 </a>
 </g>
 </g>
-<!-- Node9956&#45;&gt;Node9957 -->
+<!-- Node10783&#45;&gt;Node10784 -->
 <g id="edge1" class="edge">
-<title>Node9956&#45;&gt;Node9957</title>
+<title>Node10783&#45;&gt;Node10784</title>
 <path fill="none" stroke="#191970" d="M53.8213,-160.8516C66.2896,-185.291 91.4573,-227.3382 126,-249 132.1273,-252.8425 138.8765,-255.9301 145.8658,-258.4082"/>
 <polygon fill="#191970" stroke="#191970" points="56.8124,-159.0019 49.265,-151.5664 50.5283,-162.0857 56.8124,-159.0019"/>
 </g>
-<!-- Node10530 -->
+<!-- Node11411 -->
 <g id="node3" class="node">
-<title>Node10530</title>
+<title>Node11411</title>
 <g id="a_node3"><a xlink:href="autocrypt_2private_8h.html#a06abfa5c13cc1c6ce053d63c5c692508" target="_top" xlink:title="Normalise a list of Email Addresses. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="139.5,-209 139.5,-239 302.5,-239 302.5,-209 139.5,-209"/>
 <text text-anchor="start" x="147.5" y="-227" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_autocrypt_db_normalize</text>
@@ -40,90 +40,90 @@
 </a>
 </g>
 </g>
-<!-- Node9956&#45;&gt;Node10530 -->
+<!-- Node10783&#45;&gt;Node11411 -->
 <g id="edge2" class="edge">
-<title>Node9956&#45;&gt;Node10530</title>
+<title>Node10783&#45;&gt;Node11411</title>
 <path fill="none" stroke="#191970" d="M63.8733,-158.2341C79.5659,-170.9756 102.9774,-188.2942 126,-199 134.1961,-202.8113 143.0704,-206.116 151.9908,-208.9605"/>
 <polygon fill="#191970" stroke="#191970" points="65.9303,-155.3928 56.0008,-151.6974 61.4586,-160.7784 65.9303,-155.3928"/>
 </g>
-<!-- Node10531 -->
+<!-- Node11412 -->
 <g id="node4" class="node">
-<title>Node10531</title>
+<title>Node11412</title>
 <g id="a_node4"><a xlink:href="muttlib_8h.html#a1fd6bc6316a4a762b67e8c5eba776682" target="_top" xlink:title="Turn an email address into a filename (for saving) ">
 <polygon fill="#ffffff" stroke="#ff0000" points="173.5,-170.5 173.5,-189.5 268.5,-189.5 268.5,-170.5 173.5,-170.5"/>
 <text text-anchor="middle" x="221" y="-177.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_save_path</text>
 </a>
 </g>
 </g>
-<!-- Node9956&#45;&gt;Node10531 -->
+<!-- Node10783&#45;&gt;Node11412 -->
 <g id="edge3" class="edge">
-<title>Node9956&#45;&gt;Node10531</title>
+<title>Node10783&#45;&gt;Node11412</title>
 <path fill="none" stroke="#191970" d="M94.3087,-153.84C104.7575,-156.2722 115.7313,-158.7694 126,-161 141.2858,-164.3204 158.003,-167.7358 173.0942,-170.739"/>
 <polygon fill="#191970" stroke="#191970" points="95.0266,-150.4135 84.4917,-151.5389 93.429,-157.2288 95.0266,-150.4135"/>
 </g>
-<!-- Node10533 -->
+<!-- Node11414 -->
 <g id="node5" class="node">
-<title>Node10533</title>
+<title>Node11414</title>
 <g id="a_node5"><a xlink:href="muttlib_8h.html#a8626e752ca9afb38c08913f902896516" target="_top" xlink:title="Make a safe filename from an email address. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="156.5,-132.5 156.5,-151.5 285.5,-151.5 285.5,-132.5 156.5,-132.5"/>
 <text text-anchor="middle" x="221" y="-139.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_buffer_save_path</text>
 </a>
 </g>
 </g>
-<!-- Node9956&#45;&gt;Node10533 -->
+<!-- Node10783&#45;&gt;Node11414 -->
 <g id="edge4" class="edge">
-<title>Node9956&#45;&gt;Node10533</title>
+<title>Node10783&#45;&gt;Node11414</title>
 <path fill="none" stroke="#191970" d="M100.4889,-142C118.1984,-142 137.952,-142 156.2588,-142"/>
 <polygon fill="#191970" stroke="#191970" points="100.3244,-138.5001 90.3244,-142 100.3243,-145.5001 100.3244,-138.5001"/>
 </g>
-<!-- Node10535 -->
+<!-- Node11416 -->
 <g id="node6" class="node">
-<title>Node10535</title>
-<g id="a_node6"><a xlink:href="muttlib_8h.html#a8972094c1e995739c8b072c8be3ce453" target="_top" xlink:title="Expand expandos (x) in a string. ">
+<title>Node11416</title>
+<g id="a_node6"><a xlink:href="group__expando__api.html#ga8972094c1e995739c8b072c8be3ce453" target="_top" xlink:title="Expand expandos (x) in a string &#45;. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="158.5,-76.5 158.5,-95.5 283.5,-95.5 283.5,-76.5 158.5,-76.5"/>
 <text text-anchor="middle" x="221" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_expando_format</text>
 </a>
 </g>
 </g>
-<!-- Node9956&#45;&gt;Node10535 -->
+<!-- Node10783&#45;&gt;Node11416 -->
 <g id="edge5" class="edge">
-<title>Node9956&#45;&gt;Node10535</title>
+<title>Node10783&#45;&gt;Node11416</title>
 <path fill="none" stroke="#191970" d="M84.8404,-129.3235C117.1173,-119.0536 161.8852,-104.8093 191.1393,-95.5011"/>
 <polygon fill="#191970" stroke="#191970" points="83.7235,-126.0059 75.2555,-132.3733 85.846,-132.6764 83.7235,-126.0059"/>
 </g>
-<!-- Node10578 -->
+<!-- Node11459 -->
 <g id="node7" class="node">
-<title>Node10578</title>
+<title>Node11459</title>
 <g id="a_node7"><a xlink:href="crypt__gpgme_8c.html#a8394b79a9ee75bfdee31a249225de4c9" target="_top" xlink:title="Find the &quot;micalg&quot; parameter from the last GPGME operation. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="185.5,-38.5 185.5,-57.5 256.5,-57.5 256.5,-38.5 185.5,-38.5"/>
 <text text-anchor="middle" x="221" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">get_micalg</text>
 </a>
 </g>
 </g>
-<!-- Node9956&#45;&gt;Node10578 -->
+<!-- Node10783&#45;&gt;Node11459 -->
 <g id="edge7" class="edge">
-<title>Node9956&#45;&gt;Node10578</title>
+<title>Node10783&#45;&gt;Node11459</title>
 <path fill="none" stroke="#191970" d="M58.6782,-124.6605C73.3934,-107.2622 98.4246,-81.0829 126,-67 144.2747,-57.667 166.707,-52.9144 185.1837,-50.4961"/>
 <polygon fill="#191970" stroke="#191970" points="55.9598,-122.4558 52.3171,-132.4047 61.369,-126.8989 55.9598,-122.4558"/>
 </g>
-<!-- Node10579 -->
+<!-- Node11460 -->
 <g id="node8" class="node">
-<title>Node10579</title>
-<g id="a_node8"><a xlink:href="newsrc_8c.html#a2f9880f62ed891cdd63f136d9d9766fc" target="_top" xlink:title="Expand the newsrc filename &#45; Implements format_t. ">
+<title>Node11460</title>
+<g id="a_node8"><a xlink:href="group__expando__api.html#ga2f9880f62ed891cdd63f136d9d9766fc" target="_top" xlink:title="Expand the newsrc filename &#45; Implements format_t &#45;Expando Description &#160;%a Account url %p Port %P Port...">
 <polygon fill="#ffffff" stroke="#ff0000" points="173.5,-.5 173.5,-19.5 268.5,-19.5 268.5,-.5 173.5,-.5"/>
 <text text-anchor="middle" x="221" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nntp_format_str</text>
 </a>
 </g>
 </g>
-<!-- Node9956&#45;&gt;Node10579 -->
+<!-- Node10783&#45;&gt;Node11460 -->
 <g id="edge8" class="edge">
-<title>Node9956&#45;&gt;Node10579</title>
+<title>Node10783&#45;&gt;Node11460</title>
 <path fill="none" stroke="#191970" d="M53.1941,-122.8293C65.2196,-97.1443 90.1724,-52.1231 126,-29 139.9907,-19.9704 157.3678,-15.0832 173.4199,-12.4848"/>
 <polygon fill="#191970" stroke="#191970" points="49.873,-121.6809 48.9651,-132.2368 56.2576,-124.551 49.873,-121.6809"/>
 </g>
-<!-- Node10535&#45;&gt;Node10535 -->
+<!-- Node11416&#45;&gt;Node11416 -->
 <g id="edge6" class="edge">
-<title>Node10535&#45;&gt;Node10535</title>
+<title>Node11416&#45;&gt;Node11416</title>
 <path fill="none" stroke="#191970" d="M188.0166,-103.8913C188.4997,-109.5406 199.4941,-114 221,-114 252.2813,-114 261.3235,-104.5653 248.1267,-95.7571"/>
 <polygon fill="#191970" stroke="#191970" points="190.8706,-105.9175 193.8733,-95.7571 185.1898,-101.8273 190.8706,-105.9175"/>
 </g>

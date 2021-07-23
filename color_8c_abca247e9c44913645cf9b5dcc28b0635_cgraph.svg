@@ -9,54 +9,54 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 100)">
 <title>parse_color_name</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-100 266,-100 266,4 -4,4"/>
-<!-- Node3024 -->
+<!-- Node3294 -->
 <g id="node1" class="node">
-<title>Node3024</title>
+<title>Node3294</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-38.5 0,-57.5 106,-57.5 106,-38.5 0,-38.5"/>
 <text text-anchor="middle" x="53" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">parse_color_name</text>
 </g>
-<!-- Node3025 -->
+<!-- Node3295 -->
 <g id="node2" class="node">
-<title>Node3025</title>
+<title>Node3295</title>
 <g id="a_node2"><a xlink:href="mutt_2string_8c.html#aebd2a8a3f8a30062c31fa1474d87cc41" target="_top" xlink:title="Check whether a string starts with a prefix, ignoring case. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="144.5,-76.5 144.5,-95.5 259.5,-95.5 259.5,-76.5 144.5,-76.5"/>
 <text text-anchor="middle" x="202" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_istr_startswith</text>
 </a>
 </g>
 </g>
-<!-- Node3024&#45;&gt;Node3025 -->
+<!-- Node3294&#45;&gt;Node3295 -->
 <g id="edge1" class="edge">
-<title>Node3024&#45;&gt;Node3025</title>
+<title>Node3294&#45;&gt;Node3295</title>
 <path fill="none" stroke="#191970" d="M90.599,-57.589C110.084,-62.5583 134.0745,-68.6767 154.7958,-73.9613"/>
 <polygon fill="#191970" stroke="#191970" points="154.1166,-77.4001 164.6714,-76.4799 155.8465,-70.6172 154.1166,-77.4001"/>
 </g>
-<!-- Node3027 -->
+<!-- Node3297 -->
 <g id="node3" class="node">
-<title>Node3027</title>
+<title>Node3297</title>
 <g id="a_node3"><a xlink:href="buffer_8c.html#ad057ee239ae5bcfd72cab3749036ab02" target="_top" xlink:title="Format a string overwriting a Buffer. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="149.5,-38.5 149.5,-57.5 254.5,-57.5 254.5,-38.5 149.5,-38.5"/>
 <text text-anchor="middle" x="202" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_buffer_printf</text>
 </a>
 </g>
 </g>
-<!-- Node3024&#45;&gt;Node3027 -->
+<!-- Node3294&#45;&gt;Node3297 -->
 <g id="edge2" class="edge">
-<title>Node3024&#45;&gt;Node3027</title>
+<title>Node3294&#45;&gt;Node3297</title>
 <path fill="none" stroke="#191970" d="M106.3716,-48C116.9394,-48 128.1255,-48 138.9786,-48"/>
 <polygon fill="#191970" stroke="#191970" points="139.2511,-51.5001 149.2511,-48 139.2511,-44.5001 139.2511,-51.5001"/>
 </g>
-<!-- Node3034 -->
+<!-- Node3304 -->
 <g id="node4" class="node">
-<title>Node3034</title>
+<title>Node3304</title>
 <g id="a_node4"><a xlink:href="mapping_8c.html#a7fbce597ae32241423b64dad5a0173a3" target="_top" xlink:title="Lookup the constant for a string. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="142,-.5 142,-19.5 262,-19.5 262,-.5 142,-.5"/>
 <text text-anchor="middle" x="202" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_map_get_value</text>
 </a>
 </g>
 </g>
-<!-- Node3024&#45;&gt;Node3034 -->
+<!-- Node3294&#45;&gt;Node3304 -->
 <g id="edge3" class="edge">
-<title>Node3024&#45;&gt;Node3034</title>
+<title>Node3294&#45;&gt;Node3304</title>
 <path fill="none" stroke="#191970" d="M90.599,-38.411C110.084,-33.4417 134.0745,-27.3233 154.7958,-22.0387"/>
 <polygon fill="#191970" stroke="#191970" points="155.8465,-25.3828 164.6714,-19.5201 154.1166,-18.5999 155.8465,-25.3828"/>
 </g>

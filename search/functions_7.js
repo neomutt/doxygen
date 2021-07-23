@@ -24,7 +24,7 @@ var searchData=
   ['helpbar_5fwdata_5fget',['helpbar_wdata_get',['../helpbar_2private_8h.html#a88123e549e927a791681d90847a00b7e',1,'helpbar_wdata_get(struct MuttWindow *win):&#160;wdata.c'],['../helpbar_2wdata_8c.html#a88123e549e927a791681d90847a00b7e',1,'helpbar_wdata_get(struct MuttWindow *win):&#160;wdata.c']]],
   ['helpbar_5fwdata_5fnew',['helpbar_wdata_new',['../helpbar_2private_8h.html#ad9a167c5e72a762d505a0df38062055c',1,'helpbar_wdata_new(void):&#160;wdata.c'],['../helpbar_2wdata_8c.html#ad9a167c5e72a762d505a0df38062055c',1,'helpbar_wdata_new(void):&#160;wdata.c']]],
   ['helpbar_5fwindow_5fobserver',['helpbar_window_observer',['../helpbar_8c.html#ad9479d9b3325898cbe92e5856b2fcbc4',1,'helpbar.c']]],
-  ['history_5fformat_5fstr',['history_format_str',['../dlghistory_8c.html#ae405983a0c5811f1af6d61a5e719391f',1,'dlghistory.c']]],
+  ['history_5fformat_5fstr',['history_format_str',['../group__expando__api.html#gae405983a0c5811f1af6d61a5e719391f',1,'dlghistory.c']]],
   ['history_5fmake_5fentry',['history_make_entry',['../dlghistory_8c.html#ad5be190a528d1d12b831bcfc22a5e648',1,'dlghistory.c']]],
   ['hmac_5fmd5',['hmac_md5',['../auth__cram_8c.html#a7491dc64781290870974d803a0dc6b75',1,'auth_cram.c']]],
   ['hostname_5fmatch',['hostname_match',['../openssl_8c.html#ae39adc817bff49725d338570174c4a0b',1,'openssl.c']]]

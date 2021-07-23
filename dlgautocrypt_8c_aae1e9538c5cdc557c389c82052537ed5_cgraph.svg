@@ -9,66 +9,66 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 94.7058)">
 <title>autocrypt_make_entry</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-94.7058 426,-94.7058 426,4 -4,4"/>
-<!-- Node572 -->
+<!-- Node0 -->
 <g id="node1" class="node">
-<title>Node572</title>
+<title>Node0</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-38.5 0,-57.5 127,-57.5 127,-38.5 0,-38.5"/>
 <text text-anchor="middle" x="63.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">autocrypt_make_entry</text>
 </g>
-<!-- Node573 -->
+<!-- Node1 -->
 <g id="node2" class="node">
-<title>Node573</title>
+<title>Node1</title>
 <g id="a_node2"><a xlink:href="helpers_8c.html#ac477c591155aa4ae0452bbabc0affffe" target="_top" xlink:title="Get a string config item by name. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="324,-66.5 324,-85.5 422,-85.5 422,-66.5 324,-66.5"/>
 <text text-anchor="middle" x="373" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_subset_string</text>
 </a>
 </g>
 </g>
-<!-- Node572&#45;&gt;Node573 -->
+<!-- Node0&#45;&gt;Node1 -->
 <g id="edge1" class="edge">
-<title>Node572&#45;&gt;Node573</title>
+<title>Node0&#45;&gt;Node1</title>
 <path fill="none" stroke="#191970" d="M82.7388,-57.5043C102.3663,-66.6308 133.978,-79.7786 163,-85 213.2669,-94.0436 271.3393,-90.5085 313.6576,-85.4455"/>
 <polygon fill="#191970" stroke="#191970" points="314.3071,-88.8914 323.7909,-84.1682 313.4316,-81.9464 314.3071,-88.8914"/>
 </g>
-<!-- Node596 -->
+<!-- Node24 -->
 <g id="node3" class="node">
-<title>Node596</title>
-<g id="a_node3"><a xlink:href="muttlib_8c.html#a8972094c1e995739c8b072c8be3ce453" target="_top" xlink:title="Expand expandos (x) in a string. ">
+<title>Node24</title>
+<g id="a_node3"><a xlink:href="group__expando__api.html#ga8972094c1e995739c8b072c8be3ce453" target="_top" xlink:title="Expand expandos (x) in a string &#45;. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="163,-38.5 163,-57.5 288,-57.5 288,-38.5 163,-38.5"/>
 <text text-anchor="middle" x="225.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_expando_format</text>
 </a>
 </g>
 </g>
-<!-- Node572&#45;&gt;Node596 -->
+<!-- Node0&#45;&gt;Node24 -->
 <g id="edge2" class="edge">
-<title>Node572&#45;&gt;Node596</title>
+<title>Node0&#45;&gt;Node24</title>
 <path fill="none" stroke="#191970" d="M127.0617,-48C135.5354,-48 144.2765,-48 152.8896,-48"/>
 <polygon fill="#191970" stroke="#191970" points="152.9182,-51.5001 162.9182,-48 152.9181,-44.5001 152.9182,-51.5001"/>
 </g>
-<!-- Node638 -->
+<!-- Node66 -->
 <g id="node4" class="node">
-<title>Node638</title>
-<g id="a_node4"><a xlink:href="dlgautocrypt_8c.html#a21736452b8329cb51cceeae14270087d" target="_top" xlink:title="Format a string for the Autocrypt account list &#45; Implements format_t. ">
+<title>Node66</title>
+<g id="a_node4"><a xlink:href="group__expando__api.html#ga21736452b8329cb51cceeae14270087d" target="_top" xlink:title="Format a string for the Autocrypt account list &#45; Implements format_t &#45;Expando Description &#160;%a Email a...">
 <polygon fill="#ffffff" stroke="#ff0000" points="166,-.5 166,-19.5 285,-19.5 285,-.5 166,-.5"/>
 <text text-anchor="middle" x="225.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">autocrypt_format_str</text>
 </a>
 </g>
 </g>
-<!-- Node572&#45;&gt;Node638 -->
+<!-- Node0&#45;&gt;Node66 -->
 <g id="edge5" class="edge">
-<title>Node572&#45;&gt;Node638</title>
+<title>Node0&#45;&gt;Node66</title>
 <path fill="none" stroke="#191970" d="M104.3794,-38.411C125.8534,-33.3739 152.3605,-27.1562 175.097,-21.8229"/>
 <polygon fill="#191970" stroke="#191970" points="175.9781,-25.2113 184.9145,-19.5201 174.3795,-18.3963 175.9781,-25.2113"/>
 </g>
-<!-- Node596&#45;&gt;Node573 -->
+<!-- Node24&#45;&gt;Node1 -->
 <g id="edge3" class="edge">
-<title>Node596&#45;&gt;Node573</title>
+<title>Node24&#45;&gt;Node1</title>
 <path fill="none" stroke="#191970" d="M275.8486,-57.5577C288.0971,-59.8828 301.3064,-62.3904 313.9191,-64.7846"/>
 <polygon fill="#191970" stroke="#191970" points="313.3993,-68.2484 323.8766,-66.6749 314.7049,-61.3712 313.3993,-68.2484"/>
 </g>
-<!-- Node596&#45;&gt;Node596 -->
+<!-- Node24&#45;&gt;Node24 -->
 <g id="edge4" class="edge">
-<title>Node596&#45;&gt;Node596</title>
+<title>Node24&#45;&gt;Node24</title>
 <path fill="none" stroke="#191970" d="M202.9972,-57.7571C192.0498,-66.5653 199.5508,-76 225.5,-76 242.5292,-76 251.6133,-71.9368 252.7525,-66.6539"/>
 <polygon fill="#191970" stroke="#191970" points="255.7999,-64.9303 248.0028,-57.7571 249.6248,-68.227 255.7999,-64.9303"/>
 </g>

@@ -9,75 +9,75 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 480)">
 <title>create_gpgme_context</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-480 509,-480 509,4 -4,4"/>
-<!-- Node34216 -->
+<!-- Node32188 -->
 <g id="node1" class="node">
-<title>Node34216</title>
+<title>Node32188</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-228.5 0,-247.5 128,-247.5 128,-228.5 0,-228.5"/>
 <text text-anchor="middle" x="64" y="-235.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">create_gpgme_context</text>
 </g>
-<!-- Node34217 -->
+<!-- Node32189 -->
 <g id="node2" class="node">
-<title>Node34217</title>
+<title>Node32189</title>
 <g id="a_node2"><a xlink:href="crypt__gpgme_8c.html#a433e35eb7b66902025d1a6eced7c17c8" target="_top" xlink:title="Create a new GPGME data object. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="193.5,-304.5 193.5,-323.5 306.5,-323.5 306.5,-304.5 193.5,-304.5"/>
 <text text-anchor="middle" x="250" y="-311.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">create_gpgme_data</text>
 </a>
 </g>
 </g>
-<!-- Node34216&#45;&gt;Node34217 -->
+<!-- Node32188&#45;&gt;Node32189 -->
 <g id="edge1" class="edge">
-<title>Node34216&#45;&gt;Node34217</title>
+<title>Node32188&#45;&gt;Node32189</title>
 <path fill="none" stroke="#191970" d="M88.4946,-252.5674C108.3373,-263.9146 137.2868,-279.4593 164,-290 178.4191,-295.6896 194.6959,-300.5963 209.1788,-304.4636"/>
 <polygon fill="#191970" stroke="#191970" points="90.2047,-249.5132 79.7974,-247.5285 86.6956,-255.5701 90.2047,-249.5132"/>
 </g>
-<!-- Node34783 -->
+<!-- Node32809 -->
 <g id="node3" class="node">
-<title>Node34783</title>
+<title>Node32809</title>
 <g id="a_node3"><a xlink:href="crypt__gpgme_8c.html#ae42a1cf42ee414b6492aab77874a842c" target="_top" xlink:title="Encrypt the GPGPME data object. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="374.5,-418.5 374.5,-437.5 502.5,-437.5 502.5,-418.5 374.5,-418.5"/>
 <text text-anchor="middle" x="438.5" y="-425.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">encrypt_gpgme_object</text>
 </a>
 </g>
 </g>
-<!-- Node34216&#45;&gt;Node34783 -->
+<!-- Node32188&#45;&gt;Node32809 -->
 <g id="edge10" class="edge">
-<title>Node34216&#45;&gt;Node34783</title>
+<title>Node32188&#45;&gt;Node32809</title>
 <path fill="none" stroke="#191970" d="M70.4935,-256.9758C82.9129,-290.1137 113.3893,-358.0418 164,-390 227.3582,-430.0076 315.2281,-435.3998 374.3321,-433.4876"/>
 <polygon fill="#191970" stroke="#191970" points="73.7731,-255.7525 67.0931,-247.5289 67.1868,-258.1233 73.7731,-255.7525"/>
 </g>
-<!-- Node34219 -->
+<!-- Node32191 -->
 <g id="node4" class="node">
-<title>Node34219</title>
+<title>Node32191</title>
 <g id="a_node4"><a xlink:href="crypt__gpgme_8c.html#a93c5f228bb32a579b45887c66df5b8dd" target="_top" xlink:title="Sign a message. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="395.5,-377.5 395.5,-396.5 481.5,-396.5 481.5,-377.5 395.5,-377.5"/>
 <text text-anchor="middle" x="438.5" y="-384.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">sign_message</text>
 </a>
 </g>
 </g>
-<!-- Node34216&#45;&gt;Node34219 -->
+<!-- Node32188&#45;&gt;Node32191 -->
 <g id="edge11" class="edge">
-<title>Node34216&#45;&gt;Node34219</title>
+<title>Node32188&#45;&gt;Node32191</title>
 <path fill="none" stroke="#191970" d="M73.3484,-256.7679C88.2784,-284.5011 120.3327,-335.6582 164,-359 237.7205,-398.4063 338.4812,-397.1005 395.1657,-392.2751"/>
 <polygon fill="#191970" stroke="#191970" points="76.3535,-254.9606 68.6329,-247.7051 70.1438,-258.1916 76.3535,-254.9606"/>
 </g>
-<!-- Node34516 -->
+<!-- Node32532 -->
 <g id="node5" class="node">
-<title>Node34516</title>
+<title>Node32532</title>
 <g id="a_node5"><a xlink:href="crypt__gpgme_8c.html#a06057059d161b58e6b17c6b00fe54ab6" target="_top" xlink:title="Decrypt a PGP or SMIME message. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="399.5,-334.5 399.5,-353.5 477.5,-353.5 477.5,-334.5 399.5,-334.5"/>
 <text text-anchor="middle" x="438.5" y="-341.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">decrypt_part</text>
 </a>
 </g>
 </g>
-<!-- Node34216&#45;&gt;Node34516 -->
+<!-- Node32188&#45;&gt;Node32532 -->
 <g id="edge13" class="edge">
-<title>Node34216&#45;&gt;Node34516</title>
+<title>Node32188&#45;&gt;Node32532</title>
 <path fill="none" stroke="#191970" d="M76.3873,-255.9945C93.2072,-278.7098 125.6158,-316.7756 164,-333 242.1977,-366.0529 344.3613,-358.4597 399.3579,-350.7641"/>
 <polygon fill="#191970" stroke="#191970" points="79.0213,-253.6617 70.348,-247.5769 73.3338,-257.7424 79.0213,-253.6617"/>
 </g>
-<!-- Node34784 -->
+<!-- Node32810 -->
 <g id="node6" class="node">
-<title>Node34784</title>
+<title>Node32810</title>
 <g id="a_node6"><a xlink:href="crypt__gpgme_8h.html#af9f3a30e035954c5624c3d673819a597" target="_top" xlink:title="Implements CryptModuleSpecs::application_handler() ">
 <polygon fill="#ffffff" stroke="#000000" points="372,-223 372,-253 505,-253 505,-223 372,-223"/>
 <text text-anchor="start" x="380" y="-241" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pgp_gpgme_application</text>
@@ -85,15 +85,15 @@
 </a>
 </g>
 </g>
-<!-- Node34216&#45;&gt;Node34784 -->
+<!-- Node32188&#45;&gt;Node32810 -->
 <g id="edge17" class="edge">
-<title>Node34216&#45;&gt;Node34784</title>
+<title>Node32188&#45;&gt;Node32810</title>
 <path fill="none" stroke="#191970" d="M114.673,-226.4618C130.3936,-223.3987 147.8356,-220.522 164,-219 240.1078,-211.8339 259.8763,-212.0042 336,-219 347.6244,-220.0683 359.8979,-221.8044 371.7556,-223.804"/>
 <polygon fill="#191970" stroke="#191970" points="113.7322,-223.081 104.6217,-228.4892 115.1163,-229.9428 113.7322,-223.081"/>
 </g>
-<!-- Node34535 -->
+<!-- Node32551 -->
 <g id="node7" class="node">
-<title>Node34535</title>
+<title>Node32551</title>
 <g id="a_node7"><a xlink:href="crypt__gpgme_8h.html#ab3031c1c6cd431efc8fc3b90607c042d" target="_top" xlink:title="Implements CryptModuleSpecs::pgp_make_key_attachment() ">
 <polygon fill="#ffffff" stroke="#000000" points="373.5,-275 373.5,-305 503.5,-305 503.5,-275 373.5,-275"/>
 <text text-anchor="start" x="381.5" y="-293" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pgp_gpgme_make_key</text>
@@ -101,156 +101,156 @@
 </a>
 </g>
 </g>
-<!-- Node34216&#45;&gt;Node34535 -->
+<!-- Node32188&#45;&gt;Node32551 -->
 <g id="edge20" class="edge">
-<title>Node34216&#45;&gt;Node34535</title>
+<title>Node32188&#45;&gt;Node32551</title>
 <path fill="none" stroke="#191970" d="M120.5387,-249.4378C134.6978,-252.1103 149.8772,-254.812 164,-257 235.3874,-268.0597 317.7103,-277.5209 373.4383,-283.4407"/>
 <polygon fill="#191970" stroke="#191970" points="120.9185,-245.947 110.4388,-247.5048 119.6026,-252.8223 120.9185,-245.947"/>
 </g>
-<!-- Node34785 -->
+<!-- Node32811 -->
 <g id="node8" class="node">
-<title>Node34785</title>
+<title>Node32811</title>
 <g id="a_node8"><a xlink:href="crypt__gpgme_8c.html#a3c4ecb27b11ac6e5a483518ab703ab6c" target="_top" xlink:title="Create a GpgmeRecipientSet from a string of keys. ">
 <polygon fill="#ffffff" stroke="#000000" points="192,-456.5 192,-475.5 308,-475.5 308,-456.5 192,-456.5"/>
 <text text-anchor="middle" x="250" y="-463.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">create_recipient_set</text>
 </a>
 </g>
 </g>
-<!-- Node34216&#45;&gt;Node34785 -->
+<!-- Node32188&#45;&gt;Node32811 -->
 <g id="edge7" class="edge">
-<title>Node34216&#45;&gt;Node34785</title>
+<title>Node32188&#45;&gt;Node32811</title>
 <path fill="none" stroke="#191970" d="M67.9734,-257.6319C77.2566,-298.3526 104.267,-392.3392 164,-442 171.9862,-448.6396 181.6828,-453.4476 191.6476,-456.9281"/>
 <polygon fill="#191970" stroke="#191970" points="71.3924,-256.8829 65.8555,-247.85 64.5509,-258.3642 71.3924,-256.8829"/>
 </g>
-<!-- Node34786 -->
+<!-- Node32812 -->
 <g id="node9" class="node">
-<title>Node34786</title>
+<title>Node32812</title>
 <g id="a_node9"><a xlink:href="crypt__gpgme_8c.html#ae3101457957df3ab336ba0f6cba79fd0" target="_top" xlink:title="Try to set the context&#39;s signer from the address. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="180.5,-152.5 180.5,-171.5 319.5,-171.5 319.5,-152.5 180.5,-152.5"/>
 <text text-anchor="middle" x="250" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">set_signer_from_address</text>
 </a>
 </g>
 </g>
-<!-- Node34216&#45;&gt;Node34786 -->
+<!-- Node32188&#45;&gt;Node32812 -->
 <g id="edge9" class="edge">
-<title>Node34216&#45;&gt;Node34786</title>
+<title>Node32188&#45;&gt;Node32812</title>
 <path fill="none" stroke="#191970" d="M88.4946,-223.4326C108.3373,-212.0854 137.2868,-196.5407 164,-186 178.4191,-180.3104 194.6959,-175.4037 209.1788,-171.5364"/>
 <polygon fill="#191970" stroke="#191970" points="86.6956,-220.4299 79.7974,-228.4715 90.2047,-226.4868 86.6956,-220.4299"/>
 </g>
-<!-- Node34788 -->
+<!-- Node32814 -->
 <g id="node10" class="node">
-<title>Node34788</title>
+<title>Node32814</title>
 <g id="a_node10"><a xlink:href="crypt__gpgme_8c.html#a490d3344cd29fb3466bc7868e4b26c87" target="_top" xlink:title="Do the actual verification step. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="216,-114.5 216,-133.5 284,-133.5 284,-114.5 216,-114.5"/>
 <text text-anchor="middle" x="250" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">verify_one</text>
 </a>
 </g>
 </g>
-<!-- Node34216&#45;&gt;Node34788 -->
+<!-- Node32188&#45;&gt;Node32814 -->
 <g id="edge12" class="edge">
-<title>Node34216&#45;&gt;Node34788</title>
+<title>Node32188&#45;&gt;Node32814</title>
 <path fill="none" stroke="#191970" d="M77.4063,-220.3725C94.8908,-198.6839 127.5754,-162.363 164,-143 179.9317,-134.5308 199.4482,-129.8324 215.8599,-127.2279"/>
 <polygon fill="#191970" stroke="#191970" points="74.5067,-218.3976 71.075,-228.4212 80.0085,-222.7254 74.5067,-218.3976"/>
 </g>
-<!-- Node34793 -->
+<!-- Node32819 -->
 <g id="node11" class="node">
-<title>Node34793</title>
+<title>Node32819</title>
 <g id="a_node11"><a xlink:href="crypt__gpgme_8c.html#acf99c22e68257d9ff91a5cefb5590370" target="_top" xlink:title="Write PGP keys to a file. ">
 <polygon fill="#ffffff" stroke="#000000" points="179,-228.5 179,-247.5 321,-247.5 321,-228.5 179,-228.5"/>
 <text text-anchor="middle" x="250" y="-235.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pgp_gpgme_extract_keys</text>
 </a>
 </g>
 </g>
-<!-- Node34216&#45;&gt;Node34793 -->
+<!-- Node32188&#45;&gt;Node32819 -->
 <g id="edge14" class="edge">
-<title>Node34216&#45;&gt;Node34793</title>
+<title>Node32188&#45;&gt;Node32819</title>
 <path fill="none" stroke="#191970" d="M138.1459,-238C151.5647,-238 165.5301,-238 178.8603,-238"/>
 <polygon fill="#191970" stroke="#191970" points="138.0107,-234.5001 128.0106,-238 138.0106,-241.5001 138.0107,-234.5001"/>
 </g>
-<!-- Node34794 -->
+<!-- Node32820 -->
 <g id="node12" class="node">
-<title>Node34794</title>
+<title>Node32820</title>
 <g id="a_node12"><a xlink:href="crypt__gpgme_8h.html#a9b73f1b32f324051fd9c955173f4acec" target="_top" xlink:title="Implements CryptModuleSpecs::pgp_invoke_import() ">
 <polygon fill="#ffffff" stroke="#000000" points="175.5,-76.5 175.5,-95.5 324.5,-95.5 324.5,-76.5 175.5,-76.5"/>
 <text text-anchor="middle" x="250" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pgp_gpgme_invoke_import</text>
 </a>
 </g>
 </g>
-<!-- Node34216&#45;&gt;Node34794 -->
+<!-- Node32188&#45;&gt;Node32820 -->
 <g id="edge16" class="edge">
-<title>Node34216&#45;&gt;Node34794</title>
+<title>Node32188&#45;&gt;Node32820</title>
 <path fill="none" stroke="#191970" d="M72.6086,-219.3124C87.1001,-190.0543 119.2325,-133.8062 164,-105 170.0435,-101.1112 176.7667,-98.0099 183.7163,-95.538"/>
 <polygon fill="#191970" stroke="#191970" points="69.3964,-217.9164 68.2267,-228.4465 75.7078,-220.9442 69.3964,-217.9164"/>
 </g>
-<!-- Node34795 -->
+<!-- Node32821 -->
 <g id="node13" class="node">
-<title>Node34795</title>
+<title>Node32821</title>
 <g id="a_node13"><a xlink:href="crypt__gpgme_8c.html#aef0516e3d7f7c2d43567034cb67c8e71" target="_top" xlink:title="Get a list of keys which are candidates for the selection. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="204.5,-38.5 204.5,-57.5 295.5,-57.5 295.5,-38.5 204.5,-38.5"/>
 <text text-anchor="middle" x="250" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">get_candidates</text>
 </a>
 </g>
 </g>
-<!-- Node34216&#45;&gt;Node34795 -->
+<!-- Node32188&#45;&gt;Node32821 -->
 <g id="edge18" class="edge">
-<title>Node34216&#45;&gt;Node34795</title>
+<title>Node32188&#45;&gt;Node32821</title>
 <path fill="none" stroke="#191970" d="M69.5952,-218.6409C81.025,-182.726 110.5922,-105.9024 164,-67 175.6178,-58.5375 190.2989,-53.728 204.2273,-51.0297"/>
 <polygon fill="#191970" stroke="#191970" points="66.1925,-217.8002 66.624,-228.3862 72.8883,-219.8416 66.1925,-217.8002"/>
 </g>
-<!-- Node34713 -->
+<!-- Node32731 -->
 <g id="node14" class="node">
-<title>Node34713</title>
+<title>Node32731</title>
 <g id="a_node14"><a xlink:href="ncrypt_2lib_8h.html#a2e8df329d00791c453eb6b3f60eabfdf" target="_top" xlink:title="Select a private Autocrypt key for a new account. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="164,-.5 164,-19.5 336,-19.5 336,-.5 164,-.5"/>
 <text text-anchor="middle" x="250" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_gpgme_select_secret_key</text>
 </a>
 </g>
 </g>
-<!-- Node34216&#45;&gt;Node34713 -->
+<!-- Node32188&#45;&gt;Node32731 -->
 <g id="edge19" class="edge">
-<title>Node34216&#45;&gt;Node34713</title>
+<title>Node32188&#45;&gt;Node32731</title>
 <path fill="none" stroke="#191970" d="M67.4856,-218.2132C75.9509,-176.3241 101.6661,-78.4838 164,-29 168.7903,-25.1972 174.1833,-22.1189 179.8736,-19.6316"/>
 <polygon fill="#191970" stroke="#191970" points="64.008,-217.7655 65.5772,-228.2435 70.8847,-219.0739 64.008,-217.7655"/>
 </g>
-<!-- Node34217&#45;&gt;Node34783 -->
+<!-- Node32189&#45;&gt;Node32809 -->
 <g id="edge2" class="edge">
-<title>Node34217&#45;&gt;Node34783</title>
+<title>Node32189&#45;&gt;Node32809</title>
 <path fill="none" stroke="#191970" d="M267.7759,-330.4118C290.4589,-350.6116 331.6132,-384.83 372,-406 381.4781,-410.9682 392.2979,-415.1204 402.417,-418.4305"/>
 <polygon fill="#191970" stroke="#191970" points="270.0585,-327.7572 260.2903,-323.6542 265.3678,-332.9531 270.0585,-327.7572"/>
 </g>
-<!-- Node34217&#45;&gt;Node34219 -->
+<!-- Node32189&#45;&gt;Node32191 -->
 <g id="edge3" class="edge">
-<title>Node34217&#45;&gt;Node34219</title>
+<title>Node32189&#45;&gt;Node32191</title>
 <path fill="none" stroke="#191970" d="M282.8167,-327.5485C307.3048,-337.5687 341.6319,-351.4257 372,-363 384.8455,-367.8959 399.1797,-373.1016 411.2413,-377.409"/>
 <polygon fill="#191970" stroke="#191970" points="283.8715,-324.1982 273.2913,-323.6413 281.2149,-330.6745 283.8715,-324.1982"/>
 </g>
-<!-- Node34217&#45;&gt;Node34516 -->
+<!-- Node32189&#45;&gt;Node32532 -->
 <g id="edge4" class="edge">
-<title>Node34217&#45;&gt;Node34516</title>
+<title>Node32189&#45;&gt;Node32532</title>
 <path fill="none" stroke="#191970" d="M316.5752,-324.5955C344.253,-329.0005 375.4247,-333.9615 399.3211,-337.7646"/>
 <polygon fill="#191970" stroke="#191970" points="316.9821,-321.1163 306.5562,-323.001 315.8818,-328.0293 316.9821,-321.1163"/>
 </g>
-<!-- Node34217&#45;&gt;Node34784 -->
+<!-- Node32189&#45;&gt;Node32810 -->
 <g id="edge5" class="edge">
-<title>Node34217&#45;&gt;Node34784</title>
+<title>Node32189&#45;&gt;Node32810</title>
 <path fill="none" stroke="#191970" d="M283.5313,-300.4807C316.5619,-287.1634 366.9166,-266.8612 401.1951,-253.0407"/>
 <polygon fill="#191970" stroke="#191970" points="281.8394,-297.389 273.8737,-304.3745 284.457,-303.8812 281.8394,-297.389"/>
 </g>
-<!-- Node34217&#45;&gt;Node34535 -->
+<!-- Node32189&#45;&gt;Node32551 -->
 <g id="edge6" class="edge">
-<title>Node34217&#45;&gt;Node34535</title>
+<title>Node32189&#45;&gt;Node32551</title>
 <path fill="none" stroke="#191970" d="M316.6175,-305.5182C335.0505,-303.1713 355.0305,-300.6274 373.3774,-298.2915"/>
 <polygon fill="#191970" stroke="#191970" points="316.0341,-302.0641 306.5562,-306.7992 316.9182,-309.0081 316.0341,-302.0641"/>
 </g>
-<!-- Node34785&#45;&gt;Node34783 -->
+<!-- Node32811&#45;&gt;Node32809 -->
 <g id="edge8" class="edge">
-<title>Node34785&#45;&gt;Node34783</title>
+<title>Node32811&#45;&gt;Node32809</title>
 <path fill="none" stroke="#191970" d="M307.5893,-454.3905C334.3983,-448.986 365.8954,-442.6365 391.2755,-437.5201"/>
 <polygon fill="#191970" stroke="#191970" points="306.6776,-451.0038 297.5665,-456.411 308.061,-457.8657 306.6776,-451.0038"/>
 </g>
-<!-- Node34793&#45;&gt;Node34784 -->
+<!-- Node32819&#45;&gt;Node32810 -->
 <g id="edge15" class="edge">
-<title>Node34793&#45;&gt;Node34784</title>
+<title>Node32819&#45;&gt;Node32810</title>
 <path fill="none" stroke="#191970" d="M331.4718,-238C344.9354,-238 358.7535,-238 371.7995,-238"/>
 <polygon fill="#191970" stroke="#191970" points="331.2638,-234.5001 321.2638,-238 331.2637,-241.5001 331.2638,-234.5001"/>
 </g>

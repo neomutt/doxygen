@@ -9,45 +9,45 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 302)">
 <title>smime_invoke</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-302 430,-302 430,4 -4,4"/>
-<!-- Node8774 -->
+<!-- Node6081 -->
 <g id="node1" class="node">
-<title>Node8774</title>
+<title>Node6081</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-136.5 0,-155.5 89,-155.5 89,-136.5 0,-136.5"/>
 <text text-anchor="middle" x="44.5" y="-143.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">smime_invoke</text>
 </g>
-<!-- Node8775 -->
+<!-- Node6082 -->
 <g id="node2" class="node">
-<title>Node8775</title>
+<title>Node6082</title>
 <g id="a_node2"><a xlink:href="smime_8c.html#a80d0e4b33ccca578f545a037ca3f23e2" target="_top" xlink:title="Process an email containing certificates. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="125,-278.5 125,-297.5 271,-297.5 271,-278.5 125,-278.5"/>
 <text text-anchor="middle" x="198" y="-285.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">smime_handle_cert_email</text>
 </a>
 </g>
 </g>
-<!-- Node8774&#45;&gt;Node8775 -->
+<!-- Node6081&#45;&gt;Node6082 -->
 <g id="edge1" class="edge">
-<title>Node8774&#45;&gt;Node8775</title>
+<title>Node6081&#45;&gt;Node6082</title>
 <path fill="none" stroke="#191970" d="M51.8573,-165.3587C63.2662,-192.7143 87.8548,-242.3157 125,-269 130.4243,-272.8967 136.5846,-275.9949 142.9724,-278.4581"/>
 <polygon fill="#191970" stroke="#191970" points="54.976,-163.7311 48.0121,-155.7464 48.4767,-166.3311 54.976,-163.7311"/>
 </g>
-<!-- Node8777 -->
+<!-- Node6084 -->
 <g id="node3" class="node">
-<title>Node8777</title>
+<title>Node6084</title>
 <g id="a_node3"><a xlink:href="smime_8c.html#a3ddf6cf5decc624039355297347d7544" target="_top" xlink:title="Extract an SMIME certificate from a file. ">
 <polygon fill="#ffffff" stroke="#000000" points="126,-240.5 126,-259.5 270,-259.5 270,-240.5 126,-240.5"/>
 <text text-anchor="middle" x="198" y="-247.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">smime_extract_certificate</text>
 </a>
 </g>
 </g>
-<!-- Node8774&#45;&gt;Node8777 -->
+<!-- Node6081&#45;&gt;Node6084 -->
 <g id="edge2" class="edge">
-<title>Node8774&#45;&gt;Node8777</title>
+<title>Node6081&#45;&gt;Node6084</title>
 <path fill="none" stroke="#191970" d="M57.9684,-163.5489C72.649,-181.5686 97.7164,-209.2738 125,-226 135.0089,-232.136 146.7627,-236.8894 157.879,-240.4857"/>
 <polygon fill="#191970" stroke="#191970" points="60.5922,-161.2248 51.6318,-155.5714 55.111,-165.5787 60.5922,-161.2248"/>
 </g>
-<!-- Node8778 -->
+<!-- Node6085 -->
 <g id="node4" class="node">
-<title>Node8778</title>
+<title>Node6085</title>
 <g id="a_node4"><a xlink:href="smime_8h.html#a523926006764a23ce6227f7b96f34a6f" target="_top" xlink:title="Implements CryptModuleSpecs::smime_invoke_import() ">
 <polygon fill="#ffffff" stroke="#000000" points="307,-216 307,-246 426,-246 426,-216 307,-216"/>
 <text text-anchor="start" x="315" y="-234" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">smime_class_invoke</text>
@@ -55,15 +55,15 @@
 </a>
 </g>
 </g>
-<!-- Node8774&#45;&gt;Node8778 -->
+<!-- Node6081&#45;&gt;Node6085 -->
 <g id="edge5" class="edge">
-<title>Node8774&#45;&gt;Node8778</title>
+<title>Node6081&#45;&gt;Node6085</title>
 <path fill="none" stroke="#191970" d="M65.8139,-161.4225C81.445,-171.9689 103.5908,-185.3722 125,-193 184.7718,-214.296 257.0926,-223.6783 306.9211,-227.7991"/>
 <polygon fill="#191970" stroke="#191970" points="67.6319,-158.4242 57.4181,-155.6082 63.6465,-164.179 67.6319,-158.4242"/>
 </g>
-<!-- Node8779 -->
+<!-- Node6086 -->
 <g id="node5" class="node">
-<title>Node8779</title>
+<title>Node6086</title>
 <g id="a_node5"><a xlink:href="smime_8c.html#a6abf4830e1ec7e63fd0c04ecd23efc28" target="_top" xlink:title="Extract the signer&#39;s certificate. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="135.5,-153 135.5,-183 260.5,-183 260.5,-153 135.5,-153"/>
 <text text-anchor="start" x="143.5" y="-171" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">smime_extract_signer</text>
@@ -71,75 +71,75 @@
 </a>
 </g>
 </g>
-<!-- Node8774&#45;&gt;Node8779 -->
+<!-- Node6081&#45;&gt;Node6086 -->
 <g id="edge4" class="edge">
-<title>Node8774&#45;&gt;Node8779</title>
+<title>Node6081&#45;&gt;Node6086</title>
 <path fill="none" stroke="#191970" d="M99.3666,-153.8636C111.0604,-155.5396 123.4937,-157.3216 135.4507,-159.0353"/>
 <polygon fill="#191970" stroke="#191970" points="99.7066,-150.3767 89.3112,-152.4225 98.7135,-157.3059 99.7066,-150.3767"/>
 </g>
-<!-- Node8780 -->
+<!-- Node6087 -->
 <g id="node6" class="node">
-<title>Node8780</title>
+<title>Node6087</title>
 <g id="a_node6"><a xlink:href="smime_8c.html#adffec9377e19186fd331cf38f2226bb9" target="_top" xlink:title="Use SMIME to encrypt a file. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="132.5,-114.5 132.5,-133.5 263.5,-133.5 263.5,-114.5 132.5,-114.5"/>
 <text text-anchor="middle" x="198" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">smime_invoke_encrypt</text>
 </a>
 </g>
 </g>
-<!-- Node8774&#45;&gt;Node8780 -->
+<!-- Node6081&#45;&gt;Node6087 -->
 <g id="edge6" class="edge">
-<title>Node8774&#45;&gt;Node8780</title>
+<title>Node6081&#45;&gt;Node6087</title>
 <path fill="none" stroke="#191970" d="M99.334,-138.1411C110.0171,-136.6099 121.3185,-134.9902 132.3108,-133.4147"/>
 <polygon fill="#191970" stroke="#191970" points="98.7135,-134.6941 89.3112,-139.5775 99.7066,-141.6233 98.7135,-134.6941"/>
 </g>
-<!-- Node8782 -->
+<!-- Node6089 -->
 <g id="node7" class="node">
-<title>Node8782</title>
+<title>Node6089</title>
 <g id="a_node7"><a xlink:href="smime_8c.html#a302ddcf352fd3fc5d5928a7543781b46" target="_top" xlink:title="Use SMIME to sign a file. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="141,-76.5 141,-95.5 255,-95.5 255,-76.5 141,-76.5"/>
 <text text-anchor="middle" x="198" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">smime_invoke_sign</text>
 </a>
 </g>
 </g>
-<!-- Node8774&#45;&gt;Node8782 -->
+<!-- Node6081&#45;&gt;Node6089 -->
 <g id="edge7" class="edge">
-<title>Node8774&#45;&gt;Node8782</title>
+<title>Node6081&#45;&gt;Node6089</title>
 <path fill="none" stroke="#191970" d="M69.6521,-131.4059C85.2118,-122.8326 105.8147,-112.2839 125,-105 134.5497,-101.3744 145.0569,-98.1943 155.0517,-95.5248"/>
 <polygon fill="#191970" stroke="#191970" points="67.6831,-128.4973 60.6736,-136.4419 71.1075,-134.6025 67.6831,-128.4973"/>
 </g>
-<!-- Node8784 -->
+<!-- Node6091 -->
 <g id="node8" class="node">
-<title>Node8784</title>
+<title>Node6091</title>
 <g id="a_node8"><a xlink:href="smime_8c.html#a78f4b26aa7184098db006fdc8eb96ae4" target="_top" xlink:title="Use SMIME to verify a file. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="137,-38.5 137,-57.5 259,-57.5 259,-38.5 137,-38.5"/>
 <text text-anchor="middle" x="198" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">smime_invoke_verify</text>
 </a>
 </g>
 </g>
-<!-- Node8774&#45;&gt;Node8784 -->
+<!-- Node6081&#45;&gt;Node6091 -->
 <g id="edge8" class="edge">
-<title>Node8774&#45;&gt;Node8784</title>
+<title>Node6081&#45;&gt;Node6091</title>
 <path fill="none" stroke="#191970" d="M57.8119,-128.3322C72.3634,-110.2591 97.3257,-82.6733 125,-67 131.8371,-63.1278 139.4794,-60.027 147.1737,-57.5487"/>
 <polygon fill="#191970" stroke="#191970" points="54.9464,-126.3147 51.5384,-136.3465 60.4584,-130.6295 54.9464,-126.3147"/>
 </g>
-<!-- Node8789 -->
+<!-- Node6096 -->
 <g id="node9" class="node">
-<title>Node8789</title>
+<title>Node6096</title>
 <g id="a_node9"><a xlink:href="smime_8c.html#a8eb0f60e2b6099bf5cacf6d39d821e1f" target="_top" xlink:title="Use SMIME to decrypt a file. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="132.5,-.5 132.5,-19.5 263.5,-19.5 263.5,-.5 132.5,-.5"/>
 <text text-anchor="middle" x="198" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">smime_invoke_decrypt</text>
 </a>
 </g>
 </g>
-<!-- Node8774&#45;&gt;Node8789 -->
+<!-- Node6081&#45;&gt;Node6096 -->
 <g id="edge9" class="edge">
-<title>Node8774&#45;&gt;Node8789</title>
+<title>Node6081&#45;&gt;Node6096</title>
 <path fill="none" stroke="#191970" d="M52.2916,-127.1942C64.0904,-101.0882 88.9962,-54.2381 125,-29 130.5763,-25.0911 136.8991,-21.9863 143.4352,-19.5202"/>
 <polygon fill="#191970" stroke="#191970" points="49.0689,-125.8285 48.2905,-136.3947 55.4882,-128.6201 49.0689,-125.8285"/>
 </g>
-<!-- Node8777&#45;&gt;Node8778 -->
+<!-- Node6084&#45;&gt;Node6085 -->
 <g id="edge3" class="edge">
-<title>Node8777&#45;&gt;Node8778</title>
+<title>Node6084&#45;&gt;Node6085</title>
 <path fill="none" stroke="#191970" d="M280.4418,-240.7039C289.332,-239.7014 298.2491,-238.696 306.7968,-237.7321"/>
 <polygon fill="#191970" stroke="#191970" points="279.9819,-237.2335 270.4371,-241.832 280.7663,-244.1894 279.9819,-237.2335"/>
 </g>

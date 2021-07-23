@@ -9,156 +9,156 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 346)">
 <title>mutt_str_pretty_size</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-346 405,-346 405,4 -4,4"/>
-<!-- Node26249 -->
+<!-- Node25707 -->
 <g id="node1" class="node">
-<title>Node26249</title>
+<title>Node25707</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-170.5 0,-189.5 117,-189.5 117,-170.5 0,-170.5"/>
 <text text-anchor="middle" x="58.5" y="-177.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_str_pretty_size</text>
 </g>
-<!-- Node26250 -->
+<!-- Node25708 -->
 <g id="node2" class="node">
-<title>Node26250</title>
-<g id="a_node2"><a xlink:href="browser_8c.html#a521fce142a7a9c2761988fcfebeceac0" target="_top" xlink:title="Format a string for the folder browser &#45; Implements format_t. ">
+<title>Node25708</title>
+<g id="a_node2"><a xlink:href="group__expando__api.html#ga521fce142a7a9c2761988fcfebeceac0" target="_top" xlink:title="Format a string for the folder browser &#45; Implements format_t &#45;Expando Description &#160;%C Current file nu...">
 <polygon fill="#ffffff" stroke="#ff0000" points="166.5,-322.5 166.5,-341.5 267.5,-341.5 267.5,-322.5 166.5,-322.5"/>
 <text text-anchor="middle" x="217" y="-329.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">folder_format_str</text>
 </a>
 </g>
 </g>
-<!-- Node26249&#45;&gt;Node26250 -->
+<!-- Node25707&#45;&gt;Node25708 -->
 <g id="edge1" class="edge">
-<title>Node26249&#45;&gt;Node26250</title>
+<title>Node25707&#45;&gt;Node25708</title>
 <path fill="none" stroke="#191970" d="M66.9803,-199.1215C80.8033,-228.0939 110.934,-282.917 153,-313 158.3738,-316.843 164.5274,-319.9166 170.8472,-322.3729"/>
 <polygon fill="#191970" stroke="#191970" points="70.0043,-197.3214 62.6336,-189.7107 63.6494,-200.2567 70.0043,-197.3214"/>
 </g>
-<!-- Node26817 -->
+<!-- Node26329 -->
 <g id="node3" class="node">
-<title>Node26817</title>
-<g id="a_node3"><a xlink:href="cbar_8c.html#ac48dc934e7245d47d1a4feb8459ccb81" target="_top" xlink:title="Create the status bar string for compose mode &#45; Implements format_t. ">
+<title>Node26329</title>
+<g id="a_node3"><a xlink:href="group__expando__api.html#gac48dc934e7245d47d1a4feb8459ccb81" target="_top" xlink:title="Create the status bar string for compose mode &#45; Implements format_t &#45;Expando Description &#160;%a Total nu...">
 <polygon fill="#ffffff" stroke="#ff0000" points="158.5,-284.5 158.5,-303.5 275.5,-303.5 275.5,-284.5 158.5,-284.5"/>
 <text text-anchor="middle" x="217" y="-291.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">compose_format_str</text>
 </a>
 </g>
 </g>
-<!-- Node26249&#45;&gt;Node26817 -->
+<!-- Node25707&#45;&gt;Node26329 -->
 <g id="edge2" class="edge">
-<title>Node26249&#45;&gt;Node26817</title>
+<title>Node25707&#45;&gt;Node26329</title>
 <path fill="none" stroke="#191970" d="M71.6496,-197.8602C88.2897,-219.225 118.9204,-254.6498 153,-275 159.3688,-278.803 166.5532,-281.8921 173.7473,-284.3864"/>
 <polygon fill="#191970" stroke="#191970" points="74.2447,-195.4907 65.4054,-189.6497 68.6729,-199.7281 74.2447,-195.4907"/>
 </g>
-<!-- Node26821 -->
+<!-- Node26333 -->
 <g id="node4" class="node">
-<title>Node26821</title>
+<title>Node26333</title>
 <g id="a_node4"><a xlink:href="handler_8c.html#a65fb47883fc038b1b14a50c8064d5407" target="_top" xlink:title="Print a separator for the Mime part. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="173.5,-246.5 173.5,-265.5 260.5,-265.5 260.5,-246.5 173.5,-246.5"/>
 <text text-anchor="middle" x="217" y="-253.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">print_part_line</text>
 </a>
 </g>
 </g>
-<!-- Node26249&#45;&gt;Node26821 -->
+<!-- Node25707&#45;&gt;Node26333 -->
 <g id="edge3" class="edge">
-<title>Node26249&#45;&gt;Node26821</title>
+<title>Node25707&#45;&gt;Node26333</title>
 <path fill="none" stroke="#191970" d="M80.3399,-195.3736C98.9573,-207.9299 126.7899,-225.4312 153,-237 161.1647,-240.6038 170.2078,-243.7586 178.8623,-246.4085"/>
 <polygon fill="#191970" stroke="#191970" points="82.2166,-192.4168 71.9882,-189.6545 78.2616,-198.1925 82.2166,-192.4168"/>
 </g>
-<!-- Node26822 -->
+<!-- Node26334 -->
 <g id="node5" class="node">
-<title>Node26822</title>
+<title>Node26334</title>
 <g id="a_node5"><a xlink:href="handler_8c.html#ad7c0b64ef51b02bbc7139ae162236355" target="_top" xlink:title="Handler for external&#45;body emails &#45; Implements handler_t. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="153,-208.5 153,-227.5 281,-227.5 281,-208.5 153,-208.5"/>
 <text text-anchor="middle" x="217" y="-215.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">external_body_handler</text>
 </a>
 </g>
 </g>
-<!-- Node26249&#45;&gt;Node26822 -->
+<!-- Node25707&#45;&gt;Node26334 -->
 <g id="edge4" class="edge">
-<title>Node26249&#45;&gt;Node26822</title>
+<title>Node25707&#45;&gt;Node26334</title>
 <path fill="none" stroke="#191970" d="M108.4191,-191.968C130.6304,-197.2931 156.4205,-203.4762 177.2914,-208.4799"/>
 <polygon fill="#191970" stroke="#191970" points="109.0367,-188.5169 98.4962,-189.589 107.4047,-195.324 109.0367,-188.5169"/>
 </g>
-<!-- Node26524 -->
+<!-- Node26018 -->
 <g id="node6" class="node">
-<title>Node26524</title>
-<g id="a_node6"><a xlink:href="hdrline_8c.html#afa87b03d9a383088d6db0c417f79da92" target="_top" xlink:title="Format a string for the index list &#45; Implements format_t. ">
+<title>Node26018</title>
+<g id="a_node6"><a xlink:href="group__expando__api.html#gafa87b03d9a383088d6db0c417f79da92" target="_top" xlink:title="Format a string for the index list &#45; Implements format_t &#45;Expando Description &#160;%a Address of the auth...">
 <polygon fill="#ffffff" stroke="#ff0000" points="167,-170.5 167,-189.5 267,-189.5 267,-170.5 167,-170.5"/>
 <text text-anchor="middle" x="217" y="-177.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">index_format_str</text>
 </a>
 </g>
 </g>
-<!-- Node26249&#45;&gt;Node26524 -->
+<!-- Node25707&#45;&gt;Node26018 -->
 <g id="edge5" class="edge">
-<title>Node26249&#45;&gt;Node26524</title>
+<title>Node25707&#45;&gt;Node26018</title>
 <path fill="none" stroke="#191970" d="M127.1409,-180C140.4483,-180 154.1622,-180 166.745,-180"/>
 <polygon fill="#191970" stroke="#191970" points="127.0693,-176.5001 117.0692,-180 127.0692,-183.5001 127.0693,-176.5001"/>
 </g>
-<!-- Node26823 -->
+<!-- Node26335 -->
 <g id="node7" class="node">
-<title>Node26823</title>
+<title>Node26335</title>
 <g id="a_node7"><a xlink:href="progress_8c.html#a7373bbf71548c41b082a305b3346727a" target="_top" xlink:title="Update the state of the progress bar. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="168,-132.5 168,-151.5 266,-151.5 266,-132.5 168,-132.5"/>
 <text text-anchor="middle" x="217" y="-139.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">progress_update</text>
 </a>
 </g>
 </g>
-<!-- Node26249&#45;&gt;Node26823 -->
+<!-- Node25707&#45;&gt;Node26335 -->
 <g id="edge6" class="edge">
-<title>Node26249&#45;&gt;Node26823</title>
+<title>Node25707&#45;&gt;Node26335</title>
 <path fill="none" stroke="#191970" d="M108.4191,-168.032C130.6304,-162.7069 156.4205,-156.5238 177.2914,-151.5201"/>
 <polygon fill="#191970" stroke="#191970" points="107.4047,-164.676 98.4962,-170.411 109.0367,-171.4831 107.4047,-164.676"/>
 </g>
-<!-- Node26830 -->
+<!-- Node26343 -->
 <g id="node8" class="node">
-<title>Node26830</title>
+<title>Node26343</title>
 <g id="a_node8"><a xlink:href="progress_8c.html#aba05e74a07a772a1336c0a19ea174614" target="_top" xlink:title="Create a new Progress Bar. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="317,-113.5 317,-132.5 401,-132.5 401,-113.5 317,-113.5"/>
 <text text-anchor="middle" x="359" y="-120.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">progress_new</text>
 </a>
 </g>
 </g>
-<!-- Node26249&#45;&gt;Node26830 -->
+<!-- Node25707&#45;&gt;Node26343 -->
 <g id="edge8" class="edge">
-<title>Node26249&#45;&gt;Node26830</title>
+<title>Node25707&#45;&gt;Node26343</title>
 <path fill="none" stroke="#191970" d="M77.7711,-164.0169C95.8968,-150.0997 124.447,-130.9446 153,-123 207.9558,-107.7091 274.3981,-111.4721 316.6805,-116.4818"/>
 <polygon fill="#191970" stroke="#191970" points="75.4282,-161.4074 69.7561,-170.3561 79.7707,-166.8978 75.4282,-161.4074"/>
 </g>
-<!-- Node26532 -->
+<!-- Node26026 -->
 <g id="node9" class="node">
-<title>Node26532</title>
-<g id="a_node9"><a xlink:href="recvattach_8h.html#a15aa67845d7281e3b5263c24dcf75d0c" target="_top" xlink:title="Format a string for the attachment menu &#45; Implements format_t. ">
+<title>Node26026</title>
+<g id="a_node9"><a xlink:href="group__expando__api.html#ga15aa67845d7281e3b5263c24dcf75d0c" target="_top" xlink:title="Format a string for the attachment menu &#45; Implements format_t &#45;Expando Description &#160;%C Character set ...">
 <polygon fill="#ffffff" stroke="#ff0000" points="165,-38.5 165,-57.5 269,-57.5 269,-38.5 165,-38.5"/>
 <text text-anchor="middle" x="217" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">attach_format_str</text>
 </a>
 </g>
 </g>
-<!-- Node26249&#45;&gt;Node26532 -->
+<!-- Node25707&#45;&gt;Node26026 -->
 <g id="edge9" class="edge">
-<title>Node26249&#45;&gt;Node26532</title>
+<title>Node25707&#45;&gt;Node26026</title>
 <path fill="none" stroke="#191970" d="M74.3224,-163.2048C92.4592,-144.3752 123.4973,-113.4162 153,-90 168.4064,-77.772 187.3898,-65.6451 200.665,-57.5892"/>
 <polygon fill="#191970" stroke="#191970" points="71.7556,-160.8248 67.3814,-170.4746 76.8185,-165.6588 71.7556,-160.8248"/>
 </g>
-<!-- Node26507 -->
+<!-- Node25996 -->
 <g id="node10" class="node">
-<title>Node26507</title>
-<g id="a_node10"><a xlink:href="status_8c.html#a687a918a49621a9f1bef52801def2308" target="_top" xlink:title="Create the status bar string &#45; Implements format_t. ">
+<title>Node25996</title>
+<g id="a_node10"><a xlink:href="group__expando__api.html#ga687a918a49621a9f1bef52801def2308" target="_top" xlink:title="Create the status bar string &#45; Implements format_t &#45;Expando Description &#160;%b Number of incoming folder...">
 <polygon fill="#ffffff" stroke="#ff0000" points="165.5,-.5 165.5,-19.5 268.5,-19.5 268.5,-.5 165.5,-.5"/>
 <text text-anchor="middle" x="217" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">status_format_str</text>
 </a>
 </g>
 </g>
-<!-- Node26249&#45;&gt;Node26507 -->
+<!-- Node25707&#45;&gt;Node25996 -->
 <g id="edge11" class="edge">
-<title>Node26249&#45;&gt;Node26507</title>
+<title>Node25707&#45;&gt;Node25996</title>
 <path fill="none" stroke="#191970" d="M68.0393,-161.3042C86.8631,-125.0661 129.0352,-47.2217 153,-29 158.0745,-25.1416 163.9226,-22.0641 169.9777,-19.6101"/>
 <polygon fill="#191970" stroke="#191970" points="64.8537,-159.8454 63.3838,-170.3378 71.076,-163.0522 64.8537,-159.8454"/>
 </g>
-<!-- Node26823&#45;&gt;Node26830 -->
+<!-- Node26335&#45;&gt;Node26343 -->
 <g id="edge7" class="edge">
-<title>Node26823&#45;&gt;Node26830</title>
+<title>Node26335&#45;&gt;Node26343</title>
 <path fill="none" stroke="#191970" d="M276.5022,-134.0384C290.0791,-132.2218 304.2323,-130.3281 316.9042,-128.6325"/>
 <polygon fill="#191970" stroke="#191970" points="275.7137,-130.6127 266.2662,-135.408 276.6421,-137.5508 275.7137,-130.6127"/>
 </g>
-<!-- Node26532&#45;&gt;Node26532 -->
+<!-- Node26026&#45;&gt;Node26026 -->
 <g id="edge10" class="edge">
-<title>Node26532&#45;&gt;Node26532</title>
+<title>Node26026&#45;&gt;Node26026</title>
 <path fill="none" stroke="#191970" d="M190.4941,-66.6539C191.6021,-71.9368 200.4374,-76 217,-76 242.2383,-76 249.5337,-66.5653 238.8863,-57.7571"/>
 <polygon fill="#191970" stroke="#191970" points="193.6117,-68.2449 195.1137,-57.7571 187.3992,-65.0192 193.6117,-68.2449"/>
 </g>

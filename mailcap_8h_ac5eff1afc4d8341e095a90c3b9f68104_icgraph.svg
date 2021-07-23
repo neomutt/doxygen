@@ -9,99 +9,99 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 214)">
 <title>mailcap_expand_command</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-214 342,-214 342,4 -4,4"/>
-<!-- Node1181 -->
+<!-- Node1289 -->
 <g id="node1" class="node">
-<title>Node1181</title>
+<title>Node1289</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-95.5 0,-114.5 151,-114.5 151,-95.5 0,-95.5"/>
 <text text-anchor="middle" x="75.5" y="-102.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mailcap_expand_command</text>
 </g>
-<!-- Node1182 -->
+<!-- Node1290 -->
 <g id="node2" class="node">
-<title>Node1182</title>
+<title>Node1290</title>
 <g id="a_node2"><a xlink:href="handler_8c.html#a4019b110ff53c32c7779c33209b7ebb1" target="_top" xlink:title="Handler for autoviewable attachments &#45; Implements handler_t. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="210.5,-190.5 210.5,-209.5 314.5,-209.5 314.5,-190.5 210.5,-190.5"/>
 <text text-anchor="middle" x="262.5" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">autoview_handler</text>
 </a>
 </g>
 </g>
-<!-- Node1181&#45;&gt;Node1182 -->
+<!-- Node1289&#45;&gt;Node1290 -->
 <g id="edge1" class="edge">
-<title>Node1181&#45;&gt;Node1182</title>
+<title>Node1289&#45;&gt;Node1290</title>
 <path fill="none" stroke="#191970" d="M94.635,-121.1772C115.8976,-138.3728 151.8811,-165.2153 187,-181 195.3832,-184.768 204.6399,-187.8748 213.7145,-190.4058"/>
 <polygon fill="#191970" stroke="#191970" points="96.6726,-118.3213 86.7256,-114.6732 92.2265,-123.728 96.6726,-118.3213"/>
 </g>
-<!-- Node1551 -->
+<!-- Node1708 -->
 <g id="node3" class="node">
-<title>Node1551</title>
+<title>Node1708</title>
 <g id="a_node3"><a xlink:href="mailcap_8c.html#a5dfe54f8a085654fe55107a3df120abf" target="_top" xlink:title="Parse a mailcap entry. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="197.5,-152.5 197.5,-171.5 327.5,-171.5 327.5,-152.5 197.5,-152.5"/>
 <text text-anchor="middle" x="262.5" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">rfc1524_mailcap_parse</text>
 </a>
 </g>
 </g>
-<!-- Node1181&#45;&gt;Node1551 -->
+<!-- Node1289&#45;&gt;Node1708 -->
 <g id="edge2" class="edge">
-<title>Node1181&#45;&gt;Node1551</title>
+<title>Node1289&#45;&gt;Node1708</title>
 <path fill="none" stroke="#191970" d="M110.942,-117.9083C132.7379,-125.639 161.3196,-135.4065 187,-143 198.2766,-146.3344 210.6084,-149.5968 221.9758,-152.4511"/>
 <polygon fill="#191970" stroke="#191970" points="112.0345,-114.582 101.4399,-114.5148 109.6802,-121.1742 112.0345,-114.582"/>
 </g>
-<!-- Node1303 -->
+<!-- Node1443 -->
 <g id="node4" class="node">
-<title>Node1303</title>
+<title>Node1443</title>
 <g id="a_node4"><a xlink:href="mutt__attach_8h.html#acf4b24753bffc9e93f0ec9c157c850fe" target="_top" xlink:title="Create an attachment. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="187,-114.5 187,-133.5 338,-133.5 338,-114.5 187,-114.5"/>
 <text text-anchor="middle" x="262.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_compose_attachment</text>
 </a>
 </g>
 </g>
-<!-- Node1181&#45;&gt;Node1303 -->
+<!-- Node1289&#45;&gt;Node1443 -->
 <g id="edge3" class="edge">
-<title>Node1181&#45;&gt;Node1303</title>
+<title>Node1289&#45;&gt;Node1443</title>
 <path fill="none" stroke="#191970" d="M161.0184,-113.689C169.5847,-114.5594 178.241,-115.4389 186.6969,-116.2981"/>
 <polygon fill="#191970" stroke="#191970" points="161.3236,-110.2021 151.021,-112.6733 160.616,-117.1663 161.3236,-110.2021"/>
 </g>
-<!-- Node1304 -->
+<!-- Node1444 -->
 <g id="node5" class="node">
-<title>Node1304</title>
+<title>Node1444</title>
 <g id="a_node5"><a xlink:href="mutt__attach_8h.html#adef1563a136b685ed418f12a6228ef42" target="_top" xlink:title="Edit an attachment. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="200,-76.5 200,-95.5 325,-95.5 325,-76.5 200,-76.5"/>
 <text text-anchor="middle" x="262.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_edit_attachment</text>
 </a>
 </g>
 </g>
-<!-- Node1181&#45;&gt;Node1304 -->
+<!-- Node1289&#45;&gt;Node1444 -->
 <g id="edge4" class="edge">
-<title>Node1181&#45;&gt;Node1304</title>
+<title>Node1289&#45;&gt;Node1444</title>
 <path fill="none" stroke="#191970" d="M160.9799,-96.3149C174.0793,-94.9839 187.3903,-93.6315 199.8742,-92.3631"/>
 <polygon fill="#191970" stroke="#191970" points="160.616,-92.8337 151.021,-97.3267 161.3236,-99.7979 160.616,-92.8337"/>
 </g>
-<!-- Node1237 -->
+<!-- Node1379 -->
 <g id="node6" class="node">
-<title>Node1237</title>
+<title>Node1379</title>
 <g id="a_node6"><a xlink:href="mutt__attach_8h.html#accdda994ba4457544dcf9ae681cfb6b9" target="_top" xlink:title="View an attachment. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="197.5,-38.5 197.5,-57.5 327.5,-57.5 327.5,-38.5 197.5,-38.5"/>
 <text text-anchor="middle" x="262.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_view_attachment</text>
 </a>
 </g>
 </g>
-<!-- Node1181&#45;&gt;Node1237 -->
+<!-- Node1289&#45;&gt;Node1379 -->
 <g id="edge5" class="edge">
-<title>Node1181&#45;&gt;Node1237</title>
+<title>Node1289&#45;&gt;Node1379</title>
 <path fill="none" stroke="#191970" d="M110.942,-92.0917C132.7379,-84.361 161.3196,-74.5935 187,-67 198.2766,-63.6656 210.6084,-60.4032 221.9758,-57.5489"/>
 <polygon fill="#191970" stroke="#191970" points="109.6802,-88.8258 101.4399,-95.4852 112.0345,-95.418 109.6802,-88.8258"/>
 </g>
-<!-- Node1239 -->
+<!-- Node1381 -->
 <g id="node7" class="node">
-<title>Node1239</title>
+<title>Node1381</title>
 <g id="a_node7"><a xlink:href="mutt__attach_8h.html#a55e06a71a4e4180b7279d5eb5439d9d5" target="_top" xlink:title="Print out an attachment. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="198,-.5 198,-19.5 327,-19.5 327,-.5 198,-.5"/>
 <text text-anchor="middle" x="262.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_print_attachment</text>
 </a>
 </g>
 </g>
-<!-- Node1181&#45;&gt;Node1239 -->
+<!-- Node1289&#45;&gt;Node1381 -->
 <g id="edge6" class="edge">
-<title>Node1181&#45;&gt;Node1239</title>
+<title>Node1289&#45;&gt;Node1381</title>
 <path fill="none" stroke="#191970" d="M94.635,-88.8228C115.8976,-71.6272 151.8811,-44.7847 187,-29 195.3832,-25.232 204.6399,-22.1252 213.7145,-19.5942"/>
 <polygon fill="#191970" stroke="#191970" points="92.2265,-86.272 86.7256,-95.3268 96.6726,-91.6787 92.2265,-86.272"/>
 </g>

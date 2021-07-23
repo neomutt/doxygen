@@ -32,7 +32,7 @@
   <td id="projectalign" style="padding-left: 0.5em;">
    <a style="color: black; text-decoration: none;" href="https://neomutt.org">
    <div id="projectname">NeoMutt
-   &#160;<span id="projectnumber">2021-02-05-584-gb5c7a7</span>
+   &#160;<span id="projectnumber">2021-02-05-647-g5d4e00</span>
    </div>
    <div id="projectbrief">Teaching an old dog new tricks</div>
    </a>
@@ -91,26 +91,21 @@ $(document).ready(function(){initNavTree('nntp_nntp.html','');});
 <div class="title">Usenet network mailbox type; talk to an NNTP server </div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><table class="doxtable">
-<tr>
-<th align="left">Data </th><th align="left">Description  </th></tr>
-<tr>
-<td align="left"><a class="el" href="nntp_8c.html#a94647e4d7fc43a4cbaa0f477545f478d" title="NNTP Mailbox - Implements MxOps. ">MxNntpOps</a> - NNTP <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> </td><td align="left">Implements <a class="el" href="structMxOps.html" title="The Mailbox API. ">MxOps</a> </td></tr>
-</table>
-<p>Usenet network mailbox type; talk to an NNTP server</p>
+<div class="textblock"><p>Usenet network mailbox type; talk to an NNTP server</p>
+<p>Implementation: <a class="el" href="group__mx__api.html#ga94647e4d7fc43a4cbaa0f477545f478d" title="NNTP Mailbox - Implements MxOps -. ">MxNntpOps</a></p>
 <table class="doxtable">
 <tr>
 <th align="left">Data </th><th align="left">Description  </th></tr>
 <tr>
-<td align="left"><a class="el" href="nntp_8c.html#a94647e4d7fc43a4cbaa0f477545f478d" title="NNTP Mailbox - Implements MxOps. ">MxNntpOps</a> - NNTP <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> </td><td align="left">Implements <a class="el" href="structMxOps.html" title="The Mailbox API. ">MxOps</a> </td></tr>
+<td align="left"><a class="el" href="group__mx__api.html#ga94647e4d7fc43a4cbaa0f477545f478d" title="NNTP Mailbox - Implements MxOps -. ">MxNntpOps</a> - NNTP <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> - Implements <a class="el" href="structMxOps.html">MxOps</a> </td><td align="left"></td></tr>
 </table>
 <table class="doxtable">
 <tr>
 <th align="left">Function </th><th align="left">Description  </th></tr>
 <tr>
-<td align="left"><a class="el" href="nntp_8c.html#a282b1f99e567cf55a77416df7a1a3ff2" title="Add a Mailbox to an Account - Implements MxOps::ac_add() ">nntp_ac_add()</a> </td><td align="left">Add a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> to an <a class="el" href="structAccount.html" title="A group of associated Mailboxes. ">Account</a> - Implements <a class="el" href="structMxOps.html#ac432a4900b0ca5a5ca2dc98319dbf737" title="Add a Mailbox to an Account. ">MxOps::ac_add()</a> </td></tr>
+<td align="left">nntp_ac_add - Add a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> to an <a class="el" href="structAccount.html" title="A group of associated Mailboxes. ">Account()</a> </td><td align="left">Implements <a class="el" href="structMxOps.html#ac432a4900b0ca5a5ca2dc98319dbf737">MxOps::ac_add()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="nntp_8c.html#a13b08716f53f8c41cf292cb93516c8ae" title="Check whether an Account owns a Mailbox path - Implements MxOps::ac_owns_path() ">nntp_ac_owns_path()</a> </td><td align="left">Check whether an <a class="el" href="structAccount.html" title="A group of associated Mailboxes. ">Account</a> owns a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> path - Implements <a class="el" href="structMxOps.html#a8036f191d1b0ace220c5a5ff52f609b4" title="Check whether an Account owns a Mailbox path. ">MxOps::ac_owns_path()</a> </td></tr>
+<td align="left">nntp_ac_owns_path - Check whether an <a class="el" href="structAccount.html" title="A group of associated Mailboxes. ">Account</a> owns a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> path() </td><td align="left">Implements <a class="el" href="structMxOps.html#a8036f191d1b0ace220c5a5ff52f609b4">MxOps::ac_owns_path()</a> - </td></tr>
 <tr>
 <td align="left"><a class="el" href="nntp_2lib_8h.html#a1782c5df61421b1951f9672b5d78d952" title="Fetch list of all newsgroups from server. ">nntp_active_fetch()</a> </td><td align="left">Fetch list of all newsgroups from server </td></tr>
 <tr>
@@ -142,31 +137,31 @@ $(document).ready(function(){initNavTree('nntp_nntp.html','');});
 <tr>
 <td align="left"><a class="el" href="nntp_8c.html#ad505a03ace5751f770630ef04b839833" title="log a buffer possibly containing NUL bytes ">nntp_log_binbuf()</a> </td><td align="left">log a buffer possibly containing NUL bytes </td></tr>
 <tr>
-<td align="left"><a class="el" href="nntp_8c.html#afc1020d6388163ca2f05c682fac382b6" title="Check for new mail - Implements MxOps::mbox_check() ">nntp_mbox_check()</a> </td><td align="left">Check for new mail - Implements <a class="el" href="structMxOps.html#af72b7c6ef064d1ca86b71ac9aff3e875" title="Check for new mail. ">MxOps::mbox_check()</a> </td></tr>
+<td align="left">nntp_mbox_check - Check for new mail() </td><td align="left">Implements <a class="el" href="structMxOps.html#af72b7c6ef064d1ca86b71ac9aff3e875">MxOps::mbox_check()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="nntp_8c.html#a42193de3e305ffe8cddf243a87d3fd68" title="Close a Mailbox - Implements MxOps::mbox_close() ">nntp_mbox_close()</a> </td><td align="left">Close a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> - Implements <a class="el" href="structMxOps.html#ae97b81d5371def5f6f2e64544cdec5fc" title="Close a Mailbox. ">MxOps::mbox_close()</a> </td></tr>
+<td align="left">nntp_mbox_close - Close a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox()</a> </td><td align="left">Implements <a class="el" href="structMxOps.html#ae97b81d5371def5f6f2e64544cdec5fc">MxOps::mbox_close()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="nntp_8c.html#a958364186e337ca6168094e57f038296" title="Open a Mailbox - Implements MxOps::mbox_open() ">nntp_mbox_open()</a> </td><td align="left">Open a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> - Implements <a class="el" href="structMxOps.html#ac504b1095f3ce15cae85466ab6c7bd45" title="Open a Mailbox. ">MxOps::mbox_open()</a> </td></tr>
+<td align="left">nntp_mbox_open - Open a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox()</a> </td><td align="left">Implements <a class="el" href="structMxOps.html#ac504b1095f3ce15cae85466ab6c7bd45">MxOps::mbox_open()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="nntp_8c.html#a64573e1bd7aca7ae22829562a82ae730" title="Save changes to the Mailbox - Implements MxOps::mbox_sync() ">nntp_mbox_sync()</a> </td><td align="left">Save changes to the <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> - Implements <a class="el" href="structMxOps.html#aebbfeec5651637ec053cc47b95c124af" title="Save changes to the Mailbox. ">MxOps::mbox_sync()</a> </td></tr>
+<td align="left">nntp_mbox_sync - Save changes to the <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox()</a> </td><td align="left">Implements <a class="el" href="structMxOps.html#aebbfeec5651637ec053cc47b95c124af">MxOps::mbox_sync()</a> - </td></tr>
 <tr>
 <td align="left"><a class="el" href="nntp_8c.html#a43fee2e1316142791ba059eaf69cc121" title="look for a char in a binary buf, conveniently ">nntp_memchr()</a> </td><td align="left">look for a char in a binary buf, conveniently </td></tr>
 <tr>
-<td align="left"><a class="el" href="nntp_8c.html#ab50af5211064829ec664f0eab9d29d8c" title="Close an email - Implements MxOps::msg_close() ">nntp_msg_close()</a> </td><td align="left">Close an email - Implements <a class="el" href="structMxOps.html#ad53e3df1ff124eea52bc0488915e9ae4" title="Close an email. ">MxOps::msg_close()</a> </td></tr>
+<td align="left">nntp_msg_close - Close an email() </td><td align="left">Implements <a class="el" href="structMxOps.html#ad53e3df1ff124eea52bc0488915e9ae4">MxOps::msg_close()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="nntp_8c.html#a8172b84fb247cfce5bba309b89154371" title="Open an email message in a Mailbox - Implements MxOps::msg_open() ">nntp_msg_open()</a> </td><td align="left">Open an email message in a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> - Implements <a class="el" href="structMxOps.html#afae8d734bf2f05baf8b45eb69f23a2a8" title="Open an email message in a Mailbox. ">MxOps::msg_open()</a> </td></tr>
+<td align="left">nntp_msg_open - Open an email message in a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox()</a> </td><td align="left">Implements <a class="el" href="structMxOps.html#afae8d734bf2f05baf8b45eb69f23a2a8">MxOps::msg_open()</a> - </td></tr>
 <tr>
 <td align="left"><a class="el" href="nntp_8c.html#abc4e8951366a6bf81d5d4d4ecf5ad4ba" title="Connect to server, authenticate and get capabilities. ">nntp_open_connection()</a> </td><td align="left">Connect to server, authenticate and get capabilities </td></tr>
 <tr>
 <td align="left"><a class="el" href="nntp_8c.html#aba0b869ad5244bb92012df19edef7bd5" title="Parse cross-reference. ">nntp_parse_xref()</a> </td><td align="left">Parse cross-reference </td></tr>
 <tr>
-<td align="left"><a class="el" href="nntp_8c.html#aac42be2729fe43a4e2670c8b96ad98c1" title="Canonicalise a Mailbox path - Implements MxOps::path_canon() ">nntp_path_canon()</a> </td><td align="left">Canonicalise a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> path - Implements <a class="el" href="structMxOps.html#ad7d938f02ba15c08d45128bc2ca00e28" title="Canonicalise a Mailbox path. ">MxOps::path_canon()</a> </td></tr>
+<td align="left">nntp_path_canon - Canonicalise a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> path() </td><td align="left">Implements <a class="el" href="structMxOps.html#ad7d938f02ba15c08d45128bc2ca00e28">MxOps::path_canon()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="nntp_8c.html#ab6105efb3e04e52911719eac64db0ede" title="Find the parent of a Mailbox path - Implements MxOps::path_parent() ">nntp_path_parent()</a> </td><td align="left">Find the parent of a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> path - Implements <a class="el" href="structMxOps.html#a0816dd26eb79c12783e9ac9e7b67ecd9" title="Find the parent of a Mailbox path. ">MxOps::path_parent()</a> </td></tr>
+<td align="left">nntp_path_parent - Find the parent of a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> path() </td><td align="left">Implements <a class="el" href="structMxOps.html#a0816dd26eb79c12783e9ac9e7b67ecd9">MxOps::path_parent()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="nntp_8c.html#ac8727813b904cb4659fb5a5a6747ad4d" title="Abbreviate a Mailbox path - Implements MxOps::path_pretty() ">nntp_path_pretty()</a> </td><td align="left">Abbreviate a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> path - Implements <a class="el" href="structMxOps.html#a3a85067a3d76652ec0014ce520c565db" title="Abbreviate a Mailbox path. ">MxOps::path_pretty()</a> </td></tr>
+<td align="left">nntp_path_pretty - Abbreviate a <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a> path() </td><td align="left">Implements <a class="el" href="structMxOps.html#a3a85067a3d76652ec0014ce520c565db">MxOps::path_pretty()</a> - </td></tr>
 <tr>
-<td align="left"><a class="el" href="nntp_2lib_8h.html#a0af5851670960cce257a6e5f9f9805ff" title="Is this an NNTP Mailbox? - Implements MxOps::path_probe() ">nntp_path_probe()</a> </td><td align="left">Is this an NNTP <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a>? - Implements <a class="el" href="structMxOps.html#a625a6ea0abfdb6620542e26acc499177" title="Does this Mailbox type recognise this path? ">MxOps::path_probe()</a> </td></tr>
+<td align="left">nntp_path_probe - Is this an NNTP <a class="el" href="structMailbox.html" title="A mailbox. ">Mailbox</a>?() </td><td align="left">Implements <a class="el" href="structMxOps.html#a625a6ea0abfdb6620542e26acc499177">MxOps::path_probe()</a> - </td></tr>
 <tr>
 <td align="left"><a class="el" href="nntp_2lib_8h.html#a4cec5b84b23b34587cae72db07ad2d04" title="Post article. ">nntp_post()</a> </td><td align="left">Post article </td></tr>
 <tr>

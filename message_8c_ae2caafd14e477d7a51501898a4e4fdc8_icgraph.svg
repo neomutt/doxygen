@@ -9,39 +9,39 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 62)">
 <title>msg_parse_flags</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-62 238,-62 238,4 -4,4"/>
-<!-- Node1492 -->
+<!-- Node1600 -->
 <g id="node1" class="node">
-<title>Node1492</title>
+<title>Node1600</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-19.5 0,-38.5 98,-38.5 98,-19.5 0,-19.5"/>
 <text text-anchor="middle" x="49" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">msg_parse_flags</text>
 </g>
-<!-- Node1493 -->
+<!-- Node1601 -->
 <g id="node2" class="node">
-<title>Node1493</title>
+<title>Node1601</title>
 <g id="a_node2"><a xlink:href="message_8c.html#a544caf6f7e206bfbd88069d4693443b3" target="_top" xlink:title="handle headers returned from header fetch ">
 <polygon fill="#ffffff" stroke="#ff0000" points="134,-38.5 134,-57.5 234,-57.5 234,-38.5 134,-38.5"/>
 <text text-anchor="middle" x="184" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">msg_parse_fetch</text>
 </a>
 </g>
 </g>
-<!-- Node1492&#45;&gt;Node1493 -->
+<!-- Node1600&#45;&gt;Node1601 -->
 <g id="edge1" class="edge">
-<title>Node1492&#45;&gt;Node1493</title>
+<title>Node1600&#45;&gt;Node1601</title>
 <path fill="none" stroke="#191970" d="M108.0685,-37.3133C116.6442,-38.5203 125.4043,-39.7532 133.7835,-40.9325"/>
 <polygon fill="#191970" stroke="#191970" points="108.5102,-33.8411 98.12,-35.9132 107.5346,-40.7728 108.5102,-33.8411"/>
 </g>
-<!-- Node2059 -->
+<!-- Node2221 -->
 <g id="node3" class="node">
-<title>Node2059</title>
+<title>Node2221</title>
 <g id="a_node3"><a xlink:href="imap_2private_8h.html#a568e8aa0aa74d1941d68b571202aa5af" target="_top" xlink:title="fill the message header according to the server flags ">
 <polygon fill="#ffffff" stroke="#ff0000" points="139,-.5 139,-19.5 229,-19.5 229,-.5 139,-.5"/>
 <text text-anchor="middle" x="184" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">imap_set_flags</text>
 </a>
 </g>
 </g>
-<!-- Node1492&#45;&gt;Node2059 -->
+<!-- Node1600&#45;&gt;Node2221 -->
 <g id="edge2" class="edge">
-<title>Node1492&#45;&gt;Node2059</title>
+<title>Node1600&#45;&gt;Node2221</title>
 <path fill="none" stroke="#191970" d="M108.2283,-20.6642C118.4579,-19.2244 128.9448,-17.7485 138.7301,-16.3713"/>
 <polygon fill="#191970" stroke="#191970" points="107.5346,-17.2272 98.12,-22.0868 108.5102,-24.1589 107.5346,-17.2272"/>
 </g>

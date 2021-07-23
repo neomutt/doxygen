@@ -9,162 +9,162 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 328)">
 <title>nntp_delete_group_cache</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-328 442,-328 442,4 -4,4"/>
-<!-- Node15364 -->
+<!-- Node15670 -->
 <g id="node1" class="node">
-<title>Node15364</title>
+<title>Node15670</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-152.5 0,-171.5 141,-171.5 141,-152.5 0,-152.5"/>
 <text text-anchor="middle" x="70.5" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nntp_delete_group_cache</text>
 </g>
-<!-- Node15365 -->
+<!-- Node15671 -->
 <g id="node2" class="node">
-<title>Node15365</title>
+<title>Node15671</title>
 <g id="a_node2"><a xlink:href="buffer_8c.html#a0242aaa9a400d0722a99828776c0403b" target="_top" xlink:title="Make a new buffer on the stack. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="181,-304.5 181,-323.5 288,-323.5 288,-304.5 181,-304.5"/>
 <text text-anchor="middle" x="234.5" y="-311.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_buffer_make</text>
 </a>
 </g>
 </g>
-<!-- Node15364&#45;&gt;Node15365 -->
+<!-- Node15670&#45;&gt;Node15671 -->
 <g id="edge1" class="edge">
-<title>Node15364&#45;&gt;Node15365</title>
+<title>Node15670&#45;&gt;Node15671</title>
 <path fill="none" stroke="#191970" d="M75.5674,-171.6118C88.8665,-195.9245 127.2047,-260.3918 177,-295 179.849,-296.98 182.9189,-298.7653 186.1055,-300.3732"/>
 <polygon fill="#191970" stroke="#191970" points="184.7475,-303.5996 195.3082,-304.4489 187.5821,-297.1992 184.7475,-303.5996"/>
 </g>
-<!-- Node15368 -->
+<!-- Node15674 -->
 <g id="node3" class="node">
-<title>Node15368</title>
+<title>Node15674</title>
 <g id="a_node3"><a xlink:href="newsrc_8c.html#a2469bc6478c1b4766ed132a2bb1a4018" target="_top" xlink:title="Compose hcache file names &#45; Implements hcache_namer_t. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="177,-266.5 177,-285.5 292,-285.5 292,-266.5 177,-266.5"/>
 <text text-anchor="middle" x="234.5" y="-273.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nntp_hcache_namer</text>
 </a>
 </g>
 </g>
-<!-- Node15364&#45;&gt;Node15368 -->
+<!-- Node15670&#45;&gt;Node15674 -->
 <g id="edge2" class="edge">
-<title>Node15364&#45;&gt;Node15368</title>
+<title>Node15670&#45;&gt;Node15674</title>
 <path fill="none" stroke="#191970" d="M79.7044,-171.5185C97.2637,-189.2575 137.34,-227.7651 177,-252 183.3459,-255.8778 190.4303,-259.4037 197.399,-262.487"/>
 <polygon fill="#191970" stroke="#191970" points="196.1742,-265.7686 206.7497,-266.4088 198.8816,-259.3134 196.1742,-265.7686"/>
 </g>
-<!-- Node15375 -->
+<!-- Node15681 -->
 <g id="node4" class="node">
-<title>Node15375</title>
+<title>Node15681</title>
 <g id="a_node4"><a xlink:href="buffer_8h.html#a4aca040fb75bc1dfc086cbfbf14ac8cd" target="_top" xlink:title="Convert a buffer to a const char * &quot;string&quot;. ">
 <polygon fill="#ffffff" stroke="#000000" points="329.5,-228.5 329.5,-247.5 436.5,-247.5 436.5,-228.5 329.5,-228.5"/>
 <text text-anchor="middle" x="383" y="-235.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_buffer_string</text>
 </a>
 </g>
 </g>
-<!-- Node15364&#45;&gt;Node15375 -->
+<!-- Node15670&#45;&gt;Node15681 -->
 <g id="edge6" class="edge">
-<title>Node15364&#45;&gt;Node15375</title>
+<title>Node15670&#45;&gt;Node15681</title>
 <path fill="none" stroke="#191970" d="M84.1788,-171.6604C103.7252,-184.9012 141.2481,-208.2651 177,-219 223.2983,-232.9015 277.8558,-237.4374 319.1902,-238.6131"/>
 <polygon fill="#191970" stroke="#191970" points="319.3246,-242.1169 329.4009,-238.8432 319.4824,-235.1187 319.3246,-242.1169"/>
 </g>
-<!-- Node15376 -->
+<!-- Node15682 -->
 <g id="node5" class="node">
-<title>Node15376</title>
+<title>Node15682</title>
 <g id="a_node5"><a xlink:href="newsrc_8c.html#a8d3a7328ed6d800fc41fb83e20db792a" target="_top" xlink:title="Make fully qualified cache file name. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="191.5,-190.5 191.5,-209.5 277.5,-209.5 277.5,-190.5 191.5,-190.5"/>
 <text text-anchor="middle" x="234.5" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cache_expand</text>
 </a>
 </g>
 </g>
-<!-- Node15364&#45;&gt;Node15376 -->
+<!-- Node15670&#45;&gt;Node15682 -->
 <g id="edge4" class="edge">
-<title>Node15364&#45;&gt;Node15376</title>
+<title>Node15670&#45;&gt;Node15682</title>
 <path fill="none" stroke="#191970" d="M111.8841,-171.589C133.6232,-176.6261 160.4575,-182.8438 183.4747,-188.1771"/>
 <polygon fill="#191970" stroke="#191970" points="182.8815,-191.6323 193.4135,-190.4799 184.4616,-184.8129 182.8815,-191.6323"/>
 </g>
-<!-- Node15395 -->
+<!-- Node15701 -->
 <g id="node6" class="node">
-<title>Node15395</title>
+<title>Node15701</title>
 <g id="a_node6"><a xlink:href="buffer_8c.html#a59b13bca38b1b314e2bc5ad142d2df49" target="_top" xlink:title="Release the memory allocated by a buffer. ">
 <polygon fill="#ffffff" stroke="#000000" points="177.5,-152.5 177.5,-171.5 291.5,-171.5 291.5,-152.5 177.5,-152.5"/>
 <text text-anchor="middle" x="234.5" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_buffer_dealloc</text>
 </a>
 </g>
 </g>
-<!-- Node15364&#45;&gt;Node15395 -->
+<!-- Node15670&#45;&gt;Node15701 -->
 <g id="edge7" class="edge">
-<title>Node15364&#45;&gt;Node15395</title>
+<title>Node15670&#45;&gt;Node15701</title>
 <path fill="none" stroke="#191970" d="M141.0025,-162C149.7384,-162 158.6518,-162 167.3356,-162"/>
 <polygon fill="#191970" stroke="#191970" points="167.3998,-165.5001 177.3998,-162 167.3997,-158.5001 167.3998,-165.5001"/>
 </g>
-<!-- Node15763 -->
+<!-- Node16069 -->
 <g id="node7" class="node">
-<title>Node15763</title>
+<title>Node16069</title>
 <g id="a_node7"><a xlink:href="bcache_8c.html#a3eba1237cb1746acad5efa0a123a892c" target="_top" xlink:title="Open an Email&#45;Body Cache. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="180,-114.5 180,-133.5 289,-133.5 289,-114.5 180,-114.5"/>
 <text text-anchor="middle" x="234.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_bcache_open</text>
 </a>
 </g>
 </g>
-<!-- Node15364&#45;&gt;Node15763 -->
+<!-- Node15670&#45;&gt;Node16069 -->
 <g id="edge8" class="edge">
-<title>Node15364&#45;&gt;Node15763</title>
+<title>Node15670&#45;&gt;Node16069</title>
 <path fill="none" stroke="#191970" d="M111.8841,-152.411C133.6232,-147.3739 160.4575,-141.1562 183.4747,-135.8229"/>
 <polygon fill="#191970" stroke="#191970" points="184.4616,-139.1871 193.4135,-133.5201 182.8815,-132.3677 184.4616,-139.1871"/>
 </g>
-<!-- Node15765 -->
+<!-- Node16071 -->
 <g id="node8" class="node">
-<title>Node15765</title>
+<title>Node16071</title>
 <g id="a_node8"><a xlink:href="bcache_8c.html#af3a22202fb2135dfb1081cb6e6c5fecb" target="_top" xlink:title="Close an Email&#45;Body Cache. ">
 <polygon fill="#ffffff" stroke="#000000" points="328,-95.5 328,-114.5 438,-114.5 438,-95.5 328,-95.5"/>
 <text text-anchor="middle" x="383" y="-102.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_bcache_close</text>
 </a>
 </g>
 </g>
-<!-- Node15364&#45;&gt;Node15765 -->
+<!-- Node15670&#45;&gt;Node16071 -->
 <g id="edge12" class="edge">
-<title>Node15364&#45;&gt;Node15765</title>
+<title>Node15670&#45;&gt;Node16071</title>
 <path fill="none" stroke="#191970" d="M83.4049,-152.3395C102.6082,-138.6318 140.3856,-114.182 177,-105 223.0506,-93.4516 276.7349,-93.8802 317.7529,-96.9696"/>
 <polygon fill="#191970" stroke="#191970" points="317.642,-100.4723 327.896,-97.8067 318.2178,-93.496 317.642,-100.4723"/>
 </g>
-<!-- Node16784 -->
+<!-- Node17097 -->
 <g id="node9" class="node">
-<title>Node16784</title>
+<title>Node17097</title>
 <g id="a_node9"><a xlink:href="bcache_8c.html#a61b6432fa4ef33ea232dad524cf907bb" target="_top" xlink:title="Find matching entries in the Body Cache. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="184.5,-38.5 184.5,-57.5 284.5,-57.5 284.5,-38.5 184.5,-38.5"/>
 <text text-anchor="middle" x="234.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_bcache_list</text>
 </a>
 </g>
 </g>
-<!-- Node15364&#45;&gt;Node16784 -->
+<!-- Node15670&#45;&gt;Node17097 -->
 <g id="edge10" class="edge">
-<title>Node15364&#45;&gt;Node16784</title>
+<title>Node15670&#45;&gt;Node17097</title>
 <path fill="none" stroke="#191970" d="M79.7044,-152.4815C97.2637,-134.7425 137.34,-96.2349 177,-72 183.3459,-68.1222 190.4303,-64.5963 197.399,-61.513"/>
 <polygon fill="#191970" stroke="#191970" points="198.8816,-64.6866 206.7497,-57.5912 196.1742,-58.2314 198.8816,-64.6866"/>
 </g>
-<!-- Node17533 -->
+<!-- Node17671 -->
 <g id="node10" class="node">
-<title>Node17533</title>
+<title>Node17671</title>
 <g id="a_node10"><a xlink:href="newsrc_8c.html#a181aa7de0266d119dcc65f48088c306d" target="_top" xlink:title="Remove bcache file &#45; Implements bcache_list_t. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="177.5,-.5 177.5,-19.5 291.5,-19.5 291.5,-.5 177.5,-.5"/>
 <text text-anchor="middle" x="234.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nntp_bcache_delete</text>
 </a>
 </g>
 </g>
-<!-- Node15364&#45;&gt;Node17533 -->
+<!-- Node15670&#45;&gt;Node17671 -->
 <g id="edge11" class="edge">
-<title>Node15364&#45;&gt;Node17533</title>
+<title>Node15670&#45;&gt;Node17671</title>
 <path fill="none" stroke="#191970" d="M75.5674,-152.3882C88.8665,-128.0755 127.2047,-63.6082 177,-29 179.849,-27.02 182.9189,-25.2347 186.1055,-23.6268"/>
 <polygon fill="#191970" stroke="#191970" points="187.5821,-26.8008 195.3082,-19.5511 184.7475,-20.4004 187.5821,-26.8008"/>
 </g>
-<!-- Node15368&#45;&gt;Node15375 -->
+<!-- Node15674&#45;&gt;Node15681 -->
 <g id="edge3" class="edge">
-<title>Node15368&#45;&gt;Node15375</title>
+<title>Node15674&#45;&gt;Node15681</title>
 <path fill="none" stroke="#191970" d="M271.9728,-266.411C291.3925,-261.4417 315.3025,-255.3233 335.9542,-250.0387"/>
 <polygon fill="#191970" stroke="#191970" points="336.9765,-253.3899 345.7966,-247.5201 335.2411,-246.6084 336.9765,-253.3899"/>
 </g>
-<!-- Node15376&#45;&gt;Node15375 -->
+<!-- Node15682&#45;&gt;Node15681 -->
 <g id="edge5" class="edge">
-<title>Node15376&#45;&gt;Node15375</title>
+<title>Node15682&#45;&gt;Node15681</title>
 <path fill="none" stroke="#191970" d="M271.9728,-209.589C291.3925,-214.5583 315.3025,-220.6767 335.9542,-225.9613"/>
 <polygon fill="#191970" stroke="#191970" points="335.2411,-229.3916 345.7966,-228.4799 336.9765,-222.6101 335.2411,-229.3916"/>
 </g>
-<!-- Node15763&#45;&gt;Node15765 -->
+<!-- Node16069&#45;&gt;Node16071 -->
 <g id="edge9" class="edge">
-<title>Node15763&#45;&gt;Node15765</title>
+<title>Node16069&#45;&gt;Node16071</title>
 <path fill="none" stroke="#191970" d="M289.374,-116.9791C298.5966,-115.7991 308.248,-114.5642 317.7029,-113.3545"/>
 <polygon fill="#191970" stroke="#191970" points="318.3809,-116.7964 327.8558,-112.0555 317.4924,-109.853 318.3809,-116.7964"/>
 </g>

@@ -32,7 +32,7 @@
   <td id="projectalign" style="padding-left: 0.5em;">
    <a style="color: black; text-decoration: none;" href="https://neomutt.org">
    <div id="projectname">NeoMutt
-   &#160;<span id="projectnumber">2021-02-05-584-gb5c7a7</span>
+   &#160;<span id="projectnumber">2021-02-05-647-g5d4e00</span>
    </div>
    <div id="projectbrief">Teaching an old dog new tricks</div>
    </a>
@@ -94,9 +94,6 @@ $(document).ready(function(){initNavTree('structConfigSetType.html','');});
 </div><!--header-->
 <div class="contents">
 
-<p>Type definition for a config item.  
- <a href="structConfigSetType.html#details">More...</a></p>
-
 <p><code>#include &quot;<a class="el" href="set_8h_source.html">set.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
@@ -108,35 +105,25 @@ Data Fields</h2></td></tr>
 <tr class="memdesc:af600e498c50ed017bf0950a737af8d95"><td class="mdescLeft">&#160;</td><td class="mdescRight">Name of the type, e.g. "String".  <a href="#af600e498c50ed017bf0950a737af8d95">More...</a><br /></td></tr>
 <tr class="separator:af600e498c50ed017bf0950a737af8d95"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aaab5c1abc281e7f906cccb7bf64d2554"><td class="memItemLeft" align="right" valign="top">int(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structConfigSetType.html#aaab5c1abc281e7f906cccb7bf64d2554">string_set</a> )(const struct <a class="el" href="structConfigSet.html">ConfigSet</a> *cs, void *var, struct <a class="el" href="structConfigDef.html">ConfigDef</a> *cdef, const char *value, struct <a class="el" href="structBuffer.html">Buffer</a> *err)</td></tr>
-<tr class="memdesc:aaab5c1abc281e7f906cccb7bf64d2554"><td class="mdescLeft">&#160;</td><td class="mdescRight">Set a config item by string.  <a href="#aaab5c1abc281e7f906cccb7bf64d2554">More...</a><br /></td></tr>
 <tr class="separator:aaab5c1abc281e7f906cccb7bf64d2554"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4459745b328d5ff773741a53fccd5fc7"><td class="memItemLeft" align="right" valign="top">int(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structConfigSetType.html#a4459745b328d5ff773741a53fccd5fc7">string_get</a> )(const struct <a class="el" href="structConfigSet.html">ConfigSet</a> *cs, void *var, const struct <a class="el" href="structConfigDef.html">ConfigDef</a> *cdef, struct <a class="el" href="structBuffer.html">Buffer</a> *result)</td></tr>
-<tr class="memdesc:a4459745b328d5ff773741a53fccd5fc7"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get a config item as a string.  <a href="#a4459745b328d5ff773741a53fccd5fc7">More...</a><br /></td></tr>
 <tr class="separator:a4459745b328d5ff773741a53fccd5fc7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a96efeb892d4c223281181587a50d002b"><td class="memItemLeft" align="right" valign="top">int(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structConfigSetType.html#a96efeb892d4c223281181587a50d002b">native_set</a> )(const struct <a class="el" href="structConfigSet.html">ConfigSet</a> *cs, void *var, const struct <a class="el" href="structConfigDef.html">ConfigDef</a> *cdef, intptr_t value, struct <a class="el" href="structBuffer.html">Buffer</a> *err)</td></tr>
-<tr class="memdesc:a96efeb892d4c223281181587a50d002b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Set a config item by string.  <a href="#a96efeb892d4c223281181587a50d002b">More...</a><br /></td></tr>
 <tr class="separator:a96efeb892d4c223281181587a50d002b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:adaa23a7c94973926ef08f41a362abba5"><td class="memItemLeft" align="right" valign="top">intptr_t(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structConfigSetType.html#adaa23a7c94973926ef08f41a362abba5">native_get</a> )(const struct <a class="el" href="structConfigSet.html">ConfigSet</a> *cs, void *var, const struct <a class="el" href="structConfigDef.html">ConfigDef</a> *cdef, struct <a class="el" href="structBuffer.html">Buffer</a> *err)</td></tr>
-<tr class="memdesc:adaa23a7c94973926ef08f41a362abba5"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get a string from a config item.  <a href="#adaa23a7c94973926ef08f41a362abba5">More...</a><br /></td></tr>
 <tr class="separator:adaa23a7c94973926ef08f41a362abba5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac240dea41315672a2ec0c1f94fdd90aa"><td class="memItemLeft" align="right" valign="top">int(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structConfigSetType.html#ac240dea41315672a2ec0c1f94fdd90aa">string_plus_equals</a> )(const struct <a class="el" href="structConfigSet.html">ConfigSet</a> *cs, void *var, const struct <a class="el" href="structConfigDef.html">ConfigDef</a> *cdef, const char *value, struct <a class="el" href="structBuffer.html">Buffer</a> *err)</td></tr>
-<tr class="memdesc:ac240dea41315672a2ec0c1f94fdd90aa"><td class="mdescLeft">&#160;</td><td class="mdescRight">Add to a config item by string.  <a href="#ac240dea41315672a2ec0c1f94fdd90aa">More...</a><br /></td></tr>
 <tr class="separator:ac240dea41315672a2ec0c1f94fdd90aa"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac4e43b6323e48db0598157381fe41798"><td class="memItemLeft" align="right" valign="top">int(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structConfigSetType.html#ac4e43b6323e48db0598157381fe41798">string_minus_equals</a> )(const struct <a class="el" href="structConfigSet.html">ConfigSet</a> *cs, void *var, const struct <a class="el" href="structConfigDef.html">ConfigDef</a> *cdef, const char *value, struct <a class="el" href="structBuffer.html">Buffer</a> *err)</td></tr>
-<tr class="memdesc:ac4e43b6323e48db0598157381fe41798"><td class="mdescLeft">&#160;</td><td class="mdescRight">Remove from a config item as a string.  <a href="#ac4e43b6323e48db0598157381fe41798">More...</a><br /></td></tr>
 <tr class="separator:ac4e43b6323e48db0598157381fe41798"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad392f82b5421743c74fb020752a3e401"><td class="memItemLeft" align="right" valign="top">int(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structConfigSetType.html#ad392f82b5421743c74fb020752a3e401">reset</a> )(const struct <a class="el" href="structConfigSet.html">ConfigSet</a> *cs, void *var, const struct <a class="el" href="structConfigDef.html">ConfigDef</a> *cdef, struct <a class="el" href="structBuffer.html">Buffer</a> *err)</td></tr>
-<tr class="memdesc:ad392f82b5421743c74fb020752a3e401"><td class="mdescLeft">&#160;</td><td class="mdescRight">Reset a config item to its initial value.  <a href="#ad392f82b5421743c74fb020752a3e401">More...</a><br /></td></tr>
 <tr class="separator:ad392f82b5421743c74fb020752a3e401"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad7c535ff8033c38dbaffa7c14bb4412e"><td class="memItemLeft" align="right" valign="top">void(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structConfigSetType.html#ad7c535ff8033c38dbaffa7c14bb4412e">destroy</a> )(const struct <a class="el" href="structConfigSet.html">ConfigSet</a> *cs, void *var, const struct <a class="el" href="structConfigDef.html">ConfigDef</a> *cdef)</td></tr>
-<tr class="memdesc:ad7c535ff8033c38dbaffa7c14bb4412e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Destroy a config item.  <a href="#ad7c535ff8033c38dbaffa7c14bb4412e">More...</a><br /></td></tr>
 <tr class="separator:ad7c535ff8033c38dbaffa7c14bb4412e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p>Type definition for a config item. </p>
-<p>Each config item has a type which is defined by a set of callback functions. </p>
-
-<p class="definition">Definition at line <a class="el" href="set_8h_source.html#l00088">88</a> of file <a class="el" href="set_8h_source.html">set.h</a>.</p>
+<div class="textblock">
+<p class="definition">Definition at line <a class="el" href="set_8h_source.html#l00090">90</a> of file <a class="el" href="set_8h_source.html">set.h</a>.</p>
 </div><h2 class="groupheader">Field Documentation</h2>
 <a id="a4bdee7778a8c43243d6f6002c1fee45f"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a4bdee7778a8c43243d6f6002c1fee45f">&#9670;&nbsp;</a></span>type</h2>
@@ -152,7 +139,7 @@ Data Fields</h2></td></tr>
 
 <p>Data type, e.g. <a class="el" href="types_8h.html#a8513ab325267ccde08483478c67eecf2" title="a string ">DT_STRING</a>. </p>
 
-<p class="definition">Definition at line <a class="el" href="set_8h_source.html#l00090">90</a> of file <a class="el" href="set_8h_source.html">set.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="set_8h_source.html#l00092">92</a> of file <a class="el" href="set_8h_source.html">set.h</a>.</p>
 
 </div>
 </div>
@@ -170,7 +157,7 @@ Data Fields</h2></td></tr>
 
 <p>Name of the type, e.g. "String". </p>
 
-<p class="definition">Definition at line <a class="el" href="set_8h_source.html#l00091">91</a> of file <a class="el" href="set_8h_source.html">set.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="set_8h_source.html#l00093">93</a> of file <a class="el" href="set_8h_source.html">set.h</a>.</p>
 
 </div>
 </div>
@@ -186,30 +173,7 @@ Data Fields</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Set a config item by string. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">cs</td><td>Config items </td></tr>
-    <tr><td class="paramname">var</td><td>Variable to set (may be NULL) </td></tr>
-    <tr><td class="paramname">cdef</td><td>Variable definition </td></tr>
-    <tr><td class="paramname">value</td><td>Value to set (may be NULL) </td></tr>
-    <tr><td class="paramname">err</td><td><a class="el" href="structBuffer.html" title="String manipulation buffer. ">Buffer</a> for error messages (may be NULL) </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="retval"><dt>Return values</dt><dd>
-  <table class="retval">
-    <tr><td class="paramname">num</td><td>Result, e.g. <a class="el" href="set_8h.html#ac9999a70a5f8e7cf64053a5f0861d329" title="Action completed successfully. ">CSR_SUCCESS</a></td></tr>
-  </table>
-  </dd>
-</dl>
-<p>If var is NULL, then the config item's initial value will be set.</p>
-<p><b>Contract</b></p><ul>
-<li><em>cs</em> is not NULL</li>
-<li><em>cdef</em> is not NULL </li>
-</ul>
-
-<p class="definition">Definition at line <a class="el" href="set_8h_source.html#l00108">108</a> of file <a class="el" href="set_8h_source.html">set.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="set_8h_source.html#l00113">113</a> of file <a class="el" href="set_8h_source.html">set.h</a>.</p>
 
 </div>
 </div>
@@ -225,30 +189,7 @@ Data Fields</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Get a config item as a string. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">cs</td><td>Config items </td></tr>
-    <tr><td class="paramname">var</td><td>Variable to get (may be NULL) </td></tr>
-    <tr><td class="paramname">cdef</td><td>Variable definition </td></tr>
-    <tr><td class="paramname">result</td><td><a class="el" href="structBuffer.html" title="String manipulation buffer. ">Buffer</a> for results or error messages </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="retval"><dt>Return values</dt><dd>
-  <table class="retval">
-    <tr><td class="paramname">num</td><td>Result, e.g. <a class="el" href="set_8h.html#ac9999a70a5f8e7cf64053a5f0861d329" title="Action completed successfully. ">CSR_SUCCESS</a></td></tr>
-  </table>
-  </dd>
-</dl>
-<p>If var is NULL, then the config item's initial value will be returned.</p>
-<p><b>Contract</b></p><ul>
-<li><em>cs</em> is not NULL</li>
-<li><em>cdef</em> is not NULL</li>
-<li><em>result</em> is not NULL </li>
-</ul>
-
-<p class="definition">Definition at line <a class="el" href="set_8h_source.html#l00125">125</a> of file <a class="el" href="set_8h_source.html">set.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="set_8h_source.html#l00133">133</a> of file <a class="el" href="set_8h_source.html">set.h</a>.</p>
 
 </div>
 </div>
@@ -264,30 +205,7 @@ Data Fields</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Set a config item by string. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">cs</td><td>Config items </td></tr>
-    <tr><td class="paramname">var</td><td>Variable to set </td></tr>
-    <tr><td class="paramname">cdef</td><td>Variable definition </td></tr>
-    <tr><td class="paramname">value</td><td>Native pointer/value to set </td></tr>
-    <tr><td class="paramname">err</td><td><a class="el" href="structBuffer.html" title="String manipulation buffer. ">Buffer</a> for error messages (may be NULL) </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="retval"><dt>Return values</dt><dd>
-  <table class="retval">
-    <tr><td class="paramname">num</td><td>Result, e.g. <a class="el" href="set_8h.html#ac9999a70a5f8e7cf64053a5f0861d329" title="Action completed successfully. ">CSR_SUCCESS</a></td></tr>
-  </table>
-  </dd>
-</dl>
-<p><b>Contract</b></p><ul>
-<li><em>cs</em> is not NULL</li>
-<li><em>var</em> is not NULL</li>
-<li><em>cdef</em> is not NULL </li>
-</ul>
-
-<p class="definition">Definition at line <a class="el" href="set_8h_source.html#l00141">141</a> of file <a class="el" href="set_8h_source.html">set.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="set_8h_source.html#l00152">152</a> of file <a class="el" href="set_8h_source.html">set.h</a>.</p>
 
 </div>
 </div>
@@ -303,30 +221,7 @@ Data Fields</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Get a string from a config item. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">cs</td><td>Config items </td></tr>
-    <tr><td class="paramname">var</td><td>Variable to get </td></tr>
-    <tr><td class="paramname">cdef</td><td>Variable definition </td></tr>
-    <tr><td class="paramname">err</td><td><a class="el" href="structBuffer.html" title="String manipulation buffer. ">Buffer</a> for error messages (may be NULL) </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="retval"><dt>Return values</dt><dd>
-  <table class="retval">
-    <tr><td class="paramname">intptr_t</td><td>Config item string </td></tr>
-    <tr><td class="paramname">INT_MIN</td><td>Error</td></tr>
-  </table>
-  </dd>
-</dl>
-<p><b>Contract</b></p><ul>
-<li><em>cs</em> is not NULL</li>
-<li><em>var</em> is not NULL</li>
-<li><em>cdef</em> is not NULL </li>
-</ul>
-
-<p class="definition">Definition at line <a class="el" href="set_8h_source.html#l00157">157</a> of file <a class="el" href="set_8h_source.html">set.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="set_8h_source.html#l00171">171</a> of file <a class="el" href="set_8h_source.html">set.h</a>.</p>
 
 </div>
 </div>
@@ -342,30 +237,7 @@ Data Fields</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Add to a config item by string. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">cs</td><td>Config items </td></tr>
-    <tr><td class="paramname">var</td><td>Variable to set </td></tr>
-    <tr><td class="paramname">cdef</td><td>Variable definition </td></tr>
-    <tr><td class="paramname">value</td><td>Value to set </td></tr>
-    <tr><td class="paramname">err</td><td><a class="el" href="structBuffer.html" title="String manipulation buffer. ">Buffer</a> for error messages (may be NULL) </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="retval"><dt>Return values</dt><dd>
-  <table class="retval">
-    <tr><td class="paramname">num</td><td>Result, e.g. <a class="el" href="set_8h.html#ac9999a70a5f8e7cf64053a5f0861d329" title="Action completed successfully. ">CSR_SUCCESS</a></td></tr>
-  </table>
-  </dd>
-</dl>
-<p><b>Contract</b></p><ul>
-<li><em>cs</em> is not NULL</li>
-<li><em>var</em> is not NULL</li>
-<li><em>cdef</em> is not NULL </li>
-</ul>
-
-<p class="definition">Definition at line <a class="el" href="set_8h_source.html#l00173">173</a> of file <a class="el" href="set_8h_source.html">set.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="set_8h_source.html#l00190">190</a> of file <a class="el" href="set_8h_source.html">set.h</a>.</p>
 
 </div>
 </div>
@@ -381,30 +253,7 @@ Data Fields</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Remove from a config item as a string. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">cs</td><td>Config items </td></tr>
-    <tr><td class="paramname">var</td><td>Variable to set </td></tr>
-    <tr><td class="paramname">cdef</td><td>Variable definition </td></tr>
-    <tr><td class="paramname">value</td><td>Value to set </td></tr>
-    <tr><td class="paramname">err</td><td><a class="el" href="structBuffer.html" title="String manipulation buffer. ">Buffer</a> for error messages (may be NULL) </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="retval"><dt>Return values</dt><dd>
-  <table class="retval">
-    <tr><td class="paramname">num</td><td>Result, e.g. <a class="el" href="set_8h.html#ac9999a70a5f8e7cf64053a5f0861d329" title="Action completed successfully. ">CSR_SUCCESS</a></td></tr>
-  </table>
-  </dd>
-</dl>
-<p><b>Contract</b></p><ul>
-<li><em>cs</em> is not NULL</li>
-<li><em>var</em> is not NULL</li>
-<li><em>cdef</em> is not NULL </li>
-</ul>
-
-<p class="definition">Definition at line <a class="el" href="set_8h_source.html#l00189">189</a> of file <a class="el" href="set_8h_source.html">set.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="set_8h_source.html#l00209">209</a> of file <a class="el" href="set_8h_source.html">set.h</a>.</p>
 
 </div>
 </div>
@@ -420,29 +269,7 @@ Data Fields</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Reset a config item to its initial value. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">cs</td><td>Config items </td></tr>
-    <tr><td class="paramname">var</td><td>Variable to reset </td></tr>
-    <tr><td class="paramname">cdef</td><td>Variable definition </td></tr>
-    <tr><td class="paramname">err</td><td><a class="el" href="structBuffer.html" title="String manipulation buffer. ">Buffer</a> for error messages (may be NULL) </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="retval"><dt>Return values</dt><dd>
-  <table class="retval">
-    <tr><td class="paramname">num</td><td>Result, e.g. <a class="el" href="set_8h.html#ac9999a70a5f8e7cf64053a5f0861d329" title="Action completed successfully. ">CSR_SUCCESS</a></td></tr>
-  </table>
-  </dd>
-</dl>
-<p><b>Contract</b></p><ul>
-<li><em>cs</em> is not NULL</li>
-<li><em>var</em> is not NULL</li>
-<li><em>cdef</em> is not NULL </li>
-</ul>
-
-<p class="definition">Definition at line <a class="el" href="set_8h_source.html#l00204">204</a> of file <a class="el" href="set_8h_source.html">set.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="set_8h_source.html#l00227">227</a> of file <a class="el" href="set_8h_source.html">set.h</a>.</p>
 
 </div>
 </div>
@@ -458,22 +285,7 @@ Data Fields</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Destroy a config item. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">cs</td><td>Config items </td></tr>
-    <tr><td class="paramname">var</td><td>Variable to destroy </td></tr>
-    <tr><td class="paramname">cdef</td><td>Variable definition</td></tr>
-  </table>
-  </dd>
-</dl>
-<p><b>Contract</b></p><ul>
-<li><em>cs</em> is not NULL</li>
-<li><em>var</em> is not NULL</li>
-<li><em>cdef</em> is not NULL </li>
-</ul>
-
-<p class="definition">Definition at line <a class="el" href="set_8h_source.html#l00217">217</a> of file <a class="el" href="set_8h_source.html">set.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="set_8h_source.html#l00243">243</a> of file <a class="el" href="set_8h_source.html">set.h</a>.</p>
 
 </div>
 </div>

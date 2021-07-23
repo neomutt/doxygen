@@ -9,39 +9,39 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 62)">
 <title>sb_set_current_mailbox</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-62 294,-62 294,4 -4,4"/>
-<!-- Node631 -->
+<!-- Node67 -->
 <g id="node1" class="node">
-<title>Node631</title>
+<title>Node67</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-19.5 0,-38.5 133,-38.5 133,-19.5 0,-19.5"/>
 <text text-anchor="middle" x="66.5" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">sb_set_current_mailbox</text>
 </g>
-<!-- Node632 -->
+<!-- Node68 -->
 <g id="node2" class="node">
-<title>Node632</title>
+<title>Node68</title>
 <g id="a_node2"><a xlink:href="sidebar_2observer_8c.html#aef6d97eb61f8f304873347c697a6dd65" target="_top" xlink:title="Notification that the Index has changed &#45; Implements observer_t. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="175.5,-38.5 175.5,-57.5 283.5,-57.5 283.5,-38.5 175.5,-38.5"/>
 <text text-anchor="middle" x="229.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">sb_index_observer</text>
 </a>
 </g>
 </g>
-<!-- Node631&#45;&gt;Node632 -->
+<!-- Node67&#45;&gt;Node68 -->
 <g id="edge1" class="edge">
-<title>Node631&#45;&gt;Node632</title>
+<title>Node67&#45;&gt;Node68</title>
 <path fill="none" stroke="#191970" d="M143.5062,-37.9762C154.2429,-39.2277 165.0839,-40.4914 175.2809,-41.68"/>
 <polygon fill="#191970" stroke="#191970" points="143.6067,-34.4643 133.2686,-36.7828 142.7961,-41.4172 143.6067,-34.4643"/>
 </g>
-<!-- Node643 -->
+<!-- Node79 -->
 <g id="node3" class="node">
-<title>Node643</title>
+<title>Node79</title>
 <g id="a_node3"><a xlink:href="sidebar_2observer_8c.html#a0f5bc69d8eb06b0bd5f33eb5b5a1e2fe" target="_top" xlink:title="Notification that a Mailbox has changed &#45; Implements observer_t. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="169,-.5 169,-19.5 290,-19.5 290,-.5 169,-.5"/>
 <text text-anchor="middle" x="229.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">sb_mailbox_observer</text>
 </a>
 </g>
 </g>
-<!-- Node631&#45;&gt;Node643 -->
+<!-- Node67&#45;&gt;Node79 -->
 <g id="edge2" class="edge">
-<title>Node631&#45;&gt;Node643</title>
+<title>Node67&#45;&gt;Node79</title>
 <path fill="none" stroke="#191970" d="M143.2869,-20.0494C151.8679,-19.0491 160.5187,-18.0408 168.8573,-17.0688"/>
 <polygon fill="#191970" stroke="#191970" points="142.7961,-16.5828 133.2686,-21.2172 143.6067,-23.5357 142.7961,-16.5828"/>
 </g>

@@ -33,7 +33,7 @@
 <!-- Node18 -->
 <g id="node3" class="node">
 <title>Node18</title>
-<g id="a_node3"><a xlink:href="compmbox_2compress_8c.html#a017f8938078bb770eb825f2de2e588b0" target="_top" xlink:title="Open a Mailbox &#45; Implements MxOps::mbox_open() ">
+<g id="a_node3"><a xlink:href="group__mx__mbox__open.html#ga017f8938078bb770eb825f2de2e588b0" target="_top" xlink:title="Open a Mailbox &#45; Implements MxOps::mbox_open() &#45;Set up a compressed mailbox to be read...">
 <polygon fill="#ffffff" stroke="#000000" points="280.5,-125.8768 280.5,-144.8768 386.5,-144.8768 386.5,-125.8768 280.5,-125.8768"/>
 <text text-anchor="middle" x="333.5" y="-132.8768" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">comp_mbox_open</text>
 </a>
@@ -48,7 +48,7 @@
 <!-- Node20 -->
 <g id="node4" class="node">
 <title>Node20</title>
-<g id="a_node4"><a xlink:href="compmbox_2compress_8c.html#ac39b99d890436a70c50814a4701ed597" target="_top" xlink:title="Close a Mailbox &#45; Implements MxOps::mbox_close() ">
+<g id="a_node4"><a xlink:href="group__mx__mbox__close.html#gac39b99d890436a70c50814a4701ed597" target="_top" xlink:title="Close a Mailbox &#45; Implements MxOps::mbox_close() &#45;If the mailbox has been changed then re&#45;compress th...">
 <polygon fill="#ffffff" stroke="#000000" points="280,-78.8768 280,-97.8768 387,-97.8768 387,-78.8768 280,-78.8768"/>
 <text text-anchor="middle" x="333.5" y="-85.8768" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">comp_mbox_close</text>
 </a>
@@ -63,7 +63,7 @@
 <!-- Node21 -->
 <g id="node5" class="node">
 <title>Node21</title>
-<g id="a_node5"><a xlink:href="compmbox_2compress_8c.html#abf3eceb782a3061fe668121697cc2e22" target="_top" xlink:title="Check for new mail &#45; Implements MxOps::mbox_check() ">
+<g id="a_node5"><a xlink:href="group__mx__mbox__check.html#gabf3eceb782a3061fe668121697cc2e22" target="_top" xlink:title="Check for new mail &#45; Implements MxOps::mbox_check() &#45;. ">
 <polygon fill="#ffffff" stroke="#000000" points="132.5,-21.8768 132.5,-40.8768 242.5,-40.8768 242.5,-21.8768 132.5,-21.8768"/>
 <text text-anchor="middle" x="187.5" y="-28.8768" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">comp_mbox_check</text>
 </a>
@@ -78,7 +78,7 @@
 <!-- Node22 -->
 <g id="node6" class="node">
 <title>Node22</title>
-<g id="a_node6"><a xlink:href="compmbox_2compress_8c.html#adeb7755ceb989e6dc91e9afa2ff9e84e" target="_top" xlink:title="Save changes to the Mailbox &#45; Implements MxOps::mbox_sync() ">
+<g id="a_node6"><a xlink:href="group__mx__mbox__sync.html#gadeb7755ceb989e6dc91e9afa2ff9e84e" target="_top" xlink:title="Save changes to the Mailbox &#45; Implements MxOps::mbox_sync() &#45;Changes in NeoMutt only affect the tmp f...">
 <polygon fill="#ffffff" stroke="#000000" points="281.5,-2.8768 281.5,-21.8768 385.5,-21.8768 385.5,-2.8768 281.5,-2.8768"/>
 <text text-anchor="middle" x="333.5" y="-9.8768" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">comp_mbox_sync</text>
 </a>

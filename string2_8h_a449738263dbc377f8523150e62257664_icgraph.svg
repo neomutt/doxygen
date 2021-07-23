@@ -9,90 +9,90 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 161.3968)">
 <title>mutt_istr_find</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-161.3968 420,-161.3968 420,4 -4,4"/>
-<!-- Node25626 -->
+<!-- Node27659 -->
 <g id="node1" class="node">
-<title>Node25626</title>
+<title>Node27659</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-61.8968 0,-80.8968 84,-80.8968 84,-61.8968 0,-61.8968"/>
 <text text-anchor="middle" x="42" y="-68.8968" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_istr_find</text>
 </g>
-<!-- Node25627 -->
+<!-- Node27660 -->
 <g id="node2" class="node">
-<title>Node25627</title>
+<title>Node27660</title>
 <g id="a_node2"><a xlink:href="history_2lib_8h.html#a40b0d1de2839ee28e60ab014fbe281be" target="_top" xlink:title="Find matches in a history list. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="134.5,-137.8968 134.5,-156.8968 235.5,-156.8968 235.5,-137.8968 134.5,-137.8968"/>
 <text text-anchor="middle" x="185" y="-144.8968" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_hist_search</text>
 </a>
 </g>
 </g>
-<!-- Node25626&#45;&gt;Node25627 -->
+<!-- Node27659&#45;&gt;Node27660 -->
 <g id="edge1" class="edge">
-<title>Node25626&#45;&gt;Node25627</title>
+<title>Node27659&#45;&gt;Node27660</title>
 <path fill="none" stroke="#191970" d="M60.571,-87.8559C75.6643,-100.4902 97.99,-117.554 120,-128.3968 127.5936,-132.1376 136.0574,-135.2771 144.3012,-137.8577"/>
 <polygon fill="#191970" stroke="#191970" points="62.4489,-84.856 52.5771,-81.0094 57.8955,-90.1726 62.4489,-84.856"/>
 </g>
-<!-- Node26124 -->
+<!-- Node28209 -->
 <g id="node3" class="node">
-<title>Node26124</title>
+<title>Node28209</title>
 <g id="a_node3"><a xlink:href="crypt__gpgme_8c.html#ad973b70036b65c94f40a43a08b9b9c93" target="_top" xlink:title="Find a key by string. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="132.5,-99.8968 132.5,-118.8968 237.5,-118.8968 237.5,-99.8968 132.5,-99.8968"/>
 <text text-anchor="middle" x="185" y="-106.8968" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">crypt_getkeybystr</text>
 </a>
 </g>
 </g>
-<!-- Node25626&#45;&gt;Node26124 -->
+<!-- Node27659&#45;&gt;Node28209 -->
 <g id="edge2" class="edge">
-<title>Node25626&#45;&gt;Node26124</title>
+<title>Node27659&#45;&gt;Node28209</title>
 <path fill="none" stroke="#191970" d="M87.8133,-83.5709C107.5871,-88.8255 130.3838,-94.8834 148.9266,-99.8108"/>
 <polygon fill="#191970" stroke="#191970" points="88.6484,-80.1715 78.0849,-80.9858 86.8506,-86.9367 88.6484,-80.1715"/>
 </g>
-<!-- Node26132 -->
+<!-- Node28217 -->
 <g id="node4" class="node">
-<title>Node26132</title>
+<title>Node28217</title>
 <g id="a_node4"><a xlink:href="pgpkey_8h.html#adb19cda13175eef9871ffa7c9da5e4dd" target="_top" xlink:title="Find a PGP key by string. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="136,-61.8968 136,-80.8968 234,-80.8968 234,-61.8968 136,-61.8968"/>
 <text text-anchor="middle" x="185" y="-68.8968" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pgp_getkeybystr</text>
 </a>
 </g>
 </g>
-<!-- Node25626&#45;&gt;Node26132 -->
+<!-- Node27659&#45;&gt;Node28217 -->
 <g id="edge3" class="edge">
-<title>Node25626&#45;&gt;Node26132</title>
+<title>Node27659&#45;&gt;Node28217</title>
 <path fill="none" stroke="#191970" d="M94.288,-71.3968C107.8715,-71.3968 122.4542,-71.3968 135.8688,-71.3968"/>
 <polygon fill="#191970" stroke="#191970" points="94.1313,-67.8969 84.1313,-71.3968 94.1312,-74.8969 94.1313,-67.8969"/>
 </g>
-<!-- Node26193 -->
+<!-- Node28280 -->
 <g id="node5" class="node">
-<title>Node26193</title>
+<title>Node28280</title>
 <g id="a_node5"><a xlink:href="smime_8c.html#adf6fa581808bcde81b75349c433e9f72" target="_top" xlink:title="Find keys matching a string. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="120,-23.8968 120,-42.8968 250,-42.8968 250,-23.8968 120,-23.8968"/>
 <text text-anchor="middle" x="185" y="-30.8968" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">smime_get_candidates</text>
 </a>
 </g>
 </g>
-<!-- Node25626&#45;&gt;Node26193 -->
+<!-- Node27659&#45;&gt;Node28280 -->
 <g id="edge4" class="edge">
-<title>Node25626&#45;&gt;Node26193</title>
+<title>Node27659&#45;&gt;Node28280</title>
 <path fill="none" stroke="#191970" d="M87.8133,-59.2226C107.5871,-53.968 130.3838,-47.9102 148.9266,-42.9827"/>
 <polygon fill="#191970" stroke="#191970" points="86.8506,-55.8569 78.0849,-61.8078 88.6484,-62.6221 86.8506,-55.8569"/>
 </g>
-<!-- Node26139 -->
+<!-- Node28224 -->
 <g id="node6" class="node">
-<title>Node26139</title>
+<title>Node28224</title>
 <g id="a_node6"><a xlink:href="smime_8c.html#a28a20b15686b9cd205bc57e3e5b82e13" target="_top" xlink:title="Find an SMIME key by string. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="286,-4.8968 286,-23.8968 416,-23.8968 416,-4.8968 286,-4.8968"/>
 <text text-anchor="middle" x="351" y="-11.8968" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">smime_get_key_by_str</text>
 </a>
 </g>
 </g>
-<!-- Node25626&#45;&gt;Node26139 -->
+<!-- Node27659&#45;&gt;Node28224 -->
 <g id="edge6" class="edge">
-<title>Node25626&#45;&gt;Node26139</title>
+<title>Node27659&#45;&gt;Node28224</title>
 <path fill="none" stroke="#191970" d="M58.1968,-54.7014C72.8488,-40.8889 95.7849,-22.3017 120,-14.3968 177.3769,4.3337 247.1283,1.0413 294.8741,-4.8535"/>
 <polygon fill="#191970" stroke="#191970" points="55.6554,-52.2913 50.9536,-61.7857 60.55,-57.2957 55.6554,-52.2913"/>
 </g>
-<!-- Node26193&#45;&gt;Node26139 -->
+<!-- Node28280&#45;&gt;Node28224 -->
 <g id="edge5" class="edge">
-<title>Node26193&#45;&gt;Node26139</title>
+<title>Node28280&#45;&gt;Node28224</title>
 <path fill="none" stroke="#191970" d="M260.1138,-24.7994C268.6807,-23.8189 277.3607,-22.8254 285.7842,-21.8612"/>
 <polygon fill="#191970" stroke="#191970" points="259.6683,-21.3275 250.1312,-25.942 260.4643,-28.2821 259.6683,-21.3275"/>
 </g>

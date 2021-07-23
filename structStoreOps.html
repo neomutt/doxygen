@@ -32,7 +32,7 @@
   <td id="projectalign" style="padding-left: 0.5em;">
    <a style="color: black; text-decoration: none;" href="https://neomutt.org">
    <div id="projectname">NeoMutt
-   &#160;<span id="projectnumber">2021-02-05-584-gb5c7a7</span>
+   &#160;<span id="projectnumber">2021-02-05-647-g5d4e00</span>
    </div>
    <div id="projectbrief">Teaching an old dog new tricks</div>
    </a>
@@ -94,9 +94,6 @@ $(document).ready(function(){initNavTree('structStoreOps.html','');});
 </div><!--header-->
 <div class="contents">
 
-<p>Key Value Store API.  
- <a href="structStoreOps.html#details">More...</a></p>
-
 <p><code>#include &quot;<a class="el" href="store_2lib_8h_source.html">lib.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
@@ -105,31 +102,23 @@ Data Fields</h2></td></tr>
 <tr class="memdesc:a31887c67d59f60859f03682bbbc9d3b9"><td class="mdescLeft">&#160;</td><td class="mdescRight">Store name.  <a href="#a31887c67d59f60859f03682bbbc9d3b9">More...</a><br /></td></tr>
 <tr class="separator:a31887c67d59f60859f03682bbbc9d3b9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae01cfe4282e5297a8c91b62dd2c0d98d"><td class="memItemLeft" align="right" valign="top">void *(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structStoreOps.html#ae01cfe4282e5297a8c91b62dd2c0d98d">open</a> )(const char *path)</td></tr>
-<tr class="memdesc:ae01cfe4282e5297a8c91b62dd2c0d98d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Open a connection to a Store.  <a href="#ae01cfe4282e5297a8c91b62dd2c0d98d">More...</a><br /></td></tr>
 <tr class="separator:ae01cfe4282e5297a8c91b62dd2c0d98d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a79baa4aa28c857ddbefa9d2a4874ed53"><td class="memItemLeft" align="right" valign="top">void *(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structStoreOps.html#a79baa4aa28c857ddbefa9d2a4874ed53">fetch</a> )(void *<a class="el" href="structStoreOps.html#a593cd541510b99a277698960e9d59bf5">store</a>, const char *key, size_t klen, size_t *vlen)</td></tr>
-<tr class="memdesc:a79baa4aa28c857ddbefa9d2a4874ed53"><td class="mdescLeft">&#160;</td><td class="mdescRight">Fetch a Value from the Store.  <a href="#a79baa4aa28c857ddbefa9d2a4874ed53">More...</a><br /></td></tr>
 <tr class="separator:a79baa4aa28c857ddbefa9d2a4874ed53"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0d0ec25b673eb83e99fb041afde3c6d7"><td class="memItemLeft" align="right" valign="top">void(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structStoreOps.html#a0d0ec25b673eb83e99fb041afde3c6d7">free</a> )(void *<a class="el" href="structStoreOps.html#a593cd541510b99a277698960e9d59bf5">store</a>, void **ptr)</td></tr>
-<tr class="memdesc:a0d0ec25b673eb83e99fb041afde3c6d7"><td class="mdescLeft">&#160;</td><td class="mdescRight">Free a Value returned by <a class="el" href="structStoreOps.html#a79baa4aa28c857ddbefa9d2a4874ed53" title="Fetch a Value from the Store. ">fetch()</a>  <a href="#a0d0ec25b673eb83e99fb041afde3c6d7">More...</a><br /></td></tr>
 <tr class="separator:a0d0ec25b673eb83e99fb041afde3c6d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a593cd541510b99a277698960e9d59bf5"><td class="memItemLeft" align="right" valign="top">int(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structStoreOps.html#a593cd541510b99a277698960e9d59bf5">store</a> )(void *store, const char *key, size_t klen, void *value, size_t vlen)</td></tr>
-<tr class="memdesc:a593cd541510b99a277698960e9d59bf5"><td class="mdescLeft">&#160;</td><td class="mdescRight">Write a Value to the Store.  <a href="#a593cd541510b99a277698960e9d59bf5">More...</a><br /></td></tr>
 <tr class="separator:a593cd541510b99a277698960e9d59bf5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2345d5a0becd5e0510c77f9797a952b2"><td class="memItemLeft" align="right" valign="top">int(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structStoreOps.html#a2345d5a0becd5e0510c77f9797a952b2">delete_record</a> )(void *<a class="el" href="structStoreOps.html#a593cd541510b99a277698960e9d59bf5">store</a>, const char *key, size_t klen)</td></tr>
-<tr class="memdesc:a2345d5a0becd5e0510c77f9797a952b2"><td class="mdescLeft">&#160;</td><td class="mdescRight">Delete a record from the Store.  <a href="#a2345d5a0becd5e0510c77f9797a952b2">More...</a><br /></td></tr>
 <tr class="separator:a2345d5a0becd5e0510c77f9797a952b2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac27948118f03426edea03d0bc17bb3dd"><td class="memItemLeft" align="right" valign="top">void(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structStoreOps.html#ac27948118f03426edea03d0bc17bb3dd">close</a> )(void **ptr)</td></tr>
-<tr class="memdesc:ac27948118f03426edea03d0bc17bb3dd"><td class="mdescLeft">&#160;</td><td class="mdescRight">Close a Store connection.  <a href="#ac27948118f03426edea03d0bc17bb3dd">More...</a><br /></td></tr>
 <tr class="separator:ac27948118f03426edea03d0bc17bb3dd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aef5e81cd92a2052bbf5224369242b701"><td class="memItemLeft" align="right" valign="top">const char *(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structStoreOps.html#aef5e81cd92a2052bbf5224369242b701">version</a> )(void)</td></tr>
-<tr class="memdesc:aef5e81cd92a2052bbf5224369242b701"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get a Store version string.  <a href="#aef5e81cd92a2052bbf5224369242b701">More...</a><br /></td></tr>
 <tr class="separator:aef5e81cd92a2052bbf5224369242b701"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p>Key Value Store API. </p>
-
-<p class="definition">Definition at line <a class="el" href="store_2lib_8h_source.html#l00061">61</a> of file <a class="el" href="store_2lib_8h_source.html">lib.h</a>.</p>
+<div class="textblock">
+<p class="definition">Definition at line <a class="el" href="store_2lib_8h_source.html#l00063">63</a> of file <a class="el" href="store_2lib_8h_source.html">lib.h</a>.</p>
 </div><h2 class="groupheader">Field Documentation</h2>
 <a id="a31887c67d59f60859f03682bbbc9d3b9"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a31887c67d59f60859f03682bbbc9d3b9">&#9670;&nbsp;</a></span>name</h2>
@@ -145,7 +134,7 @@ Data Fields</h2></td></tr>
 
 <p>Store name. </p>
 
-<p class="definition">Definition at line <a class="el" href="store_2lib_8h_source.html#l00063">63</a> of file <a class="el" href="store_2lib_8h_source.html">lib.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="store_2lib_8h_source.html#l00065">65</a> of file <a class="el" href="store_2lib_8h_source.html">lib.h</a>.</p>
 
 </div>
 </div>
@@ -161,23 +150,7 @@ Data Fields</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Open a connection to a Store. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramdir">[in]</td><td class="paramname">path</td><td>Path to the database file </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="retval"><dt>Return values</dt><dd>
-  <table class="retval">
-    <tr><td class="paramname">ptr</td><td>Success, Store pointer </td></tr>
-    <tr><td class="paramname">NULL</td><td>Failure</td></tr>
-  </table>
-  </dd>
-</dl>
-<p>The open function has the purpose of opening a backend-specific connection to the database file specified by the path parameter. Backends MUST return non-NULL specific context information on success. </p>
-
-<p class="definition">Definition at line <a class="el" href="store_2lib_8h_source.html#l00075">75</a> of file <a class="el" href="store_2lib_8h_source.html">lib.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="store_2lib_8h_source.html#l00080">80</a> of file <a class="el" href="store_2lib_8h_source.html">lib.h</a>.</p>
 
 </div>
 </div>
@@ -193,25 +166,7 @@ Data Fields</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Fetch a Value from the Store. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramdir">[in]</td><td class="paramname">store</td><td>Store retrieved via <a class="el" href="structStoreOps.html#ae01cfe4282e5297a8c91b62dd2c0d98d" title="Open a connection to a Store. ">open()</a> </td></tr>
-    <tr><td class="paramdir">[in]</td><td class="paramname">key</td><td>Key identifying the record </td></tr>
-    <tr><td class="paramdir">[in]</td><td class="paramname">klen</td><td>Length of the Key string </td></tr>
-    <tr><td class="paramdir">[out]</td><td class="paramname">vlen</td><td>Length of the Value </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="retval"><dt>Return values</dt><dd>
-  <table class="retval">
-    <tr><td class="paramname">ptr</td><td>Success, Value associated with the Key </td></tr>
-    <tr><td class="paramname">NULL</td><td>Error, or Key not found </td></tr>
-  </table>
-  </dd>
-</dl>
-
-<p class="definition">Definition at line <a class="el" href="store_2lib_8h_source.html#l00086">86</a> of file <a class="el" href="store_2lib_8h_source.html">lib.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="store_2lib_8h_source.html#l00094">94</a> of file <a class="el" href="store_2lib_8h_source.html">lib.h</a>.</p>
 
 </div>
 </div>
@@ -227,16 +182,7 @@ Data Fields</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Free a Value returned by <a class="el" href="structStoreOps.html#a79baa4aa28c857ddbefa9d2a4874ed53" title="Fetch a Value from the Store. ">fetch()</a> </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramdir">[in]</td><td class="paramname">store</td><td>Store retrieved via <a class="el" href="structStoreOps.html#ae01cfe4282e5297a8c91b62dd2c0d98d" title="Open a connection to a Store. ">open()</a> </td></tr>
-    <tr><td class="paramdir">[out]</td><td class="paramname">ptr</td><td>Value to be freed </td></tr>
-  </table>
-  </dd>
-</dl>
-
-<p class="definition">Definition at line <a class="el" href="store_2lib_8h_source.html#l00093">93</a> of file <a class="el" href="store_2lib_8h_source.html">lib.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="store_2lib_8h_source.html#l00104">104</a> of file <a class="el" href="store_2lib_8h_source.html">lib.h</a>.</p>
 
 </div>
 </div>
@@ -252,26 +198,7 @@ Data Fields</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Write a Value to the Store. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramdir">[in]</td><td class="paramname">store</td><td>Store retrieved via <a class="el" href="structStoreOps.html#ae01cfe4282e5297a8c91b62dd2c0d98d" title="Open a connection to a Store. ">open()</a> </td></tr>
-    <tr><td class="paramdir">[in]</td><td class="paramname">key</td><td>Key identifying the record </td></tr>
-    <tr><td class="paramdir">[in]</td><td class="paramname">klen</td><td>Length of the Key string </td></tr>
-    <tr><td class="paramdir">[in]</td><td class="paramname">value</td><td>Value to save </td></tr>
-    <tr><td class="paramdir">[in]</td><td class="paramname">vlen</td><td>Length of the Value </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="retval"><dt>Return values</dt><dd>
-  <table class="retval">
-    <tr><td class="paramname">0</td><td>Success </td></tr>
-    <tr><td class="paramname">num</td><td>Error, a backend-specific error code </td></tr>
-  </table>
-  </dd>
-</dl>
-
-<p class="definition">Definition at line <a class="el" href="store_2lib_8h_source.html#l00105">105</a> of file <a class="el" href="store_2lib_8h_source.html">lib.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="store_2lib_8h_source.html#l00119">119</a> of file <a class="el" href="store_2lib_8h_source.html">lib.h</a>.</p>
 
 </div>
 </div>
@@ -287,24 +214,7 @@ Data Fields</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Delete a record from the Store. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramdir">[in]</td><td class="paramname">store</td><td>Store retrieved via <a class="el" href="structStoreOps.html#ae01cfe4282e5297a8c91b62dd2c0d98d" title="Open a connection to a Store. ">open()</a> </td></tr>
-    <tr><td class="paramdir">[in]</td><td class="paramname">key</td><td>Key identifying the record </td></tr>
-    <tr><td class="paramdir">[in]</td><td class="paramname">klen</td><td>Length of the Key string </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="retval"><dt>Return values</dt><dd>
-  <table class="retval">
-    <tr><td class="paramname">0</td><td>Success </td></tr>
-    <tr><td class="paramname">num</td><td>Error, a backend-specific error code </td></tr>
-  </table>
-  </dd>
-</dl>
-
-<p class="definition">Definition at line <a class="el" href="store_2lib_8h_source.html#l00115">115</a> of file <a class="el" href="store_2lib_8h_source.html">lib.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="store_2lib_8h_source.html#l00132">132</a> of file <a class="el" href="store_2lib_8h_source.html">lib.h</a>.</p>
 
 </div>
 </div>
@@ -320,15 +230,7 @@ Data Fields</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Close a Store connection. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramdir">[in,out]</td><td class="paramname">ptr</td><td>Store retrieved via <a class="el" href="structStoreOps.html#ae01cfe4282e5297a8c91b62dd2c0d98d" title="Open a connection to a Store. ">open()</a> </td></tr>
-  </table>
-  </dd>
-</dl>
-
-<p class="definition">Definition at line <a class="el" href="store_2lib_8h_source.html#l00121">121</a> of file <a class="el" href="store_2lib_8h_source.html">lib.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="store_2lib_8h_source.html#l00141">141</a> of file <a class="el" href="store_2lib_8h_source.html">lib.h</a>.</p>
 
 </div>
 </div>
@@ -344,15 +246,7 @@ Data Fields</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Get a Store version string. </p>
-<dl class="retval"><dt>Return values</dt><dd>
-  <table class="retval">
-    <tr><td class="paramname">ptr</td><td>String describing the currently used Store </td></tr>
-  </table>
-  </dd>
-</dl>
-
-<p class="definition">Definition at line <a class="el" href="store_2lib_8h_source.html#l00127">127</a> of file <a class="el" href="store_2lib_8h_source.html">lib.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="store_2lib_8h_source.html#l00150">150</a> of file <a class="el" href="store_2lib_8h_source.html">lib.h</a>.</p>
 
 </div>
 </div>

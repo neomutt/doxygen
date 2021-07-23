@@ -9,69 +9,69 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 138)">
 <title>imap_get_qualifier</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-138 276,-138 276,4 -4,4"/>
-<!-- Node14906 -->
+<!-- Node16205 -->
 <g id="node1" class="node">
-<title>Node14906</title>
+<title>Node16205</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-57.5 0,-76.5 107,-76.5 107,-57.5 0,-57.5"/>
 <text text-anchor="middle" x="53.5" y="-64.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">imap_get_qualifier</text>
 </g>
-<!-- Node14907 -->
+<!-- Node16206 -->
 <g id="node2" class="node">
-<title>Node14907</title>
+<title>Node16206</title>
 <g id="a_node2"><a xlink:href="imap_2lib_8h.html#ae031b576b34ef1f6cb04aeaaab1c4bb7" target="_top" xlink:title="Rename a mailbox. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="143,-114.5 143,-133.5 272,-133.5 272,-114.5 143,-114.5"/>
 <text text-anchor="middle" x="207.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">imap_mailbox_rename</text>
 </a>
 </g>
 </g>
-<!-- Node14906&#45;&gt;Node14907 -->
+<!-- Node16205&#45;&gt;Node16206 -->
 <g id="edge1" class="edge">
-<title>Node14906&#45;&gt;Node14907</title>
+<title>Node16205&#45;&gt;Node16206</title>
 <path fill="none" stroke="#191970" d="M83.7154,-80.8549C100.9032,-88.4758 122.9404,-97.8139 143,-105 152.4512,-108.3858 162.8314,-111.6409 172.4499,-114.4712"/>
 <polygon fill="#191970" stroke="#191970" points="84.7646,-77.4898 74.2076,-76.5955 81.9027,-83.8781 84.7646,-77.4898"/>
 </g>
-<!-- Node14987 -->
+<!-- Node16313 -->
 <g id="node3" class="node">
-<title>Node14987</title>
+<title>Node16313</title>
 <g id="a_node3"><a xlink:href="imap_2lib_8h.html#ab243b759db9258fd8373a350b19ed0b8" target="_top" xlink:title="Use server COPY command to copy deleted messages to trash. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="160,-76.5 160,-95.5 255,-95.5 255,-76.5 160,-76.5"/>
 <text text-anchor="middle" x="207.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">imap_fast_trash</text>
 </a>
 </g>
 </g>
-<!-- Node14906&#45;&gt;Node14987 -->
+<!-- Node16205&#45;&gt;Node16313 -->
 <g id="edge2" class="edge">
-<title>Node14906&#45;&gt;Node14987</title>
+<title>Node16205&#45;&gt;Node16313</title>
 <path fill="none" stroke="#191970" d="M117.537,-74.9007C131.6964,-76.6476 146.4578,-78.4688 159.8314,-80.1188"/>
 <polygon fill="#191970" stroke="#191970" points="117.7151,-71.3962 107.3617,-73.6453 116.8579,-78.3435 117.7151,-71.3962"/>
 </g>
-<!-- Node14970 -->
+<!-- Node16296 -->
 <g id="node4" class="node">
-<title>Node14970</title>
-<g id="a_node4"><a xlink:href="imap_8c.html#ac97da7839145e4cf23c319967ecc7001" target="_top" xlink:title="Open a mailbox &#45; Implements MxOps::mbox_open() ">
+<title>Node16296</title>
+<g id="a_node4"><a xlink:href="group__mx__mbox__open.html#gac97da7839145e4cf23c319967ecc7001" target="_top" xlink:title="Open a mailbox &#45; Implements MxOps::mbox_open() &#45;. ">
 <polygon fill="#ffffff" stroke="#000000" points="155.5,-38.5 155.5,-57.5 259.5,-57.5 259.5,-38.5 155.5,-38.5"/>
 <text text-anchor="middle" x="207.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">imap_mbox_open</text>
 </a>
 </g>
 </g>
-<!-- Node14906&#45;&gt;Node14970 -->
+<!-- Node16205&#45;&gt;Node16296 -->
 <g id="edge3" class="edge">
-<title>Node14906&#45;&gt;Node14970</title>
+<title>Node16205&#45;&gt;Node16296</title>
 <path fill="none" stroke="#191970" d="M117.401,-59.1161C130.0837,-57.5514 143.255,-55.9263 155.4834,-54.4176"/>
 <polygon fill="#191970" stroke="#191970" points="116.8579,-55.6565 107.3617,-60.3547 117.7151,-62.6038 116.8579,-55.6565"/>
 </g>
-<!-- Node15333 -->
+<!-- Node16682 -->
 <g id="node5" class="node">
-<title>Node15333</title>
+<title>Node16682</title>
 <g id="a_node5"><a xlink:href="message_8c.html#a733c2961ff414db54d7259ab1387ca6c" target="_top" xlink:title="Server COPY messages to another folder. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="145,-.5 145,-19.5 270,-19.5 270,-.5 145,-.5"/>
 <text text-anchor="middle" x="207.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">imap_copy_messages</text>
 </a>
 </g>
 </g>
-<!-- Node14906&#45;&gt;Node15333 -->
+<!-- Node16205&#45;&gt;Node16682 -->
 <g id="edge4" class="edge">
-<title>Node14906&#45;&gt;Node15333</title>
+<title>Node16205&#45;&gt;Node16682</title>
 <path fill="none" stroke="#191970" d="M83.7154,-53.1451C100.9032,-45.5242 122.9404,-36.1861 143,-29 152.4512,-25.6142 162.8314,-22.3591 172.4499,-19.5288"/>
 <polygon fill="#191970" stroke="#191970" points="81.9027,-50.1219 74.2076,-57.4045 84.7646,-56.5102 81.9027,-50.1219"/>
 </g>

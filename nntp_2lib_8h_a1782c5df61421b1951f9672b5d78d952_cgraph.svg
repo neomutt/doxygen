@@ -9,177 +9,177 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 366)">
 <title>nntp_active_fetch</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-366 540,-366 540,4 -4,4"/>
-<!-- Node5051 -->
+<!-- Node5154 -->
 <g id="node1" class="node">
-<title>Node5051</title>
+<title>Node5154</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-171.5 0,-190.5 104,-190.5 104,-171.5 0,-171.5"/>
 <text text-anchor="middle" x="52" y="-178.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nntp_active_fetch</text>
 </g>
-<!-- Node5052 -->
+<!-- Node5155 -->
 <g id="node2" class="node">
-<title>Node5052</title>
+<title>Node5155</title>
 <g id="a_node2"><a xlink:href="nntp_8c.html#a1e673d1df3f2dfca2ac1bf210cda8daa" target="_top" xlink:title="Get date and time from server. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="333,-342.5 333,-361.5 398,-361.5 398,-342.5 333,-342.5"/>
 <text text-anchor="middle" x="365.5" y="-349.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nntp_date</text>
 </a>
 </g>
 </g>
-<!-- Node5051&#45;&gt;Node5052 -->
+<!-- Node5154&#45;&gt;Node5155 -->
 <g id="edge1" class="edge">
-<title>Node5051&#45;&gt;Node5052</title>
+<title>Node5154&#45;&gt;Node5155</title>
 <path fill="none" stroke="#191970" d="M54.5127,-190.6599C62.1128,-217.7287 87.6193,-294.5213 140,-328 195.3213,-363.3582 274.2584,-362.8346 322.5681,-358.1734"/>
 <polygon fill="#191970" stroke="#191970" points="323.1144,-361.635 332.6862,-357.093 322.3711,-354.6746 323.1144,-361.635"/>
 </g>
-<!-- Node5053 -->
+<!-- Node5156 -->
 <g id="node3" class="node">
-<title>Node5053</title>
+<title>Node5156</title>
 <g id="a_node3"><a xlink:href="mutt_2string_8c.html#ad20e00309de897a1e882fc7400335b83" target="_top" xlink:title="Copy a string into a buffer (guaranteeing NUL&#45;termination) ">
 <polygon fill="#ffffff" stroke="#000000" points="450,-304.5 450,-323.5 536,-323.5 536,-304.5 450,-304.5"/>
 <text text-anchor="middle" x="493" y="-311.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_str_copy</text>
 </a>
 </g>
 </g>
-<!-- Node5051&#45;&gt;Node5053 -->
+<!-- Node5154&#45;&gt;Node5156 -->
 <g id="edge3" class="edge">
-<title>Node5051&#45;&gt;Node5053</title>
+<title>Node5154&#45;&gt;Node5156</title>
 <path fill="none" stroke="#191970" d="M56.9841,-190.7633C68.3772,-211.9183 98.5738,-261.7861 140,-283 236.5544,-332.4444 367.5693,-328.483 439.7659,-321.2283"/>
 <polygon fill="#191970" stroke="#191970" points="440.4071,-324.6799 449.9799,-320.14 439.6654,-317.7193 440.4071,-324.6799"/>
 </g>
-<!-- Node6235 -->
+<!-- Node6346 -->
 <g id="node4" class="node">
-<title>Node6235</title>
+<title>Node6346</title>
 <g id="a_node4"><a xlink:href="nntp_8c.html#aac2507d416301d774b449353d2e8af52" target="_top" xlink:title="Read lines, calling a callback function for each. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="317,-266.5 317,-285.5 414,-285.5 414,-266.5 317,-266.5"/>
 <text text-anchor="middle" x="365.5" y="-273.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nntp_fetch_lines</text>
 </a>
 </g>
 </g>
-<!-- Node5051&#45;&gt;Node6235 -->
+<!-- Node5154&#45;&gt;Node6346 -->
 <g id="edge4" class="edge">
-<title>Node5051&#45;&gt;Node6235</title>
+<title>Node5154&#45;&gt;Node6346</title>
 <path fill="none" stroke="#191970" d="M59.4818,-190.5842C73.2966,-207.4672 104.6462,-242.1273 140,-257 193.3068,-279.4252 259.8662,-282.3434 306.8135,-280.7732"/>
 <polygon fill="#191970" stroke="#191970" points="306.9706,-284.2698 316.818,-280.361 306.6824,-277.2758 306.9706,-284.2698"/>
 </g>
-<!-- Node6236 -->
+<!-- Node6347 -->
 <g id="node5" class="node">
-<title>Node6236</title>
+<title>Node6347</title>
 <g id="a_node5"><a xlink:href="newsrc_8c.html#a4a81ebd8f2d0f68109bddeef2c87ea83" target="_top" xlink:title="Parse newsgroup. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="163,-228.5 163,-247.5 258,-247.5 258,-228.5 163,-228.5"/>
 <text text-anchor="middle" x="210.5" y="-235.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nntp_add_group</text>
 </a>
 </g>
 </g>
-<!-- Node5051&#45;&gt;Node6236 -->
+<!-- Node5154&#45;&gt;Node6347 -->
 <g id="edge6" class="edge">
-<title>Node5051&#45;&gt;Node6236</title>
+<title>Node5154&#45;&gt;Node6347</title>
 <path fill="none" stroke="#191970" d="M71.9441,-190.5962C89.57,-198.8381 116.115,-210.6733 140,-219 146.8303,-221.3811 154.1183,-223.6448 161.3208,-225.725"/>
 <polygon fill="#191970" stroke="#191970" points="160.4651,-229.1199 171.0382,-228.4417 162.3499,-222.3784 160.4651,-229.1199"/>
 </g>
-<!-- Node6243 -->
+<!-- Node6354 -->
 <g id="node6" class="node">
-<title>Node6243</title>
+<title>Node6354</title>
 <g id="a_node6"><a xlink:href="newsrc_8c.html#a140bf8e49e3f11e0d9cb4d8253767819" target="_top" xlink:title="Remove hcache and bcache of newsgroup. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="140,-190.5 140,-209.5 281,-209.5 281,-190.5 140,-190.5"/>
 <text text-anchor="middle" x="210.5" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nntp_delete_group_cache</text>
 </a>
 </g>
 </g>
-<!-- Node5051&#45;&gt;Node6243 -->
+<!-- Node5154&#45;&gt;Node6354 -->
 <g id="edge7" class="edge">
-<title>Node5051&#45;&gt;Node6243</title>
+<title>Node5154&#45;&gt;Node6354</title>
 <path fill="none" stroke="#191970" d="M104.3381,-187.274C112.5042,-188.2529 121.1029,-189.2836 129.7257,-190.3173"/>
 <polygon fill="#191970" stroke="#191970" points="129.4891,-193.8139 139.8346,-191.5291 130.3223,-186.8636 129.4891,-193.8139"/>
 </g>
-<!-- Node5133 -->
+<!-- Node5236 -->
 <g id="node7" class="node">
-<title>Node5133</title>
+<title>Node5236</title>
 <g id="a_node7"><a xlink:href="hash_8c.html#a114557f625aa5366ab736c607fd381dd" target="_top" xlink:title="Remove an element from a Hash Table. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="158.5,-152.5 158.5,-171.5 262.5,-171.5 262.5,-152.5 158.5,-152.5"/>
 <text text-anchor="middle" x="210.5" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_hash_delete</text>
 </a>
 </g>
 </g>
-<!-- Node5051&#45;&gt;Node5133 -->
+<!-- Node5154&#45;&gt;Node5236 -->
 <g id="edge8" class="edge">
-<title>Node5051&#45;&gt;Node5133</title>
+<title>Node5154&#45;&gt;Node5236</title>
 <path fill="none" stroke="#191970" d="M104.3381,-174.726C118.478,-173.031 133.915,-171.1805 148.5281,-169.4288"/>
 <polygon fill="#191970" stroke="#191970" points="148.9748,-172.9004 158.4871,-168.235 148.1416,-165.9502 148.9748,-172.9004"/>
 </g>
-<!-- Node5085 -->
+<!-- Node5188 -->
 <g id="node8" class="node">
-<title>Node5085</title>
+<title>Node5188</title>
 <g id="a_node8"><a xlink:href="helpers_8c.html#ae50f679dd6c5bd1ba820884c8602f038" target="_top" xlink:title="Get a boolean config item by name. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="165,-114.5 165,-133.5 256,-133.5 256,-114.5 165,-114.5"/>
 <text text-anchor="middle" x="210.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_subset_bool</text>
 </a>
 </g>
 </g>
-<!-- Node5051&#45;&gt;Node5085 -->
+<!-- Node5154&#45;&gt;Node5188 -->
 <g id="edge9" class="edge">
-<title>Node5051&#45;&gt;Node5085</title>
+<title>Node5154&#45;&gt;Node5188</title>
 <path fill="none" stroke="#191970" d="M71.9441,-171.4038C89.57,-163.1619 116.115,-151.3267 140,-143 146.8303,-140.6189 154.1183,-138.3552 161.3208,-136.275"/>
 <polygon fill="#191970" stroke="#191970" points="162.3499,-139.6216 171.0382,-133.5583 160.4651,-132.8801 162.3499,-139.6216"/>
 </g>
-<!-- Node6237 -->
+<!-- Node6348 -->
 <g id="node9" class="node">
-<title>Node6237</title>
+<title>Node6348</title>
 <g id="a_node9"><a xlink:href="nntp_8c.html#aad1e29b1bda60fc87fa98dd0ff8b8539" target="_top" xlink:title="Fetch newsgroups descriptions. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="164.5,-76.5 164.5,-95.5 256.5,-95.5 256.5,-76.5 164.5,-76.5"/>
 <text text-anchor="middle" x="210.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">get_description</text>
 </a>
 </g>
 </g>
-<!-- Node5051&#45;&gt;Node6237 -->
+<!-- Node5154&#45;&gt;Node6348 -->
 <g id="edge10" class="edge">
-<title>Node5051&#45;&gt;Node6237</title>
+<title>Node5154&#45;&gt;Node6348</title>
 <path fill="none" stroke="#191970" d="M60.4651,-171.2687C75.0688,-155.0898 106.6537,-122.6925 140,-105 144.5718,-102.5743 149.4786,-100.4391 154.4972,-98.5633"/>
 <polygon fill="#191970" stroke="#191970" points="155.8786,-101.7909 164.2273,-95.2679 153.633,-95.1608 155.8786,-101.7909"/>
 </g>
-<!-- Node6239 -->
+<!-- Node6350 -->
 <g id="node10" class="node">
-<title>Node6239</title>
+<title>Node6350</title>
 <g id="a_node10"><a xlink:href="newsrc_8c.html#aa8b8319b59b7ef6de942cd25400e0d79" target="_top" xlink:title="Save list of all newsgroups to cache. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="142.5,-38.5 142.5,-57.5 278.5,-57.5 278.5,-38.5 142.5,-38.5"/>
 <text text-anchor="middle" x="210.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nntp_active_save_cache</text>
 </a>
 </g>
 </g>
-<!-- Node5051&#45;&gt;Node6239 -->
+<!-- Node5154&#45;&gt;Node6350 -->
 <g id="edge12" class="edge">
-<title>Node5051&#45;&gt;Node6239</title>
+<title>Node5154&#45;&gt;Node6350</title>
 <path fill="none" stroke="#191970" d="M56.6514,-171.3371C67.7873,-149.2616 98.1945,-94.89 140,-67 143.0811,-64.9445 146.3773,-63.1106 149.7993,-61.4747"/>
 <polygon fill="#191970" stroke="#191970" points="151.2144,-64.6767 159.0903,-57.59 148.5141,-58.2185 151.2144,-64.6767"/>
 </g>
-<!-- Node5474 -->
+<!-- Node5577 -->
 <g id="node11" class="node">
-<title>Node5474</title>
+<title>Node5577</title>
 <g id="a_node11"><a xlink:href="mutt__logging_8c.html#af068b3f524a31fad293b2fb61dfc4534" target="_top" xlink:title="Clear the message line (bottom line of screen) ">
 <polygon fill="#ffffff" stroke="#ff0000" points="161.5,-.5 161.5,-19.5 259.5,-19.5 259.5,-.5 161.5,-.5"/>
 <text text-anchor="middle" x="210.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_clear_error</text>
 </a>
 </g>
 </g>
-<!-- Node5051&#45;&gt;Node5474 -->
+<!-- Node5154&#45;&gt;Node5577 -->
 <g id="edge13" class="edge">
-<title>Node5051&#45;&gt;Node5474</title>
+<title>Node5154&#45;&gt;Node5577</title>
 <path fill="none" stroke="#191970" d="M54.6973,-171.4347C62.7832,-144.5586 89.4453,-67.8022 140,-29 143.6044,-26.2335 147.5815,-23.8693 151.7564,-21.8489"/>
 <polygon fill="#191970" stroke="#191970" points="153.2496,-25.0187 161.1437,-17.9523 150.566,-18.5535 153.2496,-25.0187"/>
 </g>
-<!-- Node5052&#45;&gt;Node5053 -->
+<!-- Node5155&#45;&gt;Node5156 -->
 <g id="edge2" class="edge">
-<title>Node5052&#45;&gt;Node5053</title>
+<title>Node5155&#45;&gt;Node5156</title>
 <path fill="none" stroke="#191970" d="M397.6736,-342.411C413.8307,-337.5956 433.608,-331.7012 450.9518,-326.532"/>
 <polygon fill="#191970" stroke="#191970" points="452.2529,-329.7964 460.8367,-323.5859 450.2535,-323.088 452.2529,-329.7964"/>
 </g>
-<!-- Node6235&#45;&gt;Node5053 -->
+<!-- Node6346&#45;&gt;Node5156 -->
 <g id="edge5" class="edge">
-<title>Node6235&#45;&gt;Node5053</title>
+<title>Node6346&#45;&gt;Node5156</title>
 <path fill="none" stroke="#191970" d="M397.6736,-285.589C413.8307,-290.4044 433.608,-296.2988 450.9518,-301.468"/>
 <polygon fill="#191970" stroke="#191970" points="450.2535,-304.912 460.8367,-304.4141 452.2529,-298.2036 450.2535,-304.912"/>
 </g>
-<!-- Node6237&#45;&gt;Node6235 -->
+<!-- Node6348&#45;&gt;Node6346 -->
 <g id="edge11" class="edge">
-<title>Node6237&#45;&gt;Node6235</title>
+<title>Node6348&#45;&gt;Node6346</title>
 <path fill="none" stroke="#191970" d="M256.8425,-92.4775C265.5245,-95.2831 274.0446,-99.2881 281,-105 329.7239,-145.0128 352.7128,-220.0939 361.2956,-255.9483"/>
 <polygon fill="#191970" stroke="#191970" points="357.9748,-257.1327 363.5904,-266.1168 364.803,-255.5916 357.9748,-257.1327"/>
 </g>

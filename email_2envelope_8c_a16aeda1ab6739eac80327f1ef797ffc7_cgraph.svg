@@ -9,66 +9,66 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 71)">
 <title>mutt_env_merge</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-71 378,-71 378,4 -4,4"/>
-<!-- Node2365 -->
+<!-- Node2581 -->
 <g id="node1" class="node">
-<title>Node2365</title>
+<title>Node2581</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-28.5 0,-47.5 100,-47.5 100,-28.5 0,-28.5"/>
 <text text-anchor="middle" x="50" y="-35.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_env_merge</text>
 </g>
-<!-- Node2366 -->
+<!-- Node2582 -->
 <g id="node2" class="node">
-<title>Node2366</title>
+<title>Node2582</title>
 <g id="a_node2"><a xlink:href="buffer_8c.html#a59b13bca38b1b314e2bc5ad142d2df49" target="_top" xlink:title="Release the memory allocated by a buffer. ">
 <polygon fill="#ffffff" stroke="#000000" points="260,-47.5 260,-66.5 374,-66.5 374,-47.5 260,-47.5"/>
 <text text-anchor="middle" x="317" y="-54.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_buffer_dealloc</text>
 </a>
 </g>
 </g>
-<!-- Node2365&#45;&gt;Node2366 -->
+<!-- Node2581&#45;&gt;Node2582 -->
 <g id="edge1" class="edge">
-<title>Node2365&#45;&gt;Node2366</title>
+<title>Node2581&#45;&gt;Node2582</title>
 <path fill="none" stroke="#191970" d="M84.8607,-47.5081C100.3867,-51.2728 118.9756,-55.1418 136,-57 173.3686,-61.0787 215.3359,-61.3456 249.4445,-60.4725"/>
 <polygon fill="#191970" stroke="#191970" points="249.8715,-63.9615 259.7639,-60.1678 249.6649,-56.9645 249.8715,-63.9615"/>
 </g>
-<!-- Node2367 -->
+<!-- Node2583 -->
 <g id="node3" class="node">
-<title>Node2367</title>
+<title>Node2583</title>
 <g id="a_node3"><a xlink:href="list_8c.html#ab5c53ce94cc2aafa4299dbc81a37f4a4" target="_top" xlink:title="Free a List AND its strings. ">
 <polygon fill="#ffffff" stroke="#000000" points="274.5,-.5 274.5,-19.5 359.5,-19.5 359.5,-.5 274.5,-.5"/>
 <text text-anchor="middle" x="317" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_list_free</text>
 </a>
 </g>
 </g>
-<!-- Node2365&#45;&gt;Node2367 -->
+<!-- Node2581&#45;&gt;Node2583 -->
 <g id="edge2" class="edge">
-<title>Node2365&#45;&gt;Node2367</title>
+<title>Node2581&#45;&gt;Node2583</title>
 <path fill="none" stroke="#191970" d="M86.5854,-28.4965C101.7698,-24.9242 119.6332,-21.199 136,-19 178.8549,-13.242 227.8621,-11.0725 264.0648,-10.298"/>
 <polygon fill="#191970" stroke="#191970" points="264.4595,-13.7914 274.3932,-10.1073 264.3303,-6.7926 264.4595,-13.7914"/>
 </g>
-<!-- Node2368 -->
+<!-- Node2584 -->
 <g id="node4" class="node">
-<title>Node2368</title>
+<title>Node2584</title>
 <g id="a_node4"><a xlink:href="email_2envelope_8c.html#a244dacf9b1001c9ce1dbd473e001381f" target="_top" xlink:title="Free an Envelope. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="136,-28.5 136,-47.5 224,-47.5 224,-28.5 136,-28.5"/>
 <text text-anchor="middle" x="180" y="-35.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_env_free</text>
 </a>
 </g>
 </g>
-<!-- Node2365&#45;&gt;Node2368 -->
+<!-- Node2581&#45;&gt;Node2584 -->
 <g id="edge3" class="edge">
-<title>Node2365&#45;&gt;Node2368</title>
+<title>Node2581&#45;&gt;Node2584</title>
 <path fill="none" stroke="#191970" d="M100.2614,-38C108.5919,-38 117.2634,-38 125.6885,-38"/>
 <polygon fill="#191970" stroke="#191970" points="125.8037,-41.5001 135.8037,-38 125.8037,-34.5001 125.8037,-41.5001"/>
 </g>
-<!-- Node2368&#45;&gt;Node2366 -->
+<!-- Node2584&#45;&gt;Node2582 -->
 <g id="edge4" class="edge">
-<title>Node2368&#45;&gt;Node2366</title>
+<title>Node2584&#45;&gt;Node2582</title>
 <path fill="none" stroke="#191970" d="M224.1018,-44.1163C232.3102,-45.2547 241.0562,-46.4676 249.7747,-47.6768"/>
 <polygon fill="#191970" stroke="#191970" points="249.5769,-51.1828 259.9629,-49.0897 250.5386,-44.2491 249.5769,-51.1828"/>
 </g>
-<!-- Node2368&#45;&gt;Node2367 -->
+<!-- Node2584&#45;&gt;Node2583 -->
 <g id="edge5" class="edge">
-<title>Node2368&#45;&gt;Node2367</title>
+<title>Node2584&#45;&gt;Node2583</title>
 <path fill="none" stroke="#191970" d="M224.1018,-28.9865C236.9423,-26.3622 251.0986,-23.4689 264.407,-20.7489"/>
 <polygon fill="#191970" stroke="#191970" points="265.2862,-24.1417 274.3828,-18.7101 263.8845,-17.2834 265.2862,-24.1417"/>
 </g>

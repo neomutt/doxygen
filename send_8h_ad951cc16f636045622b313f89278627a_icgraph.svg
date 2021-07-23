@@ -9,54 +9,54 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 100)">
 <title>mutt_forward_trailer</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-100 285,-100 285,4 -4,4"/>
-<!-- Node10783 -->
+<!-- Node10657 -->
 <g id="node1" class="node">
-<title>Node10783</title>
+<title>Node10657</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-38.5 0,-57.5 117,-57.5 117,-38.5 0,-38.5"/>
 <text text-anchor="middle" x="58.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_forward_trailer</text>
 </g>
-<!-- Node10784 -->
+<!-- Node10658 -->
 <g id="node2" class="node">
-<title>Node10784</title>
+<title>Node10658</title>
 <g id="a_node2"><a xlink:href="recvcmd_8c.html#a7c55bf567b5f09c72e507d90b4d97ed4" target="_top" xlink:title="forward one or several MIME bodies ">
 <polygon fill="#ffffff" stroke="#ff0000" points="153,-76.5 153,-95.5 281,-95.5 281,-76.5 153,-76.5"/>
 <text text-anchor="middle" x="217" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">attach_forward_bodies</text>
 </a>
 </g>
 </g>
-<!-- Node10783&#45;&gt;Node10784 -->
+<!-- Node10657&#45;&gt;Node10658 -->
 <g id="edge1" class="edge">
-<title>Node10783&#45;&gt;Node10784</title>
+<title>Node10657&#45;&gt;Node10658</title>
 <path fill="none" stroke="#191970" d="M108.4191,-59.968C130.6304,-65.2931 156.4205,-71.4762 177.2914,-76.4799"/>
 <polygon fill="#191970" stroke="#191970" points="109.0367,-56.5169 98.4962,-57.589 107.4047,-63.324 109.0367,-56.5169"/>
 </g>
-<!-- Node10857 -->
+<!-- Node10726 -->
 <g id="node3" class="node">
-<title>Node10857</title>
+<title>Node10726</title>
 <g id="a_node3"><a xlink:href="recvcmd_8c.html#ab39fb82ff6781463a0a5953e6f470312" target="_top" xlink:title="Forward one or several message&#45;type attachments. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="156,-38.5 156,-57.5 278,-57.5 278,-38.5 156,-38.5"/>
 <text text-anchor="middle" x="217" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">attach_forward_msgs</text>
 </a>
 </g>
 </g>
-<!-- Node10783&#45;&gt;Node10857 -->
+<!-- Node10657&#45;&gt;Node10726 -->
 <g id="edge2" class="edge">
-<title>Node10783&#45;&gt;Node10857</title>
+<title>Node10657&#45;&gt;Node10726</title>
 <path fill="none" stroke="#191970" d="M127.2509,-48C136.732,-48 146.4172,-48 155.7508,-48"/>
 <polygon fill="#191970" stroke="#191970" points="127.0693,-44.5001 117.0692,-48 127.0692,-51.5001 127.0693,-44.5001"/>
 </g>
-<!-- Node10828 -->
+<!-- Node10709 -->
 <g id="node4" class="node">
-<title>Node10828</title>
+<title>Node10709</title>
 <g id="a_node4"><a xlink:href="send_8c.html#a5e533b7adb511ebbadbd637e3264fb05" target="_top" xlink:title="Write out a forwarded message. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="169.5,-.5 169.5,-19.5 264.5,-19.5 264.5,-.5 169.5,-.5"/>
 <text text-anchor="middle" x="217" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">include_forward</text>
 </a>
 </g>
 </g>
-<!-- Node10783&#45;&gt;Node10828 -->
+<!-- Node10657&#45;&gt;Node10709 -->
 <g id="edge3" class="edge">
-<title>Node10783&#45;&gt;Node10828</title>
+<title>Node10657&#45;&gt;Node10709</title>
 <path fill="none" stroke="#191970" d="M108.4191,-36.032C130.6304,-30.7069 156.4205,-24.5238 177.2914,-19.5201"/>
 <polygon fill="#191970" stroke="#191970" points="107.4047,-32.676 98.4962,-38.411 109.0367,-39.4831 107.4047,-32.676"/>
 </g>

@@ -13,5 +13,6 @@ var structMuttThread =
     [ "next", "structMuttThread.html#aee5a1652f34056b764d12844e15f4345", null ],
     [ "prev", "structMuttThread.html#a5931c5905063b72935f0b37f044dad00", null ],
     [ "message", "structMuttThread.html#a76cec751739177388526fb9ae65b7383", null ],
-    [ "sort_key", "structMuttThread.html#a48169f61d6f9671be790ba2cb6914475", null ]
+    [ "sort_thread_key", "structMuttThread.html#aecdc5e8e8fa0958dcc7fabd1de568752", null ],
+    [ "sort_aux_key", "structMuttThread.html#a3dafd246afbf111a25932721162265c8", null ]
 ];

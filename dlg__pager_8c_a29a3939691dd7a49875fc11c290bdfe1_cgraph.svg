@@ -9,90 +9,90 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 225.5)">
 <title>mutt_buffer_strip_formatting</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-225.5 345,-225.5 345,4 -4,4"/>
-<!-- Node13086 -->
+<!-- Node13944 -->
 <g id="node1" class="node">
-<title>Node13086</title>
+<title>Node13944</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-107 0,-126 158,-126 158,-107 0,-107"/>
 <text text-anchor="middle" x="79" y="-114" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_buffer_strip_formatting</text>
 </g>
-<!-- Node13087 -->
+<!-- Node13945 -->
 <g id="node2" class="node">
-<title>Node13087</title>
+<title>Node13945</title>
 <g id="a_node2"><a xlink:href="buffer_8c.html#adb26acff5f6b9bb7c322669bcb7c48e3" target="_top" xlink:title="Reset an existing Buffer. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="215.5,-202 215.5,-221 319.5,-221 319.5,-202 215.5,-202"/>
 <text text-anchor="middle" x="267.5" y="-209" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_buffer_reset</text>
 </a>
 </g>
 </g>
-<!-- Node13086&#45;&gt;Node13087 -->
+<!-- Node13944&#45;&gt;Node13945 -->
 <g id="edge1" class="edge">
-<title>Node13086&#45;&gt;Node13087</title>
+<title>Node13944&#45;&gt;Node13945</title>
 <path fill="none" stroke="#191970" d="M90.6481,-126.1239C110.5956,-142.1445 153.1101,-174.3146 194,-192.5 199.4004,-194.9018 205.1641,-197.0451 210.9981,-198.9468"/>
 <polygon fill="#191970" stroke="#191970" points="210.246,-202.3759 220.8312,-201.9222 212.2735,-195.6759 210.246,-202.3759"/>
 </g>
-<!-- Node13089 -->
+<!-- Node13947 -->
 <g id="node3" class="node">
-<title>Node13089</title>
+<title>Node13947</title>
 <g id="a_node3"><a xlink:href="buffer_8c.html#a6929443fb5515bb2ab749f84769d9cc7" target="_top" xlink:title="Calculate the length of a Buffer. ">
 <polygon fill="#ffffff" stroke="#000000" points="220.5,-164 220.5,-183 314.5,-183 314.5,-164 220.5,-164"/>
 <text text-anchor="middle" x="267.5" y="-171" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_buffer_len</text>
 </a>
 </g>
 </g>
-<!-- Node13086&#45;&gt;Node13089 -->
+<!-- Node13944&#45;&gt;Node13947 -->
 <g id="edge2" class="edge">
-<title>Node13086&#45;&gt;Node13089</title>
+<title>Node13944&#45;&gt;Node13947</title>
 <path fill="none" stroke="#191970" d="M106.2583,-126.0723C129.4597,-134.0837 163.7411,-145.6003 194,-154.5 201.9106,-156.8267 210.3444,-159.1509 218.5733,-161.3349"/>
 <polygon fill="#191970" stroke="#191970" points="217.9,-164.7764 228.4602,-163.9201 219.6709,-158.0041 217.9,-164.7764"/>
 </g>
-<!-- Node13090 -->
+<!-- Node13948 -->
 <g id="node4" class="node">
-<title>Node13090</title>
+<title>Node13948</title>
 <g id="a_node4"><a xlink:href="buffer_8c.html#a819a9cb669c1a7e8e2218c672b794492" target="_top" xlink:title="Add a single character to a Buffer. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="213.5,-126 213.5,-145 321.5,-145 321.5,-126 213.5,-126"/>
 <text text-anchor="middle" x="267.5" y="-133" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_buffer_addch</text>
 </a>
 </g>
 </g>
-<!-- Node13086&#45;&gt;Node13090 -->
+<!-- Node13944&#45;&gt;Node13948 -->
 <g id="edge3" class="edge">
-<title>Node13086&#45;&gt;Node13090</title>
+<title>Node13944&#45;&gt;Node13948</title>
 <path fill="none" stroke="#191970" d="M158.1216,-124.4751C173.1203,-125.9869 188.6438,-127.5516 203.119,-129.0107"/>
 <polygon fill="#191970" stroke="#191970" points="203.1508,-132.5315 213.4514,-130.0521 203.8529,-125.5668 203.1508,-132.5315"/>
 </g>
-<!-- Node13095 -->
+<!-- Node13953 -->
 <g id="node5" class="node">
-<title>Node13095</title>
+<title>Node13953</title>
 <g id="a_node5"><a xlink:href="dlg__pager_8c.html#adf290d8b56802820bc1934d76afba50f" target="_top" xlink:title="Is this an ANSI escape sequence? ">
 <polygon fill="#ffffff" stroke="#000000" points="242.5,-88 242.5,-107 292.5,-107 292.5,-88 242.5,-88"/>
 <text text-anchor="middle" x="267.5" y="-95" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">is_ansi</text>
 </a>
 </g>
 </g>
-<!-- Node13086&#45;&gt;Node13095 -->
+<!-- Node13944&#45;&gt;Node13953 -->
 <g id="edge4" class="edge">
-<title>Node13086&#45;&gt;Node13095</title>
+<title>Node13944&#45;&gt;Node13953</title>
 <path fill="none" stroke="#191970" d="M158.1216,-108.5249C183.9787,-105.9186 211.3956,-103.1551 232.312,-101.0468"/>
 <polygon fill="#191970" stroke="#191970" points="232.7193,-104.5236 242.3179,-100.0383 232.0173,-97.5589 232.7193,-104.5236"/>
 </g>
-<!-- Node13096 -->
+<!-- Node13954 -->
 <g id="node6" class="node">
-<title>Node13096</title>
+<title>Node13954</title>
 <g id="a_node6"><a xlink:href="dlg__pager_8c.html#a920c283cb82368914ae6de672b14194e" target="_top" xlink:title="Check that the unique marker is present. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="194,-50 194,-69 341,-69 341,-50 194,-50"/>
 <text text-anchor="middle" x="267.5" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">check_attachment_marker</text>
 </a>
 </g>
 </g>
-<!-- Node13086&#45;&gt;Node13096 -->
+<!-- Node13944&#45;&gt;Node13954 -->
 <g id="edge5" class="edge">
-<title>Node13086&#45;&gt;Node13096</title>
+<title>Node13944&#45;&gt;Node13954</title>
 <path fill="none" stroke="#191970" d="M106.2583,-106.9277C129.4597,-98.9163 163.7411,-87.3997 194,-78.5 201.9106,-76.1733 210.3444,-73.8491 218.5733,-71.6651"/>
 <polygon fill="#191970" stroke="#191970" points="219.6709,-74.9959 228.4602,-69.0799 217.9,-68.2236 219.6709,-74.9959"/>
 </g>
-<!-- Node13101 -->
+<!-- Node13959 -->
 <g id="node7" class="node">
-<title>Node13101</title>
+<title>Node13959</title>
 <g id="a_node7"><a xlink:href="dlg__pager_8c.html#a18e1fdb87db0cf8e9e0585a0b4b55c31" target="_top" xlink:title="Check that the unique marker is present. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="199.5,-.5 199.5,-30.5 335.5,-30.5 335.5,-.5 199.5,-.5"/>
 <text text-anchor="start" x="207.5" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">check_protected_header</text>
@@ -100,9 +100,9 @@
 </a>
 </g>
 </g>
-<!-- Node13086&#45;&gt;Node13101 -->
+<!-- Node13944&#45;&gt;Node13959 -->
 <g id="edge6" class="edge">
-<title>Node13086&#45;&gt;Node13101</title>
+<title>Node13944&#45;&gt;Node13959</title>
 <path fill="none" stroke="#191970" d="M91.1283,-106.9564C111.4361,-91.3376 154.0345,-60.0982 194,-40.5 198.3831,-38.3506 202.9971,-36.3091 207.689,-34.3878"/>
 <polygon fill="#191970" stroke="#191970" points="209.3299,-37.505 217.3802,-30.617 206.7916,-30.9814 209.3299,-37.505"/>
 </g>

@@ -9,60 +9,60 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 81)">
 <title>mutt_replacelist_remove</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-81 430,-81 430,4 -4,4"/>
-<!-- Node4233 -->
+<!-- Node4612 -->
 <g id="node1" class="node">
-<title>Node4233</title>
+<title>Node4612</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-38.5 0,-57.5 139,-57.5 139,-38.5 0,-38.5"/>
 <text text-anchor="middle" x="69.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_replacelist_remove</text>
 </g>
-<!-- Node4234 -->
+<!-- Node4613 -->
 <g id="node2" class="node">
-<title>Node4234</title>
+<title>Node4613</title>
 <g id="a_node2"><a xlink:href="command__parse_8h.html#a98a737c5b392a1e5381bfc4e2e5893bc" target="_top" xlink:title="Parse the &#39;spam&#39; and &#39;nospam&#39; commands &#45; Implements Command::parse() ">
 <polygon fill="#ffffff" stroke="#000000" points="330,-57.5 330,-76.5 426,-76.5 426,-57.5 330,-57.5"/>
 <text text-anchor="middle" x="378" y="-64.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">parse_spam_list</text>
 </a>
 </g>
 </g>
-<!-- Node4233&#45;&gt;Node4234 -->
+<!-- Node4612&#45;&gt;Node4613 -->
 <g id="edge1" class="edge">
-<title>Node4233&#45;&gt;Node4234</title>
+<title>Node4612&#45;&gt;Node4613</title>
 <path fill="none" stroke="#191970" d="M122.5147,-59.4515C139.2239,-62.5472 157.8071,-65.4642 175,-67 227.8304,-71.7193 288.7038,-70.8897 329.9043,-69.4045"/>
 <polygon fill="#191970" stroke="#191970" points="122.8619,-55.9544 112.3822,-57.5116 121.5456,-62.8296 122.8619,-55.9544"/>
 </g>
-<!-- Node4235 -->
+<!-- Node4614 -->
 <g id="node3" class="node">
-<title>Node4235</title>
+<title>Node4614</title>
 <g id="a_node3"><a xlink:href="regex3_8h.html#a7b0b955eaca9b1208ff025f30a98aef0" target="_top" xlink:title="Add a pattern and a template to a list. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="175,-38.5 175,-57.5 294,-57.5 294,-38.5 175,-38.5"/>
 <text text-anchor="middle" x="234.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_replacelist_add</text>
 </a>
 </g>
 </g>
-<!-- Node4233&#45;&gt;Node4235 -->
+<!-- Node4612&#45;&gt;Node4614 -->
 <g id="edge2" class="edge">
-<title>Node4233&#45;&gt;Node4235</title>
+<title>Node4612&#45;&gt;Node4614</title>
 <path fill="none" stroke="#191970" d="M149.7448,-48C158.1967,-48 166.6802,-48 174.8401,-48"/>
 <polygon fill="#191970" stroke="#191970" points="149.4749,-44.5001 139.4749,-48 149.4748,-51.5001 149.4749,-44.5001"/>
 </g>
-<!-- Node4238 -->
+<!-- Node4617 -->
 <g id="node4" class="node">
-<title>Node4238</title>
+<title>Node4617</title>
 <g id="a_node4"><a xlink:href="subjectrx_8c.html#aecb1b2c60446e7de5fbae18b9ea7721f" target="_top" xlink:title="Remove a string replacement rule &#45; Implements Command::parse() ">
 <polygon fill="#ffffff" stroke="#ff0000" points="176,-.5 176,-19.5 293,-19.5 293,-.5 176,-.5"/>
 <text text-anchor="middle" x="234.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">parse_unreplace_list</text>
 </a>
 </g>
 </g>
-<!-- Node4233&#45;&gt;Node4238 -->
+<!-- Node4612&#45;&gt;Node4617 -->
 <g id="edge4" class="edge">
-<title>Node4233&#45;&gt;Node4238</title>
+<title>Node4612&#45;&gt;Node4617</title>
 <path fill="none" stroke="#191970" d="M121.154,-36.1039C144.3465,-30.7626 171.3383,-24.5463 193.1629,-19.5201"/>
 <polygon fill="#191970" stroke="#191970" points="120.0959,-32.7559 111.1365,-38.411 121.6669,-39.5774 120.0959,-32.7559"/>
 </g>
-<!-- Node4235&#45;&gt;Node4234 -->
+<!-- Node4614&#45;&gt;Node4613 -->
 <g id="edge3" class="edge">
-<title>Node4235&#45;&gt;Node4234</title>
+<title>Node4614&#45;&gt;Node4613</title>
 <path fill="none" stroke="#191970" d="M304.1942,-57.2278C312.8253,-58.3706 321.4962,-59.5187 329.7065,-60.6057"/>
 <polygon fill="#191970" stroke="#191970" points="304.4832,-53.7356 294.1103,-55.8926 303.5643,-60.675 304.4832,-53.7356"/>
 </g>

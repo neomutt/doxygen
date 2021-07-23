@@ -9,66 +9,66 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 100)">
 <title>print_time</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-100 383,-100 383,4 -4,4"/>
-<!-- Node16686 -->
+<!-- Node17868 -->
 <g id="node1" class="node">
-<title>Node16686</title>
+<title>Node17868</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-38.5 0,-57.5 67,-57.5 67,-38.5 0,-38.5"/>
 <text text-anchor="middle" x="33.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">print_time</text>
 </g>
-<!-- Node16687 -->
+<!-- Node17869 -->
 <g id="node2" class="node">
-<title>Node16687</title>
+<title>Node17869</title>
 <g id="a_node2"><a xlink:href="crypt__gpgme_8c.html#a123a620e8b1711536a4675ff5e5dd622" target="_top" xlink:title="Show a signature summary. ">
 <polygon fill="#ffffff" stroke="#000000" points="106.5,-76.5 106.5,-95.5 219.5,-95.5 219.5,-76.5 106.5,-76.5"/>
 <text text-anchor="middle" x="163" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">show_sig_summary</text>
 </a>
 </g>
 </g>
-<!-- Node16686&#45;&gt;Node16687 -->
+<!-- Node17868&#45;&gt;Node17869 -->
 <g id="edge1" class="edge">
-<title>Node16686&#45;&gt;Node16687</title>
+<title>Node17868&#45;&gt;Node17869</title>
 <path fill="none" stroke="#191970" d="M76.219,-60.5353C93.836,-65.7048 113.9232,-71.5991 130.3321,-76.4141"/>
 <polygon fill="#191970" stroke="#191970" points="76.7592,-57.0463 66.1783,-57.589 74.7882,-63.7631 76.7592,-57.0463"/>
 </g>
-<!-- Node16688 -->
+<!-- Node17870 -->
 <g id="node3" class="node">
-<title>Node16688</title>
+<title>Node17870</title>
 <g id="a_node3"><a xlink:href="crypt__gpgme_8c.html#a90bb1055f235c6de5186089f8795d443" target="_top" xlink:title="Show information about one signature. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="259,-38.5 259,-57.5 379,-57.5 379,-38.5 259,-38.5"/>
 <text text-anchor="middle" x="319" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">show_one_sig_status</text>
 </a>
 </g>
 </g>
-<!-- Node16686&#45;&gt;Node16688 -->
+<!-- Node17868&#45;&gt;Node17870 -->
 <g id="edge5" class="edge">
-<title>Node16686&#45;&gt;Node16688</title>
+<title>Node17868&#45;&gt;Node17870</title>
 <path fill="none" stroke="#191970" d="M77.2778,-48C125.8679,-48 204.585,-48 258.9197,-48"/>
 <polygon fill="#191970" stroke="#191970" points="77.0901,-44.5001 67.09,-48 77.09,-51.5001 77.0901,-44.5001"/>
 </g>
-<!-- Node17260 -->
+<!-- Node18496 -->
 <g id="node4" class="node">
-<title>Node17260</title>
+<title>Node18496</title>
 <g id="a_node4"><a xlink:href="crypt__gpgme_8c.html#a4f6781f9c39997951f4b5a5fcca555fe" target="_top" xlink:title="Print key info about an SMIME key. ">
 <polygon fill="#ffffff" stroke="#000000" points="103,-.5 103,-19.5 223,-19.5 223,-.5 103,-.5"/>
 <text text-anchor="middle" x="163" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">print_smime_keyinfo</text>
 </a>
 </g>
 </g>
-<!-- Node16686&#45;&gt;Node17260 -->
+<!-- Node17868&#45;&gt;Node18496 -->
 <g id="edge3" class="edge">
-<title>Node16686&#45;&gt;Node17260</title>
+<title>Node17868&#45;&gt;Node18496</title>
 <path fill="none" stroke="#191970" d="M76.219,-35.4647C93.836,-30.2952 113.9232,-24.4009 130.3321,-19.5859"/>
 <polygon fill="#191970" stroke="#191970" points="74.7882,-32.2369 66.1783,-38.411 76.7592,-38.9537 74.7882,-32.2369"/>
 </g>
-<!-- Node16687&#45;&gt;Node16688 -->
+<!-- Node17869&#45;&gt;Node17870 -->
 <g id="edge2" class="edge">
-<title>Node16687&#45;&gt;Node16688</title>
+<title>Node17869&#45;&gt;Node17870</title>
 <path fill="none" stroke="#191970" d="M212.1317,-74.032C233.9927,-68.7069 259.3761,-62.5238 279.9177,-57.5201"/>
 <polygon fill="#191970" stroke="#191970" points="211.2529,-70.6437 202.3654,-76.411 212.9097,-77.4448 211.2529,-70.6437"/>
 </g>
-<!-- Node17260&#45;&gt;Node16688 -->
+<!-- Node18496&#45;&gt;Node17870 -->
 <g id="edge4" class="edge">
-<title>Node17260&#45;&gt;Node16688</title>
+<title>Node18496&#45;&gt;Node17870</title>
 <path fill="none" stroke="#191970" d="M212.1317,-21.968C233.9927,-27.2931 259.3761,-33.4762 279.9177,-38.4799"/>
 <polygon fill="#191970" stroke="#191970" points="212.9097,-18.5552 202.3654,-19.589 211.2529,-25.3563 212.9097,-18.5552"/>
 </g>

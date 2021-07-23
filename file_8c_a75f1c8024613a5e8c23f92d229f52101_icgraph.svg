@@ -9,60 +9,60 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 100)">
 <title>mutt_file_get_size</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-100 439,-100 439,4 -4,4"/>
-<!-- Node18599 -->
+<!-- Node19657 -->
 <g id="node1" class="node">
-<title>Node18599</title>
+<title>Node19657</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-38.5 0,-57.5 106,-57.5 106,-38.5 0,-38.5"/>
 <text text-anchor="middle" x="53" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_file_get_size</text>
 </g>
-<!-- Node18600 -->
+<!-- Node19658 -->
 <g id="node2" class="node">
-<title>Node18600</title>
+<title>Node19658</title>
 <g id="a_node2"><a xlink:href="compmbox_2compress_8c.html#a877acb05482802a48bc56da5e24c8c54" target="_top" xlink:title="Save the size of the compressed file. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="182.5,-76.5 182.5,-95.5 248.5,-95.5 248.5,-76.5 182.5,-76.5"/>
 <text text-anchor="middle" x="215.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">store_size</text>
 </a>
 </g>
 </g>
-<!-- Node18599&#45;&gt;Node18600 -->
+<!-- Node19657&#45;&gt;Node19658 -->
 <g id="edge1" class="edge">
-<title>Node18599&#45;&gt;Node18600</title>
+<title>Node19657&#45;&gt;Node19658</title>
 <path fill="none" stroke="#191970" d="M103.931,-59.91C129.5511,-65.9012 159.8666,-72.9903 182.426,-78.2658"/>
 <polygon fill="#191970" stroke="#191970" points="104.5399,-56.4581 94.0056,-57.589 102.9459,-63.2742 104.5399,-56.4581"/>
 </g>
-<!-- Node18602 -->
+<!-- Node19660 -->
 <g id="node3" class="node">
-<title>Node18602</title>
-<g id="a_node3"><a xlink:href="compmbox_2compress_8c.html#abf3eceb782a3061fe668121697cc2e22" target="_top" xlink:title="Check for new mail &#45; Implements MxOps::mbox_check() ">
+<title>Node19660</title>
+<g id="a_node3"><a xlink:href="group__mx__mbox__check.html#gabf3eceb782a3061fe668121697cc2e22" target="_top" xlink:title="Check for new mail &#45; Implements MxOps::mbox_check() &#45;. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="325,-57.5 325,-76.5 435,-76.5 435,-57.5 325,-57.5"/>
 <text text-anchor="middle" x="380" y="-64.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">comp_mbox_check</text>
 </a>
 </g>
 </g>
-<!-- Node18599&#45;&gt;Node18602 -->
+<!-- Node19657&#45;&gt;Node19660 -->
 <g id="edge4" class="edge">
-<title>Node18599&#45;&gt;Node18602</title>
+<title>Node19657&#45;&gt;Node19660</title>
 <path fill="none" stroke="#191970" d="M116.4608,-51.6873C176.991,-55.2044 267.2354,-60.4479 324.8446,-63.7953"/>
 <polygon fill="#191970" stroke="#191970" points="116.4522,-48.181 106.266,-51.095 116.0461,-55.1692 116.4522,-48.181"/>
 </g>
-<!-- Node18604 -->
+<!-- Node19662 -->
 <g id="node4" class="node">
-<title>Node18604</title>
-<g id="a_node4"><a xlink:href="compmbox_2compress_8c.html#a5411107efad334d6cfdf124b9856e673" target="_top" xlink:title="Open a Mailbox for appending &#45; Implements MxOps::mbox_open_append() ">
+<title>Node19662</title>
+<g id="a_node4"><a xlink:href="group__mx__mbox__open__append.html#ga5411107efad334d6cfdf124b9856e673" target="_top" xlink:title="Open a Mailbox for appending &#45; Implements MxOps::mbox_open_append() &#45;flags may also contain MUTT_NEWF...">
 <polygon fill="#ffffff" stroke="#000000" points="142,-.5 142,-19.5 289,-19.5 289,-.5 142,-.5"/>
 <text text-anchor="middle" x="215.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">comp_mbox_open_append</text>
 </a>
 </g>
 </g>
-<!-- Node18599&#45;&gt;Node18604 -->
+<!-- Node19657&#45;&gt;Node19662 -->
 <g id="edge3" class="edge">
-<title>Node18599&#45;&gt;Node18604</title>
+<title>Node19657&#45;&gt;Node19662</title>
 <path fill="none" stroke="#191970" d="M103.8714,-36.1039C126.7124,-30.7626 153.2953,-24.5463 174.7893,-19.5201"/>
 <polygon fill="#191970" stroke="#191970" points="102.9459,-32.7258 94.0056,-38.411 104.5399,-39.5419 102.9459,-32.7258"/>
 </g>
-<!-- Node18600&#45;&gt;Node18602 -->
+<!-- Node19658&#45;&gt;Node19660 -->
 <g id="edge2" class="edge">
-<title>Node18600&#45;&gt;Node18602</title>
+<title>Node19658&#45;&gt;Node19660</title>
 <path fill="none" stroke="#191970" d="M258.9283,-80.984C279.0901,-78.6552 303.2905,-75.8601 324.7376,-73.3829"/>
 <polygon fill="#191970" stroke="#191970" points="258.3214,-77.5307 248.789,-82.1551 259.1246,-84.4845 258.3214,-77.5307"/>
 </g>

@@ -9,54 +9,54 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 100)">
 <title>get_nm_message</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-100 273,-100 273,4 -4,4"/>
-<!-- Node26864 -->
+<!-- Node13492 -->
 <g id="node1" class="node">
-<title>Node26864</title>
+<title>Node13492</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-38.5 0,-57.5 103,-57.5 103,-38.5 0,-38.5"/>
 <text text-anchor="middle" x="51.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">get_nm_message</text>
 </g>
-<!-- Node26865 -->
+<!-- Node13493 -->
 <g id="node2" class="node">
-<title>Node26865</title>
+<title>Node13493</title>
 <g id="a_node2"><a xlink:href="notmuch_8c.html#a8ac57cce7f11e7ce9b485d9fce4c2975" target="_top" xlink:title="Get the entire thread of an email. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="139,-76.5 139,-95.5 269,-95.5 269,-76.5 139,-76.5"/>
 <text text-anchor="middle" x="204" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nm_read_entire_thread</text>
 </a>
 </g>
 </g>
-<!-- Node26864&#45;&gt;Node26865 -->
+<!-- Node13492&#45;&gt;Node13493 -->
 <g id="edge1" class="edge">
-<title>Node26864&#45;&gt;Node26865</title>
+<title>Node13492&#45;&gt;Node13493</title>
 <path fill="none" stroke="#191970" d="M99.8184,-60.04C121.1234,-65.3488 145.8042,-71.4988 165.7945,-76.4799"/>
 <polygon fill="#191970" stroke="#191970" points="100.5318,-56.6108 89.9822,-57.589 98.8392,-63.4031 100.5318,-56.6108"/>
 </g>
-<!-- Node26906 -->
+<!-- Node13495 -->
 <g id="node3" class="node">
-<title>Node26906</title>
-<g id="a_node3"><a xlink:href="notmuch_8c.html#af34af0a876b8063034f021754bf66886" target="_top" xlink:title="Save changes to the Mailbox &#45; Implements MxOps::mbox_sync() ">
+<title>Node13495</title>
+<g id="a_node3"><a xlink:href="group__mx__mbox__sync.html#gaf34af0a876b8063034f021754bf66886" target="_top" xlink:title="Save changes to the Mailbox &#45; Implements MxOps::mbox_sync() &#45;. ">
 <polygon fill="#ffffff" stroke="#000000" points="157.5,-38.5 157.5,-57.5 250.5,-57.5 250.5,-38.5 157.5,-38.5"/>
 <text text-anchor="middle" x="204" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nm_mbox_sync</text>
 </a>
 </g>
 </g>
-<!-- Node26864&#45;&gt;Node26906 -->
+<!-- Node13492&#45;&gt;Node13495 -->
 <g id="edge2" class="edge">
-<title>Node26864&#45;&gt;Node26906</title>
+<title>Node13492&#45;&gt;Node13495</title>
 <path fill="none" stroke="#191970" d="M113.1734,-48C127.8959,-48 143.3716,-48 157.293,-48"/>
 <polygon fill="#191970" stroke="#191970" points="113.1296,-44.5001 103.1295,-48 113.1295,-51.5001 113.1296,-44.5001"/>
 </g>
-<!-- Node27132 -->
+<!-- Node13496 -->
 <g id="node4" class="node">
-<title>Node27132</title>
-<g id="a_node4"><a xlink:href="notmuch_8c.html#a077d62a65a036f3cacc562db56582ab4" target="_top" xlink:title="Save the tags to a message &#45; Implements MxOps::tags_commit() ">
+<title>Node13496</title>
+<g id="a_node4"><a xlink:href="group__mx__tags__commit.html#ga077d62a65a036f3cacc562db56582ab4" target="_top" xlink:title="Save the tags to a message &#45; Implements MxOps::tags_commit() &#45;. ">
 <polygon fill="#ffffff" stroke="#000000" points="153.5,-.5 153.5,-19.5 254.5,-19.5 254.5,-.5 153.5,-.5"/>
 <text text-anchor="middle" x="204" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nm_tags_commit</text>
 </a>
 </g>
 </g>
-<!-- Node26864&#45;&gt;Node27132 -->
+<!-- Node13492&#45;&gt;Node13496 -->
 <g id="edge3" class="edge">
-<title>Node26864&#45;&gt;Node27132</title>
+<title>Node13492&#45;&gt;Node13496</title>
 <path fill="none" stroke="#191970" d="M99.8184,-35.96C121.1234,-30.6512 145.8042,-24.5012 165.7945,-19.5201"/>
 <polygon fill="#191970" stroke="#191970" points="98.8392,-32.5969 89.9822,-38.411 100.5318,-39.3892 98.8392,-32.5969"/>
 </g>

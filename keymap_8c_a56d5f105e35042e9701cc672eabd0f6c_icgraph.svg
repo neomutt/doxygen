@@ -9,40 +9,40 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 62)">
 <title>generic_tokenize_push_string</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-62 269,-62 269,4 -4,4"/>
-<!-- Node5880 -->
+<!-- Node2101 -->
 <g id="node1" class="node">
-<title>Node5880</title>
+<title>Node2101</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-14 0,-44 128,-44 128,-14 0,-14"/>
 <text text-anchor="start" x="8" y="-32" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">generic_tokenize_push</text>
 <text text-anchor="middle" x="64" y="-21" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">_string</text>
 </g>
-<!-- Node5881 -->
+<!-- Node2102 -->
 <g id="node2" class="node">
-<title>Node5881</title>
+<title>Node2102</title>
 <g id="a_node2"><a xlink:href="keymap_8h.html#a9fa27bc0a5dc94d95f1530bab3036e85" target="_top" xlink:title="Determine what a keypress should do. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="180.5,-38.5 180.5,-57.5 248.5,-57.5 248.5,-38.5 180.5,-38.5"/>
 <text text-anchor="middle" x="214.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">km_dokey</text>
 </a>
 </g>
 </g>
-<!-- Node5880&#45;&gt;Node5881 -->
+<!-- Node2101&#45;&gt;Node2102 -->
 <g id="edge1" class="edge">
-<title>Node5880&#45;&gt;Node5881</title>
+<title>Node2101&#45;&gt;Node2102</title>
 <path fill="none" stroke="#191970" d="M138.3906,-38.3915C153.0703,-40.2448 167.7937,-42.1035 180.3257,-43.6856"/>
 <polygon fill="#191970" stroke="#191970" points="138.6218,-34.893 128.2621,-37.1128 137.7449,-41.8379 138.6218,-34.893"/>
 </g>
-<!-- Node6446 -->
+<!-- Node2721 -->
 <g id="node3" class="node">
-<title>Node6446</title>
+<title>Node2721</title>
 <g id="a_node3"><a xlink:href="keymap_8h.html#aee353816c517466abb6a0fc6ab80be89" target="_top" xlink:title="Parse the &#39;push&#39; command &#45; Implements Command::parse() ">
 <polygon fill="#ffffff" stroke="#000000" points="164,-.5 164,-19.5 265,-19.5 265,-.5 164,-.5"/>
 <text text-anchor="middle" x="214.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_parse_push</text>
 </a>
 </g>
 </g>
-<!-- Node5880&#45;&gt;Node6446 -->
+<!-- Node2101&#45;&gt;Node2721 -->
 <g id="edge2" class="edge">
-<title>Node5880&#45;&gt;Node6446</title>
+<title>Node2101&#45;&gt;Node2721</title>
 <path fill="none" stroke="#191970" d="M138.2998,-19.62C146.8797,-18.5368 155.4761,-17.4515 163.6427,-16.4205"/>
 <polygon fill="#191970" stroke="#191970" points="137.7449,-16.1621 128.2621,-20.8872 138.6218,-23.107 137.7449,-16.1621"/>
 </g>

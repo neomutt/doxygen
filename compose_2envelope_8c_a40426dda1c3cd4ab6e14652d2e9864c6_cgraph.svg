@@ -9,84 +9,84 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 176)">
 <title>env_window_observer</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-176 301,-176 301,4 -4,4"/>
-<!-- Node10861 -->
+<!-- Node11833 -->
 <g id="node1" class="node">
-<title>Node10861</title>
+<title>Node11833</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-76.5 0,-95.5 125,-95.5 125,-76.5 0,-76.5"/>
 <text text-anchor="middle" x="62.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">env_window_observer</text>
 </g>
-<!-- Node10862 -->
+<!-- Node11834 -->
 <g id="node2" class="node">
-<title>Node10862</title>
+<title>Node11834</title>
 <g id="a_node2"><a xlink:href="mutt_2notify_8c.html#a244545a719099431dda975083aef827e" target="_top" xlink:title="Remove an observer from an object. ">
 <polygon fill="#ffffff" stroke="#000000" points="161,-152.5 161,-171.5 297,-171.5 297,-152.5 161,-152.5"/>
 <text text-anchor="middle" x="229" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">notify_observer_remove</text>
 </a>
 </g>
 </g>
-<!-- Node10861&#45;&gt;Node10862 -->
+<!-- Node11833&#45;&gt;Node11834 -->
 <g id="edge1" class="edge">
-<title>Node10861&#45;&gt;Node10862</title>
+<title>Node11833&#45;&gt;Node11834</title>
 <path fill="none" stroke="#191970" d="M76.5917,-95.6918C95.1979,-108.1209 129.316,-129.6591 161,-143 166.7086,-145.4037 172.813,-147.5987 178.9345,-149.5738"/>
 <polygon fill="#191970" stroke="#191970" points="177.9276,-152.9258 188.5137,-152.4949 179.9694,-146.2302 177.9276,-152.9258"/>
 </g>
-<!-- Node10863 -->
+<!-- Node11835 -->
 <g id="node3" class="node">
-<title>Node10863</title>
+<title>Node11835</title>
 <g id="a_node3"><a xlink:href="compose_2envelope_8c.html#a11b33e59d9fc332ca9d5bb81aaf4b01f" target="_top" xlink:title="Notification that a Color has changed &#45; Implements observer_t. ">
 <polygon fill="#ffffff" stroke="#000000" points="173,-114.5 173,-133.5 285,-133.5 285,-114.5 173,-114.5"/>
 <text text-anchor="middle" x="229" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">env_color_observer</text>
 </a>
 </g>
 </g>
-<!-- Node10861&#45;&gt;Node10863 -->
+<!-- Node11833&#45;&gt;Node11835 -->
 <g id="edge2" class="edge">
-<title>Node10861&#45;&gt;Node10863</title>
+<title>Node11833&#45;&gt;Node11835</title>
 <path fill="none" stroke="#191970" d="M104.515,-95.589C126.6844,-100.6487 154.0732,-106.8996 177.511,-112.2488"/>
 <polygon fill="#191970" stroke="#191970" points="176.759,-115.6671 187.2871,-114.4799 178.3166,-108.8425 176.759,-115.6671"/>
 </g>
-<!-- Node10864 -->
+<!-- Node11836 -->
 <g id="node4" class="node">
-<title>Node10864</title>
+<title>Node11836</title>
 <g id="a_node4"><a xlink:href="compose_2envelope_8c.html#a5005803c4a5314d7c3cc74a53c370835" target="_top" xlink:title="Notification that the Compose data has changed &#45; Implements observer_t. ">
 <polygon fill="#ffffff" stroke="#000000" points="163,-76.5 163,-95.5 295,-95.5 295,-76.5 163,-76.5"/>
 <text text-anchor="middle" x="229" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">env_compose_observer</text>
 </a>
 </g>
 </g>
-<!-- Node10861&#45;&gt;Node10864 -->
+<!-- Node11833&#45;&gt;Node11836 -->
 <g id="edge3" class="edge">
-<title>Node10861&#45;&gt;Node10864</title>
+<title>Node11833&#45;&gt;Node11836</title>
 <path fill="none" stroke="#191970" d="M125.4465,-86C134.3454,-86 143.5739,-86 152.6906,-86"/>
 <polygon fill="#191970" stroke="#191970" points="152.9127,-89.5001 162.9127,-86 152.9126,-82.5001 152.9127,-89.5001"/>
 </g>
-<!-- Node10865 -->
+<!-- Node11837 -->
 <g id="node5" class="node">
-<title>Node10865</title>
+<title>Node11837</title>
 <g id="a_node5"><a xlink:href="compose_2envelope_8c.html#a88c4cf4a3223d641e216990e9192c86b" target="_top" xlink:title="Notification that a Config Variable has changed &#45; Implements observer_t. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="170.5,-38.5 170.5,-57.5 287.5,-57.5 287.5,-38.5 170.5,-38.5"/>
 <text text-anchor="middle" x="229" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">env_config_observer</text>
 </a>
 </g>
 </g>
-<!-- Node10861&#45;&gt;Node10865 -->
+<!-- Node11833&#45;&gt;Node11837 -->
 <g id="edge4" class="edge">
-<title>Node10861&#45;&gt;Node10865</title>
+<title>Node11833&#45;&gt;Node11837</title>
 <path fill="none" stroke="#191970" d="M104.515,-76.411C126.6844,-71.3513 154.0732,-65.1004 177.511,-59.7512"/>
 <polygon fill="#191970" stroke="#191970" points="178.3166,-63.1575 187.2871,-57.5201 176.759,-56.3329 178.3166,-63.1575"/>
 </g>
-<!-- Node10868 -->
+<!-- Node11840 -->
 <g id="node6" class="node">
-<title>Node10868</title>
+<title>Node11840</title>
 <g id="a_node6"><a xlink:href="compose_2envelope_8c.html#acdc7c66fc574f737b04ed0b1656606f8" target="_top" xlink:title="Notification that a User Header has changed &#45; Implements observer_t. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="168,-.5 168,-19.5 290,-19.5 290,-.5 168,-.5"/>
 <text text-anchor="middle" x="229" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">env_header_observer</text>
 </a>
 </g>
 </g>
-<!-- Node10861&#45;&gt;Node10868 -->
+<!-- Node11833&#45;&gt;Node11840 -->
 <g id="edge5" class="edge">
-<title>Node10861&#45;&gt;Node10868</title>
+<title>Node11833&#45;&gt;Node11840</title>
 <path fill="none" stroke="#191970" d="M76.5917,-76.3082C95.1979,-63.8791 129.316,-42.3409 161,-29 166.7086,-26.5963 172.813,-24.4013 178.9345,-22.4262"/>
 <polygon fill="#191970" stroke="#191970" points="179.9694,-25.7698 188.5137,-19.5051 177.9276,-19.0742 179.9694,-25.7698"/>
 </g>

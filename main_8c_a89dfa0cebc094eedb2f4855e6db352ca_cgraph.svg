@@ -9,69 +9,69 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 138)">
 <title>start_curses</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-138 228,-138 228,4 -4,4"/>
-<!-- Node4026 -->
+<!-- Node3961 -->
 <g id="node1" class="node">
-<title>Node4026</title>
+<title>Node3961</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-57.5 0,-76.5 76,-76.5 76,-57.5 0,-57.5"/>
 <text text-anchor="middle" x="38" y="-64.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">start_curses</text>
 </g>
-<!-- Node4027 -->
+<!-- Node3962 -->
 <g id="node2" class="node">
-<title>Node4027</title>
+<title>Node3962</title>
 <g id="a_node2"><a xlink:href="keymap_8c.html#a58e38a78c1e289c77166b7239ee843b0" target="_top" xlink:title="Initialise all the menu keybindings. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="141.5,-114.5 141.5,-133.5 194.5,-133.5 194.5,-114.5 141.5,-114.5"/>
 <text text-anchor="middle" x="168" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">km_init</text>
 </a>
 </g>
 </g>
-<!-- Node4026&#45;&gt;Node4027 -->
+<!-- Node3961&#45;&gt;Node3962 -->
 <g id="edge1" class="edge">
-<title>Node4026&#45;&gt;Node4027</title>
+<title>Node3961&#45;&gt;Node3962</title>
 <path fill="none" stroke="#191970" d="M55.0007,-76.6405C69.7826,-84.8005 91.9203,-96.4927 112,-105 118.3513,-107.6909 125.2261,-110.2781 131.9122,-112.6306"/>
 <polygon fill="#191970" stroke="#191970" points="130.8955,-115.9817 141.49,-115.8942 133.1533,-109.3558 130.8955,-115.9817"/>
 </g>
-<!-- Node4049 -->
+<!-- Node3984 -->
 <g id="node3" class="node">
-<title>Node4049</title>
+<title>Node3984</title>
 <g id="a_node3"><a xlink:href="mutt__signal_8c.html#a91ee7d4aca86a7dc55c9ffda2f494c37" target="_top" xlink:title="Initialise the signal handling. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="120.5,-76.5 120.5,-95.5 215.5,-95.5 215.5,-76.5 120.5,-76.5"/>
 <text text-anchor="middle" x="168" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_signal_init</text>
 </a>
 </g>
 </g>
-<!-- Node4026&#45;&gt;Node4049 -->
+<!-- Node3961&#45;&gt;Node3984 -->
 <g id="edge2" class="edge">
-<title>Node4026&#45;&gt;Node4049</title>
+<title>Node3961&#45;&gt;Node3984</title>
 <path fill="none" stroke="#191970" d="M76.3012,-72.5979C86.9598,-74.1557 98.7777,-75.8829 110.287,-77.565"/>
 <polygon fill="#191970" stroke="#191970" points="109.8838,-81.0432 120.2849,-79.0263 110.8962,-74.1168 109.8838,-81.0432"/>
 </g>
-<!-- Node4159 -->
+<!-- Node4094 -->
 <g id="node4" class="node">
-<title>Node4159</title>
+<title>Node4094</title>
 <g id="a_node4"><a xlink:href="color_8c.html#afe248e6914fc46bf06fa6d26aec80c78" target="_top" xlink:title="Initialize colours. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="120.5,-38.5 120.5,-57.5 215.5,-57.5 215.5,-38.5 120.5,-38.5"/>
 <text text-anchor="middle" x="168" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_colors_init</text>
 </a>
 </g>
 </g>
-<!-- Node4026&#45;&gt;Node4159 -->
+<!-- Node3961&#45;&gt;Node4094 -->
 <g id="edge3" class="edge">
-<title>Node4026&#45;&gt;Node4159</title>
+<title>Node3961&#45;&gt;Node4094</title>
 <path fill="none" stroke="#191970" d="M76.3012,-61.4021C86.9598,-59.8443 98.7777,-58.1171 110.287,-56.435"/>
 <polygon fill="#191970" stroke="#191970" points="110.8962,-59.8832 120.2849,-54.9737 109.8838,-52.9568 110.8962,-59.8832"/>
 </g>
-<!-- Node4164 -->
+<!-- Node4099 -->
 <g id="node5" class="node">
-<title>Node4164</title>
+<title>Node4099</title>
 <g id="a_node5"><a xlink:href="keymap_8c.html#ae6be8f34be875971676339bac0d726bd" target="_top" xlink:title="Initialise map of ncurses extended keys. ">
 <polygon fill="#ffffff" stroke="#000000" points="112,-.5 112,-19.5 224,-19.5 224,-.5 112,-.5"/>
 <text text-anchor="middle" x="168" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">init_extended_keys</text>
 </a>
 </g>
 </g>
-<!-- Node4026&#45;&gt;Node4164 -->
+<!-- Node3961&#45;&gt;Node4099 -->
 <g id="edge4" class="edge">
-<title>Node4026&#45;&gt;Node4164</title>
+<title>Node3961&#45;&gt;Node4099</title>
 <path fill="none" stroke="#191970" d="M55.0007,-57.3595C69.7826,-49.1995 91.9203,-37.5073 112,-29 117.022,-26.8723 122.3712,-24.8095 127.6957,-22.8762"/>
 <polygon fill="#191970" stroke="#191970" points="128.8992,-26.1632 137.1768,-19.5502 126.582,-19.5578 128.8992,-26.1632"/>
 </g>

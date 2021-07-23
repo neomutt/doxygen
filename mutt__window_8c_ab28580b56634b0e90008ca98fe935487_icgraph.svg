@@ -9,39 +9,39 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 62)">
 <title>window_is_focused</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-62 246,-62 246,4 -4,4"/>
-<!-- Node15920 -->
+<!-- Node17368 -->
 <g id="node1" class="node">
-<title>Node15920</title>
+<title>Node17368</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-19.5 0,-38.5 111,-38.5 111,-19.5 0,-19.5"/>
 <text text-anchor="middle" x="55.5" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">window_is_focused</text>
 </g>
-<!-- Node15921 -->
+<!-- Node17369 -->
 <g id="node2" class="node">
-<title>Node15921</title>
+<title>Node17369</title>
 <g id="a_node2"><a xlink:href="msgwin_8c.html#a0f2cf24711bdbc3c5704cf8cce07e1ea" target="_top" xlink:title="Recalculate the display of the Message Window &#45; Implements MuttWindow::recalc() ">
 <polygon fill="#ffffff" stroke="#ff0000" points="150,-38.5 150,-57.5 239,-57.5 239,-38.5 150,-38.5"/>
 <text text-anchor="middle" x="194.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">msgwin_recalc</text>
 </a>
 </g>
 </g>
-<!-- Node15920&#45;&gt;Node15921 -->
+<!-- Node17368&#45;&gt;Node17369 -->
 <g id="edge1" class="edge">
-<title>Node15920&#45;&gt;Node15921</title>
+<title>Node17368&#45;&gt;Node17369</title>
 <path fill="none" stroke="#191970" d="M121.2651,-37.9895C130.9534,-39.3138 140.7387,-40.6513 149.8652,-41.8988"/>
 <polygon fill="#191970" stroke="#191970" points="121.6176,-34.5052 111.2357,-36.6185 120.6695,-41.4407 121.6176,-34.5052"/>
 </g>
-<!-- Node15925 -->
+<!-- Node17373 -->
 <g id="node3" class="node">
-<title>Node15925</title>
+<title>Node17373</title>
 <g id="a_node3"><a xlink:href="msgwin_8c.html#ae7583a8406cfc0e3602be902ab8cac8e" target="_top" xlink:title="Redraw the Message Window &#45; Implements MuttWindow::repaint() ">
 <polygon fill="#ffffff" stroke="#ff0000" points="147,-.5 147,-19.5 242,-19.5 242,-.5 147,-.5"/>
 <text text-anchor="middle" x="194.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">msgwin_repaint</text>
 </a>
 </g>
 </g>
-<!-- Node15920&#45;&gt;Node15925 -->
+<!-- Node17368&#45;&gt;Node17373 -->
 <g id="edge2" class="edge">
-<title>Node15920&#45;&gt;Node15925</title>
+<title>Node17368&#45;&gt;Node17373</title>
 <path fill="none" stroke="#191970" d="M121.2759,-20.009C129.8856,-18.8322 138.5718,-17.6449 146.8039,-16.5196"/>
 <polygon fill="#191970" stroke="#191970" points="120.6695,-16.5593 111.2357,-21.3815 121.6176,-23.4948 120.6695,-16.5593"/>
 </g>

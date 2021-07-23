@@ -9,45 +9,45 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 150)">
 <title>mh_update_mtime</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-150 258,-150 258,4 -4,4"/>
-<!-- Node4505 -->
+<!-- Node4122 -->
 <g id="node1" class="node">
-<title>Node4505</title>
+<title>Node4122</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-66.5 0,-85.5 109,-85.5 109,-66.5 0,-66.5"/>
 <text text-anchor="middle" x="54.5" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mh_update_mtime</text>
 </g>
-<!-- Node4506 -->
+<!-- Node4123 -->
 <g id="node2" class="node">
-<title>Node4506</title>
+<title>Node4123</title>
 <g id="a_node2"><a xlink:href="maildir_2mdata_8c.html#a02bc1414732ddb9065ef531bc7170fb6" target="_top" xlink:title="Get the private data for this Mailbox. ">
 <polygon fill="#ffffff" stroke="#000000" points="145,-126.5 145,-145.5 254,-145.5 254,-126.5 145,-126.5"/>
 <text text-anchor="middle" x="199.5" y="-133.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">maildir_mdata_get</text>
 </a>
 </g>
 </g>
-<!-- Node4505&#45;&gt;Node4506 -->
+<!-- Node4122&#45;&gt;Node4123 -->
 <g id="edge1" class="edge">
-<title>Node4505&#45;&gt;Node4506</title>
+<title>Node4122&#45;&gt;Node4123</title>
 <path fill="none" stroke="#191970" d="M74.4059,-85.6424C92.5956,-94.3034 120.3355,-107.1369 145,-117 150.1172,-119.0463 155.5512,-121.0904 160.9297,-123.0386"/>
 <polygon fill="#191970" stroke="#191970" points="159.8758,-126.3784 170.4705,-126.422 162.2154,-119.781 159.8758,-126.3784"/>
 </g>
-<!-- Node4507 -->
+<!-- Node4124 -->
 <g id="node3" class="node">
-<title>Node4507</title>
+<title>Node4124</title>
 <g id="a_node3"><a xlink:href="mailbox_8h.html#a04aa11207205b6778388dfc8ed56ee0d" target="_top" xlink:title="Get the Mailbox&#39;s path string. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="158,-88.5 158,-107.5 241,-107.5 241,-88.5 158,-88.5"/>
 <text text-anchor="middle" x="199.5" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mailbox_path</text>
 </a>
 </g>
 </g>
-<!-- Node4505&#45;&gt;Node4507 -->
+<!-- Node4122&#45;&gt;Node4124 -->
 <g id="edge2" class="edge">
-<title>Node4505&#45;&gt;Node4507</title>
+<title>Node4122&#45;&gt;Node4124</title>
 <path fill="none" stroke="#191970" d="M109.3183,-84.3173C121.8492,-86.2185 135.1307,-88.2336 147.5376,-90.1161"/>
 <polygon fill="#191970" stroke="#191970" points="147.3062,-93.6209 157.7181,-91.6607 148.3563,-86.7001 147.3062,-93.6209"/>
 </g>
-<!-- Node4509 -->
+<!-- Node4126 -->
 <g id="node4" class="node">
-<title>Node4509</title>
+<title>Node4126</title>
 <g id="a_node4"><a xlink:href="file_8c.html#a6a21c63cfd81ee58a7e1b111249ef85d" target="_top" xlink:title="Read the stat() time into a time value. ">
 <polygon fill="#ffffff" stroke="#000000" points="147,-39 147,-69 252,-69 252,-39 147,-39"/>
 <text text-anchor="start" x="155" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_file_get_stat</text>
@@ -55,24 +55,24 @@
 </a>
 </g>
 </g>
-<!-- Node4505&#45;&gt;Node4509 -->
+<!-- Node4122&#45;&gt;Node4126 -->
 <g id="edge3" class="edge">
-<title>Node4505&#45;&gt;Node4509</title>
+<title>Node4122&#45;&gt;Node4126</title>
 <path fill="none" stroke="#191970" d="M109.3183,-67.6827C118.1752,-66.3389 127.407,-64.9382 136.4399,-63.5677"/>
 <polygon fill="#191970" stroke="#191970" points="137.1615,-66.9984 146.5233,-62.0378 136.1114,-60.0776 137.1615,-66.9984"/>
 </g>
-<!-- Node4510 -->
+<!-- Node4127 -->
 <g id="node5" class="node">
-<title>Node4510</title>
+<title>Node4127</title>
 <g id="a_node5"><a xlink:href="mutt_2string_8c.html#ad20e00309de897a1e882fc7400335b83" target="_top" xlink:title="Copy a string into a buffer (guaranteeing NUL&#45;termination) ">
 <polygon fill="#ffffff" stroke="#000000" points="156.5,-.5 156.5,-19.5 242.5,-19.5 242.5,-.5 156.5,-.5"/>
 <text text-anchor="middle" x="199.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_str_copy</text>
 </a>
 </g>
 </g>
-<!-- Node4505&#45;&gt;Node4510 -->
+<!-- Node4122&#45;&gt;Node4127 -->
 <g id="edge4" class="edge">
-<title>Node4505&#45;&gt;Node4510</title>
+<title>Node4122&#45;&gt;Node4127</title>
 <path fill="none" stroke="#191970" d="M71.8918,-66.381C89.8985,-56.608 118.9868,-41.3366 145,-30 150.4455,-27.6268 156.2724,-25.2863 162.0163,-23.0892"/>
 <polygon fill="#191970" stroke="#191970" points="163.3744,-26.3183 171.5227,-19.5466 160.93,-19.7589 163.3744,-26.3183"/>
 </g>

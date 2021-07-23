@@ -9,120 +9,120 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 270)">
 <title>mutt_parse_unhook</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-270 290,-270 290,4 -4,4"/>
-<!-- Node12930 -->
+<!-- Node12636 -->
 <g id="node1" class="node">
-<title>Node12930</title>
+<title>Node12636</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-114.5 0,-133.5 113,-133.5 113,-114.5 0,-114.5"/>
 <text text-anchor="middle" x="56.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_parse_unhook</text>
 </g>
-<!-- Node12931 -->
+<!-- Node12637 -->
 <g id="node2" class="node">
-<title>Node12931</title>
+<title>Node12637</title>
 <g id="a_node2"><a xlink:href="init_8c.html#a0c8965a76cc79c02268a42a859968bcb" target="_top" xlink:title="Extract one token from a string. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="161,-228.5 161,-247.5 274,-247.5 274,-228.5 161,-228.5"/>
 <text text-anchor="middle" x="217.5" y="-235.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_extract_token</text>
 </a>
 </g>
 </g>
-<!-- Node12930&#45;&gt;Node12931 -->
+<!-- Node12636&#45;&gt;Node12637 -->
 <g id="edge1" class="edge">
-<title>Node12930&#45;&gt;Node12931</title>
+<title>Node12636&#45;&gt;Node12637</title>
 <path fill="none" stroke="#191970" d="M63.174,-133.7152C76.9232,-152.9793 110.3757,-196.1274 149,-219 152.6437,-221.1577 156.5412,-223.0784 160.5591,-224.7867"/>
 <polygon fill="#191970" stroke="#191970" points="159.4983,-228.1276 170.0897,-228.3992 161.9794,-221.582 159.4983,-228.1276"/>
 </g>
-<!-- Node12980 -->
+<!-- Node12686 -->
 <g id="node3" class="node">
-<title>Node12980</title>
+<title>Node12686</title>
 <g id="a_node3"><a xlink:href="mutt_2string_8c.html#a6b6a50296dd2a31863a43379ef4a343d" target="_top" xlink:title="Compare two strings. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="172.5,-190.5 172.5,-209.5 262.5,-209.5 262.5,-190.5 172.5,-190.5"/>
 <text text-anchor="middle" x="217.5" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_str_equal</text>
 </a>
 </g>
 </g>
-<!-- Node12930&#45;&gt;Node12980 -->
+<!-- Node12636&#45;&gt;Node12686 -->
 <g id="edge3" class="edge">
-<title>Node12930&#45;&gt;Node12980</title>
+<title>Node12636&#45;&gt;Node12686</title>
 <path fill="none" stroke="#191970" d="M69.3341,-133.5434C86.6283,-146.01 118.7439,-167.7989 149,-181 154.4348,-183.3713 160.2425,-185.5218 166.0917,-187.4508"/>
 <polygon fill="#191970" stroke="#191970" points="165.3284,-190.8782 175.916,-190.4879 167.3959,-184.1904 165.3284,-190.8782"/>
 </g>
-<!-- Node12983 -->
+<!-- Node12689 -->
 <g id="node4" class="node">
-<title>Node12983</title>
+<title>Node12689</title>
 <g id="a_node4"><a xlink:href="buffer_8c.html#ad057ee239ae5bcfd72cab3749036ab02" target="_top" xlink:title="Format a string overwriting a Buffer. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="165,-152.5 165,-171.5 270,-171.5 270,-152.5 165,-152.5"/>
 <text text-anchor="middle" x="217.5" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_buffer_printf</text>
 </a>
 </g>
 </g>
-<!-- Node12930&#45;&gt;Node12983 -->
+<!-- Node12636&#45;&gt;Node12689 -->
 <g id="edge4" class="edge">
-<title>Node12930&#45;&gt;Node12983</title>
+<title>Node12636&#45;&gt;Node12689</title>
 <path fill="none" stroke="#191970" d="M97.1271,-133.589C118.4685,-138.6261 144.8119,-144.8438 167.4081,-150.1771"/>
 <polygon fill="#191970" stroke="#191970" points="166.6284,-153.5891 177.165,-152.4799 168.2365,-146.7763 166.6284,-153.5891"/>
 </g>
-<!-- Node12985 -->
+<!-- Node12691 -->
 <g id="node5" class="node">
-<title>Node12985</title>
+<title>Node12691</title>
 <g id="a_node5"><a xlink:href="hook_8c.html#a3b113188a50152ee8ff8f54975ea5897" target="_top" xlink:title="Delete matching hooks. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="162.5,-114.5 162.5,-133.5 272.5,-133.5 272.5,-114.5 162.5,-114.5"/>
 <text text-anchor="middle" x="217.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_delete_hooks</text>
 </a>
 </g>
 </g>
-<!-- Node12930&#45;&gt;Node12985 -->
+<!-- Node12636&#45;&gt;Node12691 -->
 <g id="edge5" class="edge">
-<title>Node12930&#45;&gt;Node12985</title>
+<title>Node12636&#45;&gt;Node12691</title>
 <path fill="none" stroke="#191970" d="M113.2626,-124C125.8353,-124 139.2565,-124 152.1408,-124"/>
 <polygon fill="#191970" stroke="#191970" points="152.3323,-127.5001 162.3323,-124 152.3322,-120.5001 152.3323,-127.5001"/>
 </g>
-<!-- Node12989 -->
+<!-- Node12695 -->
 <g id="node6" class="node">
-<title>Node12989</title>
+<title>Node12695</title>
 <g id="a_node6"><a xlink:href="hook_8c.html#a5158a12937ec41e078fe95c10d332217" target="_top" xlink:title="Delete all the index&#45;format&#45;hooks. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="158,-76.5 158,-95.5 277,-95.5 277,-76.5 158,-76.5"/>
 <text text-anchor="middle" x="217.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">delete_idxfmt_hooks</text>
 </a>
 </g>
 </g>
-<!-- Node12930&#45;&gt;Node12989 -->
+<!-- Node12636&#45;&gt;Node12695 -->
 <g id="edge6" class="edge">
-<title>Node12930&#45;&gt;Node12989</title>
+<title>Node12636&#45;&gt;Node12695</title>
 <path fill="none" stroke="#191970" d="M97.1271,-114.411C118.4685,-109.3739 144.8119,-103.1562 167.4081,-97.8229"/>
 <polygon fill="#191970" stroke="#191970" points="168.2365,-101.2237 177.165,-95.5201 166.6284,-94.4109 168.2365,-101.2237"/>
 </g>
-<!-- Node12991 -->
+<!-- Node12697 -->
 <g id="node7" class="node">
-<title>Node12991</title>
+<title>Node12697</title>
 <g id="a_node7"><a xlink:href="mutt_2charset_8c.html#a1b4218535731ab6b94715522af613e00" target="_top" xlink:title="Remove all the character set lookups. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="149,-38.5 149,-57.5 286,-57.5 286,-38.5 149,-38.5"/>
 <text text-anchor="middle" x="217.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_ch_lookup_remove</text>
 </a>
 </g>
 </g>
-<!-- Node12930&#45;&gt;Node12991 -->
+<!-- Node12636&#45;&gt;Node12697 -->
 <g id="edge7" class="edge">
-<title>Node12930&#45;&gt;Node12991</title>
+<title>Node12636&#45;&gt;Node12697</title>
 <path fill="none" stroke="#191970" d="M69.3341,-114.4566C86.6283,-101.99 118.7439,-80.2011 149,-67 154.4348,-64.6287 160.2425,-62.4782 166.0917,-60.5492"/>
 <polygon fill="#191970" stroke="#191970" points="167.3959,-63.8096 175.916,-57.5121 165.3284,-57.1218 167.3959,-63.8096"/>
 </g>
-<!-- Node12993 -->
+<!-- Node12699 -->
 <g id="node8" class="node">
-<title>Node12993</title>
+<title>Node12699</title>
 <g id="a_node8"><a xlink:href="init_8c.html#a2b5a9a2f2f93e047f07ee4d095e39b3e" target="_top" xlink:title="Find a hook by name. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="159,-.5 159,-19.5 276,-19.5 276,-.5 159,-.5"/>
 <text text-anchor="middle" x="217.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_get_hook_type</text>
 </a>
 </g>
 </g>
-<!-- Node12930&#45;&gt;Node12993 -->
+<!-- Node12636&#45;&gt;Node12699 -->
 <g id="edge8" class="edge">
-<title>Node12930&#45;&gt;Node12993</title>
+<title>Node12636&#45;&gt;Node12699</title>
 <path fill="none" stroke="#191970" d="M63.174,-114.2848C76.9232,-95.0207 110.3757,-51.8726 149,-29 152.6437,-26.8423 156.5412,-24.9216 160.5591,-23.2133"/>
 <polygon fill="#191970" stroke="#191970" points="161.9794,-26.418 170.0897,-19.6008 159.4983,-19.8724 161.9794,-26.418"/>
 </g>
-<!-- Node12931&#45;&gt;Node12931 -->
+<!-- Node12637&#45;&gt;Node12637 -->
 <g id="edge2" class="edge">
-<title>Node12931&#45;&gt;Node12931</title>
+<title>Node12637&#45;&gt;Node12637</title>
 <path fill="none" stroke="#191970" d="M192.8394,-247.7571C180.8423,-256.5653 189.0625,-266 217.5,-266 236.6064,-266 246.5865,-261.741 247.4401,-256.2746"/>
 <polygon fill="#191970" stroke="#191970" points="250.404,-254.4128 242.1606,-247.7571 244.4542,-258.1007 250.404,-254.4128"/>
 </g>

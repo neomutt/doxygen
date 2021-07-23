@@ -9,69 +9,69 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 138)">
 <title>pop_error</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-138 262,-138 262,4 -4,4"/>
-<!-- Node1198 -->
+<!-- Node76 -->
 <g id="node1" class="node">
-<title>Node1198</title>
+<title>Node76</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-57.5 0,-76.5 63,-76.5 63,-57.5 0,-57.5"/>
 <text text-anchor="middle" x="31.5" y="-64.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pop_error</text>
 </g>
-<!-- Node1199 -->
+<!-- Node77 -->
 <g id="node2" class="node">
-<title>Node1199</title>
+<title>Node77</title>
 <g id="a_node2"><a xlink:href="mutt_2string_8c.html#a9bf968304f4f9b49e24215cb2e28d22d" target="_top" xlink:title="Check whether a string starts with a prefix. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="122.5,-114.5 122.5,-133.5 234.5,-133.5 234.5,-114.5 122.5,-114.5"/>
 <text text-anchor="middle" x="178.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_str_startswith</text>
 </a>
 </g>
 </g>
-<!-- Node1198&#45;&gt;Node1199 -->
+<!-- Node76&#45;&gt;Node77 -->
 <g id="edge1" class="edge">
-<title>Node1198&#45;&gt;Node1199</title>
+<title>Node76&#45;&gt;Node77</title>
 <path fill="none" stroke="#191970" d="M45.6676,-76.5243C58.9423,-85.0656 79.5938,-97.391 99,-105 105.3911,-107.5059 112.2056,-109.7431 119.0552,-111.7239"/>
 <polygon fill="#191970" stroke="#191970" points="118.5029,-115.2006 129.0706,-114.4436 120.3374,-108.4452 118.5029,-115.2006"/>
 </g>
-<!-- Node1201 -->
+<!-- Node79 -->
 <g id="node3" class="node">
-<title>Node1201</title>
+<title>Node79</title>
 <g id="a_node3"><a xlink:href="mutt_2string_8c.html#aa5fb929533630a48c6d2e893267ce208" target="_top" xlink:title="Skip over whitespace as defined by RFC5322. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="108,-76.5 108,-95.5 249,-95.5 249,-76.5 108,-76.5"/>
 <text text-anchor="middle" x="178.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_str_skip_email_wsp</text>
 </a>
 </g>
 </g>
-<!-- Node1198&#45;&gt;Node1201 -->
+<!-- Node76&#45;&gt;Node79 -->
 <g id="edge2" class="edge">
-<title>Node1198&#45;&gt;Node1201</title>
+<title>Node76&#45;&gt;Node79</title>
 <path fill="none" stroke="#191970" d="M63.0352,-71.076C73.4196,-72.4182 85.4848,-73.9776 97.8223,-75.5723"/>
 <polygon fill="#191970" stroke="#191970" points="97.3821,-79.0444 107.7483,-76.8552 98.2795,-72.1022 97.3821,-79.0444"/>
 </g>
-<!-- Node1203 -->
+<!-- Node81 -->
 <g id="node4" class="node">
-<title>Node1203</title>
+<title>Node81</title>
 <g id="a_node4"><a xlink:href="mutt_2string_8c.html#ad20e00309de897a1e882fc7400335b83" target="_top" xlink:title="Copy a string into a buffer (guaranteeing NUL&#45;termination) ">
 <polygon fill="#ffffff" stroke="#000000" points="135.5,-38.5 135.5,-57.5 221.5,-57.5 221.5,-38.5 135.5,-38.5"/>
 <text text-anchor="middle" x="178.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_str_copy</text>
 </a>
 </g>
 </g>
-<!-- Node1198&#45;&gt;Node1203 -->
+<!-- Node76&#45;&gt;Node81 -->
 <g id="edge3" class="edge">
-<title>Node1198&#45;&gt;Node1203</title>
+<title>Node76&#45;&gt;Node81</title>
 <path fill="none" stroke="#191970" d="M63.0352,-62.924C81.1599,-60.5814 104.4046,-57.577 125.281,-54.8786"/>
 <polygon fill="#191970" stroke="#191970" points="125.8375,-58.3359 135.3064,-53.5828 124.9402,-51.3937 125.8375,-58.3359"/>
 </g>
-<!-- Node1204 -->
+<!-- Node82 -->
 <g id="node5" class="node">
-<title>Node1204</title>
+<title>Node82</title>
 <g id="a_node5"><a xlink:href="mutt_2string_8c.html#a1d343dcbce0482f8979fe2a298913225" target="_top" xlink:title="Trim trailing whitespace from a string. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="99,-.5 99,-19.5 258,-19.5 258,-.5 99,-.5"/>
 <text text-anchor="middle" x="178.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_str_remove_trailing_ws</text>
 </a>
 </g>
 </g>
-<!-- Node1198&#45;&gt;Node1204 -->
+<!-- Node76&#45;&gt;Node82 -->
 <g id="edge4" class="edge">
-<title>Node1198&#45;&gt;Node1204</title>
+<title>Node76&#45;&gt;Node82</title>
 <path fill="none" stroke="#191970" d="M45.6676,-57.4757C58.9423,-48.9344 79.5938,-36.609 99,-29 105.3911,-26.4941 112.2056,-24.2569 119.0552,-22.2761"/>
 <polygon fill="#191970" stroke="#191970" points="120.3374,-25.5548 129.0706,-19.5564 118.5029,-18.7994 120.3374,-25.5548"/>
 </g>

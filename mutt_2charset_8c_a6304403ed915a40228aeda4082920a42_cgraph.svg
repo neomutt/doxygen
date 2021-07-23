@@ -9,69 +9,69 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 138)">
 <title>mutt_ch_convert_string</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-138 288,-138 288,4 -4,4"/>
-<!-- Node6490 -->
+<!-- Node6982 -->
 <g id="node1" class="node">
-<title>Node6490</title>
+<title>Node6982</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-57.5 0,-76.5 131,-76.5 131,-57.5 0,-57.5"/>
 <text text-anchor="middle" x="65.5" y="-64.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_ch_convert_string</text>
 </g>
-<!-- Node6491 -->
+<!-- Node6983 -->
 <g id="node2" class="node">
-<title>Node6491</title>
+<title>Node6983</title>
 <g id="a_node2"><a xlink:href="mutt_2charset_8c.html#af7380ef31de4a56ab644b71f0a010ed9" target="_top" xlink:title="Set up iconv for conversions. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="167,-114.5 167,-133.5 284,-133.5 284,-114.5 167,-114.5"/>
 <text text-anchor="middle" x="225.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_ch_iconv_open</text>
 </a>
 </g>
 </g>
-<!-- Node6490&#45;&gt;Node6491 -->
+<!-- Node6982&#45;&gt;Node6983 -->
 <g id="edge1" class="edge">
-<title>Node6490&#45;&gt;Node6491</title>
+<title>Node6982&#45;&gt;Node6983</title>
 <path fill="none" stroke="#191970" d="M90.0017,-76.5197C110.4912,-84.3969 140.5331,-95.7526 167,-105 173.0202,-107.1034 179.4151,-109.2594 185.6823,-111.329"/>
 <polygon fill="#191970" stroke="#191970" points="184.7608,-114.71 195.3533,-114.4901 186.9356,-108.0564 184.7608,-114.71"/>
 </g>
-<!-- Node6504 -->
+<!-- Node6996 -->
 <g id="node3" class="node">
-<title>Node6504</title>
+<title>Node6996</title>
 <g id="a_node3"><a xlink:href="memory_8c.html#a264da4dc58e6dc8983285bd1f538f24d" target="_top" xlink:title="Allocate memory on the heap. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="171,-76.5 171,-95.5 280,-95.5 280,-76.5 171,-76.5"/>
 <text text-anchor="middle" x="225.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_mem_malloc</text>
 </a>
 </g>
 </g>
-<!-- Node6490&#45;&gt;Node6504 -->
+<!-- Node6982&#45;&gt;Node6996 -->
 <g id="edge2" class="edge">
-<title>Node6490&#45;&gt;Node6504</title>
+<title>Node6982&#45;&gt;Node6996</title>
 <path fill="none" stroke="#191970" d="M131.0398,-74.7828C140.8397,-75.9466 150.939,-77.1459 160.723,-78.3077"/>
 <polygon fill="#191970" stroke="#191970" points="160.4359,-81.7981 170.7789,-79.5019 161.2614,-74.847 160.4359,-81.7981"/>
 </g>
-<!-- Node6506 -->
+<!-- Node6998 -->
 <g id="node4" class="node">
-<title>Node6506</title>
+<title>Node6998</title>
 <g id="a_node4"><a xlink:href="mutt_2charset_8c.html#a161c342ed0b417b1f931b15463fe091b" target="_top" xlink:title="Change the encoding of a string. ">
 <polygon fill="#ffffff" stroke="#000000" points="181.5,-38.5 181.5,-57.5 269.5,-57.5 269.5,-38.5 181.5,-38.5"/>
 <text text-anchor="middle" x="225.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_ch_iconv</text>
 </a>
 </g>
 </g>
-<!-- Node6490&#45;&gt;Node6506 -->
+<!-- Node6982&#45;&gt;Node6998 -->
 <g id="edge3" class="edge">
-<title>Node6490&#45;&gt;Node6506</title>
+<title>Node6982&#45;&gt;Node6998</title>
 <path fill="none" stroke="#191970" d="M131.0398,-59.2172C144.3868,-57.6322 158.2893,-55.9813 171.1938,-54.4489"/>
 <polygon fill="#191970" stroke="#191970" points="171.7819,-57.9037 181.2994,-53.2488 170.9564,-50.9525 171.7819,-57.9037"/>
 </g>
-<!-- Node6507 -->
+<!-- Node6999 -->
 <g id="node5" class="node">
-<title>Node6507</title>
+<title>Node6999</title>
 <g id="a_node5"><a xlink:href="mutt_2string_8c.html#aa413e39e802d1748408fcc8509844411" target="_top" xlink:title="Shrink&#45;to&#45;fit a string. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="179,-.5 179,-19.5 272,-19.5 272,-.5 179,-.5"/>
 <text text-anchor="middle" x="225.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_str_adjust</text>
 </a>
 </g>
 </g>
-<!-- Node6490&#45;&gt;Node6507 -->
+<!-- Node6982&#45;&gt;Node6999 -->
 <g id="edge4" class="edge">
-<title>Node6490&#45;&gt;Node6507</title>
+<title>Node6982&#45;&gt;Node6999</title>
 <path fill="none" stroke="#191970" d="M90.0017,-57.4803C110.4912,-49.6031 140.5331,-38.2474 167,-29 173.0202,-26.8966 179.4151,-24.7406 185.6823,-22.671"/>
 <polygon fill="#191970" stroke="#191970" points="186.9356,-25.9436 195.3533,-19.5099 184.7608,-19.29 186.9356,-25.9436"/>
 </g>

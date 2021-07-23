@@ -9,55 +9,55 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 100)">
 <title>driver_tags_get_with_hidden</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-100 325,-100 325,4 -4,4"/>
-<!-- Node2345 -->
+<!-- Node2561 -->
 <g id="node1" class="node">
-<title>Node2345</title>
+<title>Node2561</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-33 0,-63 119,-63 119,-33 0,-33"/>
 <text text-anchor="start" x="8" y="-51" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">driver_tags_get_with</text>
 <text text-anchor="middle" x="59.5" y="-40" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">_hidden</text>
 </g>
-<!-- Node2346 -->
+<!-- Node2562 -->
 <g id="node2" class="node">
-<title>Node2346</title>
-<g id="a_node2"><a xlink:href="imap_2private_8h.html#abf465f5f6004ebf7bb4ad8e59a2f5b6c" target="_top" xlink:title="Update server to reflect the flags of a single message. ">
-<polygon fill="#ffffff" stroke="#ff0000" points="155,-76.5 155,-95.5 321,-95.5 321,-76.5 155,-76.5"/>
-<text text-anchor="middle" x="238" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">imap_sync_message_for_copy</text>
+<title>Node2562</title>
+<g id="a_node2"><a xlink:href="index_2functions_8c.html#a4876802b62b12cf5de1858616f2a1aec" target="_top" xlink:title="modify (notmuch/imap) tags &#45; Implements index_function_t ">
+<polygon fill="#ffffff" stroke="#000000" points="175.5,-76.5 175.5,-95.5 300.5,-95.5 300.5,-76.5 175.5,-76.5"/>
+<text text-anchor="middle" x="238" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">op_main_modify_tags</text>
 </a>
 </g>
 </g>
-<!-- Node2345&#45;&gt;Node2346 -->
+<!-- Node2561&#45;&gt;Node2562 -->
 <g id="edge1" class="edge">
-<title>Node2345&#45;&gt;Node2346</title>
+<title>Node2561&#45;&gt;Node2562</title>
 <path fill="none" stroke="#191970" d="M129.4803,-62.8978C150.9151,-67.4609 173.9071,-72.3556 193.1855,-76.4597"/>
 <polygon fill="#191970" stroke="#191970" points="129.9441,-59.4181 119.4345,-60.7592 128.4865,-66.2647 129.9441,-59.4181"/>
 </g>
-<!-- Node2759 -->
+<!-- Node2563 -->
 <g id="node3" class="node">
-<title>Node2759</title>
-<g id="a_node3"><a xlink:href="imap_8c.html#a265946b35361966dfe4ff4aa3b27bc23" target="_top" xlink:title="Save the tags to a message &#45; Implements MxOps::tags_commit() ">
-<polygon fill="#ffffff" stroke="#000000" points="183,-38.5 183,-57.5 293,-57.5 293,-38.5 183,-38.5"/>
-<text text-anchor="middle" x="238" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">imap_tags_commit</text>
+<title>Node2563</title>
+<g id="a_node3"><a xlink:href="imap_2private_8h.html#abf465f5f6004ebf7bb4ad8e59a2f5b6c" target="_top" xlink:title="Update server to reflect the flags of a single message. ">
+<polygon fill="#ffffff" stroke="#ff0000" points="155,-38.5 155,-57.5 321,-57.5 321,-38.5 155,-38.5"/>
+<text text-anchor="middle" x="238" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">imap_sync_message_for_copy</text>
 </a>
 </g>
 </g>
-<!-- Node2345&#45;&gt;Node2759 -->
+<!-- Node2561&#45;&gt;Node2563 -->
 <g id="edge2" class="edge">
-<title>Node2345&#45;&gt;Node2759</title>
-<path fill="none" stroke="#191970" d="M129.6687,-48C147.2924,-48 165.9576,-48 182.7382,-48"/>
+<title>Node2561&#45;&gt;Node2563</title>
+<path fill="none" stroke="#191970" d="M129.7029,-48C137.9226,-48 146.3684,-48 154.7436,-48"/>
 <polygon fill="#191970" stroke="#191970" points="129.4345,-44.5001 119.4345,-48 129.4344,-51.5001 129.4345,-44.5001"/>
 </g>
-<!-- Node2351 -->
+<!-- Node3027 -->
 <g id="node4" class="node">
-<title>Node2351</title>
-<g id="a_node4"><a xlink:href="index_2lib_8h.html#a99aec648e9fb9eeee0d0154211b428da" target="_top" xlink:title="Display a list of emails. ">
-<polygon fill="#ffffff" stroke="#ff0000" points="185.5,-.5 185.5,-19.5 290.5,-19.5 290.5,-.5 185.5,-.5"/>
-<text text-anchor="middle" x="238" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_index_menu</text>
+<title>Node3027</title>
+<g id="a_node4"><a xlink:href="group__mx__tags__commit.html#ga265946b35361966dfe4ff4aa3b27bc23" target="_top" xlink:title="Save the tags to a message &#45; Implements MxOps::tags_commit() &#45;This method update the server flags on ...">
+<polygon fill="#ffffff" stroke="#000000" points="183,-.5 183,-19.5 293,-19.5 293,-.5 183,-.5"/>
+<text text-anchor="middle" x="238" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">imap_tags_commit</text>
 </a>
 </g>
 </g>
-<!-- Node2345&#45;&gt;Node2351 -->
+<!-- Node2561&#45;&gt;Node3027 -->
 <g id="edge3" class="edge">
-<title>Node2345&#45;&gt;Node2351</title>
+<title>Node2561&#45;&gt;Node3027</title>
 <path fill="none" stroke="#191970" d="M129.4803,-33.1022C150.9151,-28.5391 173.9071,-23.6444 193.1855,-19.5403"/>
 <polygon fill="#191970" stroke="#191970" points="128.4865,-29.7353 119.4345,-35.2408 129.9441,-36.5819 128.4865,-29.7353"/>
 </g>

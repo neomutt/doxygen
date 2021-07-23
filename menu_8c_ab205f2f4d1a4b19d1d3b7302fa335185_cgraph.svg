@@ -9,105 +9,105 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 195.6768)">
 <title>menu_new</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-195.6768 371,-195.6768 371,4 -4,4"/>
-<!-- Node12304 -->
+<!-- Node12337 -->
 <g id="node1" class="node">
-<title>Node12304</title>
+<title>Node12337</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-95.5 0,-114.5 70,-114.5 70,-95.5 0,-95.5"/>
 <text text-anchor="middle" x="35" y="-102.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">menu_new</text>
 </g>
-<!-- Node12305 -->
+<!-- Node12338 -->
 <g id="node2" class="node">
-<title>Node12305</title>
+<title>Node12338</title>
 <g id="a_node2"><a xlink:href="memory_8c.html#a4c1612d209c7825d55e6a014df352f03" target="_top" xlink:title="Allocate zeroed memory on the heap. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="263,-133.5 263,-152.5 367,-152.5 367,-133.5 263,-133.5"/>
 <text text-anchor="middle" x="315" y="-140.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_mem_calloc</text>
 </a>
 </g>
 </g>
-<!-- Node12304&#45;&gt;Node12305 -->
+<!-- Node12337&#45;&gt;Node12338 -->
 <g id="edge1" class="edge">
-<title>Node12304&#45;&gt;Node12305</title>
+<title>Node12337&#45;&gt;Node12338</title>
 <path fill="none" stroke="#191970" d="M40.2893,-114.5538C50.4135,-131.718 74.3665,-167.2624 106,-181 167.8507,-207.8602 247.9655,-176.9674 288.7037,-157.1171"/>
 <polygon fill="#191970" stroke="#191970" points="290.348,-160.2079 297.7126,-152.5913 287.2056,-153.9529 290.348,-160.2079"/>
 </g>
-<!-- Node12307 -->
+<!-- Node12340 -->
 <g id="node3" class="node">
-<title>Node12307</title>
+<title>Node12340</title>
 <g id="a_node3"><a xlink:href="menu_8c.html#a319ba0bc002d089bf81769d3ca7bb7db" target="_top" xlink:title="Get the default colour for a line of the menu &#45; Implements Menu::color() ">
 <polygon fill="#ffffff" stroke="#ff0000" points="126.5,-152.5 126.5,-171.5 206.5,-171.5 206.5,-152.5 126.5,-152.5"/>
 <text text-anchor="middle" x="166.5" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">default_color</text>
 </a>
 </g>
 </g>
-<!-- Node12304&#45;&gt;Node12307 -->
+<!-- Node12337&#45;&gt;Node12340 -->
 <g id="edge2" class="edge">
-<title>Node12304&#45;&gt;Node12307</title>
+<title>Node12337&#45;&gt;Node12340</title>
 <path fill="none" stroke="#191970" d="M50.9328,-114.6423C65.052,-122.9138 86.409,-134.7665 106,-143 111.2015,-145.1861 116.7452,-147.2583 122.2854,-149.1747"/>
 <polygon fill="#191970" stroke="#191970" points="121.5864,-152.6299 132.1797,-152.4469 123.7844,-145.984 121.5864,-152.6299"/>
 </g>
-<!-- Node12309 -->
+<!-- Node12342 -->
 <g id="node4" class="node">
-<title>Node12309</title>
+<title>Node12342</title>
 <g id="a_node4"><a xlink:href="menu_8c.html#a0d240f13bc1269e8946046a28014c1bc" target="_top" xlink:title="Search a menu for a item matching a regex &#45; Implements Menu::search() ">
 <polygon fill="#ffffff" stroke="#ff0000" points="121.5,-114.5 121.5,-133.5 211.5,-133.5 211.5,-114.5 121.5,-114.5"/>
 <text text-anchor="middle" x="166.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">generic_search</text>
 </a>
 </g>
 </g>
-<!-- Node12304&#45;&gt;Node12309 -->
+<!-- Node12337&#45;&gt;Node12342 -->
 <g id="edge3" class="edge">
-<title>Node12304&#45;&gt;Node12309</title>
+<title>Node12337&#45;&gt;Node12342</title>
 <path fill="none" stroke="#191970" d="M70.2396,-110.0917C82.8507,-111.9138 97.386,-114.0139 111.2775,-116.0211"/>
 <polygon fill="#191970" stroke="#191970" points="110.8445,-119.4948 121.2423,-117.4609 111.8456,-112.5667 110.8445,-119.4948"/>
 </g>
-<!-- Node12313 -->
+<!-- Node12345 -->
 <g id="node5" class="node">
-<title>Node12313</title>
+<title>Node12345</title>
 <g id="a_node5"><a xlink:href="mutt_2notify_8c.html#a1173f38c295905a32cae9f202702f4ab" target="_top" xlink:title="Create a new notifications handler. ">
 <polygon fill="#ffffff" stroke="#000000" points="131,-76.5 131,-95.5 202,-95.5 202,-76.5 131,-76.5"/>
 <text text-anchor="middle" x="166.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">notify_new</text>
 </a>
 </g>
 </g>
-<!-- Node12304&#45;&gt;Node12313 -->
+<!-- Node12337&#45;&gt;Node12345 -->
 <g id="edge4" class="edge">
-<title>Node12304&#45;&gt;Node12313</title>
+<title>Node12337&#45;&gt;Node12345</title>
 <path fill="none" stroke="#191970" d="M70.2396,-99.9083C85.7381,-97.669 104.1427,-95.0098 120.6872,-92.6193"/>
 <polygon fill="#191970" stroke="#191970" points="121.3088,-96.066 130.7055,-91.1718 120.3077,-89.1379 121.3088,-96.066"/>
 </g>
-<!-- Node12314 -->
+<!-- Node12346 -->
 <g id="node6" class="node">
-<title>Node12314</title>
+<title>Node12346</title>
 <g id="a_node6"><a xlink:href="mutt_2notify_8c.html#ae467a73cac36feec67e38b695f67d0a5" target="_top" xlink:title="Set the parent notification handler. ">
 <polygon fill="#ffffff" stroke="#000000" points="115.5,-38.5 115.5,-57.5 217.5,-57.5 217.5,-38.5 115.5,-38.5"/>
 <text text-anchor="middle" x="166.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">notify_set_parent</text>
 </a>
 </g>
 </g>
-<!-- Node12304&#45;&gt;Node12314 -->
+<!-- Node12337&#45;&gt;Node12346 -->
 <g id="edge6" class="edge">
-<title>Node12304&#45;&gt;Node12314</title>
+<title>Node12337&#45;&gt;Node12346</title>
 <path fill="none" stroke="#191970" d="M50.9328,-95.3577C65.052,-87.0862 86.409,-75.2335 106,-67 111.2015,-64.8139 116.7452,-62.7417 122.2854,-60.8253"/>
 <polygon fill="#191970" stroke="#191970" points="123.7844,-64.016 132.1797,-57.5531 121.5864,-57.3701 123.7844,-64.016"/>
 </g>
-<!-- Node12315 -->
+<!-- Node12347 -->
 <g id="node7" class="node">
-<title>Node12315</title>
+<title>Node12347</title>
 <g id="a_node7"><a xlink:href="menu_2observer_8c.html#a04957deead5e0811519c30e83302dd23" target="_top" xlink:title="Add the notification observers. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="106,-.5 106,-19.5 227,-19.5 227,-.5 106,-.5"/>
 <text text-anchor="middle" x="166.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">menu_add_observers</text>
 </a>
 </g>
 </g>
-<!-- Node12304&#45;&gt;Node12315 -->
+<!-- Node12337&#45;&gt;Node12347 -->
 <g id="edge7" class="edge">
-<title>Node12304&#45;&gt;Node12315</title>
+<title>Node12337&#45;&gt;Node12347</title>
 <path fill="none" stroke="#191970" d="M41.4658,-95.3332C52.7119,-79.2494 77.4252,-46.9886 106,-29 109.3118,-26.9151 112.8704,-25.0429 116.5434,-23.3645"/>
 <polygon fill="#191970" stroke="#191970" points="117.8924,-26.5942 125.8336,-19.5808 115.252,-20.1113 117.8924,-26.5942"/>
 </g>
-<!-- Node12313&#45;&gt;Node12305 -->
+<!-- Node12345&#45;&gt;Node12338 -->
 <g id="edge5" class="edge">
-<title>Node12313&#45;&gt;Node12305</title>
+<title>Node12345&#45;&gt;Node12338</title>
 <path fill="none" stroke="#191970" d="M199.0496,-95.5443C208.1594,-98.3986 218.0224,-101.6621 227,-105 246.6889,-112.3204 268.3563,-121.6604 285.2644,-129.2486"/>
 <polygon fill="#191970" stroke="#191970" points="284.0654,-132.5478 294.6186,-133.4855 286.9535,-126.1714 284.0654,-132.5478"/>
 </g>

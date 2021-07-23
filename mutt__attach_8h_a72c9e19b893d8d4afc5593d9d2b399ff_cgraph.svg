@@ -9,147 +9,147 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 290)">
 <title>mutt_attach_display_loop</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-290 647,-290 647,4 -4,4"/>
-<!-- Node567 -->
+<!-- Node621 -->
 <g id="node1" class="node">
-<title>Node567</title>
+<title>Node621</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-133.5 0,-152.5 143,-152.5 143,-133.5 0,-133.5"/>
 <text text-anchor="middle" x="71.5" y="-140.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_attach_display_loop</text>
 </g>
-<!-- Node568 -->
+<!-- Node622 -->
 <g id="node2" class="node">
-<title>Node568</title>
+<title>Node622</title>
 <g id="a_node2"><a xlink:href="bool_8c.html#a5ef0a3002d75e9d9a91cda84336c13f5" target="_top" xlink:title="Toggle the value of a bool. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="213.5,-266.5 213.5,-285.5 305.5,-285.5 305.5,-266.5 213.5,-266.5"/>
 <text text-anchor="middle" x="259.5" y="-273.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">bool_str_toggle</text>
 </a>
 </g>
 </g>
-<!-- Node567&#45;&gt;Node568 -->
+<!-- Node621&#45;&gt;Node622 -->
 <g id="edge1" class="edge">
-<title>Node567&#45;&gt;Node568</title>
+<title>Node621&#45;&gt;Node622</title>
 <path fill="none" stroke="#191970" d="M78.3721,-152.7535C93.8525,-174.0049 133.6629,-224.7597 179,-252 186.5385,-256.5294 194.9924,-260.2567 203.5121,-263.3084"/>
 <polygon fill="#191970" stroke="#191970" points="202.5208,-266.6668 213.1138,-266.4735 204.7123,-260.0187 202.5208,-266.6668"/>
 </g>
-<!-- Node596 -->
+<!-- Node650 -->
 <g id="node3" class="node">
-<title>Node596</title>
+<title>Node650</title>
 <g id="a_node3"><a xlink:href="recvattach_8c.html#a20214b4a23880e9b23ba3ff9eb6fdedf" target="_top" xlink:title="Get the current attachment. ">
 <polygon fill="#ffffff" stroke="#000000" points="386,-190.5 386,-209.5 499,-209.5 499,-190.5 386,-190.5"/>
 <text text-anchor="middle" x="442.5" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">current_attachment</text>
 </a>
 </g>
 </g>
-<!-- Node567&#45;&gt;Node596 -->
+<!-- Node621&#45;&gt;Node650 -->
 <g id="edge2" class="edge">
-<title>Node567&#45;&gt;Node596</title>
+<title>Node621&#45;&gt;Node650</title>
 <path fill="none" stroke="#191970" d="M93.2399,-152.6317C114.6111,-161.6298 148.3846,-174.6063 179,-181 245.0091,-194.7853 322.1102,-199.0033 375.7906,-200.0964"/>
 <polygon fill="#191970" stroke="#191970" points="375.8094,-203.5971 385.8684,-200.2705 375.9304,-196.5982 375.8094,-203.5971"/>
 </g>
-<!-- Node597 -->
+<!-- Node651 -->
 <g id="node4" class="node">
-<title>Node597</title>
+<title>Node651</title>
 <g id="a_node4"><a xlink:href="menu_2lib_8h.html#a67ee9260e41986eb4487124b004cff18" target="_top" xlink:title="Get the current selection in the Menu. ">
 <polygon fill="#ffffff" stroke="#000000" points="545,-209.5 545,-228.5 643,-228.5 643,-209.5 545,-209.5"/>
 <text text-anchor="middle" x="594" y="-216.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">menu_get_index</text>
 </a>
 </g>
 </g>
-<!-- Node567&#45;&gt;Node597 -->
+<!-- Node621&#45;&gt;Node651 -->
 <g id="edge5" class="edge">
-<title>Node567&#45;&gt;Node597</title>
+<title>Node621&#45;&gt;Node651</title>
 <path fill="none" stroke="#191970" d="M84.2432,-152.5354C103.5736,-166.4149 141.9859,-191.7504 179,-203 301.0593,-240.0971 452.6344,-233.5583 534.6209,-225.9803"/>
 <polygon fill="#191970" stroke="#191970" points="535.1321,-229.4474 544.7509,-225.0056 534.4616,-222.4796 535.1321,-229.4474"/>
 </g>
-<!-- Node598 -->
+<!-- Node652 -->
 <g id="node5" class="node">
-<title>Node598</title>
+<title>Node652</title>
 <g id="a_node5"><a xlink:href="mutt__attach_8c.html#accdda994ba4457544dcf9ae681cfb6b9" target="_top" xlink:title="View an attachment. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="194.5,-152.5 194.5,-171.5 324.5,-171.5 324.5,-152.5 194.5,-152.5"/>
 <text text-anchor="middle" x="259.5" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_view_attachment</text>
 </a>
 </g>
 </g>
-<!-- Node567&#45;&gt;Node598 -->
+<!-- Node621&#45;&gt;Node652 -->
 <g id="edge4" class="edge">
-<title>Node567&#45;&gt;Node598</title>
+<title>Node621&#45;&gt;Node652</title>
 <path fill="none" stroke="#191970" d="M143.111,-150.2373C156.5067,-151.5911 170.5465,-153.01 184.0539,-154.3751"/>
 <polygon fill="#191970" stroke="#191970" points="183.9586,-157.8832 194.2599,-155.4066 184.6626,-150.9187 183.9586,-157.8832"/>
 </g>
-<!-- Node1217 -->
+<!-- Node1558 -->
 <g id="node6" class="node">
-<title>Node1217</title>
-<g id="a_node6"><a xlink:href="menu_2lib_8h.html#a6016915defd27e03ba9c3cf1c5499be1" target="_top" xlink:title="Set the current selection in the Menu. ">
-<polygon fill="#ffffff" stroke="#000000" points="211,-114.5 211,-133.5 308,-133.5 308,-114.5 211,-114.5"/>
+<title>Node1558</title>
+<g id="a_node6"><a xlink:href="menu_2lib_8h.html#ae279bb826b97fcc88c0714b2a6383851" target="_top" xlink:title="Set the current selection in the Menu. ">
+<polygon fill="#ffffff" stroke="#ff0000" points="211,-114.5 211,-133.5 308,-133.5 308,-114.5 211,-114.5"/>
 <text text-anchor="middle" x="259.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">menu_set_index</text>
 </a>
 </g>
 </g>
-<!-- Node567&#45;&gt;Node1217 -->
+<!-- Node621&#45;&gt;Node1558 -->
 <g id="edge6" class="edge">
-<title>Node567&#45;&gt;Node1217</title>
+<title>Node621&#45;&gt;Node1558</title>
 <path fill="none" stroke="#191970" d="M143.111,-135.7627C162.1093,-133.8427 182.4031,-131.7917 200.6366,-129.949"/>
 <polygon fill="#191970" stroke="#191970" points="201.2225,-133.4077 210.8198,-128.9198 200.5185,-126.4431 201.2225,-133.4077"/>
 </g>
-<!-- Node2430 -->
+<!-- Node2332 -->
 <g id="node7" class="node">
-<title>Node2430</title>
+<title>Node2332</title>
 <g id="a_node7"><a xlink:href="commands_8c.html#a9b5874c3558cb300404bb50f60fc6a31" target="_top" xlink:title="Edit the content type of an attachment. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="376,-57.5 376,-76.5 509,-76.5 509,-57.5 376,-57.5"/>
 <text text-anchor="middle" x="442.5" y="-64.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_edit_content_type</text>
 </a>
 </g>
 </g>
-<!-- Node567&#45;&gt;Node2430 -->
+<!-- Node621&#45;&gt;Node2332 -->
 <g id="edge7" class="edge">
-<title>Node567&#45;&gt;Node2430</title>
+<title>Node621&#45;&gt;Node2332</title>
 <path fill="none" stroke="#191970" d="M80.7251,-133.3464C98.0319,-116.02 137.3949,-80.2217 179,-67 244.0212,-46.3369 322.7125,-49.7493 377.0788,-56.1986"/>
 <polygon fill="#191970" stroke="#191970" points="376.9192,-59.7059 387.2771,-57.4777 377.7904,-52.7603 376.9192,-59.7059"/>
 </g>
-<!-- Node2510 -->
+<!-- Node2487 -->
 <g id="node8" class="node">
-<title>Node2510</title>
+<title>Node2487</title>
 <g id="a_node8"><a xlink:href="recvattach_8c.html#aaf526e8ee68249faedfcba0c417a0adc" target="_top" xlink:title="Edit the content type of an attachment. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="179,-76.5 179,-95.5 340,-95.5 340,-76.5 179,-76.5"/>
 <text text-anchor="middle" x="259.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">recvattach_edit_content_type</text>
 </a>
 </g>
 </g>
-<!-- Node567&#45;&gt;Node2510 -->
+<!-- Node621&#45;&gt;Node2487 -->
 <g id="edge8" class="edge">
-<title>Node567&#45;&gt;Node2510</title>
+<title>Node621&#45;&gt;Node2487</title>
 <path fill="none" stroke="#191970" d="M96.017,-133.4808C117.6469,-125.2882 150.1321,-113.4821 179,-105 187.5086,-102.5 196.5968,-100.1004 205.4898,-97.8984"/>
 <polygon fill="#191970" stroke="#191970" points="206.5084,-101.253 215.4061,-95.5012 204.8636,-94.449 206.5084,-101.253"/>
 </g>
-<!-- Node1845 -->
+<!-- Node1906 -->
 <g id="node9" class="node">
-<title>Node1845</title>
+<title>Node1906</title>
 <g id="a_node9"><a xlink:href="menu_2lib_8h.html#a5a9733924cc01176ee916515a3683268" target="_top" xlink:title="Queue a request for a redraw. ">
 <polygon fill="#ffffff" stroke="#000000" points="200,-.5 200,-19.5 319,-19.5 319,-.5 200,-.5"/>
 <text text-anchor="middle" x="259.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">menu_queue_redraw</text>
 </a>
 </g>
 </g>
-<!-- Node567&#45;&gt;Node1845 -->
+<!-- Node621&#45;&gt;Node1906 -->
 <g id="edge11" class="edge">
-<title>Node567&#45;&gt;Node1845</title>
+<title>Node621&#45;&gt;Node1906</title>
 <path fill="none" stroke="#191970" d="M78.3721,-133.2465C93.8525,-111.9951 133.6629,-61.2403 179,-34 186.5385,-29.4706 194.9924,-25.7433 203.5121,-22.6916"/>
 <polygon fill="#191970" stroke="#191970" points="204.7123,-25.9813 213.1138,-19.5265 202.5208,-19.3332 204.7123,-25.9813"/>
 </g>
-<!-- Node596&#45;&gt;Node597 -->
+<!-- Node650&#45;&gt;Node651 -->
 <g id="edge3" class="edge">
-<title>Node596&#45;&gt;Node597</title>
+<title>Node650&#45;&gt;Node651</title>
 <path fill="none" stroke="#191970" d="M499.344,-207.129C510.9033,-208.5786 523.09,-210.107 534.731,-211.5669"/>
 <polygon fill="#191970" stroke="#191970" points="534.4332,-215.0569 544.791,-212.8286 535.3043,-208.1113 534.4332,-215.0569"/>
 </g>
-<!-- Node2510&#45;&gt;Node596 -->
+<!-- Node2487&#45;&gt;Node650 -->
 <g id="edge9" class="edge">
-<title>Node2510&#45;&gt;Node596</title>
+<title>Node2487&#45;&gt;Node650</title>
 <path fill="none" stroke="#191970" d="M316.7101,-95.6157C324.779,-98.0736 332.7766,-101.1507 340,-105 376.8862,-124.6563 410.5432,-160.8757 428.6144,-182.4666"/>
 <polygon fill="#191970" stroke="#191970" points="426.1242,-184.9504 435.164,-190.4762 431.5432,-180.5193 426.1242,-184.9504"/>
 </g>
-<!-- Node2510&#45;&gt;Node2430 -->
+<!-- Node2487&#45;&gt;Node2332 -->
 <g id="edge10" class="edge">
-<title>Node2510&#45;&gt;Node2430</title>
+<title>Node2487&#45;&gt;Node2332</title>
 <path fill="none" stroke="#191970" d="M340.0328,-77.6387C348.6481,-76.7442 357.395,-75.836 365.962,-74.9466"/>
 <polygon fill="#191970" stroke="#191970" points="366.3326,-78.427 375.9177,-73.9129 365.6096,-71.4644 366.3326,-78.427"/>
 </g>

@@ -9,39 +9,39 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 62)">
 <title>mutt_rfc822_parse_message</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-62 326,-62 326,4 -4,4"/>
-<!-- Node26201 -->
+<!-- Node26327 -->
 <g id="node1" class="node">
-<title>Node26201</title>
+<title>Node26327</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-19.5 0,-38.5 158,-38.5 158,-19.5 0,-19.5"/>
 <text text-anchor="middle" x="79" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_rfc822_parse_message</text>
 </g>
-<!-- Node26202 -->
+<!-- Node26328 -->
 <g id="node2" class="node">
-<title>Node26202</title>
+<title>Node26328</title>
 <g id="a_node2"><a xlink:href="handler_8c.html#a0ab5b59c22636dd3d02267af588d4ace" target="_top" xlink:title="Handler for message/rfc822 body parts &#45; Implements handler_t. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="206.5,-38.5 206.5,-57.5 309.5,-57.5 309.5,-38.5 206.5,-38.5"/>
 <text text-anchor="middle" x="258" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">message_handler</text>
 </a>
 </g>
 </g>
-<!-- Node26201&#45;&gt;Node26202 -->
+<!-- Node26327&#45;&gt;Node26328 -->
 <g id="edge1" class="edge">
-<title>Node26201&#45;&gt;Node26202</title>
+<title>Node26327&#45;&gt;Node26328</title>
 <path fill="none" stroke="#191970" d="M168.0605,-38.4534C181.2012,-39.8482 194.3544,-41.2443 206.3872,-42.5215"/>
 <polygon fill="#191970" stroke="#191970" points="168.3467,-34.9641 158.0331,-37.389 167.6077,-41.925 168.3467,-34.9641"/>
 </g>
-<!-- Node26488 -->
+<!-- Node26661 -->
 <g id="node3" class="node">
-<title>Node26488</title>
+<title>Node26661</title>
 <g id="a_node3"><a xlink:href="sendlib_8h.html#a8a303061e1e0c0ea966b224a5c1d3b64" target="_top" xlink:title="Convert an email&#39;s MIME parts to 7&#45;bit. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="194,-.5 194,-19.5 322,-19.5 322,-.5 194,-.5"/>
 <text text-anchor="middle" x="258" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_message_to_7bit</text>
 </a>
 </g>
 </g>
-<!-- Node26201&#45;&gt;Node26488 -->
+<!-- Node26327&#45;&gt;Node26661 -->
 <g id="edge2" class="edge">
-<title>Node26201&#45;&gt;Node26488</title>
+<title>Node26327&#45;&gt;Node26661</title>
 <path fill="none" stroke="#191970" d="M168.1886,-19.5331C176.8578,-18.6129 185.5309,-17.6923 193.8825,-16.8058"/>
 <polygon fill="#191970" stroke="#191970" points="167.6077,-16.075 158.0331,-20.611 168.3467,-23.0359 167.6077,-16.075"/>
 </g>

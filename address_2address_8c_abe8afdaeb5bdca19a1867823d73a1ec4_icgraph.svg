@@ -9,105 +9,105 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 484.224)">
 <title>mutt_addrlist_to_intl</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-484.224 473,-484.224 473,4 -4,4"/>
-<!-- Node19300 -->
+<!-- Node21033 -->
 <g id="node1" class="node">
-<title>Node19300</title>
+<title>Node21033</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-227.8555 0,-246.8555 118,-246.8555 118,-227.8555 0,-227.8555"/>
 <text text-anchor="middle" x="59" y="-234.8555" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_addrlist_to_intl</text>
 </g>
-<!-- Node19301 -->
+<!-- Node21034 -->
 <g id="node2" class="node">
-<title>Node19301</title>
+<title>Node21034</title>
 <g id="a_node2"><a xlink:href="alias_2lib_8h.html#a9a5bce1105cd6bfb1f7a614f680dfef2" target="_top" xlink:title="Create a new Alias from an Address. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="373,-442.8555 373,-461.8555 449,-461.8555 449,-442.8555 373,-442.8555"/>
 <text text-anchor="middle" x="411" y="-449.8555" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">alias_create</text>
 </a>
 </g>
 </g>
-<!-- Node19300&#45;&gt;Node19301 -->
+<!-- Node21033&#45;&gt;Node21034 -->
 <g id="edge1" class="edge">
-<title>Node19300&#45;&gt;Node19301</title>
+<title>Node21033&#45;&gt;Node21034</title>
 <path fill="none" stroke="#191970" d="M60.7892,-256.9641C65.9921,-301.0635 85.4283,-407.6871 154,-452.3555 224.4719,-498.2616 330.5029,-476.5638 381.5183,-461.93"/>
 <polygon fill="#191970" stroke="#191970" points="64.2626,-256.5279 59.731,-246.9512 57.3014,-257.2637 64.2626,-256.5279"/>
 </g>
-<!-- Node19866 -->
+<!-- Node21653 -->
 <g id="node3" class="node">
-<title>Node19866</title>
+<title>Node21653</title>
 <g id="a_node3"><a xlink:href="alias_2lib_8h.html#a8487d20a2159f19cdf61e8a9030f0e72" target="_top" xlink:title="Parse the &#39;alias&#39; command &#45; Implements Command::parse() ">
 <polygon fill="#ffffff" stroke="#000000" points="375,-385.8555 375,-404.8555 447,-404.8555 447,-385.8555 375,-385.8555"/>
 <text text-anchor="middle" x="411" y="-392.8555" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">parse_alias</text>
 </a>
 </g>
 </g>
-<!-- Node19300&#45;&gt;Node19866 -->
+<!-- Node21033&#45;&gt;Node21653 -->
 <g id="edge2" class="edge">
-<title>Node19300&#45;&gt;Node19866</title>
+<title>Node21033&#45;&gt;Node21653</title>
 <path fill="none" stroke="#191970" d="M65.8446,-256.7325C78.0662,-288.0988 106.8718,-349.2132 154,-376.3555 223.7855,-416.5467 322.492,-409.6123 374.9485,-401.9528"/>
 <polygon fill="#191970" stroke="#191970" points="68.9829,-255.1306 62.2105,-246.9829 62.4237,-257.5756 68.9829,-255.1306"/>
 </g>
-<!-- Node19487 -->
+<!-- Node21253 -->
 <g id="node4" class="node">
-<title>Node19487</title>
+<title>Node21253</title>
 <g id="a_node4"><a xlink:href="commands_8h.html#a2fc497abbb4426b3352d9ec6676cc39f" target="_top" xlink:title="Bounce an email. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="353.5,-97.8555 353.5,-116.8555 468.5,-116.8555 468.5,-97.8555 353.5,-97.8555"/>
 <text text-anchor="middle" x="411" y="-104.8555" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">ci_bounce_message</text>
 </a>
 </g>
 </g>
-<!-- Node19300&#45;&gt;Node19487 -->
+<!-- Node21033&#45;&gt;Node21253 -->
 <g id="edge3" class="edge">
-<title>Node19300&#45;&gt;Node19487</title>
+<title>Node21033&#45;&gt;Node21253</title>
 <path fill="none" stroke="#191970" d="M89.1187,-250.8132C139.7723,-271.2622 243.6602,-303.651 317,-262.3555 374.8628,-229.7746 401.2,-145.6041 408.6713,-117.0196"/>
 <polygon fill="#191970" stroke="#191970" points="90.3001,-247.514 79.7226,-246.908 87.6135,-253.9779 90.3001,-247.514"/>
 </g>
-<!-- Node19867 -->
+<!-- Node21654 -->
 <g id="node5" class="node">
-<title>Node19867</title>
+<title>Node21654</title>
 <g id="a_node5"><a xlink:href="dlgquery_8c.html#acc8045bc53457262c16acba14aec09cc" target="_top" xlink:title="Turn an Alias into an AddressList. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="187,-347.8555 187,-366.8555 284,-366.8555 284,-347.8555 187,-347.8555"/>
 <text text-anchor="middle" x="235.5" y="-354.8555" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">alias_to_addrlist</text>
 </a>
 </g>
 </g>
-<!-- Node19300&#45;&gt;Node19867 -->
+<!-- Node21033&#45;&gt;Node21654 -->
 <g id="edge4" class="edge">
-<title>Node19300&#45;&gt;Node19867</title>
+<title>Node21033&#45;&gt;Node21654</title>
 <path fill="none" stroke="#191970" d="M70.8181,-255.3612C86.8512,-278.2938 117.698,-317.4487 154,-338.3555 163.9462,-344.0836 175.5149,-348.0857 186.7577,-350.8817"/>
 <polygon fill="#191970" stroke="#191970" points="73.578,-253.1956 65.0592,-246.8964 67.7904,-257.1332 73.578,-253.1956"/>
 </g>
-<!-- Node19868 -->
+<!-- Node21655 -->
 <g id="node6" class="node">
-<title>Node19868</title>
+<title>Node21655</title>
 <g id="a_node6"><a xlink:href="reverse_8h.html#acbab505cc98b97d6524ed9ceed41f7be" target="_top" xlink:title="Add an email address lookup for an Alias. ">
 <polygon fill="#ffffff" stroke="#000000" points="183,-423.8555 183,-442.8555 288,-442.8555 288,-423.8555 183,-423.8555"/>
 <text text-anchor="middle" x="235.5" y="-430.8555" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">alias_reverse_add</text>
 </a>
 </g>
 </g>
-<!-- Node19300&#45;&gt;Node19868 -->
+<!-- Node21033&#45;&gt;Node21655 -->
 <g id="edge5" class="edge">
-<title>Node19300&#45;&gt;Node19868</title>
+<title>Node21033&#45;&gt;Node21655</title>
 <path fill="none" stroke="#191970" d="M64.398,-256.9802C75.249,-292.7283 103.126,-368.528 154,-409.3555 162.3977,-416.0948 172.6332,-420.9421 182.9755,-424.4285"/>
 <polygon fill="#191970" stroke="#191970" points="67.7232,-255.8801 61.5705,-247.2548 61.0015,-257.8344 67.7232,-255.8801"/>
 </g>
-<!-- Node19869 -->
+<!-- Node21656 -->
 <g id="node7" class="node">
-<title>Node19869</title>
+<title>Node21656</title>
 <g id="a_node7"><a xlink:href="reverse_8h.html#adcac6af93dc6927de0a242fb1a75577b" target="_top" xlink:title="Remove an email address lookup for an Alias. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="176.5,-309.8555 176.5,-328.8555 294.5,-328.8555 294.5,-309.8555 176.5,-309.8555"/>
 <text text-anchor="middle" x="235.5" y="-316.8555" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">alias_reverse_delete</text>
 </a>
 </g>
 </g>
-<!-- Node19300&#45;&gt;Node19869 -->
+<!-- Node21033&#45;&gt;Node21656 -->
 <g id="edge8" class="edge">
-<title>Node19300&#45;&gt;Node19869</title>
+<title>Node21033&#45;&gt;Node21656</title>
 <path fill="none" stroke="#191970" d="M80.599,-252.8108C99.2936,-265.6219 127.4319,-283.5783 154,-295.3555 167.08,-301.1536 181.9488,-306.0035 195.3729,-309.7914"/>
 <polygon fill="#191970" stroke="#191970" points="82.4356,-249.8248 72.2285,-246.9847 78.4367,-255.5701 82.4356,-249.8248"/>
 </g>
-<!-- Node19872 -->
+<!-- Node21659 -->
 <g id="node8" class="node">
-<title>Node19872</title>
+<title>Node21659</title>
 <g id="a_node8"><a xlink:href="autocrypt_2private_8h.html#a06abfa5c13cc1c6ce053d63c5c692508" target="_top" xlink:title="Normalise a list of Email Addresses. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="154,-222.3555 154,-252.3555 317,-252.3555 317,-222.3555 154,-222.3555"/>
 <text text-anchor="start" x="162" y="-240.3555" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_autocrypt_db_normalize</text>
@@ -115,129 +115,129 @@
 </a>
 </g>
 </g>
-<!-- Node19300&#45;&gt;Node19872 -->
+<!-- Node21033&#45;&gt;Node21659 -->
 <g id="edge10" class="edge">
-<title>Node19300&#45;&gt;Node19872</title>
+<title>Node21033&#45;&gt;Node21659</title>
 <path fill="none" stroke="#191970" d="M128.3244,-237.3555C136.6874,-237.3555 145.2883,-237.3555 153.8072,-237.3555"/>
 <polygon fill="#191970" stroke="#191970" points="128.263,-233.8556 118.2629,-237.3555 128.2629,-240.8556 128.263,-233.8556"/>
 </g>
-<!-- Node19873 -->
+<!-- Node21660 -->
 <g id="node9" class="node">
-<title>Node19873</title>
+<title>Node21660</title>
 <g id="a_node9"><a xlink:href="command__parse_8h.html#a837b7ba6d366f3151fbe47441ca34cc9" target="_top" xlink:title="Parse the &#39;group&#39; and &#39;ungroup&#39; commands &#45; Implements Command::parse() ">
 <polygon fill="#ffffff" stroke="#000000" points="197,-183.8555 197,-202.8555 274,-202.8555 274,-183.8555 197,-183.8555"/>
 <text text-anchor="middle" x="235.5" y="-190.8555" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">parse_group</text>
 </a>
 </g>
 </g>
-<!-- Node19300&#45;&gt;Node19873 -->
+<!-- Node21033&#45;&gt;Node21660 -->
 <g id="edge11" class="edge">
-<title>Node19300&#45;&gt;Node19873</title>
+<title>Node21033&#45;&gt;Node21660</title>
 <path fill="none" stroke="#191970" d="M106.1765,-225.3697C121.4321,-221.512 138.4278,-217.2331 154,-213.3555 167.996,-209.8703 183.3554,-206.0896 196.9306,-202.7633"/>
 <polygon fill="#191970" stroke="#191970" points="105.2705,-221.9886 96.4352,-227.8356 106.9883,-228.7746 105.2705,-221.9886"/>
 </g>
-<!-- Node19823 -->
+<!-- Node21607 -->
 <g id="node10" class="node">
-<title>Node19823</title>
+<title>Node21607</title>
 <g id="a_node10"><a xlink:href="compose_8c.html#a995fe70fb321e85b2799e74e3e3322f0" target="_top" xlink:title="Let the user edit the address list. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="186,-145.8555 186,-164.8555 285,-164.8555 285,-145.8555 186,-145.8555"/>
 <text text-anchor="middle" x="235.5" y="-152.8555" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">edit_address_list</text>
 </a>
 </g>
 </g>
-<!-- Node19300&#45;&gt;Node19823 -->
+<!-- Node21033&#45;&gt;Node21607 -->
 <g id="edge12" class="edge">
-<title>Node19300&#45;&gt;Node19823</title>
+<title>Node21033&#45;&gt;Node21607</title>
 <path fill="none" stroke="#191970" d="M78.6529,-221.262C97.066,-206.9562 125.8915,-186.4823 154,-174.3555 164.0051,-170.039 175.1431,-166.6209 185.8913,-163.9453"/>
 <polygon fill="#191970" stroke="#191970" points="76.1611,-218.771 70.4989,-227.7258 80.5096,-224.2565 76.1611,-218.771"/>
 </g>
-<!-- Node19310 -->
+<!-- Node21100 -->
 <g id="node11" class="node">
-<title>Node19310</title>
+<title>Node21100</title>
 <g id="a_node11"><a xlink:href="main_8c.html#adedb285b02c41bde2158ded9cc9fd7ac" target="_top" xlink:title="Start NeoMutt. ">
 <polygon fill="#ffffff" stroke="#000000" points="215,-107.8555 215,-126.8555 256,-126.8555 256,-107.8555 215,-107.8555"/>
 <text text-anchor="middle" x="235.5" y="-114.8555" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">main</text>
 </a>
 </g>
 </g>
-<!-- Node19300&#45;&gt;Node19310 -->
+<!-- Node21033&#45;&gt;Node21100 -->
 <g id="edge13" class="edge">
-<title>Node19300&#45;&gt;Node19310</title>
+<title>Node21033&#45;&gt;Node21100</title>
 <path fill="none" stroke="#191970" d="M70.8181,-219.3497C86.8512,-196.4171 117.698,-157.2622 154,-136.3555 172.8851,-125.4793 197.62,-120.8255 214.8658,-118.8363"/>
 <polygon fill="#191970" stroke="#191970" points="67.7904,-217.5778 65.0592,-227.8145 73.578,-221.5153 67.7904,-217.5778"/>
 </g>
-<!-- Node19488 -->
+<!-- Node21255 -->
 <g id="node12" class="node">
-<title>Node19488</title>
+<title>Node21255</title>
 <g id="a_node12"><a xlink:href="recvcmd_8h.html#a8be856d602dd059fbed3a01b1abcf65f" target="_top" xlink:title="Bounce function, from the attachment menu. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="353,-40.8555 353,-59.8555 469,-59.8555 469,-40.8555 353,-40.8555"/>
 <text text-anchor="middle" x="411" y="-47.8555" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_attach_bounce</text>
 </a>
 </g>
 </g>
-<!-- Node19300&#45;&gt;Node19488 -->
+<!-- Node21033&#45;&gt;Node21255 -->
 <g id="edge14" class="edge">
-<title>Node19300&#45;&gt;Node19488</title>
+<title>Node21033&#45;&gt;Node21255</title>
 <path fill="none" stroke="#191970" d="M60.7892,-217.7468C65.9921,-173.6474 85.4283,-67.0238 154,-22.3555 230.1539,27.2519 346.6363,-19.1409 391.9963,-40.6982"/>
 <polygon fill="#191970" stroke="#191970" points="57.3014,-217.4473 59.731,-227.7597 64.2626,-218.183 57.3014,-217.4473"/>
 </g>
-<!-- Node19859 -->
+<!-- Node21645 -->
 <g id="node13" class="node">
-<title>Node19859</title>
+<title>Node21645</title>
 <g id="a_node13"><a xlink:href="send_8h.html#a3a50e112e7c0ddd1270a550e63fdd80f" target="_top" xlink:title="Edit an email address. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="182,-31.8555 182,-50.8555 289,-50.8555 289,-31.8555 182,-31.8555"/>
 <text text-anchor="middle" x="235.5" y="-38.8555" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_edit_address</text>
 </a>
 </g>
 </g>
-<!-- Node19300&#45;&gt;Node19859 -->
+<!-- Node21033&#45;&gt;Node21645 -->
 <g id="edge15" class="edge">
-<title>Node19300&#45;&gt;Node19859</title>
+<title>Node21033&#45;&gt;Node21645</title>
 <path fill="none" stroke="#191970" d="M63.8566,-217.4059C73.9478,-180.3794 100.8059,-101.0986 154,-60.3555 162.0739,-54.1714 171.826,-49.9486 181.7348,-47.077"/>
 <polygon fill="#191970" stroke="#191970" points="60.3741,-216.8925 61.2526,-227.4509 67.1501,-218.6492 60.3741,-216.8925"/>
 </g>
-<!-- Node19486 -->
+<!-- Node21252 -->
 <g id="node14" class="node">
-<title>Node19486</title>
+<title>Node21252</title>
 <g id="a_node14"><a xlink:href="sendlib_8h.html#a7848f294cb015bff75efc45e2d15494c" target="_top" xlink:title="Bounce an email message. ">
 <polygon fill="#ffffff" stroke="#000000" points="170.5,-69.8555 170.5,-88.8555 300.5,-88.8555 300.5,-69.8555 170.5,-69.8555"/>
 <text text-anchor="middle" x="235.5" y="-76.8555" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_bounce_message</text>
 </a>
 </g>
 </g>
-<!-- Node19300&#45;&gt;Node19486 -->
+<!-- Node21033&#45;&gt;Node21252 -->
 <g id="edge16" class="edge">
-<title>Node19300&#45;&gt;Node19486</title>
+<title>Node21033&#45;&gt;Node21252</title>
 <path fill="none" stroke="#191970" d="M66.5356,-218.3406C79.5809,-187.9928 109.3342,-128.9228 154,-98.3555 159.6352,-94.499 165.9484,-91.4181 172.5005,-88.958"/>
 <polygon fill="#191970" stroke="#191970" points="63.2174,-217.2053 62.621,-227.7833 69.6838,-219.886 63.2174,-217.2053"/>
 </g>
-<!-- Node19868&#45;&gt;Node19301 -->
+<!-- Node21655&#45;&gt;Node21034 -->
 <g id="edge6" class="edge">
-<title>Node19868&#45;&gt;Node19301</title>
+<title>Node21655&#45;&gt;Node21034</title>
 <path fill="none" stroke="#191970" d="M298.2735,-440.1515C323.2137,-442.8515 351.0901,-445.8695 372.8819,-448.2287"/>
 <polygon fill="#191970" stroke="#191970" points="298.4744,-436.6528 288.1558,-439.0561 297.7209,-443.6122 298.4744,-436.6528"/>
 </g>
-<!-- Node19868&#45;&gt;Node19866 -->
+<!-- Node21655&#45;&gt;Node21653 -->
 <g id="edge7" class="edge">
-<title>Node19868&#45;&gt;Node19866</title>
+<title>Node21655&#45;&gt;Node21653</title>
 <path fill="none" stroke="#191970" d="M289.7368,-421.6119C317.4597,-415.6092 350.4345,-408.4694 374.9951,-403.1514"/>
 <polygon fill="#191970" stroke="#191970" points="288.8189,-418.2294 279.7861,-423.7665 290.3003,-425.0709 288.8189,-418.2294"/>
 </g>
-<!-- Node19869&#45;&gt;Node19866 -->
+<!-- Node21656&#45;&gt;Node21653 -->
 <g id="edge9" class="edge">
-<title>Node19869&#45;&gt;Node19866</title>
+<title>Node21656&#45;&gt;Node21653</title>
 <path fill="none" stroke="#191970" d="M297.4018,-331.5969C304.112,-333.5683 310.7629,-335.813 317,-338.3555 348.1052,-351.035 380.8705,-373.2216 398.3111,-385.8499"/>
 <polygon fill="#191970" stroke="#191970" points="298.1389,-328.1699 287.5694,-328.9012 296.288,-334.9207 298.1389,-328.1699"/>
 </g>
-<!-- Node19486&#45;&gt;Node19487 -->
+<!-- Node21252&#45;&gt;Node21253 -->
 <g id="edge17" class="edge">
-<title>Node19486&#45;&gt;Node19487</title>
+<title>Node21252&#45;&gt;Node21253</title>
 <path fill="none" stroke="#191970" d="M305.6838,-90.5529C321.533,-93.0815 338.1795,-95.7374 353.4389,-98.1719"/>
 <polygon fill="#191970" stroke="#191970" points="305.8329,-87.0325 295.4063,-88.9132 304.7299,-93.945 305.8329,-87.0325"/>
 </g>
-<!-- Node19486&#45;&gt;Node19488 -->
+<!-- Node21252&#45;&gt;Node21255 -->
 <g id="edge18" class="edge">
-<title>Node19486&#45;&gt;Node19488</title>
+<title>Node21252&#45;&gt;Node21255</title>
 <path fill="none" stroke="#191970" d="M303.5581,-68.1094C320.0279,-65.3879 337.4735,-62.5051 353.4085,-59.872"/>
 <polygon fill="#191970" stroke="#191970" points="302.7472,-64.6958 293.4516,-69.7794 303.8885,-71.6022 302.7472,-64.6958"/>
 </g>

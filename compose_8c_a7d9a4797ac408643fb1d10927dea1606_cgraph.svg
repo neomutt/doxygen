@@ -9,30 +9,30 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 92.3102)">
 <title>update_crypt_info</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-92.3102 465,-92.3102 465,4 -4,4"/>
-<!-- Node4182 -->
+<!-- Node4560 -->
 <g id="node1" class="node">
-<title>Node4182</title>
+<title>Node4560</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-44.5 0,-63.5 104,-63.5 104,-44.5 0,-44.5"/>
 <text text-anchor="middle" x="52" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">update_crypt_info</text>
 </g>
-<!-- Node4183 -->
+<!-- Node4561 -->
 <g id="node2" class="node">
-<title>Node4183</title>
+<title>Node4561</title>
 <g id="a_node2"><a xlink:href="helpers_8c.html#ae50f679dd6c5bd1ba820884c8602f038" target="_top" xlink:title="Get a boolean config item by name. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="370,-44.5 370,-63.5 461,-63.5 461,-44.5 370,-44.5"/>
 <text text-anchor="middle" x="415.5" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_subset_bool</text>
 </a>
 </g>
 </g>
-<!-- Node4182&#45;&gt;Node4183 -->
+<!-- Node4560&#45;&gt;Node4561 -->
 <g id="edge1" class="edge">
-<title>Node4182&#45;&gt;Node4183</title>
+<title>Node4560&#45;&gt;Node4561</title>
 <path fill="none" stroke="#191970" d="M78.5468,-63.6213C95.7984,-69.3519 118.9212,-76.0639 140,-79 225.3978,-90.895 248.7308,-91.7841 334,-79 349.9354,-76.6109 367.0576,-71.732 381.4749,-66.9133"/>
 <polygon fill="#191970" stroke="#191970" points="382.6749,-70.2017 390.9761,-63.6183 380.3813,-63.5882 382.6749,-70.2017"/>
 </g>
-<!-- Node4206 -->
+<!-- Node4584 -->
 <g id="node3" class="node">
-<title>Node4206</title>
+<title>Node4584</title>
 <g id="a_node3"><a xlink:href="crypt_8c.html#a8ebc13a33b0dd650151d5b1b37cb99e4" target="_top" xlink:title="Can all recipients be determined. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="182,-39 182,-69 292,-69 292,-39 182,-39"/>
 <text text-anchor="start" x="190" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">crypt_opportunistic</text>
@@ -40,36 +40,36 @@
 </a>
 </g>
 </g>
-<!-- Node4182&#45;&gt;Node4206 -->
+<!-- Node4560&#45;&gt;Node4584 -->
 <g id="edge2" class="edge">
-<title>Node4182&#45;&gt;Node4206</title>
+<title>Node4560&#45;&gt;Node4584</title>
 <path fill="none" stroke="#191970" d="M104.0251,-54C125.063,-54 149.5804,-54 171.7917,-54"/>
 <polygon fill="#191970" stroke="#191970" points="171.814,-57.5001 181.8139,-54 171.8139,-50.5001 171.814,-57.5001"/>
 </g>
-<!-- Node4210 -->
+<!-- Node4588 -->
 <g id="node4" class="node">
-<title>Node4210</title>
+<title>Node4588</title>
 <g id="a_node4"><a xlink:href="autocrypt_8c.html#a9e2b5f120aee58fbaf78cae0c315d827" target="_top" xlink:title="Get the recommended action for an Email. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="140,-.5 140,-19.5 334,-19.5 334,-.5 140,-.5"/>
 <text text-anchor="middle" x="237" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_autocrypt_ui_recommendation</text>
 </a>
 </g>
 </g>
-<!-- Node4182&#45;&gt;Node4210 -->
+<!-- Node4560&#45;&gt;Node4588 -->
 <g id="edge4" class="edge">
-<title>Node4182&#45;&gt;Node4210</title>
+<title>Node4560&#45;&gt;Node4588</title>
 <path fill="none" stroke="#191970" d="M85.3027,-44.3864C101.7099,-39.786 121.8265,-34.3472 140,-30 152.1397,-27.0961 165.1944,-24.2309 177.669,-21.6159"/>
 <polygon fill="#191970" stroke="#191970" points="178.4377,-25.0311 187.5205,-19.5765 177.0186,-18.1765 178.4377,-25.0311"/>
 </g>
-<!-- Node4206&#45;&gt;Node4183 -->
+<!-- Node4584&#45;&gt;Node4561 -->
 <g id="edge3" class="edge">
-<title>Node4206&#45;&gt;Node4183</title>
+<title>Node4584&#45;&gt;Node4561</title>
 <path fill="none" stroke="#191970" d="M292.0124,-54C313.5897,-54 338.3139,-54 359.9436,-54"/>
 <polygon fill="#191970" stroke="#191970" points="359.9626,-57.5001 369.9625,-54 359.9625,-50.5001 359.9626,-57.5001"/>
 </g>
-<!-- Node4210&#45;&gt;Node4183 -->
+<!-- Node4588&#45;&gt;Node4561 -->
 <g id="edge5" class="edge">
-<title>Node4210&#45;&gt;Node4183</title>
+<title>Node4588&#45;&gt;Node4561</title>
 <path fill="none" stroke="#191970" d="M287.525,-19.5901C302.5406,-22.6629 318.9865,-26.2485 334,-30 347.57,-33.3908 362.2695,-37.5626 375.3999,-41.4716"/>
 <polygon fill="#191970" stroke="#191970" points="374.5055,-44.8575 385.0901,-44.3923 376.5257,-38.1553 374.5055,-44.8575"/>
 </g>

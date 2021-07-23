@@ -9,39 +9,39 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 62)">
 <title>read_threads_query</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-62 283,-62 283,4 -4,4"/>
-<!-- Node26296 -->
+<!-- Node13485 -->
 <g id="node1" class="node">
-<title>Node26296</title>
+<title>Node13485</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-19.5 0,-38.5 113,-38.5 113,-19.5 0,-19.5"/>
 <text text-anchor="middle" x="56.5" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">read_threads_query</text>
 </g>
-<!-- Node26297 -->
+<!-- Node13486 -->
 <g id="node2" class="node">
-<title>Node26297</title>
+<title>Node13486</title>
 <g id="a_node2"><a xlink:href="notmuch_8c.html#a8ac57cce7f11e7ce9b485d9fce4c2975" target="_top" xlink:title="Get the entire thread of an email. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="149,-38.5 149,-57.5 279,-57.5 279,-38.5 149,-38.5"/>
 <text text-anchor="middle" x="214" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nm_read_entire_thread</text>
 </a>
 </g>
 </g>
-<!-- Node26296&#45;&gt;Node26297 -->
+<!-- Node13485&#45;&gt;Node13486 -->
 <g id="edge1" class="edge">
-<title>Node26296&#45;&gt;Node26297</title>
+<title>Node13485&#45;&gt;Node13486</title>
 <path fill="none" stroke="#191970" d="M123.5151,-37.0844C131.9358,-38.1002 140.5397,-39.1381 148.9298,-40.1503"/>
 <polygon fill="#191970" stroke="#191970" points="123.7083,-33.5824 113.3611,-35.8594 122.8699,-40.532 123.7083,-33.5824"/>
 </g>
-<!-- Node26726 -->
+<!-- Node13488 -->
 <g id="node3" class="node">
-<title>Node26726</title>
-<g id="a_node3"><a xlink:href="notmuch_8c.html#aad12c3265a631efb7b39b28fae19121c" target="_top" xlink:title="Open a Mailbox &#45; Implements MxOps::mbox_open() ">
+<title>Node13488</title>
+<g id="a_node3"><a xlink:href="group__mx__mbox__open.html#gaad12c3265a631efb7b39b28fae19121c" target="_top" xlink:title="Open a Mailbox &#45; Implements MxOps::mbox_open() &#45;. ">
 <polygon fill="#ffffff" stroke="#000000" points="166.5,-.5 166.5,-19.5 261.5,-19.5 261.5,-.5 166.5,-.5"/>
 <text text-anchor="middle" x="214" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nm_mbox_open</text>
 </a>
 </g>
 </g>
-<!-- Node26296&#45;&gt;Node26726 -->
+<!-- Node13485&#45;&gt;Node13488 -->
 <g id="edge2" class="edge">
-<title>Node26296&#45;&gt;Node26726</title>
+<title>Node13485&#45;&gt;Node13488</title>
 <path fill="none" stroke="#191970" d="M123.6804,-20.8957C138.0176,-19.1661 152.8778,-17.3735 166.304,-15.7538"/>
 <polygon fill="#191970" stroke="#191970" points="122.8699,-17.468 113.3611,-22.1406 123.7083,-24.4176 122.8699,-17.468"/>
 </g>

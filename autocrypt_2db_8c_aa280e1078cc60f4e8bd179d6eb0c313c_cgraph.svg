@@ -9,70 +9,70 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 138)">
 <title>mutt_autocrypt_db_account_get_all</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-138 370,-138 370,4 -4,4"/>
-<!-- Node9848 -->
+<!-- Node8533 -->
 <g id="node1" class="node">
-<title>Node9848</title>
+<title>Node8533</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-52 0,-82 152,-82 152,-52 0,-52"/>
 <text text-anchor="start" x="8" y="-70" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_autocrypt_db_account</text>
 <text text-anchor="middle" x="76" y="-59" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">_get_all</text>
 </g>
-<!-- Node9849 -->
+<!-- Node8534 -->
 <g id="node2" class="node">
-<title>Node9849</title>
+<title>Node8534</title>
 <g id="a_node2"><a xlink:href="memory_8c.html#af778eb8166966fc0666c64849f6c7c5b" target="_top" xlink:title="Resize a block of memory on the heap. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="222.5,-114.5 222.5,-133.5 331.5,-133.5 331.5,-114.5 222.5,-114.5"/>
 <text text-anchor="middle" x="277" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_mem_realloc</text>
 </a>
 </g>
 </g>
-<!-- Node9848&#45;&gt;Node9849 -->
+<!-- Node8533&#45;&gt;Node8534 -->
 <g id="edge1" class="edge">
-<title>Node9848&#45;&gt;Node9849</title>
+<title>Node8533&#45;&gt;Node8534</title>
 <path fill="none" stroke="#191970" d="M116.6054,-82.0541C137.7153,-89.5538 164.0465,-98.4039 188,-105 197.4823,-107.6112 207.6155,-110.0759 217.5225,-112.311"/>
 <polygon fill="#191970" stroke="#191970" points="216.803,-115.7363 227.3215,-114.4665 218.3069,-108.8998 216.803,-115.7363"/>
 </g>
-<!-- Node9851 -->
+<!-- Node8536 -->
 <g id="node3" class="node">
-<title>Node9851</title>
+<title>Node8536</title>
 <g id="a_node3"><a xlink:href="autocrypt_2db_8c.html#a8625763fac1577d11f1a9d7074fcc80e" target="_top" xlink:title="Create a new AutocryptAccount. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="188,-76.5 188,-95.5 366,-95.5 366,-76.5 188,-76.5"/>
 <text text-anchor="middle" x="277" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_autocrypt_db_account_new</text>
 </a>
 </g>
 </g>
-<!-- Node9848&#45;&gt;Node9851 -->
+<!-- Node8533&#45;&gt;Node8536 -->
 <g id="edge2" class="edge">
-<title>Node9848&#45;&gt;Node9851</title>
+<title>Node8533&#45;&gt;Node8536</title>
 <path fill="none" stroke="#191970" d="M152.2761,-74.2102C160.6574,-75.0024 169.2778,-75.8173 177.8847,-76.6309"/>
 <polygon fill="#191970" stroke="#191970" points="177.682,-80.1272 187.967,-77.5839 178.3408,-73.1583 177.682,-80.1272"/>
 </g>
-<!-- Node9853 -->
+<!-- Node8538 -->
 <g id="node4" class="node">
-<title>Node9853</title>
+<title>Node8538</title>
 <g id="a_node4"><a xlink:href="autocrypt_2db_8c.html#a506a23fdc617b5d2f4a810f4138abce3" target="_top" xlink:title="Copy a string from the database. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="220.5,-38.5 220.5,-57.5 333.5,-57.5 333.5,-38.5 220.5,-38.5"/>
 <text text-anchor="middle" x="277" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">strdup_column_text</text>
 </a>
 </g>
 </g>
-<!-- Node9848&#45;&gt;Node9853 -->
+<!-- Node8533&#45;&gt;Node8538 -->
 <g id="edge3" class="edge">
-<title>Node9848&#45;&gt;Node9853</title>
+<title>Node8533&#45;&gt;Node8538</title>
 <path fill="none" stroke="#191970" d="M152.2761,-59.7898C171.3918,-57.9829 191.7509,-56.0584 210.3569,-54.2996"/>
 <polygon fill="#191970" stroke="#191970" points="210.868,-57.767 220.4942,-53.3413 210.2092,-50.798 210.868,-57.767"/>
 </g>
-<!-- Node9855 -->
+<!-- Node8540 -->
 <g id="node5" class="node">
-<title>Node9855</title>
+<title>Node8540</title>
 <g id="a_node5"><a xlink:href="autocrypt_2db_8c.html#a68854efa33d1b0d6f63c2d34767b2f9e" target="_top" xlink:title="Free an AutocryptAccount. ">
 <polygon fill="#ffffff" stroke="#000000" points="188.5,-.5 188.5,-19.5 365.5,-19.5 365.5,-.5 188.5,-.5"/>
 <text text-anchor="middle" x="277" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_autocrypt_db_account_free</text>
 </a>
 </g>
 </g>
-<!-- Node9848&#45;&gt;Node9855 -->
+<!-- Node8533&#45;&gt;Node8540 -->
 <g id="edge4" class="edge">
-<title>Node9848&#45;&gt;Node9855</title>
+<title>Node8533&#45;&gt;Node8540</title>
 <path fill="none" stroke="#191970" d="M116.6054,-51.9459C137.7153,-44.4462 164.0465,-35.5961 188,-29 197.4823,-26.3888 207.6155,-23.9241 217.5225,-21.689"/>
 <polygon fill="#191970" stroke="#191970" points="218.3069,-25.1002 227.3215,-19.5335 216.803,-18.2637 218.3069,-25.1002"/>
 </g>

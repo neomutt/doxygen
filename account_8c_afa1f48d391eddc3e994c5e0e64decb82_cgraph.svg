@@ -9,96 +9,96 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 158.768)">
 <title>account_free</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-158.768 373,-158.768 373,4 -4,4"/>
-<!-- Node1766 -->
+<!-- Node1928 -->
 <g id="node1" class="node">
-<title>Node1766</title>
+<title>Node1928</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-59.268 0,-78.268 80,-78.268 80,-59.268 0,-59.268"/>
 <text text-anchor="middle" x="40" y="-66.268" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">account_free</text>
 </g>
-<!-- Node1767 -->
+<!-- Node1929 -->
 <g id="node2" class="node">
-<title>Node1767</title>
+<title>Node1929</title>
 <g id="a_node2"><a xlink:href="mailbox_8c.html#ac59d5148a02f54559bfbc092ee79df24" target="_top" xlink:title="Get the type of a Mailbox. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="119,-135.268 119,-154.268 256,-154.268 256,-135.268 119,-135.268"/>
 <text text-anchor="middle" x="187.5" y="-142.268" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mailbox_get_type_name</text>
 </a>
 </g>
 </g>
-<!-- Node1766&#45;&gt;Node1767 -->
+<!-- Node1928&#45;&gt;Node1929 -->
 <g id="edge1" class="edge">
-<title>Node1766&#45;&gt;Node1767</title>
+<title>Node1928&#45;&gt;Node1929</title>
 <path fill="none" stroke="#191970" d="M51.731,-78.3293C66.1391,-89.6985 91.6703,-108.6548 116,-120.768 124.4358,-124.968 133.7793,-128.7033 142.8535,-131.9033"/>
 <polygon fill="#191970" stroke="#191970" points="141.9446,-135.2902 152.5387,-135.1621 144.177,-128.6557 141.9446,-135.2902"/>
 </g>
-<!-- Node1769 -->
+<!-- Node1931 -->
 <g id="node3" class="node">
-<title>Node1769</title>
+<title>Node1931</title>
 <g id="a_node3"><a xlink:href="mutt_2notify_8c.html#ade2f42f8e0d8a843e87816300799a8e1" target="_top" xlink:title="Send out a notification message. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="295,-68.268 295,-87.268 369,-87.268 369,-68.268 295,-68.268"/>
 <text text-anchor="middle" x="332" y="-75.268" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">notify_send</text>
 </a>
 </g>
 </g>
-<!-- Node1766&#45;&gt;Node1769 -->
+<!-- Node1928&#45;&gt;Node1931 -->
 <g id="edge2" class="edge">
-<title>Node1766&#45;&gt;Node1769</title>
+<title>Node1928&#45;&gt;Node1931</title>
 <path fill="none" stroke="#191970" d="M70.7372,-78.2733C84.4449,-82.0375 100.8815,-85.9068 116,-87.768 179.0794,-95.5334 195.5916,-92.0909 259,-87.768 267.4391,-87.1927 276.3891,-86.2474 285.0229,-85.1616"/>
 <polygon fill="#191970" stroke="#191970" points="285.5138,-88.6272 294.9636,-83.8362 284.5887,-81.6886 285.5138,-88.6272"/>
 </g>
-<!-- Node1771 -->
+<!-- Node1933 -->
 <g id="node4" class="node">
-<title>Node1771</title>
+<title>Node1933</title>
 <g id="a_node4"><a xlink:href="account_8c.html#a14989e440fba9c705d4d64f4d121890a" target="_top" xlink:title="Remove a Mailbox from an Account. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="116,-59.268 116,-78.268 259,-78.268 259,-59.268 116,-59.268"/>
 <text text-anchor="middle" x="187.5" y="-66.268" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">account_mailbox_remove</text>
 </a>
 </g>
 </g>
-<!-- Node1766&#45;&gt;Node1771 -->
+<!-- Node1928&#45;&gt;Node1933 -->
 <g id="edge3" class="edge">
-<title>Node1766&#45;&gt;Node1771</title>
+<title>Node1928&#45;&gt;Node1933</title>
 <path fill="none" stroke="#191970" d="M80.305,-68.768C88.2136,-68.768 96.7733,-68.768 105.4887,-68.768"/>
 <polygon fill="#191970" stroke="#191970" points="105.7619,-72.2681 115.7619,-68.768 105.7618,-65.2681 105.7619,-72.2681"/>
 </g>
-<!-- Node1787 -->
+<!-- Node1949 -->
 <g id="node5" class="node">
-<title>Node1787</title>
+<title>Node1949</title>
 <g id="a_node5"><a xlink:href="subset_8c.html#aa13d98edef88b0563dd96102fc8bc22b" target="_top" xlink:title="Free a Config Subset. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="143,-21.268 143,-40.268 232,-40.268 232,-21.268 143,-21.268"/>
 <text text-anchor="middle" x="187.5" y="-28.268" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_subset_free</text>
 </a>
 </g>
 </g>
-<!-- Node1766&#45;&gt;Node1787 -->
+<!-- Node1928&#45;&gt;Node1949 -->
 <g id="edge5" class="edge">
-<title>Node1766&#45;&gt;Node1787</title>
+<title>Node1928&#45;&gt;Node1949</title>
 <path fill="none" stroke="#191970" d="M77.2205,-59.179C96.5093,-54.2097 120.2584,-48.0913 140.771,-42.8067"/>
 <polygon fill="#191970" stroke="#191970" points="141.7366,-46.1723 150.5472,-40.2881 139.9902,-39.3936 141.7366,-46.1723"/>
 </g>
-<!-- Node1785 -->
+<!-- Node1947 -->
 <g id="node6" class="node">
-<title>Node1785</title>
+<title>Node1947</title>
 <g id="a_node6"><a xlink:href="mutt_2notify_8c.html#ae7fe885788b891a9f2b0bf6c5aae2613" target="_top" xlink:title="Free a notification handler. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="297,-11.268 297,-30.268 367,-30.268 367,-11.268 297,-11.268"/>
 <text text-anchor="middle" x="332" y="-18.268" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">notify_free</text>
 </a>
 </g>
 </g>
-<!-- Node1766&#45;&gt;Node1785 -->
+<!-- Node1928&#45;&gt;Node1947 -->
 <g id="edge7" class="edge">
-<title>Node1766&#45;&gt;Node1785</title>
+<title>Node1928&#45;&gt;Node1947</title>
 <path fill="none" stroke="#191970" d="M48.671,-59.162C61.7044,-45.5221 87.836,-21.156 116,-11.768 172.6522,7.1161 242.3199,-.9496 286.9412,-9.7604"/>
 <polygon fill="#191970" stroke="#191970" points="286.3928,-13.221 296.8946,-11.8205 287.8116,-6.3663 286.3928,-13.221"/>
 </g>
-<!-- Node1771&#45;&gt;Node1769 -->
+<!-- Node1933&#45;&gt;Node1931 -->
 <g id="edge4" class="edge">
-<title>Node1771&#45;&gt;Node1769</title>
+<title>Node1933&#45;&gt;Node1931</title>
 <path fill="none" stroke="#191970" d="M259.3267,-73.2416C267.9924,-73.7814 276.6663,-74.3216 284.8496,-74.8313"/>
 <polygon fill="#191970" stroke="#191970" points="284.717,-78.3297 294.9152,-75.4582 285.1522,-71.3433 284.717,-78.3297"/>
 </g>
-<!-- Node1787&#45;&gt;Node1785 -->
+<!-- Node1949&#45;&gt;Node1947 -->
 <g id="edge6" class="edge">
-<title>Node1787&#45;&gt;Node1785</title>
+<title>Node1949&#45;&gt;Node1947</title>
 <path fill="none" stroke="#191970" d="M232.0338,-27.6861C249.2019,-26.498 268.8309,-25.1396 286.1235,-23.9429"/>
 <polygon fill="#191970" stroke="#191970" points="286.8113,-27.4037 296.5458,-23.2216 286.328,-20.4204 286.8113,-27.4037"/>
 </g>

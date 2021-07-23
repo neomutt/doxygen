@@ -9,39 +9,39 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 62)">
 <title>nntp_bcache_delete</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-62 295,-62 295,4 -4,4"/>
-<!-- Node14772 -->
+<!-- Node15024 -->
 <g id="node1" class="node">
-<title>Node14772</title>
+<title>Node15024</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-19.5 0,-38.5 114,-38.5 114,-19.5 0,-19.5"/>
 <text text-anchor="middle" x="57" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nntp_bcache_delete</text>
 </g>
-<!-- Node14773 -->
+<!-- Node15025 -->
 <g id="node2" class="node">
-<title>Node14773</title>
+<title>Node15025</title>
 <g id="a_node2"><a xlink:href="nntp_2private_8h.html#ab103e38d32e64122d7892f29eeb67fcf" target="_top" xlink:title="Remove stale cached messages. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="162,-38.5 162,-57.5 279,-57.5 279,-38.5 162,-38.5"/>
 <text text-anchor="middle" x="220.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nntp_bcache_update</text>
 </a>
 </g>
 </g>
-<!-- Node14772&#45;&gt;Node14773 -->
+<!-- Node15024&#45;&gt;Node15025 -->
 <g id="edge1" class="edge">
-<title>Node14772&#45;&gt;Node14773</title>
+<title>Node15024&#45;&gt;Node15025</title>
 <path fill="none" stroke="#191970" d="M124.1235,-36.8003C136.6733,-38.2587 149.6984,-39.7723 161.9634,-41.1976"/>
 <polygon fill="#191970" stroke="#191970" points="124.5216,-33.3231 114.1844,-35.6453 123.7135,-40.2763 124.5216,-33.3231"/>
 </g>
-<!-- Node14775 -->
+<!-- Node15027 -->
 <g id="node3" class="node">
-<title>Node14775</title>
+<title>Node15027</title>
 <g id="a_node3"><a xlink:href="nntp_2private_8h.html#a140bf8e49e3f11e0d9cb4d8253767819" target="_top" xlink:title="Remove hcache and bcache of newsgroup. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="150,-.5 150,-19.5 291,-19.5 291,-.5 150,-.5"/>
 <text text-anchor="middle" x="220.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nntp_delete_group_cache</text>
 </a>
 </g>
 </g>
-<!-- Node14772&#45;&gt;Node14775 -->
+<!-- Node15024&#45;&gt;Node15027 -->
 <g id="edge2" class="edge">
-<title>Node14772&#45;&gt;Node14775</title>
+<title>Node15024&#45;&gt;Node15027</title>
 <path fill="none" stroke="#191970" d="M124.321,-21.1768C132.7375,-20.1987 141.3646,-19.1962 149.8302,-18.2124"/>
 <polygon fill="#191970" stroke="#191970" points="123.7135,-17.7237 114.1844,-22.3547 124.5216,-24.6769 123.7135,-17.7237"/>
 </g>

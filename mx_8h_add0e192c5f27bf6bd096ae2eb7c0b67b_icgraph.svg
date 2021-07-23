@@ -9,84 +9,84 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 176)">
 <title>mx_msg_commit</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-176 271,-176 271,4 -4,4"/>
-<!-- Node7863 -->
+<!-- Node7235 -->
 <g id="node1" class="node">
-<title>Node7863</title>
+<title>Node7235</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-76.5 0,-95.5 101,-95.5 101,-76.5 0,-76.5"/>
 <text text-anchor="middle" x="50.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mx_msg_commit</text>
 </g>
-<!-- Node7864 -->
+<!-- Node7236 -->
 <g id="node2" class="node">
-<title>Node7864</title>
+<title>Node7236</title>
 <g id="a_node2"><a xlink:href="copy_8c.html#a214e48440eac7f6b08a609e6ee5fbfb6" target="_top" xlink:title="appends a copy of the given message to a mailbox ">
 <polygon fill="#ffffff" stroke="#ff0000" points="151,-152.5 151,-171.5 253,-171.5 253,-152.5 151,-152.5"/>
 <text text-anchor="middle" x="202" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">append_message</text>
 </a>
 </g>
 </g>
-<!-- Node7863&#45;&gt;Node7864 -->
+<!-- Node7235&#45;&gt;Node7236 -->
 <g id="edge1" class="edge">
-<title>Node7863&#45;&gt;Node7864</title>
+<title>Node7235&#45;&gt;Node7236</title>
 <path fill="none" stroke="#191970" d="M70.4489,-101.6438C87.3607,-114.2754 112.6779,-131.7417 137,-143 145.002,-146.704 153.8944,-149.8685 162.4685,-152.4916"/>
 <polygon fill="#191970" stroke="#191970" points="72.4992,-98.8059 62.4211,-95.5375 68.2613,-104.3773 72.4992,-98.8059"/>
 </g>
-<!-- Node8011 -->
+<!-- Node7406 -->
 <g id="node3" class="node">
-<title>Node8011</title>
+<title>Node7406</title>
 <g id="a_node3"><a xlink:href="editmsg_8c.html#a8cccfe84ab7389c624becc6f5f14d13f" target="_top" xlink:title="Edit an email or view it in an external editor. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="163,-114.5 163,-133.5 241,-133.5 241,-114.5 163,-114.5"/>
 <text text-anchor="middle" x="202" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">ev_message</text>
 </a>
 </g>
 </g>
-<!-- Node7863&#45;&gt;Node8011 -->
+<!-- Node7235&#45;&gt;Node7406 -->
 <g id="edge2" class="edge">
-<title>Node7863&#45;&gt;Node8011</title>
+<title>Node7235&#45;&gt;Node7406</title>
 <path fill="none" stroke="#191970" d="M98.5016,-98.04C119.6668,-103.3488 144.1858,-109.4988 164.0451,-114.4799"/>
 <polygon fill="#191970" stroke="#191970" points="99.2809,-94.6271 88.7298,-95.589 97.5779,-101.4168 99.2809,-94.6271"/>
 </g>
-<!-- Node7919 -->
+<!-- Node7318 -->
 <g id="node4" class="node">
-<title>Node7919</title>
+<title>Node7318</title>
 <g id="a_node4"><a xlink:href="mutt__attach_8h.html#adb94477fad8521799cd4a94ec0e3eecf" target="_top" xlink:title="Save an attachment. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="137,-76.5 137,-95.5 267,-95.5 267,-76.5 137,-76.5"/>
 <text text-anchor="middle" x="202" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_save_attachment</text>
 </a>
 </g>
 </g>
-<!-- Node7863&#45;&gt;Node7919 -->
+<!-- Node7235&#45;&gt;Node7318 -->
 <g id="edge3" class="edge">
-<title>Node7863&#45;&gt;Node7919</title>
+<title>Node7235&#45;&gt;Node7318</title>
 <path fill="none" stroke="#191970" d="M111.3901,-86C119.731,-86 128.322,-86 136.7371,-86"/>
 <polygon fill="#191970" stroke="#191970" points="111.3688,-82.5001 101.3688,-86 111.3687,-89.5001 111.3688,-82.5001"/>
 </g>
-<!-- Node8019 -->
+<!-- Node7423 -->
 <g id="node5" class="node">
-<title>Node8019</title>
+<title>Node7423</title>
 <g id="a_node5"><a xlink:href="pop_8c.html#ae41e43ca791955eb76c5709db39a21d7" target="_top" xlink:title="Fetch messages and save them in $spool_file. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="156,-38.5 156,-57.5 248,-57.5 248,-38.5 156,-38.5"/>
 <text text-anchor="middle" x="202" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pop_fetch_mail</text>
 </a>
 </g>
 </g>
-<!-- Node7863&#45;&gt;Node8019 -->
+<!-- Node7235&#45;&gt;Node7423 -->
 <g id="edge4" class="edge">
-<title>Node7863&#45;&gt;Node8019</title>
+<title>Node7235&#45;&gt;Node7423</title>
 <path fill="none" stroke="#191970" d="M98.5016,-73.96C119.6668,-68.6512 144.1858,-62.5012 164.0451,-57.5201"/>
 <polygon fill="#191970" stroke="#191970" points="97.5779,-70.5832 88.7298,-76.411 99.2809,-77.3729 97.5779,-70.5832"/>
 </g>
-<!-- Node8022 -->
+<!-- Node7427 -->
 <g id="node6" class="node">
-<title>Node8022</title>
+<title>Node7427</title>
 <g id="a_node6"><a xlink:href="sendlib_8h.html#acd4f22db21ca81a6a845ffe6888d141f" target="_top" xlink:title="Write email to FCC mailbox. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="157.5,-.5 157.5,-19.5 246.5,-19.5 246.5,-.5 157.5,-.5"/>
 <text text-anchor="middle" x="202" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_write_fcc</text>
 </a>
 </g>
 </g>
-<!-- Node7863&#45;&gt;Node8022 -->
+<!-- Node7235&#45;&gt;Node7427 -->
 <g id="edge5" class="edge">
-<title>Node7863&#45;&gt;Node8022</title>
+<title>Node7235&#45;&gt;Node7427</title>
 <path fill="none" stroke="#191970" d="M70.4489,-70.3562C87.3607,-57.7246 112.6779,-40.2583 137,-29 145.002,-25.296 153.8944,-22.1315 162.4685,-19.5084"/>
 <polygon fill="#191970" stroke="#191970" points="68.2613,-67.6227 62.4211,-76.4625 72.4992,-73.1941 68.2613,-67.6227"/>
 </g>

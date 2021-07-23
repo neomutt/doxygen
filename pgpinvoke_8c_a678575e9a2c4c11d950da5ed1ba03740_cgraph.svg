@@ -9,51 +9,51 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 61)">
 <title>mutt_pgp_command</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-61 463,-61 463,4 -4,4"/>
-<!-- Node103 -->
+<!-- Node0 -->
 <g id="node1" class="node">
-<title>Node103</title>
+<title>Node0</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-19.5 0,-38.5 117,-38.5 117,-19.5 0,-19.5"/>
 <text text-anchor="middle" x="58.5" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_pgp_command</text>
 </g>
-<!-- Node104 -->
+<!-- Node1 -->
 <g id="node2" class="node">
-<title>Node104</title>
-<g id="a_node2"><a xlink:href="muttlib_8c.html#a8972094c1e995739c8b072c8be3ce453" target="_top" xlink:title="Expand expandos (x) in a string. ">
+<title>Node1</title>
+<g id="a_node2"><a xlink:href="group__expando__api.html#ga8972094c1e995739c8b072c8be3ce453" target="_top" xlink:title="Expand expandos (x) in a string &#45;. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="334,-19.5 334,-38.5 459,-38.5 459,-19.5 334,-19.5"/>
 <text text-anchor="middle" x="396.5" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_expando_format</text>
 </a>
 </g>
 </g>
-<!-- Node103&#45;&gt;Node104 -->
+<!-- Node0&#45;&gt;Node1 -->
 <g id="edge1" class="edge">
-<title>Node103&#45;&gt;Node104</title>
+<title>Node0&#45;&gt;Node1</title>
 <path fill="none" stroke="#191970" d="M117.3751,-29C174.7079,-29 261.9908,-29 323.6645,-29"/>
 <polygon fill="#191970" stroke="#191970" points="323.717,-32.5001 333.7169,-29 323.7169,-25.5001 323.717,-32.5001"/>
 </g>
-<!-- Node169 -->
+<!-- Node66 -->
 <g id="node3" class="node">
-<title>Node169</title>
-<g id="a_node3"><a xlink:href="pgpinvoke_8c.html#a85e4312960b8e446ed2cf967459ad2af" target="_top" xlink:title="Format a PGP command string &#45; Implements format_t. ">
+<title>Node66</title>
+<g id="a_node3"><a xlink:href="group__expando__api.html#ga85e4312960b8e446ed2cf967459ad2af" target="_top" xlink:title="Format a PGP command string &#45; Implements format_t &#45;Expando Description &#160;%a Value of $pgp_sign_as if s...">
 <polygon fill="#ffffff" stroke="#ff0000" points="153,-.5 153,-19.5 298,-19.5 298,-.5 153,-.5"/>
 <text text-anchor="middle" x="225.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pgp_command_format_str</text>
 </a>
 </g>
 </g>
-<!-- Node103&#45;&gt;Node169 -->
+<!-- Node0&#45;&gt;Node66 -->
 <g id="edge3" class="edge">
-<title>Node103&#45;&gt;Node169</title>
+<title>Node0&#45;&gt;Node66</title>
 <path fill="none" stroke="#191970" d="M117.378,-22.3013C125.6124,-21.3645 134.1977,-20.3877 142.7722,-19.4121"/>
 <polygon fill="#191970" stroke="#191970" points="143.2709,-22.8781 152.8112,-18.27 142.4796,-15.9229 143.2709,-22.8781"/>
 </g>
-<!-- Node104&#45;&gt;Node104 -->
+<!-- Node1&#45;&gt;Node1 -->
 <g id="edge2" class="edge">
-<title>Node104&#45;&gt;Node104</title>
+<title>Node1&#45;&gt;Node1</title>
 <path fill="none" stroke="#191970" d="M370.2981,-38.7571C357.5512,-47.5653 366.2852,-57 396.5,-57 416.8006,-57 427.4044,-52.741 428.3114,-47.2746"/>
 <polygon fill="#191970" stroke="#191970" points="431.1252,-45.1836 422.7019,-38.7571 425.2791,-49.0337 431.1252,-45.1836"/>
 </g>
-<!-- Node169&#45;&gt;Node104 -->
+<!-- Node66&#45;&gt;Node1 -->
 <g id="edge4" class="edge">
-<title>Node169&#45;&gt;Node104</title>
+<title>Node66&#45;&gt;Node1</title>
 <path fill="none" stroke="#191970" d="M298.0194,-18.0577C306.5902,-19.01 315.3392,-19.9821 323.9109,-20.9345"/>
 <polygon fill="#191970" stroke="#191970" points="323.5454,-24.4154 333.8707,-22.0412 324.3185,-17.4582 323.5454,-24.4154"/>
 </g>

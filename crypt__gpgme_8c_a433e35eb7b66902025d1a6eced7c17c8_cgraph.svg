@@ -9,60 +9,60 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 81)">
 <title>create_gpgme_data</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-81 381,-81 381,4 -4,4"/>
-<!-- Node7478 -->
+<!-- Node8180 -->
 <g id="node1" class="node">
-<title>Node7478</title>
+<title>Node8180</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-38.5 0,-57.5 113,-57.5 113,-38.5 0,-38.5"/>
 <text text-anchor="middle" x="56.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">create_gpgme_data</text>
 </g>
-<!-- Node7479 -->
+<!-- Node8181 -->
 <g id="node2" class="node">
-<title>Node7479</title>
+<title>Node8181</title>
 <g id="a_node2"><a xlink:href="main_8c.html#a65be75bf998d2462599b7d391676554c" target="_top" xlink:title="Leave NeoMutt NOW. ">
 <polygon fill="#ffffff" stroke="#000000" points="313,-57.5 313,-76.5 377,-76.5 377,-57.5 313,-57.5"/>
 <text text-anchor="middle" x="345" y="-64.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_exit</text>
 </a>
 </g>
 </g>
-<!-- Node7478&#45;&gt;Node7479 -->
+<!-- Node8180&#45;&gt;Node8181 -->
 <g id="edge1" class="edge">
-<title>Node7478&#45;&gt;Node7479</title>
+<title>Node8180&#45;&gt;Node8181</title>
 <path fill="none" stroke="#191970" d="M94.0369,-57.5095C110.744,-61.2744 130.7325,-65.1433 149,-67 201.8298,-72.3697 263.0839,-71.1928 302.8602,-69.4554"/>
 <polygon fill="#191970" stroke="#191970" points="303.1628,-72.9451 312.9878,-68.9804 302.8348,-65.9528 303.1628,-72.9451"/>
 </g>
-<!-- Node7480 -->
+<!-- Node8182 -->
 <g id="node3" class="node">
-<title>Node7480</title>
+<title>Node8182</title>
 <g id="a_node3"><a xlink:href="crypt__gpgme_8c.html#a54ca8638b13c6da904a48009a8bba358" target="_top" xlink:title="Create a new GPGME context. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="149,-38.5 149,-57.5 277,-57.5 277,-38.5 149,-38.5"/>
 <text text-anchor="middle" x="213" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">create_gpgme_context</text>
 </a>
 </g>
 </g>
-<!-- Node7478&#45;&gt;Node7480 -->
+<!-- Node8180&#45;&gt;Node8182 -->
 <g id="edge2" class="edge">
-<title>Node7478&#45;&gt;Node7480</title>
+<title>Node8180&#45;&gt;Node8182</title>
 <path fill="none" stroke="#191970" d="M113.0001,-48C121.3697,-48 130.0999,-48 138.7643,-48"/>
 <polygon fill="#191970" stroke="#191970" points="138.8798,-51.5001 148.8798,-48 138.8798,-44.5001 138.8798,-51.5001"/>
 </g>
-<!-- Node7490 -->
+<!-- Node8192 -->
 <g id="node4" class="node">
-<title>Node7490</title>
+<title>Node8192</title>
 <g id="a_node4"><a xlink:href="mutt_2string_8c.html#a4c2560f787bd1226b977992c16860c98" target="_top" xlink:title="Copy a string, safely. ">
 <polygon fill="#ffffff" stroke="#000000" points="172.5,-.5 172.5,-19.5 253.5,-19.5 253.5,-.5 172.5,-.5"/>
 <text text-anchor="middle" x="213" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_str_dup</text>
 </a>
 </g>
 </g>
-<!-- Node7478&#45;&gt;Node7490 -->
+<!-- Node8180&#45;&gt;Node8192 -->
 <g id="edge4" class="edge">
-<title>Node7478&#45;&gt;Node7490</title>
+<title>Node8180&#45;&gt;Node8192</title>
 <path fill="none" stroke="#191970" d="M95.9916,-38.411C116.6434,-33.3965 142.114,-27.2119 164.0125,-21.8947"/>
 <polygon fill="#191970" stroke="#191970" points="164.9007,-25.2809 173.7924,-19.5201 163.2489,-18.4785 164.9007,-25.2809"/>
 </g>
-<!-- Node7480&#45;&gt;Node7479 -->
+<!-- Node8182&#45;&gt;Node8181 -->
 <g id="edge3" class="edge">
-<title>Node7480&#45;&gt;Node7479</title>
+<title>Node8182&#45;&gt;Node8181</title>
 <path fill="none" stroke="#191970" d="M277.0667,-57.2217C285.842,-58.4848 294.663,-59.7545 302.9083,-60.9413"/>
 <polygon fill="#191970" stroke="#191970" points="302.6011,-64.4331 312.9978,-62.3936 303.5985,-57.5045 302.6011,-64.4331"/>
 </g>

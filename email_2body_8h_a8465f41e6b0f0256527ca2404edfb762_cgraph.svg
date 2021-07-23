@@ -9,60 +9,60 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 81)">
 <title>mutt_body_get_charset</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-81 442,-81 442,4 -4,4"/>
-<!-- Node617 -->
+<!-- Node671 -->
 <g id="node1" class="node">
-<title>Node617</title>
+<title>Node671</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-19.5 0,-38.5 131,-38.5 131,-19.5 0,-19.5"/>
 <text text-anchor="middle" x="65.5" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_body_get_charset</text>
 </g>
-<!-- Node618 -->
+<!-- Node672 -->
 <g id="node2" class="node">
-<title>Node618</title>
+<title>Node672</title>
 <g id="a_node2"><a xlink:href="parameter_8c.html#a0c6d54a87e015a496c8dbecfcd4002c9" target="_top" xlink:title="Find a matching Parameter. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="192.5,-57.5 192.5,-76.5 290.5,-76.5 290.5,-57.5 192.5,-57.5"/>
 <text text-anchor="middle" x="241.5" y="-64.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_param_get</text>
 </a>
 </g>
 </g>
-<!-- Node617&#45;&gt;Node618 -->
+<!-- Node671&#45;&gt;Node672 -->
 <g id="edge1" class="edge">
-<title>Node617&#45;&gt;Node618</title>
+<title>Node671&#45;&gt;Node672</title>
 <path fill="none" stroke="#191970" d="M109.9122,-38.589C133.4512,-43.6713 162.5567,-49.9554 187.4048,-55.3203"/>
 <polygon fill="#191970" stroke="#191970" points="186.8937,-58.7906 197.4071,-57.4799 188.3711,-51.9482 186.8937,-58.7906"/>
 </g>
-<!-- Node621 -->
+<!-- Node675 -->
 <g id="node3" class="node">
-<title>Node621</title>
+<title>Node675</title>
 <g id="a_node3"><a xlink:href="mutt_2charset_8c.html#a4b347dd75af05a18dbe328c354c18fe8" target="_top" xlink:title="Canonicalise the charset of a string. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="167,-19.5 167,-38.5 316,-38.5 316,-19.5 167,-19.5"/>
 <text text-anchor="middle" x="241.5" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_ch_canonical_charset</text>
 </a>
 </g>
 </g>
-<!-- Node617&#45;&gt;Node621 -->
+<!-- Node671&#45;&gt;Node675 -->
 <g id="edge2" class="edge">
-<title>Node617&#45;&gt;Node621</title>
+<title>Node671&#45;&gt;Node675</title>
 <path fill="none" stroke="#191970" d="M131.0359,-29C139.3951,-29 148.0442,-29 156.6529,-29"/>
 <polygon fill="#191970" stroke="#191970" points="156.7206,-32.5001 166.7206,-29 156.7206,-25.5001 156.7206,-32.5001"/>
 </g>
-<!-- Node622 -->
+<!-- Node676 -->
 <g id="node4" class="node">
-<title>Node622</title>
+<title>Node676</title>
 <g id="a_node4"><a xlink:href="mutt_2string_8c.html#ad20e00309de897a1e882fc7400335b83" target="_top" xlink:title="Copy a string into a buffer (guaranteeing NUL&#45;termination) ">
 <polygon fill="#ffffff" stroke="#000000" points="352,-.5 352,-19.5 438,-19.5 438,-.5 352,-.5"/>
 <text text-anchor="middle" x="395" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_str_copy</text>
 </a>
 </g>
 </g>
-<!-- Node617&#45;&gt;Node622 -->
+<!-- Node671&#45;&gt;Node676 -->
 <g id="edge4" class="edge">
-<title>Node617&#45;&gt;Node622</title>
+<title>Node671&#45;&gt;Node676</title>
 <path fill="none" stroke="#191970" d="M106.7383,-19.489C125.0801,-15.7238 147.007,-11.8552 167,-10 226.5444,-4.4749 295.2133,-5.4709 341.5005,-7.2155"/>
 <polygon fill="#191970" stroke="#191970" points="341.4724,-10.7171 351.6049,-7.6217 341.7536,-3.7227 341.4724,-10.7171"/>
 </g>
-<!-- Node621&#45;&gt;Node622 -->
+<!-- Node675&#45;&gt;Node676 -->
 <g id="edge3" class="edge">
-<title>Node621&#45;&gt;Node622</title>
+<title>Node675&#45;&gt;Node676</title>
 <path fill="none" stroke="#191970" d="M316.0018,-19.7783C324.5952,-18.7146 333.2262,-17.6463 341.4634,-16.6267"/>
 <polygon fill="#191970" stroke="#191970" points="342.1599,-20.0673 351.6542,-15.3653 341.2999,-13.1203 342.1599,-20.0673"/>
 </g>

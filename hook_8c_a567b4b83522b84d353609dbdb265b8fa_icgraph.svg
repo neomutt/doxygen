@@ -9,30 +9,30 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 188)">
 <title>mutt_default_save</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-188 285,-188 285,4 -4,4"/>
-<!-- Node13369 -->
+<!-- Node12745 -->
 <g id="node1" class="node">
-<title>Node13369</title>
+<title>Node12745</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-76.5 0,-95.5 108,-95.5 108,-76.5 0,-76.5"/>
 <text text-anchor="middle" x="54" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_default_save</text>
 </g>
-<!-- Node13370 -->
+<!-- Node12746 -->
 <g id="node2" class="node">
-<title>Node13370</title>
+<title>Node12746</title>
 <g id="a_node2"><a xlink:href="commands_8h.html#a5d95c39ad429339ec0cdc9524ce8023b" target="_top" xlink:title="Save an email. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="153.5,-164.5 153.5,-183.5 271.5,-183.5 271.5,-164.5 153.5,-164.5"/>
 <text text-anchor="middle" x="212.5" y="-171.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_save_message</text>
 </a>
 </g>
 </g>
-<!-- Node13369&#45;&gt;Node13370 -->
+<!-- Node12745&#45;&gt;Node12746 -->
 <g id="edge1" class="edge">
-<title>Node13369&#45;&gt;Node13370</title>
+<title>Node12745&#45;&gt;Node12746</title>
 <path fill="none" stroke="#191970" d="M71.4691,-102.7112C88.6585,-118.3072 116.2872,-141.1893 144,-155 151.6216,-158.7982 160.1109,-161.9292 168.4467,-164.4768"/>
 <polygon fill="#191970" stroke="#191970" points="73.6288,-99.9409 63.9146,-95.7119 68.8713,-105.0757 73.6288,-99.9409"/>
 </g>
-<!-- Node13492 -->
+<!-- Node12902 -->
 <g id="node3" class="node">
-<title>Node13492</title>
+<title>Node12902</title>
 <g id="a_node3"><a xlink:href="muttlib_8h.html#a2fa448bbbf2c34fdf00ea41a699768af" target="_top" xlink:title="Create the canonical path (with regex char escaping) ">
 <polygon fill="#ffffff" stroke="#ff0000" points="155,-115 155,-145 270,-145 270,-115 155,-115"/>
 <text text-anchor="start" x="163" y="-133" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_buffer_expand</text>
@@ -40,54 +40,54 @@
 </a>
 </g>
 </g>
-<!-- Node13369&#45;&gt;Node13492 -->
+<!-- Node12745&#45;&gt;Node12902 -->
 <g id="edge2" class="edge">
-<title>Node13369&#45;&gt;Node13492</title>
+<title>Node12745&#45;&gt;Node12902</title>
 <path fill="none" stroke="#191970" d="M98.0925,-98.2402C116.7278,-103.4134 138.6162,-109.4897 158.2305,-114.9346"/>
 <polygon fill="#191970" stroke="#191970" points="98.964,-94.8498 88.3921,-95.5473 97.0915,-101.5948 98.964,-94.8498"/>
 </g>
-<!-- Node13573 -->
+<!-- Node12984 -->
 <g id="node4" class="node">
-<title>Node13573</title>
+<title>Node12984</title>
 <g id="a_node4"><a xlink:href="mx_8h.html#a5fd7ddec18249a46944727c7297add2f" target="_top" xlink:title="Canonicalise a mailbox path &#45; Wrapper for MxOps::path_canon() ">
 <polygon fill="#ffffff" stroke="#ff0000" points="165.5,-76.5 165.5,-95.5 259.5,-95.5 259.5,-76.5 165.5,-76.5"/>
 <text text-anchor="middle" x="212.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mx_path_canon</text>
 </a>
 </g>
 </g>
-<!-- Node13369&#45;&gt;Node13573 -->
+<!-- Node12745&#45;&gt;Node12984 -->
 <g id="edge3" class="edge">
-<title>Node13369&#45;&gt;Node13573</title>
+<title>Node12745&#45;&gt;Node12984</title>
 <path fill="none" stroke="#191970" d="M118.2821,-86C133.9913,-86 150.5148,-86 165.2609,-86"/>
 <polygon fill="#191970" stroke="#191970" points="118.1034,-82.5001 108.1034,-86 118.1034,-89.5001 118.1034,-82.5001"/>
 </g>
-<!-- Node13452 -->
+<!-- Node12860 -->
 <g id="node5" class="node">
-<title>Node13452</title>
+<title>Node12860</title>
 <g id="a_node5"><a xlink:href="recvattach_8c.html#aad56960e0d22f0b6e36dbf18d120d84a" target="_top" xlink:title="Ask the user if we should save the attachment. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="145.5,-38.5 145.5,-57.5 279.5,-57.5 279.5,-38.5 145.5,-38.5"/>
 <text text-anchor="middle" x="212.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">query_save_attachment</text>
 </a>
 </g>
 </g>
-<!-- Node13369&#45;&gt;Node13452 -->
+<!-- Node12745&#45;&gt;Node12860 -->
 <g id="edge4" class="edge">
-<title>Node13369&#45;&gt;Node13452</title>
+<title>Node12745&#45;&gt;Node12860</title>
 <path fill="none" stroke="#191970" d="M103.9191,-74.032C126.1304,-68.7069 151.9205,-62.5238 172.7914,-57.5201"/>
 <polygon fill="#191970" stroke="#191970" points="102.9047,-70.676 93.9962,-76.411 104.5367,-77.4831 102.9047,-70.676"/>
 </g>
-<!-- Node13454 -->
+<!-- Node12862 -->
 <g id="node6" class="node">
-<title>Node13454</title>
+<title>Node12862</title>
 <g id="a_node6"><a xlink:href="recvattach_8c.html#a999be3ce814a6a72a2a5c409b7583521" target="_top" xlink:title="Save the attachment, without prompting each time. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="144,-.5 144,-19.5 281,-19.5 281,-.5 144,-.5"/>
 <text text-anchor="middle" x="212.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">save_without_prompting</text>
 </a>
 </g>
 </g>
-<!-- Node13369&#45;&gt;Node13454 -->
+<!-- Node12745&#45;&gt;Node12862 -->
 <g id="edge5" class="edge">
-<title>Node13369&#45;&gt;Node13454</title>
+<title>Node12745&#45;&gt;Node12862</title>
 <path fill="none" stroke="#191970" d="M74.815,-70.3139C92.4461,-57.6571 118.8062,-40.1775 144,-29 152.3479,-25.2964 161.5933,-22.1463 170.5199,-19.5393"/>
 <polygon fill="#191970" stroke="#191970" points="72.4504,-67.7069 66.4431,-76.434 76.5816,-73.3579 72.4504,-67.7069"/>
 </g>

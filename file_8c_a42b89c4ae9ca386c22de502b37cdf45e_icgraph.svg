@@ -9,144 +9,144 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 328)">
 <title>mutt_file_mkdir</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-328 289,-328 289,4 -4,4"/>
-<!-- Node11598 -->
+<!-- Node12624 -->
 <g id="node1" class="node">
-<title>Node11598</title>
+<title>Node12624</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-152.5 0,-171.5 94,-171.5 94,-152.5 0,-152.5"/>
 <text text-anchor="middle" x="47" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_file_mkdir</text>
 </g>
-<!-- Node11599 -->
+<!-- Node12625 -->
 <g id="node2" class="node">
-<title>Node11599</title>
+<title>Node12625</title>
 <g id="a_node2"><a xlink:href="autocrypt_8c.html#a33b9a5f3a296e1bcaaeebda77f86ab44" target="_top" xlink:title="Initialise an Autocrypt directory. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="156.5,-304.5 156.5,-323.5 258.5,-323.5 258.5,-304.5 156.5,-304.5"/>
 <text text-anchor="middle" x="207.5" y="-311.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">autocrypt_dir_init</text>
 </a>
 </g>
 </g>
-<!-- Node11598&#45;&gt;Node11599 -->
+<!-- Node12624&#45;&gt;Node12625 -->
 <g id="edge1" class="edge">
-<title>Node11598&#45;&gt;Node11599</title>
+<title>Node12624&#45;&gt;Node12625</title>
 <path fill="none" stroke="#191970" d="M53.6328,-181.3537C64.6935,-210.6338 89.7483,-265.8582 130,-295 137.7426,-300.6056 146.9416,-304.5697 156.2494,-307.37"/>
 <polygon fill="#191970" stroke="#191970" points="56.8828,-180.0488 50.1887,-171.8365 50.3005,-182.4308 56.8828,-180.0488"/>
 </g>
-<!-- Node12165 -->
+<!-- Node13245 -->
 <g id="node3" class="node">
-<title>Node12165</title>
+<title>Node13245</title>
 <g id="a_node3"><a xlink:href="bcache_2lib_8h.html#acf998afceb34defdd8d6be4b652ce729" target="_top" xlink:title="Create a file in the Body Cache. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="157,-266.5 157,-285.5 258,-285.5 258,-266.5 157,-266.5"/>
 <text text-anchor="middle" x="207.5" y="-273.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_bcache_put</text>
 </a>
 </g>
 </g>
-<!-- Node11598&#45;&gt;Node12165 -->
+<!-- Node12624&#45;&gt;Node13245 -->
 <g id="edge2" class="edge">
-<title>Node11598&#45;&gt;Node12165</title>
+<title>Node12624&#45;&gt;Node13245</title>
 <path fill="none" stroke="#191970" d="M57.8577,-180.128C71.8019,-201.7978 98.0548,-237.5648 130,-257 138.1662,-261.9682 147.5605,-265.6386 156.9275,-268.3497"/>
 <polygon fill="#191970" stroke="#191970" points="60.7588,-178.1657 52.4973,-171.5326 54.8192,-181.8699 60.7588,-178.1657"/>
 </g>
-<!-- Node12167 -->
+<!-- Node13247 -->
 <g id="node4" class="node">
-<title>Node12167</title>
+<title>Node13247</title>
 <g id="a_node4"><a xlink:href="hcache_8c.html#a5086e15744da558388677cc362f74959" target="_top" xlink:title="Create parent dirs for the hcache database. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="155,-228.5 155,-247.5 260,-247.5 260,-228.5 155,-228.5"/>
 <text text-anchor="middle" x="207.5" y="-235.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">create_hcache_dir</text>
 </a>
 </g>
 </g>
-<!-- Node11598&#45;&gt;Node12167 -->
+<!-- Node12624&#45;&gt;Node13247 -->
 <g id="edge3" class="edge">
-<title>Node11598&#45;&gt;Node12167</title>
+<title>Node12624&#45;&gt;Node13247</title>
 <path fill="none" stroke="#191970" d="M66.083,-178.0987C82.1747,-190.9086 106.3092,-208.3891 130,-219 138.4709,-222.794 147.8163,-225.9035 156.9982,-228.427"/>
 <polygon fill="#191970" stroke="#191970" points="67.9887,-175.1368 58.0245,-171.5359 63.5683,-180.5646 67.9887,-175.1368"/>
 </g>
-<!-- Node11993 -->
+<!-- Node13068 -->
 <g id="node5" class="node">
-<title>Node11993</title>
+<title>Node13068</title>
 <g id="a_node5"><a xlink:href="init_8h.html#aadc99134446d4162844e0a8d103df18b" target="_top" xlink:title="Initialise NeoMutt. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="177,-190.5 177,-209.5 238,-209.5 238,-190.5 177,-190.5"/>
 <text text-anchor="middle" x="207.5" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_init</text>
 </a>
 </g>
 </g>
-<!-- Node11598&#45;&gt;Node11993 -->
+<!-- Node12624&#45;&gt;Node13068 -->
 <g id="edge4" class="edge">
-<title>Node11598&#45;&gt;Node11993</title>
+<title>Node12624&#45;&gt;Node13068</title>
 <path fill="none" stroke="#191970" d="M97.236,-173.8939C123.3429,-180.075 154.4011,-187.4283 176.892,-192.7532"/>
 <polygon fill="#191970" stroke="#191970" points="98.0383,-170.4871 87.5009,-171.589 96.4255,-177.2988 98.0383,-170.4871"/>
 </g>
-<!-- Node12187 -->
+<!-- Node13267 -->
 <g id="node6" class="node">
-<title>Node12187</title>
-<g id="a_node6"><a xlink:href="maildir_8c.html#acfee3cdd29ca966a63374bdf5b321b63" target="_top" xlink:title="Open a Mailbox for appending &#45; Implements MxOps::mbox_open_append() ">
+<title>Node13267</title>
+<g id="a_node6"><a xlink:href="group__mx__mbox__open__append.html#gacfee3cdd29ca966a63374bdf5b321b63" target="_top" xlink:title="Open a Mailbox for appending &#45; Implements MxOps::mbox_open_append() &#45;. ">
 <polygon fill="#ffffff" stroke="#000000" points="130,-152.5 130,-171.5 285,-171.5 285,-152.5 130,-152.5"/>
 <text text-anchor="middle" x="207.5" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">maildir_mbox_open_append</text>
 </a>
 </g>
 </g>
-<!-- Node11598&#45;&gt;Node12187 -->
+<!-- Node12624&#45;&gt;Node13267 -->
 <g id="edge5" class="edge">
-<title>Node11598&#45;&gt;Node12187</title>
+<title>Node12624&#45;&gt;Node13267</title>
 <path fill="none" stroke="#191970" d="M104.4965,-162C112.7264,-162 121.3044,-162 129.8431,-162"/>
 <polygon fill="#191970" stroke="#191970" points="104.2872,-158.5001 94.2872,-162 104.2872,-165.5001 104.2872,-158.5001"/>
 </g>
-<!-- Node12188 -->
+<!-- Node13268 -->
 <g id="node7" class="node">
-<title>Node12188</title>
-<g id="a_node7"><a xlink:href="mh_8c.html#afd578e9b5b40e9367fe840868c959828" target="_top" xlink:title="Open a Mailbox for appending &#45; Implements MxOps::mbox_open_append() ">
+<title>Node13268</title>
+<g id="a_node7"><a xlink:href="group__mx__mbox__open__append.html#gafd578e9b5b40e9367fe840868c959828" target="_top" xlink:title="Open a Mailbox for appending &#45; Implements MxOps::mbox_open_append() &#45;. ">
 <polygon fill="#ffffff" stroke="#000000" points="139.5,-114.5 139.5,-133.5 275.5,-133.5 275.5,-114.5 139.5,-114.5"/>
 <text text-anchor="middle" x="207.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mh_mbox_open_append</text>
 </a>
 </g>
 </g>
-<!-- Node11598&#45;&gt;Node12188 -->
+<!-- Node12624&#45;&gt;Node13268 -->
 <g id="edge6" class="edge">
-<title>Node11598&#45;&gt;Node12188</title>
+<title>Node12624&#45;&gt;Node13268</title>
 <path fill="none" stroke="#191970" d="M97.2453,-150.1039C119.8052,-144.7626 146.0609,-138.5463 167.2903,-133.5201"/>
 <polygon fill="#191970" stroke="#191970" points="96.4255,-146.7012 87.5009,-152.411 98.0383,-153.5129 96.4255,-146.7012"/>
 </g>
-<!-- Node12189 -->
+<!-- Node13269 -->
 <g id="node8" class="node">
-<title>Node12189</title>
-<g id="a_node8"><a xlink:href="mbox_8c.html#a48388b5b9b030b8a46b7645f212dce7b" target="_top" xlink:title="Open a Mailbox for appending &#45; Implements MxOps::mbox_open_append() ">
+<title>Node13269</title>
+<g id="a_node8"><a xlink:href="group__mx__mbox__open__append.html#ga48388b5b9b030b8a46b7645f212dce7b" target="_top" xlink:title="Open a Mailbox for appending &#45; Implements MxOps::mbox_open_append() &#45;. ">
 <polygon fill="#ffffff" stroke="#000000" points="133.5,-76.5 133.5,-95.5 281.5,-95.5 281.5,-76.5 133.5,-76.5"/>
 <text text-anchor="middle" x="207.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mbox_mbox_open_append</text>
 </a>
 </g>
 </g>
-<!-- Node11598&#45;&gt;Node12189 -->
+<!-- Node12624&#45;&gt;Node13269 -->
 <g id="edge7" class="edge">
-<title>Node11598&#45;&gt;Node12189</title>
+<title>Node12624&#45;&gt;Node13269</title>
 <path fill="none" stroke="#191970" d="M66.083,-145.9013C82.1747,-133.0914 106.3092,-115.6109 130,-105 138.4709,-101.206 147.8163,-98.0965 156.9982,-95.573"/>
 <polygon fill="#191970" stroke="#191970" points="63.5683,-143.4354 58.0245,-152.4641 67.9887,-148.8632 63.5683,-143.4354"/>
 </g>
-<!-- Node11808 -->
+<!-- Node12896 -->
 <g id="node9" class="node">
-<title>Node11808</title>
+<title>Node12896</title>
 <g id="a_node9"><a xlink:href="muttlib_8h.html#aec67d3d77b0418f6ae01995579c09ad2" target="_top" xlink:title="Ask the user to save. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="152.5,-38.5 152.5,-57.5 262.5,-57.5 262.5,-38.5 152.5,-38.5"/>
 <text text-anchor="middle" x="207.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_save_confirm</text>
 </a>
 </g>
 </g>
-<!-- Node11598&#45;&gt;Node11808 -->
+<!-- Node12624&#45;&gt;Node12896 -->
 <g id="edge8" class="edge">
-<title>Node11598&#45;&gt;Node11808</title>
+<title>Node12624&#45;&gt;Node12896</title>
 <path fill="none" stroke="#191970" d="M57.8577,-143.872C71.8019,-122.2022 98.0548,-86.4352 130,-67 136.8643,-62.8238 144.5964,-59.5647 152.4506,-57.0214"/>
 <polygon fill="#191970" stroke="#191970" points="54.8192,-142.1301 52.4973,-152.4674 60.7588,-145.8343 54.8192,-142.1301"/>
 </g>
-<!-- Node11645 -->
+<!-- Node12708 -->
 <g id="node10" class="node">
-<title>Node11645</title>
+<title>Node12708</title>
 <g id="a_node10"><a xlink:href="newsrc_8c.html#ac4e2953e3c6f9d6d57467cb5e2856d1e" target="_top" xlink:title="Open a connection to an NNTP server. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="153,-.5 153,-19.5 262,-19.5 262,-.5 153,-.5"/>
 <text text-anchor="middle" x="207.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">nntp_select_server</text>
 </a>
 </g>
 </g>
-<!-- Node11598&#45;&gt;Node11645 -->
+<!-- Node12624&#45;&gt;Node12708 -->
 <g id="edge9" class="edge">
-<title>Node11598&#45;&gt;Node11645</title>
+<title>Node12624&#45;&gt;Node12708</title>
 <path fill="none" stroke="#191970" d="M53.6328,-142.6463C64.6935,-113.3662 89.7483,-58.1418 130,-29 136.7327,-24.1256 144.5666,-20.4924 152.6158,-17.7863"/>
 <polygon fill="#191970" stroke="#191970" points="50.3005,-141.5692 50.1887,-152.1635 56.8828,-143.9512 50.3005,-141.5692"/>
 </g>

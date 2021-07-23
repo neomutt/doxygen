@@ -9,72 +9,72 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 72.9092)">
 <title>pgp_make_entry</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-72.9092 555,-72.9092 555,4 -4,4"/>
-<!-- Node381 -->
+<!-- Node298 -->
 <g id="node1" class="node">
-<title>Node381</title>
+<title>Node298</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-38.5 0,-57.5 98,-57.5 98,-38.5 0,-38.5"/>
 <text text-anchor="middle" x="49" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pgp_make_entry</text>
 </g>
-<!-- Node382 -->
+<!-- Node299 -->
 <g id="node2" class="node">
-<title>Node382</title>
+<title>Node299</title>
 <g id="a_node2"><a xlink:href="helpers_8c.html#ac477c591155aa4ae0452bbabc0affffe" target="_top" xlink:title="Get a string config item by name. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="453,-48.5 453,-67.5 551,-67.5 551,-48.5 453,-48.5"/>
 <text text-anchor="middle" x="502" y="-55.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">cs_subset_string</text>
 </a>
 </g>
 </g>
-<!-- Node381&#45;&gt;Node382 -->
+<!-- Node298&#45;&gt;Node299 -->
 <g id="edge1" class="edge">
-<title>Node381&#45;&gt;Node382</title>
+<title>Node298&#45;&gt;Node299</title>
 <path fill="none" stroke="#191970" d="M98.1095,-53.793C168.6663,-61.3751 302.8055,-73.0287 417,-67 425.3078,-66.5614 434.0533,-65.8833 442.6465,-65.0916"/>
 <polygon fill="#191970" stroke="#191970" points="443.0159,-68.5722 452.6287,-64.1176 442.336,-61.6053 443.0159,-68.5722"/>
 </g>
-<!-- Node405 -->
+<!-- Node322 -->
 <g id="node3" class="node">
-<title>Node405</title>
-<g id="a_node3"><a xlink:href="muttlib_8c.html#a8972094c1e995739c8b072c8be3ce453" target="_top" xlink:title="Expand expandos (x) in a string. ">
+<title>Node322</title>
+<g id="a_node3"><a xlink:href="group__expando__api.html#ga8972094c1e995739c8b072c8be3ce453" target="_top" xlink:title="Expand expandos (x) in a string &#45;. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="292,-20.5 292,-39.5 417,-39.5 417,-20.5 292,-20.5"/>
 <text text-anchor="middle" x="354.5" y="-27.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_expando_format</text>
 </a>
 </g>
 </g>
-<!-- Node381&#45;&gt;Node405 -->
+<!-- Node298&#45;&gt;Node322 -->
 <g id="edge2" class="edge">
-<title>Node381&#45;&gt;Node405</title>
+<title>Node298&#45;&gt;Node322</title>
 <path fill="none" stroke="#191970" d="M98.0839,-45.108C147.7275,-42.183 225.031,-37.6283 281.788,-34.2842"/>
 <polygon fill="#191970" stroke="#191970" points="282.0019,-37.7777 291.7787,-33.6955 281.5901,-30.7899 282.0019,-37.7777"/>
 </g>
-<!-- Node447 -->
+<!-- Node364 -->
 <g id="node4" class="node">
-<title>Node447</title>
-<g id="a_node4"><a xlink:href="dlgpgp_8c.html#ad62c1620e97a88eed7cdd6d5a2e3661a" target="_top" xlink:title="Format an entry on the PGP key selection menu &#45; Implements format_t. ">
+<title>Node364</title>
+<g id="a_node4"><a xlink:href="group__expando__api.html#gad62c1620e97a88eed7cdd6d5a2e3661a" target="_top" xlink:title="Format an entry on the PGP key selection menu &#45; Implements format_t &#45;Expando Description &#160;%n Number %...">
 <polygon fill="#ffffff" stroke="#ff0000" points="134,-.5 134,-19.5 256,-19.5 256,-.5 134,-.5"/>
 <text text-anchor="middle" x="195" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pgp_entry_format_str</text>
 </a>
 </g>
 </g>
-<!-- Node381&#45;&gt;Node447 -->
+<!-- Node298&#45;&gt;Node364 -->
 <g id="edge5" class="edge">
-<title>Node381&#45;&gt;Node447</title>
+<title>Node298&#45;&gt;Node364</title>
 <path fill="none" stroke="#191970" d="M85.842,-38.411C104.8479,-33.4642 128.2286,-27.3789 148.4692,-22.1108"/>
 <polygon fill="#191970" stroke="#191970" points="149.627,-25.4261 158.423,-19.5201 147.8638,-18.6518 149.627,-25.4261"/>
 </g>
-<!-- Node405&#45;&gt;Node382 -->
+<!-- Node322&#45;&gt;Node299 -->
 <g id="edge3" class="edge">
-<title>Node405&#45;&gt;Node382</title>
+<title>Node322&#45;&gt;Node299</title>
 <path fill="none" stroke="#191970" d="M404.8486,-39.5577C417.0971,-41.8828 430.3064,-44.3904 442.9191,-46.7846"/>
 <polygon fill="#191970" stroke="#191970" points="442.3993,-50.2484 452.8766,-48.6749 443.7049,-43.3712 442.3993,-50.2484"/>
 </g>
-<!-- Node405&#45;&gt;Node405 -->
+<!-- Node322&#45;&gt;Node322 -->
 <g id="edge4" class="edge">
-<title>Node405&#45;&gt;Node405</title>
+<title>Node322&#45;&gt;Node322</title>
 <path fill="none" stroke="#191970" d="M331.9972,-39.7571C321.0498,-48.5653 328.5508,-58 354.5,-58 371.5292,-58 380.6133,-53.9368 381.7525,-48.6539"/>
 <polygon fill="#191970" stroke="#191970" points="384.7999,-46.9303 377.0028,-39.7571 378.6248,-50.227 384.7999,-46.9303"/>
 </g>
-<!-- Node447&#45;&gt;Node405 -->
+<!-- Node364&#45;&gt;Node322 -->
 <g id="edge6" class="edge">
-<title>Node447&#45;&gt;Node405</title>
+<title>Node364&#45;&gt;Node322</title>
 <path fill="none" stroke="#191970" d="M256.2107,-17.6753C264.6087,-18.7284 273.2971,-19.8178 281.8747,-20.8934"/>
 <polygon fill="#191970" stroke="#191970" points="281.5113,-24.3751 291.8691,-22.1466 282.3823,-17.4295 281.5113,-24.3751"/>
 </g>

@@ -9,54 +9,54 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 100)">
 <title>pop_hcache_open</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-100 273,-100 273,4 -4,4"/>
-<!-- Node2897 -->
+<!-- Node2173 -->
 <g id="node1" class="node">
-<title>Node2897</title>
+<title>Node2173</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-38.5 0,-57.5 104,-57.5 104,-38.5 0,-38.5"/>
 <text text-anchor="middle" x="52" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pop_hcache_open</text>
 </g>
-<!-- Node2898 -->
+<!-- Node2174 -->
 <g id="node2" class="node">
-<title>Node2898</title>
+<title>Node2174</title>
 <g id="a_node2"><a xlink:href="pop_8c.html#aed296290f911b6522df2dd97ce554f65" target="_top" xlink:title="Read headers. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="150,-76.5 150,-95.5 259,-95.5 259,-76.5 150,-76.5"/>
 <text text-anchor="middle" x="204.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pop_fetch_headers</text>
 </a>
 </g>
 </g>
-<!-- Node2897&#45;&gt;Node2898 -->
+<!-- Node2173&#45;&gt;Node2174 -->
 <g id="edge1" class="edge">
-<title>Node2897&#45;&gt;Node2898</title>
+<title>Node2173&#45;&gt;Node2174</title>
 <path fill="none" stroke="#191970" d="M100.3184,-60.04C121.6234,-65.3488 146.3042,-71.4988 166.2945,-76.4799"/>
 <polygon fill="#191970" stroke="#191970" points="101.0318,-56.6108 90.4822,-57.589 99.3392,-63.4031 101.0318,-56.6108"/>
 </g>
-<!-- Node2901 -->
+<!-- Node2177 -->
 <g id="node3" class="node">
-<title>Node2901</title>
-<g id="a_node3"><a xlink:href="pop_8c.html#af4f176edf88cdbf7c4ded57e9838f008" target="_top" xlink:title="Save changes to the Mailbox &#45; Implements MxOps::mbox_sync() ">
+<title>Node2177</title>
+<g id="a_node3"><a xlink:href="group__mx__mbox__sync.html#gaf4f176edf88cdbf7c4ded57e9838f008" target="_top" xlink:title="Save changes to the Mailbox &#45; Implements MxOps::mbox_sync() &#45;Update POP mailbox, delete messages from...">
 <polygon fill="#ffffff" stroke="#000000" points="157,-38.5 157,-57.5 252,-57.5 252,-38.5 157,-38.5"/>
 <text text-anchor="middle" x="204.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pop_mbox_sync</text>
 </a>
 </g>
 </g>
-<!-- Node2897&#45;&gt;Node2901 -->
+<!-- Node2173&#45;&gt;Node2177 -->
 <g id="edge2" class="edge">
-<title>Node2897&#45;&gt;Node2901</title>
+<title>Node2173&#45;&gt;Node2177</title>
 <path fill="none" stroke="#191970" d="M114.2432,-48C128.4378,-48 143.303,-48 156.7791,-48"/>
 <polygon fill="#191970" stroke="#191970" points="114.0554,-44.5001 104.0553,-48 114.0553,-51.5001 114.0554,-44.5001"/>
 </g>
-<!-- Node2902 -->
+<!-- Node2178 -->
 <g id="node4" class="node">
-<title>Node2902</title>
-<g id="a_node4"><a xlink:href="pop_8c.html#abcd55f0bb3f983b76ecbdc34253f1c05" target="_top" xlink:title="Save message to the header cache &#45; Implements MxOps::msg_save_hcache() ">
+<title>Node2178</title>
+<g id="a_node4"><a xlink:href="group__mx__msg__save__hcache.html#gabcd55f0bb3f983b76ecbdc34253f1c05" target="_top" xlink:title="Save message to the header cache &#45; Implements MxOps::msg_save_hcache() &#45;. ">
 <polygon fill="#ffffff" stroke="#000000" points="140,-.5 140,-19.5 269,-19.5 269,-.5 140,-.5"/>
 <text text-anchor="middle" x="204.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">pop_msg_save_hcache</text>
 </a>
 </g>
 </g>
-<!-- Node2897&#45;&gt;Node2902 -->
+<!-- Node2173&#45;&gt;Node2178 -->
 <g id="edge3" class="edge">
-<title>Node2897&#45;&gt;Node2902</title>
+<title>Node2173&#45;&gt;Node2178</title>
 <path fill="none" stroke="#191970" d="M100.3184,-35.96C121.6234,-30.6512 146.3042,-24.5012 166.2945,-19.5201"/>
 <polygon fill="#191970" stroke="#191970" points="99.3392,-32.5969 90.4822,-38.411 101.0318,-39.3892 99.3392,-32.5969"/>
 </g>

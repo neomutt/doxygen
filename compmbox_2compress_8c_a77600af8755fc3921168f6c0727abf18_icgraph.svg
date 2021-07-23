@@ -9,90 +9,90 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 176)">
 <title>execute_command</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-176 437,-176 437,4 -4,4"/>
-<!-- Node2933 -->
+<!-- Node2792 -->
 <g id="node1" class="node">
-<title>Node2933</title>
+<title>Node2792</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-76.5 0,-95.5 110,-95.5 110,-76.5 0,-76.5"/>
 <text text-anchor="middle" x="55" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">execute_command</text>
 </g>
-<!-- Node2934 -->
+<!-- Node2793 -->
 <g id="node2" class="node">
-<title>Node2934</title>
-<g id="a_node2"><a xlink:href="compmbox_2compress_8c.html#a017f8938078bb770eb825f2de2e588b0" target="_top" xlink:title="Open a Mailbox &#45; Implements MxOps::mbox_open() ">
+<title>Node2793</title>
+<g id="a_node2"><a xlink:href="group__mx__mbox__open.html#ga017f8938078bb770eb825f2de2e588b0" target="_top" xlink:title="Open a Mailbox &#45; Implements MxOps::mbox_open() &#45;Set up a compressed mailbox to be read...">
 <polygon fill="#ffffff" stroke="#000000" points="166.5,-152.5 166.5,-171.5 272.5,-171.5 272.5,-152.5 166.5,-152.5"/>
 <text text-anchor="middle" x="219.5" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">comp_mbox_open</text>
 </a>
 </g>
 </g>
-<!-- Node2933&#45;&gt;Node2934 -->
+<!-- Node2792&#45;&gt;Node2793 -->
 <g id="edge1" class="edge">
-<title>Node2933&#45;&gt;Node2934</title>
+<title>Node2792&#45;&gt;Node2793</title>
 <path fill="none" stroke="#191970" d="M76.0223,-101.7903C93.835,-114.509 120.4805,-132.0212 146,-143 154.7171,-146.7502 164.3447,-149.8938 173.6813,-152.4754"/>
 <polygon fill="#191970" stroke="#191970" points="77.7104,-98.6901 67.5652,-95.6361 73.5916,-104.3501 77.7104,-98.6901"/>
 </g>
-<!-- Node2935 -->
+<!-- Node2794 -->
 <g id="node3" class="node">
-<title>Node2935</title>
-<g id="a_node3"><a xlink:href="compmbox_2compress_8c.html#a5411107efad334d6cfdf124b9856e673" target="_top" xlink:title="Open a Mailbox for appending &#45; Implements MxOps::mbox_open_append() ">
+<title>Node2794</title>
+<g id="a_node3"><a xlink:href="group__mx__mbox__open__append.html#ga5411107efad334d6cfdf124b9856e673" target="_top" xlink:title="Open a Mailbox for appending &#45; Implements MxOps::mbox_open_append() &#45;flags may also contain MUTT_NEWF...">
 <polygon fill="#ffffff" stroke="#000000" points="146,-114.5 146,-133.5 293,-133.5 293,-114.5 146,-114.5"/>
 <text text-anchor="middle" x="219.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">comp_mbox_open_append</text>
 </a>
 </g>
 </g>
-<!-- Node2933&#45;&gt;Node2935 -->
+<!-- Node2792&#45;&gt;Node2794 -->
 <g id="edge2" class="edge">
-<title>Node2933&#45;&gt;Node2935</title>
+<title>Node2792&#45;&gt;Node2794</title>
 <path fill="none" stroke="#191970" d="M106.4975,-97.8961C129.6197,-103.2374 156.5297,-109.4537 178.2882,-114.4799"/>
 <polygon fill="#191970" stroke="#191970" points="107.0415,-94.4296 96.5103,-95.589 105.4659,-101.25 107.0415,-94.4296"/>
 </g>
-<!-- Node2936 -->
+<!-- Node2795 -->
 <g id="node4" class="node">
-<title>Node2936</title>
-<g id="a_node4"><a xlink:href="compmbox_2compress_8c.html#abf3eceb782a3061fe668121697cc2e22" target="_top" xlink:title="Check for new mail &#45; Implements MxOps::mbox_check() ">
+<title>Node2795</title>
+<g id="a_node4"><a xlink:href="group__mx__mbox__check.html#gabf3eceb782a3061fe668121697cc2e22" target="_top" xlink:title="Check for new mail &#45; Implements MxOps::mbox_check() &#45;. ">
 <polygon fill="#ffffff" stroke="#000000" points="164.5,-76.5 164.5,-95.5 274.5,-95.5 274.5,-76.5 164.5,-76.5"/>
 <text text-anchor="middle" x="219.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">comp_mbox_check</text>
 </a>
 </g>
 </g>
-<!-- Node2933&#45;&gt;Node2936 -->
+<!-- Node2792&#45;&gt;Node2795 -->
 <g id="edge3" class="edge">
-<title>Node2933&#45;&gt;Node2936</title>
+<title>Node2792&#45;&gt;Node2795</title>
 <path fill="none" stroke="#191970" d="M120.6425,-86C135.1492,-86 150.3751,-86 164.412,-86"/>
 <polygon fill="#191970" stroke="#191970" points="120.2338,-82.5001 110.2337,-86 120.2337,-89.5001 120.2338,-82.5001"/>
 </g>
-<!-- Node2937 -->
+<!-- Node2796 -->
 <g id="node5" class="node">
-<title>Node2937</title>
-<g id="a_node5"><a xlink:href="compmbox_2compress_8c.html#adeb7755ceb989e6dc91e9afa2ff9e84e" target="_top" xlink:title="Save changes to the Mailbox &#45; Implements MxOps::mbox_sync() ">
+<title>Node2796</title>
+<g id="a_node5"><a xlink:href="group__mx__mbox__sync.html#gadeb7755ceb989e6dc91e9afa2ff9e84e" target="_top" xlink:title="Save changes to the Mailbox &#45; Implements MxOps::mbox_sync() &#45;Changes in NeoMutt only affect the tmp f...">
 <polygon fill="#ffffff" stroke="#000000" points="329,-57.5 329,-76.5 433,-76.5 433,-57.5 329,-57.5"/>
 <text text-anchor="middle" x="381" y="-64.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">comp_mbox_sync</text>
 </a>
 </g>
 </g>
-<!-- Node2933&#45;&gt;Node2937 -->
+<!-- Node2792&#45;&gt;Node2796 -->
 <g id="edge5" class="edge">
-<title>Node2933&#45;&gt;Node2937</title>
+<title>Node2792&#45;&gt;Node2796</title>
 <path fill="none" stroke="#191970" d="M101.8823,-74.2887C115.9717,-71.2914 131.5314,-68.4943 146,-67 208.4974,-60.5451 280.8438,-61.8563 328.5733,-63.9258"/>
 <polygon fill="#191970" stroke="#191970" points="100.9284,-70.9149 91.9195,-76.4908 102.4393,-77.75 100.9284,-70.9149"/>
 </g>
-<!-- Node2938 -->
+<!-- Node2797 -->
 <g id="node6" class="node">
-<title>Node2938</title>
-<g id="a_node6"><a xlink:href="compmbox_2compress_8c.html#ac39b99d890436a70c50814a4701ed597" target="_top" xlink:title="Close a Mailbox &#45; Implements MxOps::mbox_close() ">
+<title>Node2797</title>
+<g id="a_node6"><a xlink:href="group__mx__mbox__close.html#gac39b99d890436a70c50814a4701ed597" target="_top" xlink:title="Close a Mailbox &#45; Implements MxOps::mbox_close() &#45;If the mailbox has been changed then re&#45;compress th...">
 <polygon fill="#ffffff" stroke="#000000" points="166,-.5 166,-19.5 273,-19.5 273,-.5 166,-.5"/>
 <text text-anchor="middle" x="219.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">comp_mbox_close</text>
 </a>
 </g>
 </g>
-<!-- Node2933&#45;&gt;Node2938 -->
+<!-- Node2792&#45;&gt;Node2797 -->
 <g id="edge6" class="edge">
-<title>Node2933&#45;&gt;Node2938</title>
+<title>Node2792&#45;&gt;Node2797</title>
 <path fill="none" stroke="#191970" d="M78.2912,-70.9287C96.279,-59.729 122.0613,-44.6152 146,-34 158.5165,-28.4497 172.7273,-23.5123 185.2951,-19.5804"/>
 <polygon fill="#191970" stroke="#191970" points="76.2353,-68.0873 69.6462,-76.3841 79.971,-74.0072 76.2353,-68.0873"/>
 </g>
-<!-- Node2936&#45;&gt;Node2937 -->
+<!-- Node2795&#45;&gt;Node2796 -->
 <g id="edge4" class="edge">
-<title>Node2936&#45;&gt;Node2937</title>
+<title>Node2795&#45;&gt;Node2796</title>
 <path fill="none" stroke="#191970" d="M284.6609,-78.334C299.3553,-76.6053 314.7656,-74.7923 328.8443,-73.136"/>
 <polygon fill="#191970" stroke="#191970" points="284.15,-74.8699 274.6274,-79.5144 284.9679,-81.8219 284.15,-74.8699"/>
 </g>

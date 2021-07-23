@@ -9,75 +9,75 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 171.3123)">
 <title>dialog_pop</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-171.3123 393,-171.3123 393,4 -4,4"/>
-<!-- Node607 -->
+<!-- Node663 -->
 <g id="node1" class="node">
-<title>Node607</title>
+<title>Node663</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="0,-88 0,-107 70,-107 70,-88 0,-88"/>
 <text text-anchor="middle" x="35" y="-95" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">dialog_pop</text>
 </g>
-<!-- Node608 -->
+<!-- Node664 -->
 <g id="node2" class="node">
-<title>Node608</title>
+<title>Node664</title>
 <g id="a_node2"><a xlink:href="compose_2lib_8h.html#ab41aa2ed639a1d884984f0d42d1cf827" target="_top" xlink:title="Allow the user to edit the message envelope. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="267,-85 267,-104 389,-104 389,-85 267,-85"/>
 <text text-anchor="middle" x="328" y="-92" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_compose_menu</text>
 </a>
 </g>
 </g>
-<!-- Node607&#45;&gt;Node608 -->
+<!-- Node663&#45;&gt;Node664 -->
 <g id="edge1" class="edge">
-<title>Node607&#45;&gt;Node608</title>
+<title>Node663&#45;&gt;Node664</title>
 <path fill="none" stroke="#191970" d="M49.81,-114.5494C62.9727,-128.3013 83.5627,-146.6078 106,-154.5 158.408,-172.9342 177.5619,-169.6916 231,-154.5 265.6653,-144.6452 300.0678,-118.4768 317.0602,-104.1716"/>
 <polygon fill="#191970" stroke="#191970" points="52.3027,-112.0892 42.9604,-107.092 47.1473,-116.8244 52.3027,-112.0892"/>
 </g>
-<!-- Node1173 -->
+<!-- Node1283 -->
 <g id="node3" class="node">
-<title>Node1173</title>
+<title>Node1283</title>
 <g id="a_node3"><a xlink:href="simple_8h.html#a4b8e413b9970200cd75543dd09d38622" target="_top" xlink:title="Destroy a simple index Dialog. ">
 <polygon fill="#ffffff" stroke="#ff0000" points="113.5,-126 113.5,-145 223.5,-145 223.5,-126 113.5,-126"/>
 <text text-anchor="middle" x="168.5" y="-133" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">simple_dialog_free</text>
 </a>
 </g>
 </g>
-<!-- Node607&#45;&gt;Node1173 -->
+<!-- Node663&#45;&gt;Node1283 -->
 <g id="edge2" class="edge">
-<title>Node607&#45;&gt;Node1173</title>
+<title>Node663&#45;&gt;Node1283</title>
 <path fill="none" stroke="#191970" d="M78.53,-109.8906C96.8122,-115.0945 117.7492,-121.0541 134.8231,-125.9141"/>
 <polygon fill="#191970" stroke="#191970" points="79.2639,-106.4605 68.6877,-107.089 77.3474,-113.1931 79.2639,-106.4605"/>
 </g>
-<!-- Node616 -->
+<!-- Node811 -->
 <g id="node4" class="node">
-<title>Node616</title>
+<title>Node811</title>
 <g id="a_node4"><a xlink:href="main_8c.html#adedb285b02c41bde2158ded9cc9fd7ac" target="_top" xlink:title="Start NeoMutt. ">
 <polygon fill="#ffffff" stroke="#000000" points="148,-88 148,-107 189,-107 189,-88 148,-88"/>
 <text text-anchor="middle" x="168.5" y="-95" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">main</text>
 </a>
 </g>
 </g>
-<!-- Node607&#45;&gt;Node616 -->
+<!-- Node663&#45;&gt;Node811 -->
 <g id="edge3" class="edge">
-<title>Node607&#45;&gt;Node616</title>
+<title>Node663&#45;&gt;Node811</title>
 <path fill="none" stroke="#191970" d="M80.2799,-97.5C103.1639,-97.5 129.8158,-97.5 147.7871,-97.5"/>
 <polygon fill="#191970" stroke="#191970" points="80.0756,-94.0001 70.0756,-97.5 80.0755,-101.0001 80.0756,-94.0001"/>
 </g>
-<!-- Node619 -->
+<!-- Node675 -->
 <g id="node5" class="node">
-<title>Node619</title>
-<g id="a_node5"><a xlink:href="pager_2lib_8h.html#ad796201423d00e3d91852bdbb4488846" target="_top" xlink:title="Display some page&#45;able text to the user (help or attachment) ">
+<title>Node675</title>
+<g id="a_node5"><a xlink:href="pager_2lib_8h.html#a9d3af21b7fdf24249c261a9a1aa9f3be" target="_top" xlink:title="Display some page&#45;able text to the user (help or attachment) ">
 <polygon fill="#ffffff" stroke="#ff0000" points="123.5,-50 123.5,-69 213.5,-69 213.5,-50 123.5,-50"/>
 <text text-anchor="middle" x="168.5" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">mutt_do_pager</text>
 </a>
 </g>
 </g>
-<!-- Node607&#45;&gt;Node619 -->
+<!-- Node663&#45;&gt;Node675 -->
 <g id="edge4" class="edge">
-<title>Node607&#45;&gt;Node619</title>
+<title>Node663&#45;&gt;Node675</title>
 <path fill="none" stroke="#191970" d="M78.53,-85.1094C96.8122,-79.9055 117.7492,-73.9459 134.8231,-69.0859"/>
 <polygon fill="#191970" stroke="#191970" points="77.3474,-81.8069 68.6877,-87.911 79.2639,-88.5395 77.3474,-81.8069"/>
 </g>
-<!-- Node1121 -->
+<!-- Node1223 -->
 <g id="node6" class="node">
-<title>Node1121</title>
+<title>Node1223</title>
 <g id="a_node6"><a xlink:href="remailer_8h.html#aa86fcf6b02bb948a49f037b8d8cf3236" target="_top" xlink:title="Create a Mixmaster chain. ">
 <polygon fill="#ffffff" stroke="#000000" points="106,-.5 106,-30.5 231,-30.5 231,-.5 106,-.5"/>
 <text text-anchor="start" x="114" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">dlg_select_mixmaster</text>
@@ -85,15 +85,15 @@
 </a>
 </g>
 </g>
-<!-- Node607&#45;&gt;Node1121 -->
+<!-- Node663&#45;&gt;Node1223 -->
 <g id="edge5" class="edge">
-<title>Node607&#45;&gt;Node1121</title>
+<title>Node663&#45;&gt;Node1223</title>
 <path fill="none" stroke="#191970" d="M52.5642,-80.9305C66.3092,-68.5994 86.3302,-51.9848 106,-40.5 112.2572,-36.8466 119.1494,-33.4964 126.0022,-30.5169"/>
 <polygon fill="#191970" stroke="#191970" points="49.8875,-78.6358 44.8762,-87.9706 54.6149,-83.7983 49.8875,-78.6358"/>
 </g>
-<!-- Node1121&#45;&gt;Node608 -->
+<!-- Node1223&#45;&gt;Node664 -->
 <g id="edge6" class="edge">
-<title>Node1121&#45;&gt;Node608</title>
+<title>Node1223&#45;&gt;Node664</title>
 <path fill="none" stroke="#191970" d="M217.7588,-34.5147C222.2683,-36.4621 226.7395,-38.4721 231,-40.5 260.4114,-54.499 293.2638,-73.5485 312.1963,-84.8794"/>
 <polygon fill="#191970" stroke="#191970" points="219.0786,-31.2728 208.5039,-30.6196 216.3632,-37.7247 219.0786,-31.2728"/>
 </g>
