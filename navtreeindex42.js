@@ -1,6 +1,5 @@
 var NAVTREEINDEX42 =
 {
-"structWindowState.html#ab257b2f0c7d2a9fbfcdbe8a71f986cb5":[1,0,204,2],
 "structZstrmContext.html":[1,0,205],
 "structZstrmContext.html#a4694ccace39f253ce6191e80d88f435f":[1,0,205,0],
 "structZstrmContext.html#a83f56498421caa65ebe34386cc21b58b":[1,0,205,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX42 =
 "url_8c.html#a10d35f5553c8e443c38257b69ca91075":[2,0,11,28,7],
 "url_8c.html#a4cdc82c89b3fa52b384a16ef0e971d68":[2,0,11,28,9],
 "url_8c.html#a5de0b39762cd0581effe6cdbc21b6a31":[2,0,11,28,8],
-"url_8c.html#a76903800c6f9b368a0fc8c4e627eb8c3":[2,0,11,28,0]
+"url_8c.html#a76903800c6f9b368a0fc8c4e627eb8c3":[2,0,11,28,0],
+"url_8c.html#a7b05825b8bb8f87657713fe5bc6edfaa":[2,0,11,28,3]
 };

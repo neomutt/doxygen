@@ -1,6 +1,5 @@
 var NAVTREEINDEX41 =
 {
-"structPopAccountData.html#a7d3b3740a49e6a24a9b89dce7c140df2":[1,0,160,13],
 "structPopAccountData.html#a7d3de3e152f1f729768beaddf1c774f3":[1,0,160,8],
 "structPopAccountData.html#a84cf659582c28abdd77d78e74257143f":[1,0,160,18],
 "structPopAccountData.html#a9a44d4bc626dbc9fbb085cff6e0b790c":[1,0,160,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX41 =
 "structWindowState.html#a12d3d9c7a7e36ad03cd9004157d2902b":[1,0,204,0],
 "structWindowState.html#a557cf2197f9df8fe60f6e1dbfd49ec43":[1,0,204,1],
 "structWindowState.html#a5f16dfc8603af222e79759ea1f965b13":[1,0,204,4],
-"structWindowState.html#a96421ee35a1d5ec017a8feebeffd5b65":[1,0,204,3]
+"structWindowState.html#a96421ee35a1d5ec017a8feebeffd5b65":[1,0,204,3],
+"structWindowState.html#ab257b2f0c7d2a9fbfcdbe8a71f986cb5":[1,0,204,2]
 };

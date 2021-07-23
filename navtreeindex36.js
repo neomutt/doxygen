@@ -1,6 +1,5 @@
 var NAVTREEINDEX36 =
 {
-"string2_8h.html#a4c2560f787bd1226b977992c16860c98":[2,0,21,57,37],
 "string2_8h.html#a51fd18afc9cc0ca92840d8653180538c":[2,0,21,57,14],
 "string2_8h.html#a53b50dddf0ffe2eb0a9aadabffcb1b7d":[2,0,21,57,3],
 "string2_8h.html#a64aa5bd37494ee3cbc4285bd06d6c91c":[2,0,21,57,26],
@@ -249,5 +248,6 @@ var NAVTREEINDEX36 =
 "structComposeSharedData.html":[1,0,29],
 "structComposeSharedData.html#a2588f4fa2f7bffbdf9efa8975ea22e74":[1,0,29,0],
 "structComposeSharedData.html#a2c07cd726149be67e01ff9fc10fe3991":[1,0,29,1],
-"structComposeSharedData.html#a2d8969480d015ea5dff79d185cbea0b1":[1,0,29,4]
+"structComposeSharedData.html#a2d8969480d015ea5dff79d185cbea0b1":[1,0,29,4],
+"structComposeSharedData.html#a658fd7959bb3393866a6973ee96dd4b8":[1,0,29,5]
 };

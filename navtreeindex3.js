@@ -249,5 +249,5 @@ var NAVTREEINDEX3 =
 "compmbox_2lib_8h.html#ab77ea42f102d3aced8ea915e95a83bd4":[2,0,4,1,4],
 "compmbox_2lib_8h.html#af5e4caf583046a535cf5fda9933d3c74":[2,0,4,1,3],
 "compmbox_2lib_8h_source.html":[2,0,4,1],
-"compmbox_compress.html":[3,4,0]
+"compmbox_compress.html":[7,0]
 };

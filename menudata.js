@@ -221,6 +221,6 @@ var menudata={children:[
 {text:"t",url:"globals_defs_t.html#index_t"},
 {text:"u",url:"globals_defs_u.html#index_u"},
 {text:"w",url:"globals_defs_w.html#index_w"}]}]}]},
-{text:"Libraries",url:"pages.html",children:[
-{text:"Libraries",url:"pages.html"}]},
-{text:"APIs",url:"modules.html"}]}
+{text:"Libraries",url:"pages.html"},
+{text:"APIs",url:"modules.html"},
+{text:"GitHub",url:"https://github.com/neomutt/neomutt"}]}

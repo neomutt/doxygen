@@ -1,6 +1,5 @@
 var NAVTREEINDEX37 =
 {
-"structComposeSharedData.html#a658fd7959bb3393866a6973ee96dd4b8":[1,0,29,5],
 "structComposeSharedData.html#a9f626dcd000e9f0c73f24dca00d2b6f4":[1,0,29,3],
 "structComposeSharedData.html#ab3378f34463d3a779f5ccc5b281ed291":[1,0,29,2],
 "structComprLz4Ctx.html":[1,0,31],
@@ -249,5 +248,6 @@ var NAVTREEINDEX37 =
 "structEnvelope.html#a09d7a8358a1951c4408fbea46e2e4972":[1,0,57,14],
 "structEnvelope.html#a1c204b091d782098fc1efa0c2f3b1e20":[1,0,57,0],
 "structEnvelope.html#a2d927371b3b80e025d6f7522b7361fe7":[1,0,57,2],
-"structEnvelope.html#a3e2b8b426bb895a4817f9bebff11bbcc":[1,0,57,28]
+"structEnvelope.html#a3e2b8b426bb895a4817f9bebff11bbcc":[1,0,57,28],
+"structEnvelope.html#a46a9e33786aa5394ad768cbcc2357d65":[1,0,57,20]
 };

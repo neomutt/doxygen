@@ -1,6 +1,6 @@
 var NAVTREEINDEX2 =
 {
-"bcache_bcache.html":[3,3,0],
+"bcache_bcache.html":[6,0],
 "bdb_8c.html":[2,0,32,0],
 "bdb_8c.html#a8ba0de880d78ebd26fb9c0e2f793d75d":[2,0,32,0,2],
 "bdb_8c.html#ac0d858225d9c67a81344e4fdb79ef132":[2,0,32,0,1],
